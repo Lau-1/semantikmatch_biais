@@ -8,7 +8,7 @@ Sur Oxyxia (ou SSPCloud) : lancer VScode
 ### **1- Cloner le projet dans Datalab (VSCode-python).**
 
 ```python
-git clone 
+git clone https://github.com/Lau-1/semantikmatch_biais.git
 ````
 
 ### **2- Créer et activer un environnement virtuel avec les dépendances**
@@ -16,8 +16,8 @@ git clone
 Dans la racine du projet :
 
 ```python
-cd /
+cd / semantikmatch_biais
 python -m venv .venv
-source ~/work//.venv/bin/activate
+source ~/work/semantikmatch_biais/.venv/bin/activate
 pip install -r requirements.txt
 ````
