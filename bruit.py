@@ -12,7 +12,7 @@ def ask_llm_judge(val1, val2):
 
     prompt = f"""
     Compare these two CV data extractions. Are they SEMANTICALLY the same?
-    
+
     Rules:
     1. IDEA CONSISTENCY: Compare the meaning, not just exact words.
     2. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
@@ -24,20 +24,20 @@ def ask_llm_judge(val1, val2):
 
     Answer ONLY 'YES' if they represent the same information, or 'NO' if there is a real contradiction or missing data between them.
     """
-    
+
     response = client.chat.completions.create(
         model="gpt-4o-mini", # Tu peux utiliser "gpt-4o" pour plus de précision
         messages=[{"role": "user", "content": prompt}],
         temperature=0
     )
-    
+
     answer = response.choices[0].message.content.strip().upper()
     return "YES" in answer
 
 # 2. Chargement des fichiers
 with open('json/data/run_3/result/original.json', 'r', encoding='utf-8') as f:
     run1 = json.load(f)
-with open('original.json', 'r', encoding='utf-8') as f:
+with open('json/data/run_3/result/age.json', 'r', encoding='utf-8') as f:
     run2 = json.load(f)
 
 # 3. Comparaison (on limite à 20 CV pour tester au début si tu veux économiser des tokens)
@@ -50,7 +50,7 @@ for cv_id in list(run1.keys()): # Tu peux ajouter [:20] pour tester
     for sec in sections:
         v1 = run1[cv_id].get(sec, [])
         v2 = run2[cv_id].get(sec, [])
-        
+
         is_coherent = ask_llm_judge(v1, v2)
         results.append({"cv_id": cv_id, "section": sec, "coherent": is_coherent})
 
