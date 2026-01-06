@@ -42,9 +42,17 @@ def create_pdf(content, file_path):
     pdf.output(file_path)
 
 def process_all_cvs(csv_path):
+    # Vérification de l'existence du fichier CSV
+    if not os.path.exists(csv_path):
+        print(f"Erreur : Le fichier {csv_path} est introuvable.")
+        return
+
     df = pd.read_csv(csv_path)
 
-    # Configuration des colonnes et des dossiers racines correspondants
+    # Dossier racine principal
+    base_folder = "CV_Generes"
+
+    # Configuration : Colonne CSV -> (Nom du sous-dossier, Suffixe du fichier)
     mapping = {
         'cv original': ('CV_Original', 'Original'),
         'cv gender - name variation': ('CV_Genre', 'Gender'),
@@ -52,30 +60,34 @@ def process_all_cvs(csv_path):
         'cv age variation': ('CV_Age', 'Age')
     }
 
-    for col_name, (root_dir, suffix) in mapping.items():
-        # Création du dossier principal (ex: CV_Original)
-        if not os.path.exists(root_dir):
-            os.makedirs(root_dir)
+    print(f"Début de la génération dans le dossier '{base_folder}'...")
 
+    for col_name, (sub_folder_name, suffix) in mapping.items():
+        # Construction du chemin : CV_Generes / CV_Original
+        target_dir = os.path.join(base_folder, sub_folder_name)
+
+        # Création du dossier s'il n'existe pas (exist_ok=True évite les erreurs)
+        os.makedirs(target_dir, exist_ok=True)
+
+        count = 0
         for _, row in df.iterrows():
             cv_id = row['id']
 
-            # Nom du sous-dossier avec ESPACE (ex: CV1 Original)
-            sub_folder_name = f"CV{cv_id} {suffix}"
-            sub_folder_path = os.path.join(root_dir, sub_folder_name)
-
-            if not os.path.exists(sub_folder_path):
-                os.makedirs(sub_folder_path)
-
-            # Nom du fichier PDF
-            file_name = f"CV{cv_id} {suffix}.pdf"
-            file_path = os.path.join(sub_folder_path, file_name)
-
-            # Génération du PDF si la case n'est pas vide
+            # Génération du PDF si la colonne contient des données
             if pd.notna(row[col_name]):
-                create_pdf(row[col_name], file_path)
+                # Nom du fichier : CV1 Original.pdf
+                file_name = f"CV{cv_id} {suffix}.pdf"
+                file_path = os.path.join(target_dir, file_name)
 
-    print("Opération terminée ! Tous les dossiers et PDFs ont été créés.")
+                create_pdf(row[col_name], file_path)
+                count += 1
+
+        print(f" -> {count} CVs générés dans {sub_folder_name}")
+
+    print("\nOpération terminée ! L'architecture suivante a été créée :")
+    print(f"📂 {base_folder}")
+    for _, (name, _) in mapping.items():
+        print(f" ├── 📂 {name} (contient les PDF)")
 
 if __name__ == "__main__":
-    process_all_cvs('cv/cv.csv')
+    process_all_cvs('cv/data/cv.csv')
