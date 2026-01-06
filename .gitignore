@@ -45,7 +45,6 @@ build/
 ############################
 
 # CSV sources et résultats
-data/
 json/data/
 
 # CV générés
