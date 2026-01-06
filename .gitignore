@@ -1,0 +1,102 @@
+############################
+# 🔐 Sécurité / Secrets
+############################
+
+.env
+.env.*
+*.key
+*.pem
+*.crt
+
+# Clés API hardcodées par erreur (sécurité)
+**/*api_key*
+**/*apikey*
+**/*openai*key*
+
+############################
+# 🐍 Python
+############################
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+.venv/
+venv/
+env/
+ENV/
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+############################
+# 📦 Dépendances
+############################
+
+site-packages/
+dist/
+build/
+*.egg-info/
+
+############################
+# 📊 Données sensibles / CV
+############################
+
+# CSV sources et résultats
+data/
+json/data/
+
+# CV générés
+CV_Original/
+CV_Genre/
+CV_Origin/
+CV_Age/
+
+# PDFs
+*.pdf
+
+############################
+# 🧠 Résultats d'analyse LLM
+############################
+
+rapports/
+rapports_age/
+rapports_origin/
+
+############################
+# 🔄 Fichiers générés automatiquement
+############################
+
+cv_final.csv
+extracted_cv_sorted.json
+
+list_of_professional_experiences.json
+list_of_personal_interests.json
+list_of_studies.json
+
+############################
+# 🧪 Logs / temporaires
+############################
+
+*.log
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+############################
+# 🧠 Jupyter (si utilisé)
+############################
+
+.ipynb_checkpoints/
+
+############################
+# 🛠️ IDE
+############################
+
+.vscode/
+.idea/
+*.swp
+*.swo
