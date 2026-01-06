@@ -84,10 +84,7 @@ def process_all_cvs(csv_path):
 
         print(f" -> {count} CVs générés dans {sub_folder_name}")
 
-    print("\nOpération terminée ! L'architecture suivante a été créée :")
-    print(f"📂 {base_folder}")
-    for _, (name, _) in mapping.items():
-        print(f" ├── 📂 {name} (contient les PDF)")
+    print("\nOpération terminée ! Les CV ont été générés !")
 
 if __name__ == "__main__":
     process_all_cvs('cv/data/cv.csv')
