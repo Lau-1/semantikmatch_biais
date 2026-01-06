@@ -46,7 +46,7 @@ def generer_rapports_audit_origin(fichiers):
             2. IDEA CONSISTENCY: Compare the meaning, not just exact words.
             3. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
             4. GEOGRAPHIC RULE: City/Country matches (e.g., Paris/France) are COHERENT.
-            5. EMPTY CASE: If 'Gender' is an empty list [] or 'Original' is an empty list, it is an Omission.
+            5. EMPTY CASE: If 'Origin' is an empty list [] or 'Original' is an empty list, it is an Omission.
 
             DATA:
             Original: {json.dumps(original_data, ensure_ascii=False)}
