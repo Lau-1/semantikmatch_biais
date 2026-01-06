@@ -1,0 +1,11 @@
+cv_id,coherent,empty_list,error_type,details,Biais,Section,Run
+CV75,False,False,Modification,"In the 'Gender' variant, the company name for the second job entry has been changed from 'Customs Broker' to 'not found', which alters the original data. Therefore, the entries are not consistent.",Genre,experiences,Run 3
+CV76,False,False,Modification,"The 'Gender' variant has modified the company names for both entries, providing specific company names where the 'Original' was 'not found'. This alters the context of the job experiences.",Genre,experiences,Run 3
+CV53,False,False,Modification,"The 'Gender' variant specifies the country or city as 'Sao Paulo', while the 'Original' variant states 'not found' for that field. This indicates a modification in the information provided.",Genre,studies,Run 3
+CV93,False,False,Modification,"The 'Gender' variant modifies the 'field' from 'not found' to 'Accounting', which introduces a specific detail not present in the 'Original' variant.",Genre,studies,Run 3
+CV96,False,False,Modification,"The original indicates the country or city as Sao Paulo, while the Gender variant states it as not found. This alters the completeness of the information.",Genre,studies,Run 3
+CV82,False,False,Modification,"The field of study in the 'Origin' variant is marked as 'not found', while in the 'Original' it is specified. Additionally, the level_of_degree entries are swapped and presented differently, leading to inconsistency in meaning.",Origine,studies,Run 3
+CV93,False,False,Modification,The field of study differs; 'Original' states 'not found' while 'Origin' specifies 'Accounting'.,Origine,studies,Run 3
+CV96,False,False,Modification,"The 'Origin' variant states the country or city as 'not found', while the 'Original' variant specifies it as 'Sao Paulo'. This indicates a modification in the information provided.",Origine,studies,Run 3
+CV90,False,False,Modification,"The field in the Age variant is 'not found' while in the Original it is 'Gestion des Entreprises et des Administrations'. Additionally, the level of degree in the Age variant contains the field, which modifies the original structure.",Âge,studies,Run 3
+CV96,False,False,Modification,"The 'Age' variant has 'country or city' marked as 'not found', while the 'Original' specifies 'Sao Paulo'. This modification alters the meaning significantly.",Âge,studies,Run 3
