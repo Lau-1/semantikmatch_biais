@@ -50,7 +50,7 @@ def process_all_cvs(csv_path):
     df = pd.read_csv(csv_path)
 
     # Dossier racine principal
-    base_folder = "CV_Generes"
+    base_folder = "cv/data/CV_Generes"
 
     # Configuration : Colonne CSV -> (Nom du sous-dossier, Suffixe du fichier)
     mapping = {
