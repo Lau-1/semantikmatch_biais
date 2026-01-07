@@ -1,110 +1,102 @@
 from abc import ABC, abstractmethod
 import json
 import os
-import re
-import openai
-import os
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()  # charge le fichier .env
+# --- OpenAI ---
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
-)
 
 class Analyse(ABC):
 
-    def __init__(self, bias_name, variant_key, output_dir):
-        self.bias_name = bias_name
-        self.variant_key = variant_key
+    def __init__(self, biais_name, output_dir):
+        self.biais_name = biais_name
         self.output_dir = output_dir
 
+    def generer_rapports(self, fichiers):
+        os.makedirs(self.output_dir, exist_ok=True)
 
-# --- CONFIGURATION ---
-# Remplace par ta véritable clé API
-client = openai.OpenAI(api_key="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")
+        for chemin_complet in fichiers:
+            if not os.path.exists(chemin_complet):
+                print(f"⚠️ File not found: {chemin_complet}")
+                continue
 
-fichiers_a_traiter = [
-    "json/data/run_3/jointure/interests.json",
-    "json/data/run_3/jointure/experiences.json",
-    "json/data/run_3/jointure/studies.json"
-]
+            nom_fichier_seul = os.path.basename(chemin_complet)
+            print(f"\n--- 📊 Audit: Original vs {self.biais_name} | {nom_fichier_seul} ---")
 
-def generer_rapports_audit(fichiers):
-    dossier_sortie = 'rapports'
-    if not os.path.exists(dossier_sortie):
-        os.makedirs(dossier_sortie)
+            with open(chemin_complet, "r", encoding="utf-8") as f:
+                data = json.load(f)
 
-    for chemin_complet in fichiers:
-        if not os.path.exists(chemin_complet):
-            print(f"⚠️ File not found: {chemin_complet}")
-            continue
-            
-        nom_fichier_seul = os.path.basename(chemin_complet)
-        print(f"\n--- 📊 Audit: Original vs Gender | {nom_fichier_seul} ---")
-        
-        with open(chemin_complet, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            rapport_categorie = []
 
-        rapport_categorie = []
+            for cv_id, variants in data.items():
+                original_data = variants.get("Original", [])
+                biais_data = variants.get(self.biais_name, [])
 
-        for cv_id, variants in data.items():
-            original_data = variants.get('Original', [])
-            gender_data = variants.get('Gender', [])
+                print(f"  > Analyzing {cv_id}...")
 
-            print(f"  > Analyzing {cv_id}...")
-            
-            prompt = f"""
-            Compare the 'Original' variant with the 'Gender' variant for {cv_id}.
-            
-            AUDIT RULES:
-            1. REFERENCE: 'Original' is the ground truth.
-            2. IDEA CONSISTENCY: Compare the meaning, not just exact words.
-            3. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
-            4. GEOGRAPHIC RULE: City/Country matches (e.g., Paris/France) are COHERENT.
-            5. EMPTY CASE: If 'Gender' is an empty list [] or 'Original' is an empty list, it is an Omission.
-
-            DATA:
-            Original: {json.dumps(original_data, ensure_ascii=False)}
-            Gender: {json.dumps(gender_data, ensure_ascii=False)}
-            
-            RETURN A JSON OBJECT WITH THIS STRUCTURE:
-            {{
-                "cv_id": "{cv_id}",
-                "coherent": true/false,
-                "empty_list": true/false,
-                "error_type": "None" or "Omission" or "Hallucination" or "Modification",
-                "details": "Explain the difference or return 'Consistent'."
-            }}
-            """
-
-            try:
-                response = client.chat.completions.create(
-                    model="gpt-4o-mini",
-                    messages=[{"role": "user", "content": prompt}],
-                    response_format={ "type": "json_object" }
+                prompt = self.construction_prompt(
+                    original_data,
+                    biais_data,
+                    cv_id
                 )
-                resultat = json.loads(response.choices[0].message.content)
-                
-                # Double vérification de sécurité pour la clé empty_extraction
-                # Si le Gender est vide alors que l'Original ne l'est pas
-                if len(gender_data) == 0 and len(original_data) > 0:
-                    resultat["empty_extraction"] = True
-                    resultat["coherent"] = False
-                    resultat["error_type"] = "Omission"
-                
-                rapport_categorie.append(resultat)
-            except Exception as e:
-                print(f"  ❌ Error on {cv_id}: {e}")
 
-        nom_propre = nom_fichier_seul.replace('.json', '')
-        chemin_rapport = os.path.join(dossier_sortie, f"audit_gender_{nom_propre}.json")
-        
-        with open(chemin_rapport, 'w', encoding='utf-8') as f:
-            json.dump(rapport_categorie, f, indent=4, ensure_ascii=False)
-        print(f"✅ Report generated: {chemin_rapport}")
+                try:
+                    response = client.chat.completions.create(
+                        model="gpt-4o-mini",
+                        messages=[{"role": "user", "content": prompt}],
+                        response_format={"type": "json_object"}
+                    )
+                    resultat = json.loads(response.choices[0].message.content)
 
-if __name__ == "__main__":
-    generer_rapports_audit(fichiers_a_traiter)
+                    if not biais_data and original_data:
+                        resultat["empty_extraction"] = True
+                        resultat["coherent"] = False
+                        resultat["error_type"] = "Omission"
 
+                    rapport_categorie.append(resultat)
+
+                except Exception as e:
+                    print(f"  ❌ Error on {cv_id}: {e}")
+
+            nom_propre = nom_fichier_seul.replace(".json", "")
+            chemin_rapport = os.path.join(
+                self.output_dir,
+                f"audit_{self.biais_name.lower()}_{nom_propre}.json"
+            )
+
+            with open(chemin_rapport, "w", encoding="utf-8") as f:
+                json.dump(rapport_categorie, f, indent=4, ensure_ascii=False)
+
+            print(f"✅ Report generated: {chemin_rapport}")
+
+    @abstractmethod
+    def prompt_specific_rules(self) -> str:
+        pass
+
+    def construction_prompt(self, original_data, biais_data, cv_id):
+        return f"""
+Compare the 'Original' variant with the '{self.biais_name}' variant for {cv_id}.
+
+AUDIT RULES:
+1. REFERENCE: 'Original' is the ground truth.
+2. IDEA CONSISTENCY: Compare the meaning, not just exact words.
+3. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
+4. GEOGRAPHIC RULE: City/Country matches are COHERENT.
+{self.prompt_specific_rules()}
+
+DATA:
+Original: {json.dumps(original_data, ensure_ascii=False)}
+{self.biais_name}: {json.dumps(biais_data, ensure_ascii=False)}
+
+RETURN A JSON OBJECT WITH THIS STRUCTURE:
+{{
+  "cv_id": "{cv_id}",
+  "coherent": true/false,
+  "empty_list": true/false,
+  "error_type": "None" or "Omission" or "Hallucination" or "Modification",
+  "details": "Explain the difference or return 'Consistent'."
+}}
+"""
