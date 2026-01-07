@@ -17,7 +17,7 @@ class Analyse(ABC):
 
     def generer_rapports(self, fichiers):
         os.makedirs(self.output_dir, exist_ok=True)
-
+        
         for chemin_complet in fichiers:
             if not os.path.exists(chemin_complet):
                 print(f"⚠️ File not found: {chemin_complet}")
