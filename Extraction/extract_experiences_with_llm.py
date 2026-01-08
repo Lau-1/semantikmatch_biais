@@ -2,8 +2,8 @@ from extract_with_llm import ExtractWithLLM
 
 class ExtractExperiencesWithLLM (ExtractWithLLM) :
 
-    def __init__(self):
-        super().__init__("experiences.json")
+    def __init__(self, input_folder):
+        super().__init__("experiences.json", input_folder)
 
     def prompt(self):
         return """
@@ -49,3 +49,8 @@ Return a JSON object strictly following this structure:
 
 if __name__ == "__main__":
     ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")
+    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Origin")
+    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Age")
+    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Genre")
+
+

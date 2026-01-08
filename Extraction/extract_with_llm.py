@@ -24,9 +24,23 @@ CITATION_PATTERN = re.compile(r"【.*?】")
 
 class ExtractWithLLM(ABC):
 
-    def __init__(self, output_dir):
-        run_dir = self.get_next_run_dir(output_dir)
-        self.output_dir = os.path.join(run_dir, output_dir)
+    def __init__(self, output_filename, input_folder):
+        run_dir = self.get_next_run_dir(output_filename)
+
+        # Déduction automatique du préfixe à partir du dossier
+        folder_name = os.path.basename(input_folder).lower()
+
+        if "age" in folder_name:
+            prefix = "age"
+        elif "origin" in folder_name:
+            prefix = "origin"
+        elif "genre" in folder_name:
+            prefix = "genre"
+        else:
+            prefix = "original"
+
+        final_filename = f"{prefix}_{output_filename}"
+        self.output_dir = os.path.join(run_dir, final_filename)
 
     @abstractmethod
     def prompt(self):
