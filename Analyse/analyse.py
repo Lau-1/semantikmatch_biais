@@ -2,12 +2,18 @@ from abc import ABC, abstractmethod
 import json
 import os
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import AzureOpenAI # Changement d'import
 
-# --- OpenAI ---
+# --- Configuration Azure OpenAI ---
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+client = AzureOpenAI(
+    azure_endpoint=os.getenv("AZURE_AI_ENDPOINT"),
+    api_key=os.getenv("AZURE_AI_KEY"),
+    api_version=os.getenv("OPENAI_API_VERSION", "2024-05-01-preview")
+)
+
+ANALYSIS_DEPLOYMENT_NAME = os.getenv("AZURE_DEPLOYMENT_NAME")
 
 class Analyse(ABC):
     REQUIRED_FILES = [
@@ -32,7 +38,7 @@ class Analyse(ABC):
         run_number = self.ask_run_number()
         self.run_number = run_number
 
-        base_path = f"Extraction/data/run_{run_number}"
+        base_path = os.path.join("Extraction", "data", f"run_{run_number}")
 
         if not os.path.isdir(base_path):
             raise FileNotFoundError(f"❌ Dossier introuvable : {base_path}")
@@ -54,8 +60,11 @@ class Analyse(ABC):
 
 
     def generer_rapports(self, fichiers):
+        if not ANALYSIS_DEPLOYMENT_NAME:
+            raise ValueError("ERREUR: La variable AZURE_ANALYSIS_DEPLOYMENT_NAME est vide dans le .env")
+
         os.makedirs(self.output_dir, exist_ok=True)
-        
+
         for chemin_complet in fichiers:
             if not os.path.exists(chemin_complet):
                 print(f"⚠️ File not found: {chemin_complet}")
@@ -83,7 +92,7 @@ class Analyse(ABC):
 
                 try:
                     response = client.chat.completions.create(
-                        model="gpt-4o-mini",
+                        model=ANALYSIS_DEPLOYMENT_NAME,
                         messages=[{"role": "user", "content": prompt}],
                         response_format={"type": "json_object"}
                     )
@@ -100,6 +109,7 @@ class Analyse(ABC):
                     print(f"  ❌ Error on {cv_id}: {e}")
 
             nom_propre = nom_fichier_seul.replace(".json", "")
+
             output_base = os.path.join(
                 "Analyse",
                 "data",
