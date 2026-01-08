@@ -12,8 +12,16 @@ git clone https://github.com/Lau-1/semantikmatch_biais.git
 
  Dans la racine, créer un fichier .env et copier les lignes suivantes :
 
-```python 
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+```python
+OPENAI_API_KEY="sk-xxxxx"
+
+AZURE_AI_ENDPOINT="https://openai-semantik.openai.azure.com/"
+AZURE_AI_KEY="xxxx"
+
+OPENAI_API_VERSION="2024-05-01-preview"
+
+AZURE_DEPLOYMENT_NAME="gpt-4o"
+
 ```
 Et téléchargement des librairies
 ```python
@@ -40,7 +48,7 @@ Dossier sortie : "Extraction/data/run_X/interests.json",
                  "Extraction/data/run_X/experiences.json",
                  "Extraction/data/run_X/studies.json"
 
-3. Analyse binaire des différences 
+3. Analyse binaire des différences
 ```python
 Analyse/analyseage.py
 Analyse/analysegenre.py
@@ -53,7 +61,7 @@ Dossier sortie : "Analyse/data/run_X/?",
                  "Analyse/data/run_X/?",
                  "Analyse/data/run_X/?.json"
 
-4. Analyse finale 
+4. Analyse finale
 ! Modifier : # Utilisation
 df_run3 = charger_rapport_run3('data/run_3/rapport') en fonction de la run choisie
 ```python
