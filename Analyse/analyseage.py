@@ -1,4 +1,4 @@
-from analyse import Analyse
+from Analyse.analyse import Analyse
 
 fichiers_a_traiter = [
     "json/data/run_3/jointure/interests.json",

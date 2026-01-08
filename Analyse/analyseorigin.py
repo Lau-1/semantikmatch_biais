@@ -1,4 +1,4 @@
-from analyse import Analyse
+from Analyse.analyse import Analyse
 
 class AnalyseOrigin (Analyse):
 

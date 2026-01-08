@@ -23,10 +23,10 @@ pip install -r requirements.txt
 
 1. Obtention des CV au format PDF
 ```python
-cv/csv_to_pdf.py
+CV/csv_to_pdf.py
 ```
-Fichier entrée : cv/data/cv.csv
-Dossier sortie : cv/data/CV_Generes
+Fichier entrée : CV/data/cv.csv
+Dossier sortie : CV/data/CV_Generes
 
 2. Extraction des CV
 ```python
@@ -35,7 +35,7 @@ extract_interests_with_llm.py
 extract_studies_with_llm.py
 ```
 Ou passer par semantikmatch interface
-Dossier entrée : cv/data/CV_Generes
+Dossier entrée : CV/data/CV_Generes
 Dossier sortie : "json/data/run_3/jointure/interests.json",
                  "json/data/run_3/jointure/experiences.json",
                  "json/data/run_3/jointure/studies.json"

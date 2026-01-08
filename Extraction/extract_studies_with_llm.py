@@ -1,4 +1,4 @@
-from extract_with_llm import ExtractWithLLM
+from Extraction.extract_with_llm import ExtractWithLLM
 
 class ExtractStudiesWithLLM (ExtractWithLLM) :
 
@@ -45,4 +45,4 @@ For each education, return:
 
 
 if __name__ == "__main__":
-    ExtractStudiesWithLLM().extract_parallel("cv/data/CV_Generes/CV_Original")
+    ExtractStudiesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")

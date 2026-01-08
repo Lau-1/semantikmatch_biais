@@ -1,4 +1,4 @@
-from extract_with_llm import ExtractWithLLM
+from Extraction.extract_with_llm import ExtractWithLLM
 
 class ExtractInterestsWithLLM (ExtractWithLLM) :
 
@@ -15,4 +15,4 @@ class ExtractInterestsWithLLM (ExtractWithLLM) :
  
 
 if __name__ == "__main__":
-    ExtractInterestsWithLLM().extract_parallel("cv/data/CV_Generes/CV_Original")
+    ExtractInterestsWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")

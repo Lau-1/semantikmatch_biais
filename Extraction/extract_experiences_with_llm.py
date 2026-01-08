@@ -1,4 +1,4 @@
-from extract_with_llm import ExtractWithLLM
+from Extraction.extract_with_llm import ExtractWithLLM
 
 class ExtractExperiencesWithLLM (ExtractWithLLM) :
 
@@ -50,4 +50,4 @@ Return a JSON object strictly following this structure:
 
 
 if __name__ == "__main__":
-    ExtractExperiencesWithLLM().extract_parallel("cv/data/CV_Generes/CV_Original")
+    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")
