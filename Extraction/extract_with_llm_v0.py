@@ -19,7 +19,7 @@ class ExtractWithLLM(ABC):
         run_dir = self.get_next_run_dir(output_dir)
         self.output_dir = os.path.join(run_dir, output_dir)
 
-    
+
     @abstractmethod
     def prompt(self):
         pass
@@ -95,8 +95,8 @@ class ExtractWithLLM(ABC):
                 thread_id=thread.id,
                 assistant_id=assistant_id,
                 response_format={"type": "json_object"} # Force le JSON
-            )   
-            
+            )
+
             # 4. Attente avec Timeout (3 min)
             run = self.wait_for_run(run, thread.id)
 
@@ -164,4 +164,3 @@ class ExtractWithLLM(ABC):
             json.dump(final_results, f, indent=4, ensure_ascii=False)
 
         print("Terminé.")
-                        
