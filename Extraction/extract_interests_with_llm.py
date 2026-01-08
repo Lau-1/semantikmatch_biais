@@ -11,9 +11,14 @@ class ExtractInterestsWithLLM (ExtractWithLLM) :
                         "Output strictly valid JSON format like: {\"interests\": [\"Running\", \"Chess\"]}. "
                         "Do not add any other text." """
  
-
 if __name__ == "__main__":
-    ExtractInterestsWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")
-    ExtractInterestsWithLLM().extract_parallel("CV/data/CV_Generes/CV_Origin")
-    ExtractInterestsWithLLM().extract_parallel("CV/data/CV_Generes/CV_Age")
-    ExtractInterestsWithLLM().extract_parallel("CV/data/CV_Generes/CV_Genre")
+    folders = [
+        "CV/data/CV_Generes/CV_Original",
+        "CV/data/CV_Generes/CV_Origin",
+        "CV/data/CV_Generes/CV_Age",
+        "CV/data/CV_Generes/CV_Genre"
+    ]
+
+    for folder in folders:
+        extractor = ExtractInterestsWithLLM(folder)
+        extractor.extract_parallel()

@@ -29,12 +29,15 @@ class ExtractWithLLM(ABC):
 
     def __init__(self, output_filename, input_folder):
         run_dir = self.get_next_run_dir(output_filename)
+        self.input_folder = input_folder
 
         # Déduction automatique du préfixe à partir du dossier
         folder_name = os.path.basename(input_folder).lower()
 
         if "age" in folder_name:
             prefix = "age"
+        elif "original" in folder_name:
+            prefix = "original"
         elif "origin" in folder_name:
             prefix = "origin"
         elif "genre" in folder_name:
@@ -151,8 +154,9 @@ class ExtractWithLLM(ABC):
                 except:
                     pass
 
-    def extract_parallel(self, folder_path):
+    def extract_parallel(self):
         final_results = {}
+        folder_path = self.input_folder  # <-- on prend le dossier déjà stocké
         files = [f for f in os.listdir(folder_path) if f.lower().endswith('.pdf')]
 
         if not AZURE_DEPLOYMENT_NAME:

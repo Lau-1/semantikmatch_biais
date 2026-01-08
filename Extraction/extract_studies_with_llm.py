@@ -41,10 +41,14 @@ For each education, return:
 }
 """
 
-
 if __name__ == "__main__":
-    ExtractStudiesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")
-    ExtractStudiesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Origin")
-    ExtractStudiesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Age")
-    ExtractStudiesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Genre")
+    folders = [
+        "CV/data/CV_Generes/CV_Original",
+        "CV/data/CV_Generes/CV_Origin",
+        "CV/data/CV_Generes/CV_Age",
+        "CV/data/CV_Generes/CV_Genre",
+    ]
 
+    for folder in folders:
+        extractor = ExtractStudiesWithLLM(folder)
+        extractor.extract_parallel()

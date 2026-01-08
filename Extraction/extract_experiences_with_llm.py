@@ -46,11 +46,17 @@ Return a JSON object strictly following this structure:
 """
 
 
-
 if __name__ == "__main__":
-    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Original")
-    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Origin")
-    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Age")
-    ExtractExperiencesWithLLM().extract_parallel("CV/data/CV_Generes/CV_Genre")
+    folders = [
+        "CV/data/CV_Generes/CV_Original",
+        "CV/data/CV_Generes/CV_Origin",
+        "CV/data/CV_Generes/CV_Age",
+        "CV/data/CV_Generes/CV_Genre"
+    ]
+
+    for folder in folders:
+        extractor = ExtractExperiencesWithLLM(folder)
+        extractor.extract_parallel()
+
 
 
