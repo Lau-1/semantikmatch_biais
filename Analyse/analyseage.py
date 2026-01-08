@@ -1,10 +1,6 @@
-from Analyse.analyse import Analyse
+from analyse import Analyse
 
-fichiers_a_traiter = [
-    "json/data/run_3/jointure/interests.json",
-    "json/data/run_3/jointure/experiences.json",
-    "json/data/run_3/jointure/studies.json"
-]
+import os
 
 class AnalyseAge(Analyse):
 
@@ -21,7 +17,6 @@ class AnalyseAge(Analyse):
     
 
 if __name__ == "__main__":
-    audit = AnalyseAge()
-    audit.generer_rapports(fichiers_a_traiter)
-
-    
+    classe = AnalyseAge()
+    fichiers_a_traiter = classe.get_fichiers_a_traiter()
+    classe.generer_rapports(fichiers_a_traiter)

@@ -1,11 +1,9 @@
-from Extraction.extract_with_llm import ExtractWithLLM
+from extract_with_llm import ExtractWithLLM
 
 class ExtractInterestsWithLLM (ExtractWithLLM) :
 
     def __init__(self):
-        super().__init__(
-            output_dir = "interests.json"
-        )
+        super().__init__("interests.json")
 
     def prompt(self):
         return """

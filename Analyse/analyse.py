@@ -10,10 +10,48 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 class Analyse(ABC):
+    REQUIRED_FILES = [
+        "interests.json",
+        "experiences.json",
+        "studies.json"
+    ]
 
     def __init__(self, biais_name, output_dir):
         self.biais_name = biais_name
         self.output_dir = output_dir
+
+    def ask_run_number(self) -> str:
+        run_number = input("Quelle run analyser ? (ex: 1, 2, 3) : ").strip()
+
+        if not run_number.isdigit():
+            raise ValueError("❌ La run doit être un nombre")
+
+        return run_number
+
+    def get_fichiers_a_traiter(self) -> list[str]:
+        run_number = self.ask_run_number()
+        self.run_number = run_number
+
+        base_path = f"Extraction/data/run_{run_number}"
+
+        if not os.path.isdir(base_path):
+            raise FileNotFoundError(f"❌ Dossier introuvable : {base_path}")
+
+        fichiers = [
+            os.path.join(base_path, f)
+            for f in self.REQUIRED_FILES
+        ]
+
+        manquants = [f for f in fichiers if not os.path.isfile(f)]
+        if manquants:
+            print("❌ Fichiers manquants :")
+            for f in manquants:
+                print(f"  - {f}")
+            raise FileNotFoundError("Il manque des fichiers dans la run")
+
+        print(f"✅ Run {run_number} valide")
+        return fichiers
+
 
     def generer_rapports(self, fichiers):
         os.makedirs(self.output_dir, exist_ok=True)
@@ -62,8 +100,16 @@ class Analyse(ABC):
                     print(f"  ❌ Error on {cv_id}: {e}")
 
             nom_propre = nom_fichier_seul.replace(".json", "")
+            output_base = os.path.join(
+                "Analyse",
+                "data",
+                f"run_{self.run_number}"
+            )
+
+            os.makedirs(output_base, exist_ok=True)
+
             chemin_rapport = os.path.join(
-                self.output_dir,
+                output_base,
                 f"audit_{self.biais_name.lower()}_{nom_propre}.json"
             )
 

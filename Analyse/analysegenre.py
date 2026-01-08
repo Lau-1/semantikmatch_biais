@@ -1,10 +1,5 @@
 from Analyse.analyse import Analyse
 
-fichiers_a_traiter = [
-    "json/data/run_3/jointure/interests.json",
-    "json/data/run_3/jointure/experiences.json",
-    "json/data/run_3/jointure/studies.json"
-]
 
 class AnalyseGenre(Analyse):
 
@@ -21,5 +16,6 @@ class AnalyseGenre(Analyse):
     
 
 if __name__ == "__main__":
-    audit = AnalyseGenre()
-    audit.generer_rapports(fichiers_a_traiter)
+    classe = AnalyseGenre()
+    fichiers_a_traiter = classe.get_fichiers_a_traiter()
+    classe.generer_rapports(fichiers_a_traiter)

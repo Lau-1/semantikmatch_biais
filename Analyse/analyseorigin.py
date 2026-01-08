@@ -15,5 +15,6 @@ class AnalyseOrigin (Analyse):
     
 
 if __name__ == "__main__":
-    audit = AnalyseOrigin()
-    audit.generer_rapports(fichiers_a_traiter)
+    classe = AnalyseOrigin()
+    fichiers_a_traiter = classe.get_fichiers_a_traiter()
+    classe.generer_rapports(fichiers_a_traiter)

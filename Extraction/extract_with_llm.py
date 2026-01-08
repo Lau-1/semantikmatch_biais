@@ -16,12 +16,31 @@ CITATION_PATTERN = re.compile(r"【.*?】")
 class ExtractWithLLM(ABC):
 
     def __init__(self, output_dir):
-        self.output_dir = output_dir
+        run_dir = self.get_next_run_dir(output_dir)
+        self.output_dir = os.path.join(run_dir, output_dir)
 
     
     @abstractmethod
     def prompt(self):
         pass
+
+    def get_next_run_dir(self, output_dir, base_dir="Extraction\data"):
+    # Numérote automatiquement la run
+        os.makedirs(base_dir, exist_ok=True)
+
+        run_number = 1
+
+        while True:
+            run_dir = os.path.join(base_dir, f"run_{run_number}")
+            full_output_path = os.path.join(run_dir, output_dir)
+
+            if os.path.exists(full_output_path):
+                run_number += 1
+                continue
+
+            # Création des dossiers nécessaires
+            os.makedirs(os.path.dirname(full_output_path), exist_ok=True)
+            return run_dir
 
     def clean_json_string(self, text_value):
         """Nettoie le texte pour ne garder que le JSON valide"""

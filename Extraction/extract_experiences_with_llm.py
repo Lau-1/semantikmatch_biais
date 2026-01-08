@@ -1,11 +1,9 @@
-from Extraction.extract_with_llm import ExtractWithLLM
+from extract_with_llm import ExtractWithLLM
 
 class ExtractExperiencesWithLLM (ExtractWithLLM) :
 
     def __init__(self):
-        super().__init__(
-            output_dir="experiences.json",
-        )
+        super().__init__("experiences.json")
 
     def prompt(self):
         return """
