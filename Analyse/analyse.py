@@ -17,9 +17,9 @@ ANALYSIS_DEPLOYMENT_NAME = os.getenv("AZURE_DEPLOYMENT_NAME")
 
 class Analyse(ABC):
     REQUIRED_FILES = [
-        "interests.json",
-        "experiences.json",
-        "studies.json"
+        "interests_merged.json",
+        "experiences_merged.json",
+        "studies_merged.json"
     ]
 
     def __init__(self, biais_name, output_dir):
@@ -38,7 +38,7 @@ class Analyse(ABC):
         run_number = self.ask_run_number()
         self.run_number = run_number
 
-        base_path = os.path.join("Extraction", "data", f"run_{run_number}")
+        base_path = os.path.join("Mise_en_page", "data", f"run_{run_number}")
 
         if not os.path.isdir(base_path):
             raise FileNotFoundError(f"❌ Dossier introuvable : {base_path}")
