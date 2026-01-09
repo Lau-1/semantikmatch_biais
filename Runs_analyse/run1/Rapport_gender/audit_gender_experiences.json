@@ -87,8 +87,8 @@
         "cv_id": "CV12",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The job title 'Student Assistant - Marketing Department' in 'Original' was modified to 'Student Assistant' in 'Gender'."
     },
     {
         "cv_id": "CV13",
@@ -113,10 +113,10 @@
     },
     {
         "cv_id": "CV16",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "In the 'Gender' variant, the company name for the second entry is 'Student Startup', while in the 'Original' variant, it is noted as 'Student Startup (failed)'. This slight change alters the context provided by the 'Original'."
     },
     {
         "cv_id": "CV17",
@@ -151,7 +151,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV22",
@@ -165,7 +165,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV24",
@@ -179,7 +179,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV26",
@@ -200,7 +200,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV29",
@@ -220,15 +220,15 @@
         "cv_id": "CV31",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant lists the company for the 'Student Assistant' role as 'University Events' while the 'Original' has 'not found'. This is a modification but is coherent with the role of a 'Student Assistant'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV32",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",
@@ -263,14 +263,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV38",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV39",
@@ -311,15 +311,15 @@
         "cv_id": "CV44",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant combines 'company' and 'job title' fields into one 'job title' entry, altering the structure but not the underlying meaning. Content remains consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV46",
@@ -381,8 +381,8 @@
         "cv_id": "CV54",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant changes 'Family Business Support' to 'Family Business' and 'Support'. However, the essential idea remains consistent, as both refer to support in a family business context. Special characters and wording adjustments are consistent."
     },
     {
         "cv_id": "CV55",
@@ -403,14 +403,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV58",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant is missing the company name 'Distribution Center' for the Intern position in 2020, which is present in the 'Original'."
     },
     {
         "cv_id": "CV59",
@@ -431,7 +431,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV62",
@@ -473,14 +473,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV68",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant specifies the job title as 'Intern - Warehouse' instead of 'Intern'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV69",
@@ -526,17 +526,17 @@
     },
     {
         "cv_id": "CV75",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'job title' for the second entry differs. It is 'Intern - Customs Broker' in 'Original' and 'Intern' in 'Gender'."
+        "details": "In the 'Gender' variant, the company name for the second entry (Intern) is missing, which is present as 'Customs Broker' in the 'Original'. This constitutes a modification error."
     },
     {
         "cv_id": "CV76",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant modifies company names by omitting 'not found' and instead using specific names ('E-commerce Store', 'Accounting Office'), but maintains overall coherence and consistency in terms of job titles, descriptions, and dates."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV77",
@@ -556,15 +556,15 @@
         "cv_id": "CV79",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant modifies 'Student Assistant - Finance Dept' to 'Student Assistant'. However, the core information and meaning remain consistent with the 'Original'. The list formatting in 'description' is altered to a string format."
     },
     {
         "cv_id": "CV80",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV81",
@@ -606,7 +606,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV87",
@@ -633,22 +633,22 @@
         "cv_id": "CV90",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant modifies the company name field by omitting it and including it in the job title as 'Operations Coordinator - Logistics SME'. Otherwise, the entries are consistent in terms of content and meaning."
     },
     {
         "cv_id": "CV91",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV92",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV93",
@@ -676,7 +676,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV97",

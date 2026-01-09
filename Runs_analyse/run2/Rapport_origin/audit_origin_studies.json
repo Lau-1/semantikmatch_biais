@@ -60,14 +60,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV9",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV10",
@@ -102,14 +102,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV15",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV16",
@@ -123,28 +123,28 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV18",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV19",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV20",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant is missing the country information 'Chile' present in the 'Original' variant for the first entry."
     },
     {
         "cv_id": "CV21",
@@ -158,49 +158,49 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV23",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV24",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV25",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV26",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV27",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV28",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV29",
@@ -228,7 +228,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",
@@ -256,7 +256,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV37",
@@ -270,7 +270,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV39",
@@ -284,7 +284,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV41",
@@ -312,7 +312,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
@@ -326,14 +326,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV47",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV48",
@@ -361,7 +361,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV52",
@@ -396,7 +396,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV57",
@@ -410,7 +410,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV59",
@@ -431,7 +431,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV62",
@@ -452,14 +452,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV65",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV66",
@@ -473,14 +473,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV68",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV69",
@@ -508,7 +508,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV73",
@@ -529,7 +529,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV76",
@@ -557,7 +557,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV80",
@@ -571,14 +571,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV82",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'level_of_degree' differs between the two variants. 'Original' uses 'Licence' and 'BUT', whereas 'Origin' uses 'Bachelor' for both entries."
     },
     {
         "cv_id": "CV83",
@@ -599,14 +599,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV86",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV87",
@@ -617,86 +617,86 @@
     },
     {
         "cv_id": "CV88",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "The 'Original' variant lists the location as 'Beirut', whereas the 'Origin' variant has 'not found'. This constitutes a Modification as 'Beirut' cannot be matched with 'not found'."
     },
     {
         "cv_id": "CV89",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV90",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV91",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV92",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV93",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "The 'Origin' variant fails to match the 'country or city' and 'level_of_degree' fields from the 'Original' variant."
     },
     {
         "cv_id": "CV94",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'level_of_degree' in the 'Origin' variant is specified as 'Diploma', whereas it is 'not found' in the 'Original'."
     },
     {
         "cv_id": "CV95",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV96",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "There is a modification in the 'university' and 'country or city' fields. In 'Original', 'university' is 'not found' and 'country or city' is 'Public High School Sao Paulo'. In 'Origin', 'university' is 'Public High School Sao Paulo' and 'country or city' is 'Sao Paulo'. However, the overall meaning is consistent as both refer to the same place."
     },
     {
         "cv_id": "CV97",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "The level_of_degree differs: 'not found' in 'Original' vs 'Professional Certificate' in 'Origin'."
     },
     {
         "cv_id": "CV98",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "The 'country or city' field in the 'Origin' variant is 'not found', whereas in the 'Original' variant it is 'Kabul'."
     },
     {
         "cv_id": "CV99",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent."
+        "error_type": "Modification",
+        "details": "The 'Origin' variant has 'country or city' listed as 'not found', while 'Original' specifies 'Madrid'. This is a modification affecting geographic coherence."
     }
 ]

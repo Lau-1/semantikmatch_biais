@@ -46,7 +46,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV7",
@@ -60,7 +60,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV9",
@@ -137,7 +137,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV20",
@@ -158,28 +158,28 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV23",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV24",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV25",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV26",
@@ -193,7 +193,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV28",
@@ -220,15 +220,15 @@
         "cv_id": "CV31",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant has a different company name ('University Events') than the 'Original' ('not found') for the position of 'Student Assistant'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV32",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",
@@ -284,7 +284,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV41",
@@ -298,7 +298,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV43",
@@ -311,8 +311,8 @@
         "cv_id": "CV44",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant combines the company and job title fields from the 'Original' into a single job title field, which constitutes a structural modification. However, the overall meaning is preserved."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
@@ -325,8 +325,8 @@
         "cv_id": "CV46",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant is mostly consistent in meaning but has minor differences in structuring: the 'description' field uses commas instead of hyphens. The 'Family Business' entry combines the 'company' and 'job title' fields, resulting in the job title being recorded as 'not found'. These differences do not alter the core meaning."
     },
     {
         "cv_id": "CV47",
@@ -347,7 +347,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV50",
@@ -361,7 +361,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV52",
@@ -381,8 +381,8 @@
         "cv_id": "CV54",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant lists the 'company' as 'Family Business' and 'job title' as 'Support', whereas the 'Original' has 'Family Business Support' and 'job title' as 'not found'. The meaning is consistent despite the structural difference."
     },
     {
         "cv_id": "CV55",
@@ -438,7 +438,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV63",
@@ -452,7 +452,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV65",
@@ -477,10 +477,10 @@
     },
     {
         "cv_id": "CV68",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant lists 'Warehouse' as the company for the Intern position, whereas the 'Original' variant has 'not found'. This is a modification of the company information."
     },
     {
         "cv_id": "CV69",
@@ -508,7 +508,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV73",
@@ -526,17 +526,17 @@
     },
     {
         "cv_id": "CV75",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant has a different company name 'Customs Broker' instead of 'not found' for the 2021 entry. This suggests a change in information from 'not found' to a specific company name."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV76",
         "coherent": true,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant simplifies the job titles by removing specific context ('E-commerce Store' and 'Accounting Office'). The company is marked as 'not found' in 'Original,' while 'Origin' lists the company's name directly linked to the job titles. Despite these differences, the core details and job responsibilities are consistent."
+        "details": "The 'Origin' variant is missing the company names compared to the 'Original' variant, but all other details like dates, job titles, descriptions, and locations are consistent. This omission of company names is a modification rather than a different interpretation."
     },
     {
         "cv_id": "CV77",
@@ -550,14 +550,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV79",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The company for 'Student Assistant - Finance Dept' is 'not found' in the 'Original' but is 'Finance Dept' in the 'Origin'. The job title in 'Origin' is 'Student Assistant' while in 'Original' it is 'Student Assistant - Finance Dept'."
     },
     {
         "cv_id": "CV80",
@@ -578,7 +578,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV83",
@@ -606,14 +606,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV87",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV88",
@@ -627,21 +627,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV90",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant combined 'company' and 'job title' into 'Operations Coordinator - Logistics SME', while 'Original' lists them separately."
     },
     {
         "cv_id": "CV91",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV92",
@@ -669,7 +669,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV96",
