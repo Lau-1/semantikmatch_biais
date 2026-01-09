@@ -10,7 +10,7 @@ global_start = time.time()
 
 for i in range(1, iterations + 1):
     iter_start = time.time()
-    print(f"\nITÉRATION {i} / {iterations}")
+    print(f"\n ITÉRATION {i} / {iterations}")
     print(f"   Lancement simultané de : {', '.join(scripts_to_run)}...")
 
     processes = []
