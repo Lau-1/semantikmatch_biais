@@ -1,0 +1,707 @@
+[
+    {
+        "cv_id": "CV0",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV1",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV2",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV3",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV4",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV5",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV6",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV7",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV8",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Age' variants are empty lists, indicating an Omission."
+    },
+    {
+        "cv_id": "CV9",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV10",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV11",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV12",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV13",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV14",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'company' in the 'Original' is listed as 'not found', whereas in the 'Age' variant it is specified as 'Logistics SME'. This is a modification of the company name, but all other details are consistent."
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV16",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV17",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV18",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV19",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV20",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV21",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV22",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV23",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV24",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV25",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV26",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV27",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV28",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV29",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV30",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV31",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company name 'University Events' in 'Original' is embedded in the job title as 'Student Assistant - University Events' in 'Age', which is a structural modification rather than a content change. All other elements are consistent."
+    },
+    {
+        "cv_id": "CV32",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV33",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV34",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV35",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV36",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Age' variant modifies the 'company' entry from 'not found' to 'Tech Startup' for the Business Development Intern position. This changes the identification of the company involved, affecting consistency."
+    },
+    {
+        "cv_id": "CV37",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV38",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV39",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company's name changed from 'not found' to 'Accounting Department' for the intern position. The job title modified from 'Intern - Accounting Department' to 'Intern'."
+    },
+    {
+        "cv_id": "CV40",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV41",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV42",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV43",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV44",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV45",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV46",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Age' are empty lists, which is considered an Omission."
+    },
+    {
+        "cv_id": "CV47",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, whereas the 'Age' variant contains work experience entries. This is an omission of data in the 'Original'."
+    },
+    {
+        "cv_id": "CV48",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV49",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original variant is an empty list, indicating omission."
+    },
+    {
+        "cv_id": "CV50",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV51",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an omission. The 'Age' variant contains data entries that are not present in the 'Original'."
+    },
+    {
+        "cv_id": "CV52",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV53",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV54",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV55",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV56",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Age' variant merges the 'company' field with the 'job title' field, resulting in 'Operations Analyst - Food Startup' and 'Intern - Startup Accelerator'. This is a modification, but the meaning remains consistent with the 'Original' variant."
+    },
+    {
+        "cv_id": "CV57",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV58",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV59",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV60",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV61",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing data compared to the 'Age' variant which contains job experiences."
+    },
+    {
+        "cv_id": "CV62",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV63",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV64",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV65",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Age' variant changes 'company' from 'not found' to 'Youth Program' and 'job title' from 'Volunteer - Youth Program' to 'Volunteer'. Despite these modifications, the core activity, description, and job dates remain consistent. Therefore, the variants are generally coherent."
+    },
+    {
+        "cv_id": "CV66",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Age' variant modifies the job title for the 'Startup Project' entry from 'not found' to 'Startup Project (failed)'."
+    },
+    {
+        "cv_id": "CV67",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV68",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The job title 'Intern - Warehouse' in the 'Original' is modified to 'Intern' in the 'Age' variant."
+    },
+    {
+        "cv_id": "CV69",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV70",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV71",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company name for the 'Student Assistant' position has been modified from 'not found' to 'Economics Department'. The rest of the information remains consistent."
+    },
+    {
+        "cv_id": "CV72",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV73",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV74",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV75",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'company' entry for the second job in the 'Age' variant is 'Customs Broker', whereas in the 'Original' it is 'not found'."
+    },
+    {
+        "cv_id": "CV76",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV77",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV78",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV79",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV80",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV81",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV82",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV83",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV84",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV85",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV86",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV87",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV88",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV90",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV91",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Age' variant lists the company within the job title for the first entry, modifying how the company information is presented. While other details remain consistent, this presentation change constitutes a modification from the 'Original'."
+    },
+    {
+        "cv_id": "CV92",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV93",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV94",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV95",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV96",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV97",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV98",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV99",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    }
+]
