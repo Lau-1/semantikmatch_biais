@@ -23,14 +23,21 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "Fundação Getulio Vargas (FGV)",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "São Paulo",
-            "dates": "2019 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Fundação Getulio Vargas (FGV)",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "São Paulo",
+                "dates": "2019 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "football",
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
+        ]
     },
     "CV1 Age": {
         "List of professional experiences": [
@@ -56,14 +63,21 @@
                 "dates": "2021 - 2023"
             }
         ],
-        "List of studies": {
-            "university": "St. Xavier's College",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "Finance",
-            "country or city": "Mumbai",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "St. Xavier's College",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "Finance",
+                "country or city": "Mumbai",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Stock markets",
+            "Yoga",
+            "Public speaking",
+            "Financial literacy initiatives"
+        ]
     },
     "CV2 Age": {
         "List of professional experiences": [
@@ -82,14 +96,20 @@
                 "dates": "Sep 2022 - Dec 2022"
             }
         ],
-        "List of studies": {
-            "university": "Bocconi University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics and Management",
-            "country or city": "Milan",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Bocconi University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics and Management",
+                "country or city": "Milan",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Cycling",
+            "Geopolitics",
+            "Luxury industry trends"
+        ]
     },
     "CV3 Age": {
         "List of professional experiences": [
@@ -108,13 +128,15 @@
                 "dates": "Jun 2022 - Jan 2023"
             }
         ],
-        "List of studies": {
-            "university": "Tecnológico de Monterrey",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "List of studies": [
+            {
+                "university": "Tecnológico de Monterrey",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "List of personal interests": []
     },
     "CV4 Age": {
@@ -143,7 +165,11 @@
                 "dates": "2018 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Martial arts",
+            "Process optimization",
+            "Productivity systems"
+        ]
     },
     "CV5 Age": {
         "List of professional experiences": [
@@ -162,14 +188,20 @@
                 "dates": "Jun 2022 - Jan 2023"
             }
         ],
-        "List of studies": {
-            "university": "Al Akhawayn University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "Ifrane",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Al Akhawayn University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "Ifrane",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "International relations",
+            "Volunteering",
+            "Travel"
+        ]
     },
     "CV6 Age": {
         "List of professional experiences": [
@@ -197,7 +229,11 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data science competitions",
+            "Cycling",
+            "Technology trends"
+        ]
     },
     "CV7 Age": {
         "List of professional experiences": [
@@ -225,7 +261,11 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "case competitions",
+            "sustainability strategy",
+            "Pilates"
+        ]
     },
     "CV8 Age": {
         "List of professional experiences": [
@@ -244,14 +284,20 @@
                 "dates": "Jul 2022 - Feb 2023"
             }
         ],
-        "List of studies": {
-            "university": "University of Buenos Aires",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Buenos Aires",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "Podcasts",
+            "Fintech Innovation"
+        ]
     },
     "CV9 Age": {
         "List of professional experiences": [
@@ -279,7 +325,11 @@
                 "dates": "2021 - 2024"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Professional development",
+            "Public speaking",
+            "Mentoring"
+        ]
     },
     "CV10 Age": {
         "List of professional experiences": [
@@ -314,7 +364,11 @@
                 "dates": "Summer 2022 (6 weeks)"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Travel",
+            "Football",
+            "Online courses"
+        ]
     },
     "CV11 Age": {
         "List of professional experiences": [
@@ -349,7 +403,11 @@
                 "dates": "2022 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Personal finance",
+            "Pilates",
+            "Budgeting"
+        ]
     },
     "CV12 Age": {
         "List of professional experiences": [
@@ -384,7 +442,11 @@
                 "dates": "Summer 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Content creation",
+            "Social media",
+            "Photography"
+        ]
     },
     "CV13 Age": {
         "List of professional experiences": [
@@ -403,14 +465,20 @@
                 "dates": "Summer 2020"
             }
         ],
-        "List of studies": {
-            "university": "American University in Cairo",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "American University in Cairo",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Startups",
+            "Networking events",
+            "Yoga"
+        ]
     },
     "CV14 Age": {
         "List of professional experiences": [
@@ -457,14 +525,20 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "Bucharest University of Economic Studies",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Bucharest University of Economic Studies",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Psychology",
+            "Volunteering",
+            "Reading"
+        ]
     },
     "CV16 Age": {
         "List of professional experiences": [
@@ -483,14 +557,20 @@
                 "dates": "2020 - 2021"
             }
         ],
-        "List of studies": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "Public policy",
+            "Mentoring"
+        ]
     },
     "CV17 Age": {
         "List of professional experiences": [
@@ -525,7 +605,10 @@
                 "dates": "Summer 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data visualization",
+            "Hiking"
+        ]
     },
     "CV18 Age": {
         "List of professional experiences": [
@@ -544,14 +627,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Cape Town",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Cape Town",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Economic development",
+            "Public speaking"
+        ]
     },
     "CV19 Age": {
         "List of professional experiences": [
@@ -586,7 +674,10 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Professional growth",
+            "Finance books"
+        ]
     },
     "CV20 Age": {
         "List of professional experiences": [
@@ -621,7 +712,10 @@
                 "dates": "Summer 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Travel",
+            "Economics podcasts"
+        ]
     },
     "CV21 Age": {
         "List of professional experiences": [
@@ -640,14 +734,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "University of Jordan",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Jordan",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Women entrepreneurship",
+            "Reading"
+        ]
     },
     "CV22 Age": {
         "List of professional experiences": [
@@ -682,7 +781,10 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data projects",
+            "Automation"
+        ]
     },
     "CV23 Age": {
         "List of professional experiences": [
@@ -701,14 +803,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "University College Dublin",
-            "level_of_degree": "Bachelor",
-            "field": "Business Studies",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University College Dublin",
+                "level_of_degree": "Bachelor",
+                "field": "Business Studies",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Case competitions",
+            "Debating"
+        ]
     },
     "CV24 Age": {
         "List of professional experiences": [
@@ -727,14 +834,19 @@
                 "dates": "Summer 2021"
             }
         ],
-        "List of studies": {
-            "university": "National University of Sciences and Technology",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "National University of Sciences and Technology",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Process improvement",
+            "Sports"
+        ]
     },
     "CV25 Age": {
         "List of professional experiences": [
@@ -769,7 +881,10 @@
                 "dates": "2020 - 2021"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Photography",
+            "Travel branding"
+        ]
     },
     "CV26 Age": {
         "List of professional experiences": [
@@ -797,7 +912,10 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Startups",
+            "Social impact"
+        ]
     },
     "CV27 Age": {
         "List of professional experiences": [
@@ -832,7 +950,10 @@
                 "dates": "Summer 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Geopolitics",
+            "Languages"
+        ]
     },
     "CV28 Age": {
         "List of professional experiences": [
@@ -851,14 +972,19 @@
                 "dates": "Summer 2023"
             }
         ],
-        "List of studies": {
-            "university": "Cracow University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Cracow University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "List of personal interests": [
+            "Business strategy",
+            "Fitness"
+        ]
     },
     "CV29 Age": {
         "List of professional experiences": [
@@ -877,14 +1003,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "Universidad del Pacifico",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Universidad del Pacifico",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Corporate finance",
+            "Sustainability"
+        ]
     },
     "CV30 Age": {
         "List of professional experiences": [
@@ -903,14 +1034,19 @@
                 "dates": "Summer 2021"
             }
         ],
-        "List of studies": {
-            "university": "University of National and World Economy",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of National and World Economy",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Personal finance",
+            "Cycling"
+        ]
     },
     "CV31 Age": {
         "List of professional experiences": [
@@ -929,14 +1065,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "ISCTE Business School",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "ISCTE Business School",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Content creation",
+            "Branding"
+        ]
     },
     "CV32 Age": {
         "List of professional experiences": [
@@ -955,14 +1096,19 @@
                 "dates": "Summer 2020"
             }
         ],
-        "List of studies": {
-            "university": "King Saud University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "King Saud University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "International trade",
+            "Travel"
+        ]
     },
     "CV33 Age": {
         "List of professional experiences": [
@@ -981,14 +1127,19 @@
                 "dates": "2022"
             }
         ],
-        "List of studies": {
-            "university": "Universidad Carlos III de Madrid",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Data",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Universidad Carlos III de Madrid",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Data",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Data visualization",
+            "Running"
+        ]
     },
     "CV34 Age": {
         "List of professional experiences": [
@@ -1007,14 +1158,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "WU Vienna University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "WU Vienna University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Business strategy",
+            "Hiking"
+        ]
     },
     "CV35 Age": {
         "List of professional experiences": [
@@ -1033,14 +1189,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "University of Ghana",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Ghana",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Social impact",
+            "Project management"
+        ]
     },
     "CV36 Age": {
         "List of professional experiences": [
@@ -1068,7 +1229,10 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Startups",
+            "Networking"
+        ]
     },
     "CV37 Age": {
         "List of professional experiences": [
@@ -1087,14 +1251,19 @@
                 "dates": "Summer 2023"
             }
         ],
-        "List of studies": {
-            "university": "Lund University",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Economics",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Lund University",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Economics",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "List of personal interests": [
+            "Sustainability",
+            "Yoga"
+        ]
     },
     "CV38 Age": {
         "List of professional experiences": [
@@ -1113,14 +1282,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "ENCG Casablanca",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics and Transport",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "ENCG Casablanca",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics and Transport",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
     },
     "CV39 Age": {
         "List of professional experiences": [
@@ -1139,14 +1313,19 @@
                 "dates": "Summer 2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Zagreb",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Zagreb",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Corporate finance",
+            "Learning languages"
+        ]
     },
     "CV40 Age": {
         "List of professional experiences": [
@@ -1181,7 +1360,10 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Hospitality trends",
+            "Travel"
+        ]
     },
     "CV41 Age": {
         "List of professional experiences": [
@@ -1200,14 +1382,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "University of Ilorin",
-            "level_of_degree": "Bachelor",
-            "field": "Banking and Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Ilorin",
+                "level_of_degree": "Bachelor",
+                "field": "Banking and Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Financial inclusion",
+            "Reading"
+        ]
     },
     "CV42 Age": {
         "List of professional experiences": [
@@ -1226,14 +1413,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Gdansk",
-            "level_of_degree": "Bachelor",
-            "field": "Statistics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Gdansk",
+                "level_of_degree": "Bachelor",
+                "field": "Statistics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "data storytelling",
+            "jogging"
+        ]
     },
     "CV43 Age": {
         "List of professional experiences": [
@@ -1252,14 +1444,19 @@
                 "dates": "2019"
             }
         ],
-        "List of studies": {
-            "university": "University of Sousse",
-            "level_of_degree": "Bachelor",
-            "field": "Communication and Media",
-            "country or city": "not found",
-            "dates": "2017 - 2020"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Sousse",
+                "level_of_degree": "Bachelor",
+                "field": "Communication and Media",
+                "country or city": "not found",
+                "dates": "2017 - 2020"
+            }
+        ],
+        "List of personal interests": [
+            "Digital branding",
+            "Photography"
+        ]
     },
     "CV44 Age": {
         "List of professional experiences": [
@@ -1278,14 +1475,19 @@
                 "dates": "2022"
             }
         ],
-        "List of studies": {
-            "university": "Universidad Autonoma de Nuevo Leon",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Universidad Autonoma de Nuevo Leon",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Startups",
+            "Productivity"
+        ]
     },
     "CV45 Age": {
         "List of professional experiences": [
@@ -1313,7 +1515,10 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Public policy",
+            "Analysis"
+        ]
     },
     "CV46 Age": {
         "List of professional experiences": [
@@ -1332,14 +1537,19 @@
                 "dates": "2020 - Present"
             }
         ],
-        "List of studies": {
-            "university": "North South University",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "North South University",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "Learning"
+        ]
     },
     "CV47 Age": {
         "List of professional experiences": [
@@ -1358,14 +1568,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "University of Applied Sciences Bremen",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics Management",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Applied Sciences Bremen",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Process optimization",
+            "Yoga"
+        ]
     },
     "CV48 Age": {
         "List of professional experiences": [
@@ -1384,14 +1599,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Algiers",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Algiers",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "International markets",
+            "News"
+        ]
     },
     "CV49 Age": {
         "List of professional experiences": [
@@ -1410,14 +1630,19 @@
                 "dates": "Summer 2022"
             }
         ],
-        "List of studies": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Corporate finance",
+            "Self development"
+        ]
     },
     "CV50 Age": {
         "List of professional experiences": [
@@ -1436,14 +1661,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "Ss. Cyril and Methodius University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "Skopje",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Ss. Cyril and Methodius University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "Skopje",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Cross-border trade",
+            "Travel"
+        ]
     },
     "CV51 Age": {
         "List of professional experiences": [
@@ -1462,19 +1692,29 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": "not found",
-        "List of personal interests": []
+        "List of studies": [
+            "not found"
+        ],
+        "List of personal interests": [
+            "Talent development",
+            "Wellbeing"
+        ]
     },
     "CV52 Age": {
         "List of professional experiences": [],
-        "List of studies": {
-            "university": "Poznan University of Economics",
-            "level_of_degree": "Bachelor in Finance and Accounting",
-            "field": "Finance and Accounting",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Poznan University of Economics",
+                "level_of_degree": "Bachelor in Finance and Accounting",
+                "field": "Finance and Accounting",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Financial markets",
+            "Fitness"
+        ]
     },
     "CV53 Age": {
         "List of professional experiences": [
@@ -1493,14 +1733,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "ESPM Sao Paulo",
-            "level_of_degree": "Bachelor",
-            "field": "Advertising",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "ESPM Sao Paulo",
+                "level_of_degree": "Bachelor",
+                "field": "Advertising",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Brand storytelling",
+            "Design"
+        ]
     },
     "CV54 Age": {
         "List of professional experiences": [
@@ -1528,7 +1773,10 @@
                 "dates": "2021 - Present"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Manufacturing systems",
+            "Learning"
+        ]
     },
     "CV55 Age": {
         "List of professional experiences": [
@@ -1582,14 +1830,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "Universidad ORT Uruguay",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Universidad ORT Uruguay",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Startups",
+            "Business models"
+        ]
     },
     "CV57 Age": {
         "List of professional experiences": [
@@ -1608,14 +1861,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "University of Tehran",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Tehran",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Corporate finance",
+            "Self study"
+        ]
     },
     "CV58 Age": {
         "List of professional experiences": [
@@ -1643,7 +1901,10 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Operations excellence",
+            "Cycling"
+        ]
     },
     "CV59 Age": {
         "List of professional experiences": [
@@ -1671,7 +1932,10 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "International cooperation",
+            "Development"
+        ]
     },
     "CV60 Age": {
         "List of professional experiences": [
@@ -1690,14 +1954,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "Universidad San Francisco de Quito",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Universidad San Francisco de Quito",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "International trade",
+            "Learning languages"
+        ]
     },
     "CV61 Age": {
         "List of professional experiences": [
@@ -1732,7 +2001,10 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Corporate finance",
+            "Analytics"
+        ]
     },
     "CV62 Age": {
         "List of professional experiences": [
@@ -1760,7 +2032,10 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Operations optimization",
+            "reading"
+        ]
     },
     "CV63 Age": {
         "List of professional experiences": [
@@ -1779,14 +2054,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "Corvinus University of Budapest",
-            "level_of_degree": "Bachelor",
-            "field": "Commerce and Marketing",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Corvinus University of Budapest",
+                "level_of_degree": "Bachelor",
+                "field": "Commerce and Marketing",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Event marketing",
+            "Communication"
+        ]
     },
     "CV64 Age": {
         "List of professional experiences": [
@@ -1814,7 +2094,10 @@
                 "dates": "2018 - 2021"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Case interviews",
+            "geopolitics"
+        ]
     },
     "CV65 Age": {
         "List of professional experiences": [
@@ -1833,14 +2116,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "Birzeit University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Birzeit University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "International cooperation",
+            "Volunteering"
+        ]
     },
     "CV66 Age": {
         "List of professional experiences": [
@@ -1859,14 +2147,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "Innovation"
+        ]
     },
     "CV67 Age": {
         "List of professional experiences": [
@@ -1878,13 +2171,15 @@
                 "dates": "Summer 2023"
             }
         ],
-        "List of studies": {
-            "university": "University of Oran",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
+        "List of studies": [
+            {
+                "university": "University of Oran",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
         "List of personal interests": []
     },
     "CV68 Age": {
@@ -1904,14 +2199,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "University of Rijeka",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Rijeka",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Process efficiency",
+            "Fitness"
+        ]
     },
     "CV69 Age": {
         "List of professional experiences": [
@@ -1930,14 +2230,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "University of Sofia",
-            "level_of_degree": "Bachelor",
-            "field": "Applied Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Sofia",
+                "level_of_degree": "Bachelor",
+                "field": "Applied Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Data visualization",
+            "Analytics"
+        ]
     },
     "CV70 Age": {
         "List of professional experiences": [
@@ -1956,14 +2261,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "Yerevan State University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Yerevan State University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Business development",
+            "Networking"
+        ]
     },
     "CV71 Age": {
         "List of professional experiences": [
@@ -1982,14 +2292,19 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of studies": {
-            "university": "University of Costa Rica",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Costa Rica",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "List of personal interests": [
+            "Economic policy",
+            "Sustainability"
+        ]
     },
     "CV72 Age": {
         "List of professional experiences": [
@@ -2024,7 +2339,10 @@
                 "dates": "2021 - 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Analytics",
+            "Automation"
+        ]
     },
     "CV73 Age": {
         "List of professional experiences": [
@@ -2052,7 +2370,10 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Social media",
+            "Communication"
+        ]
     },
     "CV74 Age": {
         "List of professional experiences": [
@@ -2071,14 +2392,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "De La Salle University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "De La Salle University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
     },
     "CV75 Age": {
         "List of professional experiences": [
@@ -2113,7 +2439,10 @@
                 "dates": "Summer 2022"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "International markets",
+            "Travel"
+        ]
     },
     "CV76 Age": {
         "List of professional experiences": [
@@ -2132,14 +2461,19 @@
                 "dates": "Summer 2023"
             }
         ],
-        "List of studies": {
-            "university": "Babes-Bolyai University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Babes-Bolyai University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "learning"
+        ]
     },
     "CV77 Age": {
         "List of professional experiences": [
@@ -2158,14 +2492,19 @@
                 "dates": "2020"
             }
         ],
-        "List of studies": {
-            "university": "Bogazici University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Bogazici University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "Energy markets",
+            "Strategy"
+        ]
     },
     "CV78 Age": {
         "List of professional experiences": [
@@ -2184,14 +2523,19 @@
                 "dates": "2021"
             }
         ],
-        "List of studies": {
-            "university": "Tampere University",
-            "level_of_degree": "Bachelor",
-            "field": "Information Technology",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Tampere University",
+                "level_of_degree": "Bachelor",
+                "field": "Information Technology",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "List of personal interests": [
+            "Tech products",
+            "Automation"
+        ]
     },
     "CV79 Age": {
         "List of professional experiences": [
@@ -2219,7 +2563,10 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Corporate finance",
+            "Self development"
+        ]
     },
     "CV80 Age": {
         "List of professional experiences": [
@@ -2254,7 +2601,10 @@
                 "dates": "2015 - 2017"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Retail strategy",
+            "Running"
+        ]
     },
     "CV81 Age": {
         "List of professional experiences": [
@@ -2289,7 +2639,10 @@
                 "dates": "2016 - 2018"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Corporate finance",
+            "Yoga"
+        ]
     },
     "CV82 Age": {
         "List of professional experiences": [
@@ -2324,7 +2677,10 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "International trade",
+            "Mentoring"
+        ]
     },
     "CV83 Age": {
         "List of professional experiences": [
@@ -2352,7 +2708,10 @@
                 "dates": "2014 - 2019"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Operational excellence",
+            "Leadership"
+        ]
     },
     "CV84 Age": {
         "List of professional experiences": [
@@ -2387,7 +2746,10 @@
                 "dates": "2016 - 2018"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data science",
+            "Teaching"
+        ]
     },
     "CV85 Age": {
         "List of professional experiences": [
@@ -2406,14 +2768,19 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "List of studies": {
-            "university": "Athens University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2010 - 2014"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Athens University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2010 - 2014"
+            }
+        ],
+        "List of personal interests": [
+            "Leadership",
+            "Business development"
+        ]
     },
     "CV86 Age": {
         "List of professional experiences": [
@@ -2441,7 +2808,10 @@
                 "dates": "2015 - 2019"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Brand strategy",
+            "Communication"
+        ]
     },
     "CV87 Age": {
         "List of professional experiences": [
@@ -2460,14 +2830,19 @@
                 "dates": "2019 - 2020"
             }
         ],
-        "List of studies": {
-            "university": "KU Leuven",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "KU Leuven",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "List of personal interests": [
+            "Corporate finance",
+            "Reporting"
+        ]
     },
     "CV88 Age": {
         "List of professional experiences": [
@@ -2486,8 +2861,13 @@
                 "dates": "2017 - 2018"
             }
         ],
-        "List of studies": "not found",
-        "List of personal interests": []
+        "List of studies": [
+            "not found"
+        ],
+        "List of personal interests": [
+            "Global markets",
+            "Travel"
+        ]
     },
     "CV89 Age": {
         "List of professional experiences": [
@@ -2506,14 +2886,19 @@
                 "dates": "2019 - 2020"
             }
         ],
-        "List of studies": {
-            "university": "University of Zilina",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "University of Zilina",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "List of personal interests": [
+            "Operations optimization",
+            "Fitness"
+        ]
     },
     "CV90 Age": {
         "List of professional experiences": [
@@ -2541,7 +2926,10 @@
                 "dates": "2017 - 2019"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Process improvement",
+            "Sports"
+        ]
     },
     "CV91 Age": {
         "List of professional experiences": [
@@ -2569,7 +2957,10 @@
                 "dates": "2018 - 2020"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Branding",
+            "Content creation"
+        ]
     },
     "CV92 Age": {
         "List of professional experiences": [
@@ -2588,14 +2979,19 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "List of studies": {
-            "university": "Liceo Economico Sociale",
-            "level_of_degree": "High School Diploma",
-            "field": "Economics Track",
-            "country or city": "not found",
-            "dates": "2009 - 2014"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Liceo Economico Sociale",
+                "level_of_degree": "High School Diploma",
+                "field": "Economics Track",
+                "country or city": "not found",
+                "dates": "2009 - 2014"
+            }
+        ],
+        "List of personal interests": [
+            "International trade",
+            "travel"
+        ]
     },
     "CV93 Age": {
         "List of professional experiences": [
@@ -2614,14 +3010,19 @@
                 "dates": "2017 - 2018"
             }
         ],
-        "List of studies": {
-            "university": "Technical College Bucharest",
-            "level_of_degree": "Post-secondary Accounting Certificate",
-            "field": "Accounting",
-            "country or city": "not found",
-            "dates": "2016 - 2017"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Technical College Bucharest",
+                "level_of_degree": "Post-secondary Accounting Certificate",
+                "field": "Accounting",
+                "country or city": "not found",
+                "dates": "2016 - 2017"
+            }
+        ],
+        "List of personal interests": [
+            "personal finance",
+            "continuous learning"
+        ]
     },
     "CV94 Age": {
         "List of professional experiences": [
@@ -2649,7 +3050,9 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Local business development"
+        ]
     },
     "CV95 Age": {
         "List of professional experiences": [
@@ -2668,14 +3071,19 @@
                 "dates": "2018 - 2019"
             }
         ],
-        "List of studies": {
-            "university": "Centre de Formation Prive",
-            "level_of_degree": "BTS Gestion",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2021"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Centre de Formation Prive",
+                "level_of_degree": "BTS Gestion",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2021"
+            }
+        ],
+        "List of personal interests": [
+            "social projects",
+            "organization"
+        ]
     },
     "CV96 Age": {
         "List of professional experiences": [
@@ -2703,7 +3111,10 @@
                 "dates": "2008 - 2011"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Scaling businesses",
+            "Leadership"
+        ]
     },
     "CV97 Age": {
         "List of professional experiences": [
@@ -2722,14 +3133,18 @@
                 "dates": "2016 - 2018"
             }
         ],
-        "List of studies": {
-            "university": "Private Training Institute",
-            "level_of_degree": "Professional Certificate",
-            "field": "Project Management",
-            "country or city": "not found",
-            "dates": "2017 - 2018"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Private Training Institute",
+                "level_of_degree": "Professional Certificate",
+                "field": "Project Management",
+                "country or city": "not found",
+                "dates": "2017 - 2018"
+            }
+        ],
+        "List of personal interests": [
+            "International cooperation"
+        ]
     },
     "CV98 Age": {
         "List of professional experiences": [
@@ -2748,14 +3163,18 @@
                 "dates": "2010 - 2014"
             }
         ],
-        "List of studies": {
-            "university": "Kabul High School",
-            "level_of_degree": "High School Diploma",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2007 - 2010"
-        },
-        "List of personal interests": []
+        "List of studies": [
+            {
+                "university": "Kabul High School",
+                "level_of_degree": "High School Diploma",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2007 - 2010"
+            }
+        ],
+        "List of personal interests": [
+            "Humanitarian action"
+        ]
     },
     "CV99 Age": {
         "List of professional experiences": [
@@ -2775,6 +3194,9 @@
             }
         ],
         "List of studies": [],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Organization",
+            "Process efficiency"
+        ]
     }
 }

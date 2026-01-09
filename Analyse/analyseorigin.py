@@ -1,4 +1,4 @@
-from Analyse.analyse import Analyse
+from analyse import Analyse
 
 class AnalyseOrigin (Analyse):
 
@@ -9,10 +9,10 @@ class AnalyseOrigin (Analyse):
         )
 
     def prompt_specific_rules(self) -> str:
-        return """ 
+        return """
         5. EMPTY CASE: If 'Origin' is an empty list [] or 'Original' is an empty list, it is an Omission.
         """
-    
+
 
 if __name__ == "__main__":
     classe = AnalyseOrigin()

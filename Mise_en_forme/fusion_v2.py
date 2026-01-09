@@ -4,8 +4,9 @@ import os
 
 # --- Configuration ---
 INPUT_DIR = "Runs_extraction"
-OUTPUT_DIR = "Runs_fusion"
+OUTPUT_DIR = "runs_fusion"
 
+# Mapping : Préfixe du fichier source -> Nom du fichier de sortie
 CATEGORIES = {
     "original": "original",
     "age": "age",
@@ -16,8 +17,6 @@ CATEGORIES = {
 def load_json(filepath):
     """Charge un fichier JSON."""
     if not os.path.exists(filepath):
-        # On ne print pas d'erreur ici pour éviter de spammer la console si un fichier manque,
-        # on retourne juste un dict vide.
         return {}
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -27,31 +26,87 @@ def load_json(filepath):
         return {}
 
 def extract_studies(entry):
+    """
+    Extrait les études.
+    Gère les cas complexes : Liste, String, Dict conteneur, ou Dict "objet étude".
+    """
+    # 1. C'est déjà une liste -> parfait
     if isinstance(entry, list):
         return entry
 
+    # 2. C'est une string simple -> on l'enveloppe
+    if isinstance(entry, str):
+        return [entry]
+
+    # 3. C'est un dictionnaire
     if isinstance(entry, dict):
-        if "education" in entry:
-            return entry["education"]
-        if "studies" in entry:
-            return entry["studies"]
+        # Cas A : Le dictionnaire est un CONTENEUR (ex: {"education": [...]})
+        # On vérifie d'abord ces clés
+        wrapper_keys = ["education", "studies", "academic_background"]
+        for key in wrapper_keys:
+            if key in entry:
+                val = entry[key]
+                if isinstance(val, list):
+                    return val
+                if isinstance(val, str):
+                    return [val]
+                if isinstance(val, dict):
+                    return [val] # Un seul objet étude dans la clé
+
+        # Cas B : Le dictionnaire EST l'étude (contient "university", "degree"...)
+        # C'est ici qu'on corrige : on garde tout l'objet 'entry'
         if "university" in entry:
-            return entry
+            return [entry]
+
+        # Cas C : Gestion des erreurs de parsing LLM
         if "error" in entry:
             raw_text = entry.get("raw_text", "")
             match = re.search(r'(\{.*\})', raw_text, re.DOTALL)
             if match:
                 try:
-                    return json.loads(match.group(1))
+                    parsed = json.loads(match.group(1))
+                    return extract_studies(parsed)
                 except json.JSONDecodeError:
                     pass
             return []
+
     return []
 
-def extract_list(entry, key_name):
-    """Extrait une liste simple depuis une clé (pour experiences ou interests)."""
-    if isinstance(entry, dict) and key_name in entry:
-        return entry[key_name]
+def extract_experiences(entry):
+    """Extrait les expériences."""
+    if isinstance(entry, list):
+        return entry
+
+    if isinstance(entry, str):
+        return [entry]
+
+    if isinstance(entry, dict):
+        # Pour les expériences, on cherche généralement une liste dans une clé
+        keys_to_check = ["experiences", "professional_experiences", "work_experience", "career"]
+        for key in keys_to_check:
+            if key in entry:
+                val = entry[key]
+                if isinstance(val, str):
+                    return [val]
+                return val
+    return []
+
+def extract_interests(entry):
+    """Extrait les intérêts."""
+    if isinstance(entry, list):
+        return entry
+
+    if isinstance(entry, str):
+        return [entry]
+
+    if isinstance(entry, dict):
+        keys_to_check = ["interests", "personal_interests", "hobbies", "activities"]
+        for key in keys_to_check:
+            if key in entry:
+                val = entry[key]
+                if isinstance(val, str):
+                    return [val]
+                return val
     return []
 
 def get_cv_number(key_name):
@@ -63,7 +118,7 @@ def get_cv_number(key_name):
 
 def process_category_merge(run_path, prefix):
     """
-    Fusionne les 3 fichiers (experiences, interests, studies) pour un préfixe donné.
+    Fusionne les 3 fichiers pour un préfixe donné.
     """
     file_exp = os.path.join(run_path, f"{prefix}_experiences.json")
     file_int = os.path.join(run_path, f"{prefix}_interests.json")
@@ -73,22 +128,19 @@ def process_category_merge(run_path, prefix):
     data_int = load_json(file_int)
     data_edu = load_json(file_stu)
 
-    # Si aucun des 3 fichiers n'existe ou n'est chargé, on retourne None
     if not data_exp and not data_int and not data_edu:
         return None
 
-    # Identification de toutes les clés uniques
     all_keys = set(data_exp.keys()) | set(data_int.keys()) | set(data_edu.keys())
     merged_output = {}
 
     for original_key in all_keys:
-        # Nettoyage de la clé (ex: CV1.pdf -> CV1)
         new_key = os.path.splitext(original_key)[0]
         merged_output[new_key] = {}
 
         # 1. Expériences
         if original_key in data_exp:
-            merged_output[new_key]["List of professional experiences"] = extract_list(data_exp[original_key], "experiences")
+            merged_output[new_key]["List of professional experiences"] = extract_experiences(data_exp[original_key])
         else:
             merged_output[new_key]["List of professional experiences"] = []
 
@@ -100,7 +152,7 @@ def process_category_merge(run_path, prefix):
 
         # 3. Intérêts
         if original_key in data_int:
-            merged_output[new_key]["List of personal interests"] = extract_list(data_int[original_key], "interests")
+            merged_output[new_key]["List of personal interests"] = extract_interests(data_int[original_key])
         else:
             merged_output[new_key]["List of personal interests"] = []
 
@@ -109,35 +161,28 @@ def process_category_merge(run_path, prefix):
     return {k: merged_output[k] for k in sorted_keys}
 
 def main():
-    # Vérification dossier source
     if not os.path.exists(INPUT_DIR):
         print(f"Erreur : Le dossier '{INPUT_DIR}' n'existe pas.")
         return
 
-    # Création du dossier racine de sortie
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
 
-    # Liste des sous-dossiers (run1, run2, etc.)
     subdirs = [d for d in os.listdir(INPUT_DIR) if os.path.isdir(os.path.join(INPUT_DIR, d))]
-    subdirs.sort() # Pour traiter run1, run2 dans l'ordre
+    subdirs.sort()
 
     print(f"Début du traitement des dossiers dans '{INPUT_DIR}'...\n")
 
     for run_folder in subdirs:
         print(f"--- Traitement de {run_folder} ---")
 
-        # Chemins d'entrée et de sortie spécifiques au run
         input_run_path = os.path.join(INPUT_DIR, run_folder)
         output_run_path = os.path.join(OUTPUT_DIR, run_folder)
 
-        # Création du sous-dossier dans runs_fusion/runX
         if not os.path.exists(output_run_path):
             os.makedirs(output_run_path)
 
-        # Boucle sur les 4 catégories (original, age, genre, origin)
         for input_prefix, output_name in CATEGORIES.items():
-
             merged_data = process_category_merge(input_run_path, input_prefix)
 
             if merged_data:

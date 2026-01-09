@@ -1,33 +1,41 @@
 {
     "CV0": {
-        "Age": {
-            "university": "Fundação Getulio Vargas (FGV)",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "São Paulo",
-            "dates": "2019 - 2023"
-        },
-        "Gender": {
-            "university": "Fundação Getulio Vargas (FGV)",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "São Paulo",
-            "dates": "2019 - 2023"
-        },
-        "Origin": {
-            "university": "Fundação Getulio Vargas (FGV)",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "São Paulo",
-            "dates": "2019 - 2023"
-        },
-        "Original": {
-            "university": "Fundação Getulio Vargas (FGV)",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "São Paulo",
-            "dates": "2019 - 2023"
-        }
+        "Age": [
+            {
+                "university": "Fundação Getulio Vargas (FGV)",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "São Paulo",
+                "dates": "2019 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Fundação Getulio Vargas (FGV)",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "São Paulo",
+                "dates": "2019 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Fundação Getulio Vargas (FGV)",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "São Paulo",
+                "dates": "2019 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Fundação Getulio Vargas (FGV)",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "São Paulo",
+                "dates": "2019 - 2023"
+            }
+        ]
     },
     "CV1": {
         "Age": [
@@ -39,43 +47,53 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "St. Xavier's College",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "Finance",
-            "country or city": "Mumbai",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "St. Xavier's College",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "Finance",
-            "country or city": "Mumbai",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "St. Xavier's College",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "Finance",
-            "country or city": "Mumbai",
-            "dates": "2020 - 2023"
-        }
+        "Gender": [
+            {
+                "university": "St. Xavier's College",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "Finance",
+                "country or city": "Mumbai",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "St. Xavier's College",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "Finance",
+                "country or city": "Mumbai",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "St. Xavier's College",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "Finance",
+                "country or city": "Mumbai",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV2": {
-        "Age": {
-            "university": "Bocconi University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics and Management",
-            "country or city": "Milan",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Bocconi University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics and Management",
-            "country or city": "Milan",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "Bocconi University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics and Management",
+                "country or city": "Milan",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Bocconi University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics and Management",
+                "country or city": "Milan",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "Bocconi University",
@@ -85,13 +103,15 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Original": {
-            "university": "Bocconi University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics and Management",
-            "country or city": "Milan",
-            "dates": "2019 - 2022"
-        }
+        "Original": [
+            {
+                "university": "Bocconi University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics and Management",
+                "country or city": "Milan",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV3": {
         "Age": [
@@ -103,20 +123,24 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "Tecnológico de Monterrey",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Tecnológico de Monterrey",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Gender": [
+            {
+                "university": "Tecnológico de Monterrey",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Tecnológico de Monterrey",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "Tecnológico de Monterrey",
@@ -128,50 +152,62 @@
         ]
     },
     "CV4": {
-        "Age": {
-            "university": "Keio University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "Tokyo",
-            "dates": "2018 - 2022"
-        },
-        "Gender": {
-            "university": "Keio University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "Tokyo",
-            "dates": "2018 - 2022"
-        },
-        "Origin": {
-            "university": "Keio University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "Tokyo",
-            "dates": "2018 - 2022"
-        },
-        "Original": {
-            "university": "Keio University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "Tokyo",
-            "dates": "2018 - 2022"
-        }
+        "Age": [
+            {
+                "university": "Keio University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "Tokyo",
+                "dates": "2018 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Keio University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "Tokyo",
+                "dates": "2018 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Keio University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "Tokyo",
+                "dates": "2018 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Keio University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "Tokyo",
+                "dates": "2018 - 2022"
+            }
+        ]
     },
     "CV5": {
-        "Age": {
-            "university": "Al Akhawayn University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "Ifrane",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Al Akhawayn University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "Ifrane",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "Al Akhawayn University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "Ifrane",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Al Akhawayn University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "Ifrane",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "Al Akhawayn University",
@@ -181,29 +217,35 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Original": {
-            "university": "Al Akhawayn University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "Ifrane",
-            "dates": "2019 - 2022"
-        }
+        "Original": [
+            {
+                "university": "Al Akhawayn University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "Ifrane",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV6": {
-        "Age": {
-            "university": "University of Mannheim",
-            "level_of_degree": "Bachelor",
-            "field": "Business Informatics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Mannheim",
-            "level_of_degree": "Bachelor",
-            "field": "Business Informatics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Mannheim",
+                "level_of_degree": "Bachelor",
+                "field": "Business Informatics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Mannheim",
+                "level_of_degree": "Bachelor",
+                "field": "Business Informatics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Mannheim",
@@ -213,22 +255,26 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Original": {
-            "university": "University of Mannheim",
-            "level_of_degree": "Bachelor",
-            "field": "Business Informatics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Original": [
+            {
+                "university": "University of Mannheim",
+                "level_of_degree": "Bachelor",
+                "field": "Business Informatics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV7": {
-        "Age": {
-            "university": "University of Warwick",
-            "level_of_degree": "Bachelor",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "University of Warwick",
+                "level_of_degree": "Bachelor",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Gender": [
             {
                 "university": "University of Warwick",
@@ -238,13 +284,15 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Origin": {
-            "university": "University of Warwick",
-            "level_of_degree": "Bachelor",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Origin": [
+            {
+                "university": "University of Warwick",
+                "level_of_degree": "Bachelor",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Warwick",
@@ -256,20 +304,24 @@
         ]
     },
     "CV8": {
-        "Age": {
-            "university": "University of Buenos Aires",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Buenos Aires",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Buenos Aires",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Buenos Aires",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Buenos Aires",
@@ -279,43 +331,53 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Original": {
-            "university": "University of Buenos Aires",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Original": [
+            {
+                "university": "University of Buenos Aires",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV9": {
-        "Age": {
-            "university": "Foreign Trade University",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "Hanoi",
-            "dates": "2021 - 2024"
-        },
-        "Gender": {
-            "university": "Foreign Trade University",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "Hanoi",
-            "dates": "2021 - 2024"
-        },
-        "Origin": {
-            "university": "Foreign Trade University",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "Hanoi",
-            "dates": "2021 - 2024"
-        },
-        "Original": {
-            "university": "Foreign Trade University",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "Hanoi",
-            "dates": "2021 - 2024"
-        }
+        "Age": [
+            {
+                "university": "Foreign Trade University",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "Hanoi",
+                "dates": "2021 - 2024"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Foreign Trade University",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "Hanoi",
+                "dates": "2021 - 2024"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Foreign Trade University",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "Hanoi",
+                "dates": "2021 - 2024"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Foreign Trade University",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "Hanoi",
+                "dates": "2021 - 2024"
+            }
+        ]
     },
     "CV10": {
         "Age": [
@@ -516,13 +578,15 @@
         ]
     },
     "CV13": {
-        "Age": {
-            "university": "American University in Cairo",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "American University in Cairo",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Gender": [
             {
                 "university": "American University in Cairo",
@@ -541,59 +605,73 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "Original": {
-            "university": "American University in Cairo",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Original": [
+            {
+                "university": "American University in Cairo",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV14": {
-        "Age": {
-            "university": "Korea University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Korea University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "Korea University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "Korea University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "Korea University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Korea University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Korea University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Korea University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV15": {
-        "Age": {
-            "university": "Bucharest University of Economic Studies",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "Bucharest University of Economic Studies",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "Bucharest University of Economic Studies",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Bucharest University of Economic Studies",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Origin": [
             {
                 "university": "Bucharest University of Economic Studies",
@@ -603,13 +681,15 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Original": {
-            "university": "Bucharest University of Economic Studies",
-            "level_of_degree": "Bachelor",
-            "field": "International Business",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Original": [
+            {
+                "university": "Bucharest University of Economic Studies",
+                "level_of_degree": "Bachelor",
+                "field": "International Business",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV16": {
         "Age": [],
@@ -738,20 +818,24 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Gender": {
-            "university": "University of Cape Town",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Cape Town",
-            "level_of_degree": "Bachelor of Commerce",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Gender": [
+            {
+                "university": "University of Cape Town",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Cape Town",
+                "level_of_degree": "Bachelor of Commerce",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Cape Town",
@@ -880,27 +964,33 @@
         ]
     },
     "CV21": {
-        "Age": {
-            "university": "University of Jordan",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Jordan",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Jordan",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Jordan",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Jordan",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Jordan",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Jordan",
@@ -996,50 +1086,62 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Origin": {
-            "university": "University College Dublin",
-            "level_of_degree": "Bachelor",
-            "field": "Business Studies",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "University College Dublin",
-            "level_of_degree": "Bachelor",
-            "field": "Business Studies",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Origin": [
+            {
+                "university": "University College Dublin",
+                "level_of_degree": "Bachelor",
+                "field": "Business Studies",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University College Dublin",
+                "level_of_degree": "Bachelor",
+                "field": "Business Studies",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV24": {
-        "Age": {
-            "university": "National University of Sciences and Technology",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "National University of Sciences and Technology",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "National University of Sciences and Technology",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "National University of Sciences and Technology",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "National University of Sciences and Technology",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "National University of Sciences and Technology",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "National University of Sciences and Technology",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "National University of Sciences and Technology",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV25": {
         "Age": [
@@ -1108,13 +1210,15 @@
         ]
     },
     "CV26": {
-        "Age": {
-            "university": "University of Lagos",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Lagos",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Gender": [
             {
                 "university": "University of Lagos",
@@ -1124,20 +1228,24 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Origin": {
-            "university": "University of Lagos",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "University of Lagos",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Origin": [
+            {
+                "university": "University of Lagos",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Lagos",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV27": {
         "Age": [
@@ -1224,119 +1332,149 @@
                 "dates": "2021 - Present"
             }
         ],
-        "Origin": {
-            "university": "Cracow University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Original": {
-            "university": "Cracow University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        }
+        "Origin": [
+            {
+                "university": "Cracow University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Cracow University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ]
     },
     "CV29": {
-        "Age": {
-            "university": "Universidad del Pacifico",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Gender": {
-            "university": "Universidad del Pacifico",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Origin": {
-            "university": "Universidad del Pacifico",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Original": {
-            "university": "Universidad del Pacifico",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Age": [
+            {
+                "university": "Universidad del Pacifico",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Universidad del Pacifico",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Universidad del Pacifico",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Universidad del Pacifico",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV30": {
-        "Age": {
-            "university": "University of National and World Economy",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of National and World Economy",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of National and World Economy",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "University of National and World Economy",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "University of National and World Economy",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of National and World Economy",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of National and World Economy",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of National and World Economy",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV31": {
-        "Age": {
-            "university": "ISCTE Business School",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "ISCTE Business School",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "ISCTE Business School",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "ISCTE Business School",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Age": [
+            {
+                "university": "ISCTE Business School",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "ISCTE Business School",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "ISCTE Business School",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "ISCTE Business School",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV32": {
-        "Age": {
-            "university": "King Saud University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "King Saud University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Gender": [],
         "Origin": [
             {
@@ -1347,13 +1485,15 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "Original": {
-            "university": "King Saud University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Original": [
+            {
+                "university": "King Saud University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV33": {
         "Age": [
@@ -1365,74 +1505,92 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "Universidad Carlos III de Madrid",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Data",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Universidad Carlos III de Madrid",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Data",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "Universidad Carlos III de Madrid",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Data",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Gender": [
+            {
+                "university": "Universidad Carlos III de Madrid",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Data",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Universidad Carlos III de Madrid",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Data",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Universidad Carlos III de Madrid",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Data",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV34": {
-        "Age": {
-            "university": "WU Vienna University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found",
-            "review_flag": true
-        },
-        "Origin": {
-            "university": "WU Vienna University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "WU Vienna University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "WU Vienna University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found",
+                "review_flag": true
+            }
+        ],
+        "Origin": [
+            {
+                "university": "WU Vienna University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "WU Vienna University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV35": {
-        "Age": {
-            "university": "University of Ghana",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
-        "Gender": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found"
-        },
+        "Age": [
+            {
+                "university": "University of Ghana",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Ghana",
@@ -1442,66 +1600,82 @@
                 "dates": "2018 - 2021"
             }
         ],
-        "Original": {
-            "university": "University of Ghana",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        }
+        "Original": [
+            {
+                "university": "University of Ghana",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ]
     },
     "CV36": {
-        "Age": {
-            "university": "University of Belgrade",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Belgrade",
-            "level_of_degree": "Bachelor in Management",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Belgrade",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "University of Belgrade",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Age": [
+            {
+                "university": "University of Belgrade",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Belgrade",
+                "level_of_degree": "Bachelor in Management",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Belgrade",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Belgrade",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV37": {
-        "Age": {
-            "university": "Lund University",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Economics",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Gender": {
-            "university": "Lund University",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Economics",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Origin": {
-            "university": "Lund University",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Economics",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
+        "Age": [
+            {
+                "university": "Lund University",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Economics",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Lund University",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Economics",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Lund University",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Economics",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
         "Original": []
     },
     "CV38": {
@@ -1514,57 +1688,71 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "Gender": {
-            "university": "ENCG Casablanca",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics and Transport",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Origin": {
-            "university": "ENCG Casablanca",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics and Transport",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Original": {
-            "university": "ENCG Casablanca",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics and Transport",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Gender": [
+            {
+                "university": "ENCG Casablanca",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics and Transport",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "ENCG Casablanca",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics and Transport",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Original": [
+            {
+                "university": "ENCG Casablanca",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics and Transport",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV39": {
-        "Age": {
-            "university": "University of Zagreb",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Zagreb",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Zagreb",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "University of Zagreb",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "University of Zagreb",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Zagreb",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Zagreb",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Zagreb",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV40": {
         "Age": [
@@ -1618,27 +1806,33 @@
         ]
     },
     "CV41": {
-        "Age": {
-            "university": "University of Ilorin",
-            "level_of_degree": "Bachelor",
-            "field": "Banking and Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Ilorin",
-            "level_of_degree": "Bachelor",
-            "field": "Banking and Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Ilorin",
-            "level_of_degree": "Bachelor",
-            "field": "Banking and Finance",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Ilorin",
+                "level_of_degree": "Bachelor",
+                "field": "Banking and Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Ilorin",
+                "level_of_degree": "Bachelor",
+                "field": "Banking and Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Ilorin",
+                "level_of_degree": "Bachelor",
+                "field": "Banking and Finance",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Ilorin",
@@ -1650,50 +1844,62 @@
         ]
     },
     "CV42": {
-        "Age": {
-            "university": "University of Gdansk",
-            "level_of_degree": "Bachelor",
-            "field": "Statistics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Gdansk",
-            "level_of_degree": "Bachelor",
-            "field": "Statistics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Gdansk",
-            "level_of_degree": "Bachelor",
-            "field": "Statistics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "University of Gdansk",
-            "level_of_degree": "Bachelor",
-            "field": "Statistics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "University of Gdansk",
+                "level_of_degree": "Bachelor",
+                "field": "Statistics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Gdansk",
+                "level_of_degree": "Bachelor",
+                "field": "Statistics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Gdansk",
+                "level_of_degree": "Bachelor",
+                "field": "Statistics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Gdansk",
+                "level_of_degree": "Bachelor",
+                "field": "Statistics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV43": {
-        "Age": {
-            "university": "University of Sousse",
-            "level_of_degree": "Bachelor",
-            "field": "Communication and Media",
-            "country or city": "not found",
-            "dates": "2017 - 2020"
-        },
-        "Gender": {
-            "university": "University of Sousse",
-            "level_of_degree": "Bachelor",
-            "field": "Communication and Media",
-            "country or city": "not found",
-            "dates": "2017 - 2020"
-        },
+        "Age": [
+            {
+                "university": "University of Sousse",
+                "level_of_degree": "Bachelor",
+                "field": "Communication and Media",
+                "country or city": "not found",
+                "dates": "2017 - 2020"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Sousse",
+                "level_of_degree": "Bachelor",
+                "field": "Communication and Media",
+                "country or city": "not found",
+                "dates": "2017 - 2020"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Sousse",
@@ -1703,13 +1909,15 @@
                 "dates": "2017 - 2020"
             }
         ],
-        "Original": {
-            "university": "University of Sousse",
-            "level_of_degree": "Bachelor",
-            "field": "Communication and Media",
-            "country or city": "not found",
-            "dates": "2017 - 2020"
-        }
+        "Original": [
+            {
+                "university": "University of Sousse",
+                "level_of_degree": "Bachelor",
+                "field": "Communication and Media",
+                "country or city": "not found",
+                "dates": "2017 - 2020"
+            }
+        ]
     },
     "CV44": {
         "Age": [
@@ -1721,50 +1929,62 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "Universidad Autonoma de Nuevo Leon",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Universidad Autonoma de Nuevo Leon",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "Universidad Autonoma de Nuevo Leon",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Gender": [
+            {
+                "university": "Universidad Autonoma de Nuevo Leon",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Universidad Autonoma de Nuevo Leon",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Universidad Autonoma de Nuevo Leon",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV45": {
-        "Age": {
-            "university": "University of Ljubljana",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Organization",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Ljubljana",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Organization",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Ljubljana",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Organization",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "University of Ljubljana",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Organization",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Ljubljana",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Organization",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Ljubljana",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Organization",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Ljubljana",
@@ -1776,13 +1996,15 @@
         ]
     },
     "CV46": {
-        "Age": {
-            "university": "North South University",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
+        "Age": [
+            {
+                "university": "North South University",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
         "Gender": [
             {
                 "university": "North South University",
@@ -1792,13 +2014,15 @@
                 "dates": "2021 - Present"
             }
         ],
-        "Origin": {
-            "university": "North South University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
+        "Origin": [
+            {
+                "university": "North South University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
         "Original": [
             {
                 "university": "North South University",
@@ -1810,13 +2034,15 @@
         ]
     },
     "CV47": {
-        "Age": {
-            "university": "University of Applied Sciences Bremen",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics Management",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
+        "Age": [
+            {
+                "university": "University of Applied Sciences Bremen",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
         "Gender": [],
         "Origin": [
             {
@@ -1838,20 +2064,24 @@
         ]
     },
     "CV48": {
-        "Age": {
-            "university": "University of Algiers",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Algiers",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "University of Algiers",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Algiers",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Algiers",
@@ -1861,59 +2091,73 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Original": {
-            "university": "University of Algiers",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Original": [
+            {
+                "university": "University of Algiers",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV49": {
-        "Age": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Age": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV50": {
-        "Age": {
-            "university": "Ss. Cyril and Methodius University Skopje",
-            "level_of_degree": "Bachelor in Business Administration",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Gender": {
-            "university": "Ss. Cyril and Methodius University Skopje",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "Ss. Cyril and Methodius University Skopje",
+                "level_of_degree": "Bachelor in Business Administration",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Ss. Cyril and Methodius University Skopje",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Origin": [
             {
                 "university": "Ss. Cyril and Methodius University Skopje",
@@ -1923,36 +2167,44 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "Original": {
-            "university": "Ss. Cyril and Methodius University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "Skopje",
-            "dates": "2017 - 2021"
-        }
+        "Original": [
+            {
+                "university": "Ss. Cyril and Methodius University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "Skopje",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV51": {
-        "Age": {
-            "university": "University of Sharjah",
-            "level_of_degree": "Bachelor",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Sharjah",
-            "level_of_degree": "Bachelor",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Sharjah",
-            "level_of_degree": "Bachelor",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Sharjah",
+                "level_of_degree": "Bachelor",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Sharjah",
+                "level_of_degree": "Bachelor",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Sharjah",
+                "level_of_degree": "Bachelor",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Sharjah",
@@ -1964,94 +2216,118 @@
         ]
     },
     "CV52": {
-        "Age": {
-            "university": "Poznan University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Finance and Accounting",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "Poznan University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Finance and Accounting",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Poznan University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Finance and Accounting",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "Poznan University of Economics",
-            "level_of_degree": "Bachelor",
-            "field": "Finance and Accounting",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Age": [
+            {
+                "university": "Poznan University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Finance and Accounting",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Poznan University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Finance and Accounting",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Poznan University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Finance and Accounting",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Poznan University of Economics",
+                "level_of_degree": "Bachelor",
+                "field": "Finance and Accounting",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV53": {
-        "Age": {
-            "university": "ESPM Sao Paulo",
-            "level_of_degree": "Bachelor",
-            "field": "Advertising",
-            "country or city": "Sao Paulo",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "ESPM Sao Paulo",
-            "level_of_degree": "Bachelor",
-            "field": "Advertising",
-            "country or city": "Sao Paulo",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "ESPM Sao Paulo",
-            "level_of_degree": "Bachelor",
-            "field": "Advertising",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "ESPM Sao Paulo",
-            "level_of_degree": "Bachelor",
-            "field": "Advertising",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Age": [
+            {
+                "university": "ESPM Sao Paulo",
+                "level_of_degree": "Bachelor",
+                "field": "Advertising",
+                "country or city": "Sao Paulo",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "ESPM Sao Paulo",
+                "level_of_degree": "Bachelor",
+                "field": "Advertising",
+                "country or city": "Sao Paulo",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "ESPM Sao Paulo",
+                "level_of_degree": "Bachelor",
+                "field": "Advertising",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "ESPM Sao Paulo",
+                "level_of_degree": "Bachelor",
+                "field": "Advertising",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV54": {
-        "Age": {
-            "university": "Ain Shams University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Gender": {
-            "university": "Ain Shams University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Origin": {
-            "university": "Ain Shams University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Original": {
-            "university": "Ain Shams University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Management",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        }
+        "Age": [
+            {
+                "university": "Ain Shams University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Ain Shams University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Ain Shams University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Ain Shams University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Management",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ]
     },
     "CV55": {
         "Age": [
@@ -2120,20 +2396,24 @@
         ]
     },
     "CV56": {
-        "Age": {
-            "university": "Universidad ORT Uruguay",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Universidad ORT Uruguay",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "Universidad ORT Uruguay",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Universidad ORT Uruguay",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "Universidad ORT Uruguay",
@@ -2163,21 +2443,25 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found",
-            "flag_for_review": true
-        },
-        "Origin": {
-            "university": "University of Tehran",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Gender": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found",
+                "flag_for_review": true
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Tehran",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Tehran",
@@ -2189,27 +2473,33 @@
         ]
     },
     "CV58": {
-        "Age": {
-            "university": "Hanze University of Applied Sciences",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Gender": {
-            "university": "Hanze University of Applied Sciences",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Origin": {
-            "university": "Hanze University of Applied Sciences",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics Management",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "Hanze University of Applied Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Hanze University of Applied Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Hanze University of Applied Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Original": [
             {
                 "university": "Hanze University of Applied Sciences",
@@ -2230,50 +2520,62 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Gender": {
-            "university": "University of Sarajevo",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Sarajevo",
-            "level_of_degree": "Bachelor in Economics",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Original": {
-            "university": "University of Sarajevo",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Gender": [
+            {
+                "university": "University of Sarajevo",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Sarajevo",
+                "level_of_degree": "Bachelor in Economics",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Sarajevo",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV60": {
-        "Age": {
-            "university": "Universidad San Francisco de Quito",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "Universidad San Francisco de Quito",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Universidad San Francisco de Quito",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "Universidad San Francisco de Quito",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Universidad San Francisco de Quito",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Universidad San Francisco de Quito",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "Universidad San Francisco de Quito",
@@ -2345,50 +2647,62 @@
                 "dates": "2020 - 2023"
             }
         ],
-        "Gender": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found"
-        },
-        "Origin": {
-            "university": "Lahore University of Management Sciences",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "Lahore University of Management Sciences",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Gender": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Lahore University of Management Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Lahore University of Management Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV63": {
-        "Age": {
-            "university": "Corvinus University of Budapest",
-            "level_of_degree": "Bachelor",
-            "field": "Commerce and Marketing",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Corvinus University of Budapest",
-            "level_of_degree": "Bachelor",
-            "field": "Commerce and Marketing",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "Corvinus University of Budapest",
-            "level_of_degree": "Bachelor",
-            "field": "Commerce and Marketing",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "Corvinus University of Budapest",
+                "level_of_degree": "Bachelor",
+                "field": "Commerce and Marketing",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Corvinus University of Budapest",
+                "level_of_degree": "Bachelor",
+                "field": "Commerce and Marketing",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Corvinus University of Budapest",
+                "level_of_degree": "Bachelor",
+                "field": "Commerce and Marketing",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "Corvinus University of Budapest",
@@ -2400,20 +2714,24 @@
         ]
     },
     "CV64": {
-        "Age": {
-            "university": "HEC Montreal",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
-        "Gender": {
-            "university": "HEC Montreal",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        },
+        "Age": [
+            {
+                "university": "HEC Montreal",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "HEC Montreal",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ],
         "Origin": [
             {
                 "university": "HEC Montreal",
@@ -2423,36 +2741,44 @@
                 "dates": "2018 - 2021"
             }
         ],
-        "Original": {
-            "university": "HEC Montreal",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2018 - 2021"
-        }
+        "Original": [
+            {
+                "university": "HEC Montreal",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2018 - 2021"
+            }
+        ]
     },
     "CV65": {
-        "Age": {
-            "university": "Birzeit University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "Birzeit University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "Birzeit University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "Birzeit University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Birzeit University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Birzeit University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "Birzeit University",
@@ -2464,27 +2790,33 @@
         ]
     },
     "CV66": {
-        "Age": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Origin": {
-            "university": "University of Montenegro",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Montenegro",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Montenegro",
@@ -2496,43 +2828,53 @@
         ]
     },
     "CV67": {
-        "Age": {
-            "university": "University of Oran",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Gender": {
-            "university": "University of Oran",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Origin": {
-            "university": "University of Oran",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Original": {
-            "university": "University of Oran",
-            "level_of_degree": "Bachelor",
-            "field": "Finance",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        }
+        "Age": [
+            {
+                "university": "University of Oran",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Oran",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Oran",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Oran",
+                "level_of_degree": "Bachelor",
+                "field": "Finance",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ]
     },
     "CV68": {
-        "Age": {
-            "university": "University of Rijeka",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "University of Rijeka",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Gender": [
             {
                 "university": "University of Rijeka",
@@ -2551,29 +2893,35 @@
                 "dates": "2017 - 2021"
             }
         ],
-        "Original": {
-            "university": "University of Rijeka",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Original": [
+            {
+                "university": "University of Rijeka",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV69": {
-        "Age": {
-            "university": "University of Sofia",
-            "level_of_degree": "Bachelor",
-            "field": "Applied Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "University of Sofia",
-            "level_of_degree": "Bachelor",
-            "field": "Applied Economics",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "University of Sofia",
+                "level_of_degree": "Bachelor",
+                "field": "Applied Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Sofia",
+                "level_of_degree": "Bachelor",
+                "field": "Applied Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Sofia",
@@ -2612,13 +2960,15 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Origin": {
-            "university": "Yerevan State University",
-            "level_of_degree": "Bachelor",
-            "field": "Management",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Origin": [
+            {
+                "university": "Yerevan State University",
+                "level_of_degree": "Bachelor",
+                "field": "Management",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Original": [
             {
                 "university": "Yerevan State University",
@@ -2630,20 +2980,24 @@
         ]
     },
     "CV71": {
-        "Age": {
-            "university": "University of Costa Rica",
-            "level_of_degree": "Bachelor in Economics",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Costa Rica",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Costa Rica",
+                "level_of_degree": "Bachelor in Economics",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Costa Rica",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Costa Rica",
@@ -2730,27 +3084,33 @@
         ]
     },
     "CV73": {
-        "Age": {
-            "university": "University of Tuzla",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Tuzla",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Tuzla",
-            "level_of_degree": "Bachelor",
-            "field": "Business and Marketing",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
+        "Age": [
+            {
+                "university": "University of Tuzla",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Tuzla",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Tuzla",
+                "level_of_degree": "Bachelor",
+                "field": "Business and Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
         "Original": [
             {
                 "university": "University of Tuzla",
@@ -2762,34 +3122,42 @@
         ]
     },
     "CV74": {
-        "Age": {
-            "university": "De La Salle University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Gender": {
-            "university": "De La Salle University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Origin": {
-            "university": "De La Salle University",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Original": {
-            "university": "De La Salle University",
-            "level_of_degree": "not found",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        }
+        "Age": [
+            {
+                "university": "De La Salle University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "De La Salle University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "De La Salle University",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Original": [
+            {
+                "university": "De La Salle University",
+                "level_of_degree": "not found",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
     },
     "CV75": {
         "Age": [
@@ -2867,50 +3235,62 @@
                 "dates": "2021 - Present"
             }
         ],
-        "Gender": {
-            "university": "Babes-Bolyai University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Origin": {
-            "university": "Babes-Bolyai University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        },
-        "Original": {
-            "university": "Babes-Bolyai University",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2021 - Present"
-        }
+        "Gender": [
+            {
+                "university": "Babes-Bolyai University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Babes-Bolyai University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Babes-Bolyai University",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2021 - Present"
+            }
+        ]
     },
     "CV77": {
-        "Age": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found"
-        },
-        "Gender": {
-            "university": "Bogazici University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
-        "Origin": {
-            "university": "Bogazici University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "not found",
-            "dates": "2017 - 2021"
-        },
+        "Age": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Bogazici University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Bogazici University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ],
         "Original": [
             {
                 "university": "Bogazici University",
@@ -2922,20 +3302,24 @@
         ]
     },
     "CV78": {
-        "Age": {
-            "university": "Tampere University",
-            "level_of_degree": "Bachelor",
-            "field": "Information Technology",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
-        "Gender": {
-            "university": "Tampere University",
-            "level_of_degree": "Bachelor in Information Technology",
-            "field": "Information Technology",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        },
+        "Age": [
+            {
+                "university": "Tampere University",
+                "level_of_degree": "Bachelor",
+                "field": "Information Technology",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Tampere University",
+                "level_of_degree": "Bachelor in Information Technology",
+                "field": "Information Technology",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ],
         "Origin": [
             {
                 "university": "Tampere University",
@@ -2945,43 +3329,53 @@
                 "dates": "2019 - 2022"
             }
         ],
-        "Original": {
-            "university": "Tampere University",
-            "level_of_degree": "Bachelor",
-            "field": "Information Technology",
-            "country or city": "not found",
-            "dates": "2019 - 2022"
-        }
+        "Original": [
+            {
+                "university": "Tampere University",
+                "level_of_degree": "Bachelor",
+                "field": "Information Technology",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
     },
     "CV79": {
-        "Age": {
-            "university": "University of Kragujevac",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Gender": {
-            "university": "University of Kragujevac",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Origin": {
-            "university": "University of Kragujevac",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        },
-        "Original": {
-            "university": "University of Kragujevac",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2020 - 2023"
-        }
+        "Age": [
+            {
+                "university": "University of Kragujevac",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Kragujevac",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Kragujevac",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Kragujevac",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2020 - 2023"
+            }
+        ]
     },
     "CV80": {
         "Age": [
@@ -3200,20 +3594,24 @@
                 "dates": "2014 - 2019"
             }
         ],
-        "Origin": {
-            "university": "Universidad Nacional de Colombia",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2014 - 2019"
-        },
-        "Original": {
-            "university": "Universidad Nacional de Colombia",
-            "level_of_degree": "Bachelor",
-            "field": "Industrial Engineering",
-            "country or city": "not found",
-            "dates": "2014 - 2019"
-        }
+        "Origin": [
+            {
+                "university": "Universidad Nacional de Colombia",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2014 - 2019"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Universidad Nacional de Colombia",
+                "level_of_degree": "Bachelor",
+                "field": "Industrial Engineering",
+                "country or city": "not found",
+                "dates": "2014 - 2019"
+            }
+        ]
     },
     "CV84": {
         "Age": [
@@ -3282,13 +3680,15 @@
         ]
     },
     "CV85": {
-        "Age": {
-            "university": "Athens University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2010 - 2014"
-        },
+        "Age": [
+            {
+                "university": "Athens University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2010 - 2014"
+            }
+        ],
         "Gender": [
             {
                 "university": "Athens University of Economics and Business",
@@ -3307,29 +3707,35 @@
                 "dates": "2010 - 2014"
             }
         ],
-        "Original": {
-            "university": "Athens University of Economics and Business",
-            "level_of_degree": "Bachelor",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2010 - 2014"
-        }
+        "Original": [
+            {
+                "university": "Athens University of Economics and Business",
+                "level_of_degree": "Bachelor",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2010 - 2014"
+            }
+        ]
     },
     "CV86": {
-        "Age": {
-            "university": "University of Valencia",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2015 - 2019"
-        },
-        "Gender": {
-            "university": "University of Valencia",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2015 - 2019"
-        },
+        "Age": [
+            {
+                "university": "University of Valencia",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2015 - 2019"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Valencia",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2015 - 2019"
+            }
+        ],
         "Origin": [
             {
                 "university": "University of Valencia",
@@ -3339,29 +3745,35 @@
                 "dates": "2015 - 2019"
             }
         ],
-        "Original": {
-            "university": "University of Valencia",
-            "level_of_degree": "Bachelor",
-            "field": "Marketing",
-            "country or city": "not found",
-            "dates": "2015 - 2019"
-        }
+        "Original": [
+            {
+                "university": "University of Valencia",
+                "level_of_degree": "Bachelor",
+                "field": "Marketing",
+                "country or city": "not found",
+                "dates": "2015 - 2019"
+            }
+        ]
     },
     "CV87": {
-        "Age": {
-            "university": "KU Leuven",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "Gender": {
-            "university": "KU Leuven",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
+        "Age": [
+            {
+                "university": "KU Leuven",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "KU Leuven",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
         "Origin": [
             {
                 "university": "KU Leuven",
@@ -3371,13 +3783,15 @@
                 "dates": "2016 - 2019"
             }
         ],
-        "Original": {
-            "university": "KU Leuven",
-            "level_of_degree": "Bachelor",
-            "field": "Business Economics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        }
+        "Original": [
+            {
+                "university": "KU Leuven",
+                "level_of_degree": "Bachelor",
+                "field": "Business Economics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ]
     },
     "CV88": {
         "Age": [
@@ -3398,80 +3812,100 @@
                 "dates": "2013 - 2017"
             }
         ],
-        "Origin": {
-            "university": "Saint Joseph University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "Beirut",
-            "dates": "2013 - 2017"
-        },
-        "Original": {
-            "university": "Saint Joseph University",
-            "level_of_degree": "Bachelor",
-            "field": "Economics",
-            "country or city": "Beirut",
-            "dates": "2013 - 2017"
-        }
+        "Origin": [
+            {
+                "university": "Saint Joseph University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "Beirut",
+                "dates": "2013 - 2017"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Saint Joseph University",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "Beirut",
+                "dates": "2013 - 2017"
+            }
+        ]
     },
     "CV89": {
-        "Age": {
-            "university": "University of Zilina",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "Gender": {
-            "university": "University of Zilina",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "Origin": {
-            "university": "University of Zilina",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        },
-        "Original": {
-            "university": "University of Zilina",
-            "level_of_degree": "Bachelor",
-            "field": "Logistics",
-            "country or city": "not found",
-            "dates": "2016 - 2019"
-        }
+        "Age": [
+            {
+                "university": "University of Zilina",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "University of Zilina",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "University of Zilina",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ],
+        "Original": [
+            {
+                "university": "University of Zilina",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics",
+                "country or city": "not found",
+                "dates": "2016 - 2019"
+            }
+        ]
     },
     "CV90": {
-        "Age": {
-            "university": "IUT de Tours",
-            "level_of_degree": "BUT Gestion des Entreprises et des Administrations",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2017 - 2019"
-        },
-        "Gender": {
-            "university": "IUT de Tours",
-            "level_of_degree": "BUT",
-            "field": "Gestion des Entreprises et des Administrations",
-            "country or city": "not found",
-            "dates": "2017 - 2019"
-        },
-        "Origin": {
-            "university": "IUT de Tours",
-            "level_of_degree": "not found",
-            "field": "BUT Gestion des Entreprises et des Administrations",
-            "country or city": "not found",
-            "dates": "2017 - 2019"
-        },
-        "Original": {
-            "university": "IUT de Tours",
-            "level_of_degree": "not found",
-            "field": "BUT Gestion des Entreprises et des Administrations",
-            "country or city": "not found",
-            "dates": "2017 - 2019"
-        }
+        "Age": [
+            {
+                "university": "IUT de Tours",
+                "level_of_degree": "BUT Gestion des Entreprises et des Administrations",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2017 - 2019"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "IUT de Tours",
+                "level_of_degree": "BUT",
+                "field": "Gestion des Entreprises et des Administrations",
+                "country or city": "not found",
+                "dates": "2017 - 2019"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "IUT de Tours",
+                "level_of_degree": "not found",
+                "field": "BUT Gestion des Entreprises et des Administrations",
+                "country or city": "not found",
+                "dates": "2017 - 2019"
+            }
+        ],
+        "Original": [
+            {
+                "university": "IUT de Tours",
+                "level_of_degree": "not found",
+                "field": "BUT Gestion des Entreprises et des Administrations",
+                "country or city": "not found",
+                "dates": "2017 - 2019"
+            }
+        ]
     },
     "CV91": {
         "Age": [
@@ -3483,81 +3917,101 @@
                 "dates": "2018 - 2020"
             }
         ],
-        "Gender": {
-            "university": "Lycee Voltaire",
-            "level_of_degree": "BTS",
-            "field": "Communication",
-            "country or city": "Paris",
-            "dates": "2018 - 2020"
-        },
-        "Origin": {
-            "university": "Lycee Voltaire",
-            "level_of_degree": "BTS",
-            "field": "Communication",
-            "country or city": "Paris",
-            "dates": "2018 - 2020"
-        },
+        "Gender": [
+            {
+                "university": "Lycee Voltaire",
+                "level_of_degree": "BTS",
+                "field": "Communication",
+                "country or city": "Paris",
+                "dates": "2018 - 2020"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Lycee Voltaire",
+                "level_of_degree": "BTS",
+                "field": "Communication",
+                "country or city": "Paris",
+                "dates": "2018 - 2020"
+            }
+        ],
         "Original": []
     },
     "CV92": {
-        "Age": {
-            "university": "Liceo Economico Sociale",
-            "level_of_degree": "High School Diploma",
-            "field": "Economics Track",
-            "country or city": "not found",
-            "dates": "2009 - 2014"
-        },
-        "Gender": {
-            "university": "Liceo Economico Sociale",
-            "level_of_degree": "High School Diploma",
-            "field": "Economics Track",
-            "country or city": "not found",
-            "dates": "2009 - 2014"
-        },
-        "Origin": {
-            "university": "Liceo Economico Sociale",
-            "level_of_degree": "High School Diploma",
-            "field": "Economics Track",
-            "country or city": "not found",
-            "dates": "2009 - 2014"
-        },
-        "Original": {
-            "university": "Liceo Economico Sociale",
-            "level_of_degree": "High School Diploma",
-            "field": "Economics Track",
-            "country or city": "not found",
-            "dates": "2009 - 2014"
-        }
+        "Age": [
+            {
+                "university": "Liceo Economico Sociale",
+                "level_of_degree": "High School Diploma",
+                "field": "Economics Track",
+                "country or city": "not found",
+                "dates": "2009 - 2014"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Liceo Economico Sociale",
+                "level_of_degree": "High School Diploma",
+                "field": "Economics Track",
+                "country or city": "not found",
+                "dates": "2009 - 2014"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Liceo Economico Sociale",
+                "level_of_degree": "High School Diploma",
+                "field": "Economics Track",
+                "country or city": "not found",
+                "dates": "2009 - 2014"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Liceo Economico Sociale",
+                "level_of_degree": "High School Diploma",
+                "field": "Economics Track",
+                "country or city": "not found",
+                "dates": "2009 - 2014"
+            }
+        ]
     },
     "CV93": {
-        "Age": {
-            "university": "Technical College Bucharest",
-            "level_of_degree": "Post-secondary Accounting Certificate",
-            "field": "Accounting",
-            "country or city": "not found",
-            "dates": "2016 - 2017"
-        },
-        "Gender": {
-            "university": "Technical College",
-            "level_of_degree": "Post-secondary Accounting Certificate",
-            "field": "not found",
-            "country or city": "Bucharest",
-            "dates": "2016 - 2017"
-        },
-        "Origin": {
-            "university": "Technical College Bucharest",
-            "level_of_degree": "Post-secondary Accounting Certificate",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2016 - 2017"
-        },
-        "Original": {
-            "university": "Technical College Bucharest",
-            "level_of_degree": "not found",
-            "field": "Accounting",
-            "country or city": "not found",
-            "dates": "2016 - 2017"
-        }
+        "Age": [
+            {
+                "university": "Technical College Bucharest",
+                "level_of_degree": "Post-secondary Accounting Certificate",
+                "field": "Accounting",
+                "country or city": "not found",
+                "dates": "2016 - 2017"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Technical College",
+                "level_of_degree": "Post-secondary Accounting Certificate",
+                "field": "not found",
+                "country or city": "Bucharest",
+                "dates": "2016 - 2017"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Technical College Bucharest",
+                "level_of_degree": "Post-secondary Accounting Certificate",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2016 - 2017"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Technical College Bucharest",
+                "level_of_degree": "not found",
+                "field": "Accounting",
+                "country or city": "not found",
+                "dates": "2016 - 2017"
+            }
+        ]
     },
     "CV94": {
         "Age": [
@@ -3569,36 +4023,44 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "Gender": {
-            "university": "Kenya Institute of Management",
-            "level_of_degree": "Diploma",
-            "field": "Business Management",
-            "country or city": "Kenya",
-            "dates": "2014 - 2016"
-        },
-        "Origin": {
-            "university": "Kenya Institute of Management",
-            "level_of_degree": "Diploma",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2014 - 2016"
-        },
-        "Original": {
-            "university": "Kenya Institute of Management",
-            "level_of_degree": "Diploma",
-            "field": "Business Management",
-            "country or city": "not found",
-            "dates": "2014 - 2016"
-        }
+        "Gender": [
+            {
+                "university": "Kenya Institute of Management",
+                "level_of_degree": "Diploma",
+                "field": "Business Management",
+                "country or city": "Kenya",
+                "dates": "2014 - 2016"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Kenya Institute of Management",
+                "level_of_degree": "Diploma",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2014 - 2016"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Kenya Institute of Management",
+                "level_of_degree": "Diploma",
+                "field": "Business Management",
+                "country or city": "not found",
+                "dates": "2014 - 2016"
+            }
+        ]
     },
     "CV95": {
-        "Age": {
-            "university": "Centre de Formation Prive",
-            "level_of_degree": "BTS Gestion",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2021"
-        },
+        "Age": [
+            {
+                "university": "Centre de Formation Prive",
+                "level_of_degree": "BTS Gestion",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2021"
+            }
+        ],
         "Gender": [
             {
                 "university": "Centre de Formation Prive",
@@ -3608,13 +4070,15 @@
                 "dates": "2019 - 2021"
             }
         ],
-        "Origin": {
-            "university": "Centre de Formation Prive",
-            "level_of_degree": "BTS Gestion",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2019 - 2021"
-        },
+        "Origin": [
+            {
+                "university": "Centre de Formation Prive",
+                "level_of_degree": "BTS Gestion",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2019 - 2021"
+            }
+        ],
         "Original": [
             {
                 "university": "Centre de Formation Prive",
@@ -3653,52 +4117,64 @@
                 "dates": "2008 - 2011"
             }
         ],
-        "Original": {
-            "university": "Public High School Sao Paulo",
-            "level_of_degree": "High School Diploma",
-            "field": "not found",
-            "country or city": "Sao Paulo",
-            "dates": "2008 - 2011"
-        }
+        "Original": [
+            {
+                "university": "Public High School Sao Paulo",
+                "level_of_degree": "High School Diploma",
+                "field": "not found",
+                "country or city": "Sao Paulo",
+                "dates": "2008 - 2011"
+            }
+        ]
     },
     "CV97": {
-        "Age": {
-            "university": "not found",
-            "level_of_degree": "not found",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "not found"
-        },
-        "Gender": {
-            "university": "Private Training Institute",
-            "level_of_degree": "Professional Certificate",
-            "field": "Project Management",
-            "country or city": "not found",
-            "dates": "2017 - 2018"
-        },
-        "Origin": {
-            "university": "Private Training Institute",
-            "level_of_degree": "Professional Certificate",
-            "field": "Project Management",
-            "country or city": "not found",
-            "dates": "2017 - 2018"
-        },
-        "Original": {
-            "university": "Private Training Institute",
-            "level_of_degree": "Professional Certificate",
-            "field": "Project Management",
-            "country or city": "not found",
-            "dates": "2017 - 2018"
-        }
+        "Age": [
+            {
+                "university": "not found",
+                "level_of_degree": "not found",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Private Training Institute",
+                "level_of_degree": "Professional Certificate",
+                "field": "Project Management",
+                "country or city": "not found",
+                "dates": "2017 - 2018"
+            }
+        ],
+        "Origin": [
+            {
+                "university": "Private Training Institute",
+                "level_of_degree": "Professional Certificate",
+                "field": "Project Management",
+                "country or city": "not found",
+                "dates": "2017 - 2018"
+            }
+        ],
+        "Original": [
+            {
+                "university": "Private Training Institute",
+                "level_of_degree": "Professional Certificate",
+                "field": "Project Management",
+                "country or city": "not found",
+                "dates": "2017 - 2018"
+            }
+        ]
     },
     "CV98": {
-        "Age": {
-            "university": "Kabul High School",
-            "level_of_degree": "High School Diploma",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2007 - 2010"
-        },
+        "Age": [
+            {
+                "university": "Kabul High School",
+                "level_of_degree": "High School Diploma",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2007 - 2010"
+            }
+        ],
         "Gender": [
             {
                 "university": "Kabul High School",
@@ -3717,29 +4193,35 @@
                 "dates": "2007 - 2010"
             }
         ],
-        "Original": {
-            "university": "Kabul High School",
-            "level_of_degree": "High School Diploma",
-            "field": "not found",
-            "country or city": "not found",
-            "dates": "2007 - 2010"
-        }
+        "Original": [
+            {
+                "university": "Kabul High School",
+                "level_of_degree": "High School Diploma",
+                "field": "not found",
+                "country or city": "not found",
+                "dates": "2007 - 2010"
+            }
+        ]
     },
     "CV99": {
-        "Age": {
-            "university": "Madrid Vocational School",
-            "level_of_degree": "Vocational Training Diploma",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2014 - 2016"
-        },
-        "Gender": {
-            "university": "Madrid Vocational School",
-            "level_of_degree": "Vocational Training Diploma",
-            "field": "Business Administration",
-            "country or city": "not found",
-            "dates": "2014 - 2016"
-        },
+        "Age": [
+            {
+                "university": "Madrid Vocational School",
+                "level_of_degree": "Vocational Training Diploma",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2014 - 2016"
+            }
+        ],
+        "Gender": [
+            {
+                "university": "Madrid Vocational School",
+                "level_of_degree": "Vocational Training Diploma",
+                "field": "Business Administration",
+                "country or city": "not found",
+                "dates": "2014 - 2016"
+            }
+        ],
         "Origin": [
             {
                 "university": "Madrid Vocational School",
@@ -3749,12 +4231,14 @@
                 "dates": "2014 - 2016"
             }
         ],
-        "Original": {
-            "university": "Madrid Vocational School",
-            "level_of_degree": "Vocational Training Diploma",
-            "field": "Business Administration",
-            "country or city": "Madrid",
-            "dates": "2014 - 2016"
-        }
+        "Original": [
+            {
+                "university": "Madrid Vocational School",
+                "level_of_degree": "Vocational Training Diploma",
+                "field": "Business Administration",
+                "country or city": "Madrid",
+                "dates": "2014 - 2016"
+            }
+        ]
     }
 }
