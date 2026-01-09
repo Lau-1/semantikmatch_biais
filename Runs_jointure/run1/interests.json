@@ -2,161 +2,161 @@
     "CV0": {
         "Age": [
             "Football",
-            "Macroeconomics",
-            "Entrepreneurship",
-            "Endurance running"
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
         ],
         "Gender": [
             "Football",
-            "Macroeconomics",
-            "Entrepreneurship",
-            "Endurance running"
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
         ],
         "Origin": [
             "Football",
-            "Macroeconomics",
-            "Entrepreneurship",
-            "Endurance running"
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
         ],
         "Original": [
             "Football",
-            "Macroeconomics",
-            "Entrepreneurship",
-            "Endurance running"
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
         ]
     },
     "CV1": {
         "Age": [
             "Stock markets",
-            "Yoga",
-            "Public speaking",
-            "Financial literacy initiatives"
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
         ],
         "Gender": [
             "Stock markets",
-            "Yoga",
-            "Public speaking",
-            "Financial literacy initiatives"
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
         ],
         "Origin": [
             "Stock markets",
-            "Yoga",
-            "Public speaking",
-            "Financial literacy initiatives"
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
         ],
         "Original": [
             "Stock markets",
-            "Yoga",
-            "Public speaking",
-            "Financial literacy initiatives"
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
         ]
     },
     "CV2": {
         "Age": [
             "Cycling",
-            "Geopolitics",
-            "Luxury industry trends"
+            "geopolitics",
+            "luxury industry trends"
         ],
         "Gender": [
             "Cycling",
-            "Geopolitics",
-            "Luxury industry trends"
+            "geopolitics",
+            "luxury industry trends"
         ],
         "Origin": [
             "Cycling",
-            "Geopolitics",
-            "Luxury industry trends"
+            "geopolitics",
+            "luxury industry trends"
         ],
         "Original": [
             "Cycling",
-            "Geopolitics",
-            "Luxury industry trends"
+            "geopolitics",
+            "luxury industry trends"
         ]
     },
     "CV3": {
         "Age": [
             "Photography",
-            "Fashion Marketing",
-            "Content Creation"
+            "fashion marketing",
+            "content creation"
         ],
         "Gender": [
             "Photography",
-            "Fashion marketing",
-            "Content creation"
+            "fashion marketing",
+            "content creation"
         ],
         "Origin": [
             "Photography",
-            "Fashion marketing",
-            "Content creation"
+            "fashion marketing",
+            "content creation"
         ],
         "Original": [
             "Photography",
-            "Fashion marketing",
-            "Content creation"
+            "fashion marketing",
+            "content creation"
         ]
     },
     "CV4": {
         "Age": [
             "Martial arts",
-            "Process optimization",
-            "Productivity systems"
+            "process optimization",
+            "productivity systems"
         ],
         "Gender": [
             "Martial arts",
-            "Process optimization",
-            "Productivity systems"
+            "process optimization",
+            "productivity systems"
         ],
         "Origin": [
             "Martial arts",
-            "Process optimization",
-            "Productivity systems"
+            "process optimization",
+            "productivity systems"
         ],
         "Original": [
             "Martial arts",
-            "Process optimization",
-            "Productivity systems"
+            "process optimization",
+            "productivity systems"
         ]
     },
     "CV5": {
         "Age": [
             "International relations",
-            "Volunteering",
-            "Travel"
+            "volunteering",
+            "travel"
         ],
         "Gender": [
             "International relations",
-            "Volunteering",
-            "Travel"
+            "volunteering",
+            "travel"
         ],
         "Origin": [
             "International relations",
-            "Volunteering",
-            "Travel"
+            "volunteering",
+            "travel"
         ],
         "Original": [
             "International relations",
-            "Volunteering",
-            "Travel"
+            "volunteering",
+            "travel"
         ]
     },
     "CV6": {
         "Age": [
             "Data science competitions",
-            "Cycling",
-            "Technology trends"
+            "cycling",
+            "technology trends"
         ],
         "Gender": [
             "Data science competitions",
-            "Cycling",
-            "Technology trends"
+            "cycling",
+            "technology trends"
         ],
         "Origin": [
             "Data science competitions",
-            "Cycling",
-            "Technology trends"
+            "cycling",
+            "technology trends"
         ],
         "Original": [
-            "data science competitions",
+            "Data science competitions",
             "cycling",
             "technology trends"
         ]
@@ -164,21 +164,21 @@
     "CV7": {
         "Age": [
             "Case competitions",
-            "Sustainability strategy",
+            "sustainability strategy",
             "Pilates"
         ],
         "Gender": [
             "Case competitions",
-            "Sustainability strategy",
+            "sustainability strategy",
             "Pilates"
         ],
         "Origin": [
             "Case competitions",
-            "Sustainability strategy",
+            "sustainability strategy",
             "Pilates"
         ],
         "Original": [
-            "case competitions",
+            "Case competitions",
             "sustainability strategy",
             "Pilates"
         ]
@@ -186,173 +186,177 @@
     "CV8": {
         "Age": [
             "Entrepreneurship",
-            "Podcasts",
-            "Fintech Innovation"
+            "podcasts",
+            "fintech innovation"
         ],
         "Gender": [
             "Entrepreneurship",
-            "Podcasts",
-            "Fintech Innovation"
+            "podcasts",
+            "fintech innovation"
         ],
         "Origin": [
             "Entrepreneurship",
-            "Podcasts",
-            "Fintech innovation"
+            "podcasts",
+            "fintech innovation"
         ],
         "Original": [
             "Entrepreneurship",
-            "Podcasts",
-            "Fintech innovation"
+            "podcasts",
+            "fintech innovation"
         ]
     },
     "CV9": {
         "Age": [
             "Professional development",
-            "Public speaking",
-            "Mentoring"
+            "public speaking",
+            "mentoring"
         ],
         "Gender": [
             "Professional development",
-            "Public speaking",
-            "Mentoring"
+            "public speaking",
+            "mentoring"
         ],
         "Origin": [
             "Professional development",
-            "Public speaking",
-            "Mentoring"
+            "public speaking",
+            "mentoring"
         ],
         "Original": [
             "Professional development",
-            "Public speaking",
-            "Mentoring"
+            "public speaking",
+            "mentoring"
         ]
     },
     "CV10": {
-        "Age": [],
+        "Age": [
+            "Travel",
+            "football",
+            "online courses"
+        ],
         "Gender": [
             "Travel",
-            "Football",
-            "Online courses"
+            "football",
+            "online courses"
         ],
         "Origin": [
             "Travel",
-            "Football",
-            "Online courses"
+            "football",
+            "online courses"
         ],
         "Original": [
             "Travel",
-            "Football",
-            "Online courses"
+            "football",
+            "online courses"
         ]
     },
     "CV11": {
         "Age": [
             "Personal finance",
-            "Pilates",
-            "Budgeting"
+            "pilates",
+            "budgeting"
         ],
         "Gender": [
             "Personal finance",
-            "Pilates",
-            "Budgeting"
+            "pilates",
+            "budgeting"
         ],
         "Origin": [
-            "personal finance",
+            "Personal finance",
             "pilates",
             "budgeting"
         ],
         "Original": [
-            "personal finance",
+            "Personal finance",
             "pilates",
             "budgeting"
         ]
     },
     "CV12": {
         "Age": [
-            "content creation",
+            "Content creation",
             "social media",
             "photography"
         ],
         "Gender": [
             "Content creation",
-            "Social media",
-            "Photography"
+            "social media",
+            "photography"
         ],
         "Origin": [
             "Content creation",
-            "Social media",
-            "Photography"
+            "social media",
+            "photography"
         ],
         "Original": [
             "Content creation",
-            "Social media",
-            "Photography"
+            "social media",
+            "photography"
         ]
     },
     "CV13": {
         "Age": [
             "Startups",
-            "Networking events",
-            "Yoga"
+            "networking events",
+            "yoga"
         ],
         "Gender": [
             "Startups",
-            "Networking events",
-            "Yoga"
+            "networking events",
+            "yoga"
         ],
         "Origin": [
             "Startups",
-            "Networking events",
-            "Yoga"
+            "networking events",
+            "yoga"
         ],
         "Original": [
             "Startups",
-            "Networking events",
-            "Yoga"
+            "networking events",
+            "yoga"
         ]
     },
     "CV14": {
         "Age": [
             "Running",
-            "Process optimization",
-            "Podcasts"
+            "process optimization",
+            "podcasts"
         ],
         "Gender": [
             "Running",
-            "Process optimization",
-            "Podcasts"
+            "process optimization",
+            "podcasts"
         ],
         "Origin": [
             "Running",
-            "Process Optimization",
-            "Podcasts"
+            "process optimization",
+            "podcasts"
         ],
         "Original": [
             "Running",
-            "Process optimization",
-            "Podcasts"
+            "process optimization",
+            "podcasts"
         ]
     },
     "CV15": {
         "Age": [
             "Psychology",
-            "Volunteering",
-            "Reading"
+            "volunteering",
+            "reading"
         ],
         "Gender": [
             "Psychology",
-            "Volunteering",
-            "Reading"
+            "volunteering",
+            "reading"
         ],
         "Origin": [
             "Psychology",
-            "Volunteering",
-            "Reading"
+            "volunteering",
+            "reading"
         ],
         "Original": [
             "Psychology",
-            "Volunteering",
-            "Reading"
+            "volunteering",
+            "reading"
         ]
     },
     "CV16": {
@@ -363,387 +367,393 @@
         ],
         "Gender": [
             "Entrepreneurship",
-            "Public policy",
-            "Mentoring"
+            "public policy",
+            "mentoring"
         ],
         "Origin": [
             "Entrepreneurship",
-            "Public policy",
-            "Mentoring"
+            "public policy",
+            "mentoring"
         ],
         "Original": [
             "Entrepreneurship",
-            "Public policy",
-            "Mentoring"
+            "public policy",
+            "mentoring"
         ]
     },
     "CV17": {
         "Age": [
             "Data visualization",
-            "Hiking"
+            "hiking"
         ],
         "Gender": [
             "Data visualization",
-            "Hiking"
+            "hiking"
         ],
         "Origin": [
-            "data visualization",
+            "Data visualization",
             "hiking"
         ],
         "Original": [
             "Data visualization",
-            "Hiking"
+            "hiking"
         ]
     },
     "CV18": {
         "Age": [
             "Economic development",
-            "Public speaking"
+            "public speaking"
         ],
         "Gender": [
             "Economic development",
-            "Public speaking"
+            "public speaking"
         ],
         "Origin": [
             "Economic development",
-            "Public speaking"
+            "public speaking"
         ],
         "Original": [
             "Economic development",
-            "Public speaking"
+            "public speaking"
         ]
     },
     "CV19": {
         "Age": [
             "Professional growth",
-            "Finance books"
+            "finance books"
         ],
         "Gender": [
             "Professional growth",
-            "Finance books"
+            "finance books"
         ],
         "Origin": [
             "Professional growth",
-            "Finance books"
+            "finance books"
         ],
         "Original": [
             "Professional growth",
-            "Finance books"
+            "finance books"
         ]
     },
     "CV20": {
         "Age": [
             "Travel",
-            "Economics podcasts"
+            "economics podcasts"
         ],
         "Gender": [
             "Travel",
-            "Economics podcasts"
+            "economics podcasts"
         ],
         "Origin": [
             "Travel",
-            "Economics podcasts"
+            "economics podcasts"
         ],
         "Original": [
             "Travel",
-            "Economics podcasts"
+            "economics podcasts"
         ]
     },
     "CV21": {
         "Age": [
             "Women entrepreneurship",
-            "Reading"
+            "reading"
         ],
         "Gender": [
             "Women entrepreneurship",
-            "Reading"
+            "reading"
         ],
         "Origin": [
-            "women entrepreneurship",
+            "Women entrepreneurship",
             "reading"
         ],
         "Original": [
             "Women entrepreneurship",
-            "Reading"
+            "reading"
         ]
     },
     "CV22": {
         "Age": [
             "Data projects",
-            "Automation"
+            "automation"
         ],
         "Gender": [
             "Data projects",
-            "Automation"
+            "automation"
         ],
         "Origin": [
             "Data projects",
-            "Automation"
+            "automation"
         ],
         "Original": [
             "Data projects",
-            "Automation"
+            "automation"
         ]
     },
     "CV23": {
         "Age": [
             "Case competitions",
-            "Debating"
+            "debating"
         ],
         "Gender": [
             "Case competitions",
-            "Debating"
+            "debating"
         ],
         "Origin": [
             "Case competitions",
-            "Debating"
+            "debating"
         ],
         "Original": [
             "Case competitions",
-            "Debating"
+            "debating"
         ]
     },
     "CV24": {
         "Age": [
             "Process improvement",
-            "Sports"
+            "sports"
         ],
         "Gender": [
             "Process improvement",
-            "Sports"
+            "sports"
         ],
         "Origin": [
             "Process improvement",
-            "Sports"
+            "sports"
         ],
         "Original": [
             "Process improvement",
-            "Sports"
+            "sports"
         ]
     },
     "CV25": {
         "Age": [
             "Photography",
-            "Travel branding"
+            "travel branding"
         ],
-        "Gender": [],
+        "Gender": [
+            "Photography",
+            "travel branding"
+        ],
         "Origin": [
             "Photography",
-            "Travel branding"
+            "travel branding"
         ],
         "Original": [
             "Photography",
-            "Travel branding"
+            "travel branding"
         ]
     },
     "CV26": {
         "Age": [
             "Startups",
-            "Social impact"
+            "social impact"
         ],
         "Gender": [
             "Startups",
-            "Social impact"
+            "social impact"
         ],
         "Origin": [
             "Startups",
-            "Social impact"
+            "social impact"
         ],
         "Original": [
             "Startups",
-            "Social impact"
+            "social impact"
         ]
     },
     "CV27": {
         "Age": [
             "Geopolitics",
-            "Languages"
+            "languages"
         ],
         "Gender": [
             "Geopolitics",
-            "Languages"
+            "languages"
         ],
         "Origin": [
             "Geopolitics",
-            "Languages"
+            "languages"
         ],
         "Original": [
             "Geopolitics",
-            "Languages"
+            "languages"
         ]
     },
     "CV28": {
         "Age": [
             "Business strategy",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Business strategy",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
             "Business strategy",
-            "Fitness"
+            "fitness"
         ],
         "Original": [
             "Business strategy",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV29": {
         "Age": [
             "Corporate finance",
-            "Sustainability"
+            "sustainability"
         ],
         "Gender": [
             "Corporate finance",
-            "Sustainability"
+            "sustainability"
         ],
         "Origin": [
             "Corporate finance",
-            "Sustainability"
+            "sustainability"
         ],
         "Original": [
             "Corporate finance",
-            "Sustainability"
+            "sustainability"
         ]
     },
     "CV30": {
         "Age": [
             "Personal finance",
-            "Cycling"
+            "cycling"
         ],
         "Gender": [
             "Personal finance",
-            "Cycling"
+            "cycling"
         ],
         "Origin": [
             "Personal finance",
-            "Cycling"
+            "cycling"
         ],
         "Original": [
-            "personal finance",
+            "Personal finance",
             "cycling"
         ]
     },
     "CV31": {
         "Age": [
             "Content creation",
-            "Branding"
+            "branding"
         ],
         "Gender": [
             "Content creation",
-            "Branding"
+            "branding"
         ],
         "Origin": [
             "Content creation",
-            "Branding"
+            "branding"
         ],
         "Original": [
             "Content creation",
-            "Branding"
+            "branding"
         ]
     },
     "CV32": {
         "Age": [
             "International trade",
-            "Travel"
+            "travel"
         ],
         "Gender": [
             "International trade",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "International trade",
-            "Travel"
+            "travel"
         ],
         "Original": [
             "International trade",
-            "Travel"
+            "travel"
         ]
     },
     "CV33": {
         "Age": [
             "Data visualization",
-            "Running"
+            "running"
         ],
         "Gender": [
             "Data visualization",
-            "Running"
+            "running"
         ],
         "Origin": [
             "Data visualization",
-            "Running"
+            "running"
         ],
         "Original": [
-            "data visualization",
+            "Data visualization",
             "running"
         ]
     },
     "CV34": {
         "Age": [
             "Business strategy",
-            "Hiking"
+            "hiking"
         ],
         "Gender": [
             "Business strategy",
-            "Hiking"
+            "hiking"
         ],
         "Origin": [
             "Business strategy",
-            "Hiking"
+            "hiking"
         ],
         "Original": [
             "Business strategy",
-            "Hiking"
+            "hiking"
         ]
     },
     "CV35": {
         "Age": [
             "Social impact",
-            "Project management"
+            "project management"
         ],
         "Gender": [
             "Social impact",
-            "Project management"
+            "project management"
         ],
         "Origin": [
             "Social impact",
-            "Project management"
+            "project management"
         ],
         "Original": [
-            "social impact",
+            "Social impact",
             "project management"
         ]
     },
     "CV36": {
         "Age": [
             "Startups",
-            "Networking"
+            "networking"
         ],
         "Gender": [
             "Startups",
-            "Networking"
+            "networking"
         ],
         "Origin": [
             "Startups",
-            "Networking"
+            "networking"
         ],
         "Original": [
             "Startups",
-            "Networking"
+            "networking"
         ]
     },
     "CV37": {
         "Age": [
             "Sustainability",
-            "Yoga"
+            "yoga"
         ],
         "Gender": [
             "Sustainability",
-            "Yoga"
+            "yoga"
         ],
-        "Origin": [],
+        "Origin": [
+            "Sustainability",
+            "yoga"
+        ],
         "Original": [
             "Sustainability",
             "yoga"
@@ -752,25 +762,25 @@
     "CV38": {
         "Age": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Original": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV39": {
         "Age": [
             "Corporate finance",
-            "Learning languages"
+            "learning languages"
         ],
         "Gender": [
             "Corporate finance",
@@ -778,65 +788,65 @@
         ],
         "Origin": [
             "Corporate finance",
-            "Learning languages"
+            "learning languages"
         ],
         "Original": [
             "Corporate finance",
-            "Learning languages"
+            "learning languages"
         ]
     },
     "CV40": {
         "Age": [
             "Hospitality trends",
-            "Travel"
+            "travel"
         ],
         "Gender": [
             "Hospitality trends",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "Hospitality trends",
-            "Travel"
+            "travel"
         ],
         "Original": [
             "Hospitality trends",
-            "Travel"
+            "travel"
         ]
     },
     "CV41": {
         "Age": [
             "Financial inclusion",
-            "Reading"
+            "reading"
         ],
         "Gender": [
             "Financial inclusion",
-            "Reading"
+            "reading"
         ],
         "Origin": [
             "Financial inclusion",
-            "Reading"
+            "reading"
         ],
         "Original": [
             "Financial inclusion",
-            "Reading"
+            "reading"
         ]
     },
     "CV42": {
         "Age": [
             "Data storytelling",
-            "Jogging"
+            "jogging"
         ],
         "Gender": [
             "Data storytelling",
-            "Jogging"
+            "jogging"
         ],
         "Origin": [
             "Data storytelling",
-            "Jogging"
+            "jogging"
         ],
         "Original": [
             "Data storytelling",
-            "Jogging"
+            "jogging"
         ]
     },
     "CV43": {
@@ -844,79 +854,85 @@
             "Digital branding",
             "Photography"
         ],
-        "Gender": [],
+        "Gender": [
+            "Digital branding",
+            "photography"
+        ],
         "Origin": [
             "Digital branding",
-            "Photography"
+            "photography"
         ],
         "Original": [
             "Digital branding",
-            "Photography"
+            "photography"
         ]
     },
     "CV44": {
         "Age": [
             "Startups",
-            "Productivity"
+            "productivity"
         ],
         "Gender": [
             "Startups",
-            "Productivity"
+            "productivity"
         ],
         "Origin": [
             "Startups",
-            "Productivity"
+            "productivity"
         ],
         "Original": [
             "Startups",
-            "Productivity"
+            "productivity"
         ]
     },
     "CV45": {
         "Age": [
             "Public policy",
-            "Analysis"
+            "analysis"
         ],
-        "Gender": [],
+        "Gender": [
+            "Public policy",
+            "analysis"
+        ],
         "Origin": [
             "Public policy",
-            "Analysis"
+            "analysis"
         ],
         "Original": [
             "Public policy",
-            "Analysis"
+            "analysis"
         ]
     },
     "CV46": {
         "Age": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Gender": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Origin": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Original": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ]
     },
     "CV47": {
         "Age": [
             "Process optimization",
-            "Yoga"
+            "yoga"
         ],
         "Gender": [
             "Process optimization",
-            "Yoga"
+            "yoga"
         ],
         "Origin": [
             "Process optimization",
-            "Yoga"
+            "yoga"
         ],
         "Original": [
             "Process optimization",
@@ -928,259 +944,265 @@
             "International markets",
             "news"
         ],
-        "Gender": [],
+        "Gender": [
+            "International markets",
+            "news"
+        ],
         "Origin": [
             "International markets",
             "news"
         ],
-        "Original": []
+        "Original": [
+            "International markets",
+            "news"
+        ]
     },
     "CV49": {
         "Age": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Gender": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Origin": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Original": [
             "Corporate finance",
-            "Self-development"
+            "self development"
         ]
     },
     "CV50": {
         "Age": [
             "Cross-border trade",
-            "Travel"
+            "travel"
         ],
         "Gender": [
             "Cross-border trade",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "Cross-border trade",
-            "Travel"
+            "travel"
         ],
         "Original": [
-            "cross-border trade",
+            "Cross-border trade",
             "travel"
         ]
     },
     "CV51": {
         "Age": [
             "Talent development",
-            "Wellbeing"
+            "wellbeing"
         ],
         "Gender": [
             "Talent development",
-            "Wellbeing"
+            "wellbeing"
         ],
         "Origin": [
             "Talent development",
-            "Wellbeing"
+            "wellbeing"
         ],
         "Original": [
             "Talent development",
-            "Wellbeing"
+            "wellbeing"
         ]
     },
     "CV52": {
         "Age": [
             "Financial markets",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Financial markets",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
             "Financial markets",
-            "Fitness"
+            "fitness"
         ],
         "Original": [
             "Financial markets",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV53": {
         "Age": [
             "Brand storytelling",
-            "Design"
+            "design"
         ],
         "Gender": [
             "Brand storytelling",
-            "Design"
+            "design"
         ],
         "Origin": [
             "Brand storytelling",
-            "Design"
+            "design"
         ],
         "Original": [
             "Brand storytelling",
-            "Design"
+            "design"
         ]
     },
     "CV54": {
         "Age": [
             "Manufacturing systems",
-            "Learning"
+            "learning"
         ],
         "Gender": [
             "Manufacturing systems",
-            "Learning"
+            "learning"
         ],
         "Origin": [
             "Manufacturing systems",
-            "Learning"
+            "learning"
         ],
         "Original": [
             "Manufacturing systems",
-            "Learning"
+            "learning"
         ]
     },
     "CV55": {
         "Age": [
             "Data modeling",
-            "Analytics"
+            "analytics"
         ],
         "Gender": [
             "Data modeling",
-            "Analytics"
+            "analytics"
         ],
         "Origin": [
             "Data modeling",
-            "Analytics"
+            "analytics"
         ],
         "Original": [
             "Data modeling",
-            "Analytics"
+            "analytics"
         ]
     },
     "CV56": {
         "Age": [
             "Startups",
-            "Business Models"
+            "business models"
         ],
         "Gender": [
             "Startups",
-            "Business models"
+            "business models"
         ],
         "Origin": [
             "Startups",
-            "Business models"
+            "business models"
         ],
         "Original": [
             "Startups",
-            "Business models"
+            "business models"
         ]
     },
     "CV57": {
         "Age": [
             "Corporate finance",
-            "Self study"
+            "self study"
         ],
         "Gender": [
             "Corporate finance",
-            "Self study"
+            "self study"
         ],
         "Origin": [
             "Corporate finance",
-            "Self study"
+            "self study"
         ],
         "Original": [
             "Corporate finance",
-            "Self study"
+            "self study"
         ]
     },
     "CV58": {
         "Age": [
             "Operations excellence",
-            "Cycling"
+            "cycling"
         ],
         "Gender": [
             "Operations excellence",
-            "Cycling"
+            "cycling"
         ],
         "Origin": [
             "Operations excellence",
-            "Cycling"
+            "cycling"
         ],
         "Original": [
             "Operations excellence",
-            "Cycling"
+            "cycling"
         ]
     },
     "CV59": {
         "Age": [
             "International cooperation",
-            "Development"
+            "development"
         ],
         "Gender": [
             "International cooperation",
-            "Development"
+            "development"
         ],
         "Origin": [
             "International cooperation",
-            "Development"
+            "development"
         ],
         "Original": [
             "International cooperation",
-            "Development"
+            "development"
         ]
     },
     "CV60": {
         "Age": [
             "International trade",
-            "Learning languages"
+            "learning languages"
         ],
         "Gender": [
             "International trade",
-            "Learning languages"
+            "learning languages"
         ],
         "Origin": [
             "International trade",
-            "Learning languages"
+            "learning languages"
         ],
         "Original": [
             "International trade",
-            "Learning languages"
+            "learning languages"
         ]
     },
     "CV61": {
         "Age": [
             "Corporate finance",
-            "Analytics"
+            "analytics"
         ],
         "Gender": [
             "Corporate finance",
-            "Analytics"
+            "analytics"
         ],
         "Origin": [
             "Corporate finance",
-            "Analytics"
+            "analytics"
         ],
         "Original": [
             "Corporate finance",
-            "Analytics"
+            "analytics"
         ]
     },
     "CV62": {
         "Age": [
             "Operations optimization",
-            "Reading"
+            "reading"
         ],
         "Gender": [
             "Operations optimization",
-            "Reading"
+            "reading"
         ],
         "Origin": [
             "Operations optimization",
-            "Reading"
+            "reading"
         ],
         "Original": [
             "Operations optimization",
@@ -1190,76 +1212,79 @@
     "CV63": {
         "Age": [
             "Event marketing",
-            "Communication"
+            "communication"
         ],
         "Gender": [
             "Event marketing",
-            "Communication"
+            "communication"
         ],
         "Origin": [
             "Event marketing",
-            "Communication"
+            "communication"
         ],
-        "Original": []
+        "Original": [
+            "Event marketing",
+            "communication"
+        ]
     },
     "CV64": {
         "Age": [
             "Case interviews",
-            "Geopolitics"
+            "geopolitics"
         ],
         "Gender": [
             "Case interviews",
-            "Geopolitics"
+            "geopolitics"
         ],
         "Origin": [
             "Case interviews",
-            "Geopolitics"
+            "geopolitics"
         ],
         "Original": [
             "Case interviews",
-            "Geopolitics"
+            "geopolitics"
         ]
     },
     "CV65": {
         "Age": [
             "International cooperation",
-            "Volunteering"
+            "volunteering"
         ],
         "Gender": [
             "International cooperation",
-            "Volunteering"
+            "volunteering"
         ],
         "Origin": [
             "International cooperation",
-            "Volunteering"
+            "volunteering"
         ],
         "Original": [
             "International cooperation",
-            "Volunteering"
+            "volunteering"
         ]
     },
     "CV66": {
         "Age": [
             "Entrepreneurship",
-            "Innovation"
+            "innovation"
         ],
         "Gender": [
             "Entrepreneurship",
-            "Innovation"
+            "innovation"
         ],
         "Origin": [
             "Entrepreneurship",
-            "Innovation"
+            "innovation"
         ],
         "Original": [
             "Entrepreneurship",
-            "Innovation"
+            "innovation"
         ]
     },
     "CV67": {
         "Age": [
             "Banking",
-            "Learning"
+            "learning"
         ],
         "Gender": [
             "Banking",
@@ -1267,71 +1292,71 @@
         ],
         "Origin": [
             "Banking",
-            "Learning"
+            "learning"
         ],
         "Original": [
             "Banking",
-            "Learning"
+            "learning"
         ]
     },
     "CV68": {
         "Age": [
             "Process efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Process efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
             "Process efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Original": [
             "Process efficiency",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV69": {
         "Age": [
             "Data visualization",
-            "Analytics"
+            "analytics"
         ],
         "Gender": [
             "Data visualization",
-            "Analytics"
+            "analytics"
         ],
         "Origin": [
             "Data visualization",
-            "Analytics"
+            "analytics"
         ],
         "Original": [
             "Data visualization",
-            "Analytics"
+            "analytics"
         ]
     },
     "CV70": {
         "Age": [
             "Business development",
-            "Networking"
+            "networking"
         ],
         "Gender": [
             "Business development",
-            "Networking"
+            "networking"
         ],
         "Origin": [
             "Business development",
-            "Networking"
+            "networking"
         ],
         "Original": [
             "Business development",
-            "Networking"
+            "networking"
         ]
     },
     "CV71": {
         "Age": [
             "Economic policy",
-            "Sustainability"
+            "sustainability"
         ],
         "Gender": [
             "Economic policy",
@@ -1339,65 +1364,65 @@
         ],
         "Origin": [
             "Economic policy",
-            "Sustainability"
+            "sustainability"
         ],
         "Original": [
             "Economic policy",
-            "Sustainability"
+            "sustainability"
         ]
     },
     "CV72": {
         "Age": [
             "Analytics",
-            "Automation"
+            "automation"
         ],
         "Gender": [
             "Analytics",
-            "Automation"
+            "automation"
         ],
         "Origin": [
             "Analytics",
-            "Automation"
+            "automation"
         ],
         "Original": [
             "Analytics",
-            "Automation"
+            "automation"
         ]
     },
     "CV73": {
         "Age": [
             "Social media",
-            "Communication"
+            "communication"
         ],
         "Gender": [
             "Social media",
-            "Communication"
+            "communication"
         ],
         "Origin": [
             "Social media",
-            "Communication"
+            "communication"
         ],
         "Original": [
-            "social media",
+            "Social media",
             "communication"
         ]
     },
     "CV74": {
         "Age": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
-            "operations efficiency",
+            "Operations efficiency",
             "fitness"
         ],
         "Original": [
             "Operations efficiency",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV75": {
@@ -1407,270 +1432,273 @@
         ],
         "Gender": [
             "International markets",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "International markets",
-            "Travel"
+            "travel"
         ],
         "Original": [
             "International markets",
-            "Travel"
+            "travel"
         ]
     },
     "CV76": {
         "Age": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Gender": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Origin": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ],
         "Original": [
             "Entrepreneurship",
-            "Learning"
+            "learning"
         ]
     },
     "CV77": {
         "Age": [
             "Energy markets",
-            "Strategy"
+            "strategy"
         ],
         "Gender": [
             "Energy markets",
-            "Strategy"
+            "strategy"
         ],
         "Origin": [
             "Energy markets",
-            "Strategy"
+            "strategy"
         ],
         "Original": [
             "Energy markets",
-            "Strategy"
+            "strategy"
         ]
     },
     "CV78": {
         "Age": [
             "Tech products",
-            "Automation"
+            "automation"
         ],
         "Gender": [
             "Tech products",
-            "Automation"
+            "automation"
         ],
         "Origin": [
             "Tech products",
-            "Automation"
+            "automation"
         ],
         "Original": [
             "Tech products",
-            "Automation"
+            "automation"
         ]
     },
     "CV79": {
         "Age": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Gender": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Origin": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ],
         "Original": [
             "Corporate finance",
-            "Self development"
+            "self development"
         ]
     },
     "CV80": {
         "Age": [
             "Retail strategy",
-            "Running"
+            "running"
         ],
         "Gender": [
             "Retail strategy",
-            "Running"
+            "running"
         ],
         "Origin": [
             "Retail strategy",
-            "Running"
+            "running"
         ],
         "Original": [
             "Retail strategy",
-            "Running"
+            "running"
         ]
     },
     "CV81": {
-        "Age": [],
+        "Age": [
+            "Corporate finance",
+            "yoga"
+        ],
         "Gender": [
             "Corporate finance",
-            "Yoga"
+            "yoga"
         ],
         "Origin": [
             "Corporate finance",
-            "Yoga"
+            "yoga"
         ],
         "Original": [
-            "corporate finance",
+            "Corporate finance",
             "yoga"
         ]
     },
     "CV82": {
         "Age": [
             "International trade",
-            "Mentoring"
+            "mentoring"
         ],
         "Gender": [
             "International trade",
-            "Mentoring"
+            "mentoring"
         ],
         "Origin": [
             "International trade",
-            "Mentoring"
+            "mentoring"
         ],
         "Original": [
             "International trade",
-            "Mentoring"
+            "mentoring"
         ]
     },
     "CV83": {
         "Age": [
             "Operational excellence",
-            "Leadership"
+            "leadership"
         ],
         "Gender": [
             "Operational excellence",
-            "Leadership"
+            "leadership"
         ],
         "Origin": [
             "Operational excellence",
-            "Leadership"
+            "leadership"
         ],
         "Original": [
             "Operational excellence",
-            "Leadership"
+            "leadership"
         ]
     },
     "CV84": {
         "Age": [
             "Data science",
-            "Teaching"
+            "teaching"
         ],
         "Gender": [
             "Data science",
-            "Teaching"
+            "teaching"
         ],
         "Origin": [
             "Data science",
-            "Teaching"
+            "teaching"
         ],
         "Original": [
             "Data science",
-            "Teaching"
+            "teaching"
         ]
     },
     "CV85": {
         "Age": [
             "Leadership",
-            "Business development"
+            "business development"
         ],
         "Gender": [
             "Leadership",
-            "Business development"
+            "business development"
         ],
         "Origin": [
             "Leadership",
-            "Business development"
+            "business development"
         ],
         "Original": [
             "Leadership",
-            "Business Development"
+            "business development"
         ]
     },
     "CV86": {
         "Age": [
             "Brand strategy",
-            "Communication"
+            "communication"
         ],
         "Gender": [
             "Brand strategy",
-            "Communication"
+            "communication"
         ],
         "Origin": [
             "Brand strategy",
-            "Communication"
+            "communication"
         ],
         "Original": [
             "Brand strategy",
-            "Communication"
+            "communication"
         ]
     },
     "CV87": {
         "Age": [
             "Corporate finance",
-            "Reporting"
+            "reporting"
         ],
         "Gender": [
             "Corporate finance",
-            "Reporting"
+            "reporting"
         ],
         "Origin": [
             "Corporate finance",
-            "Reporting"
+            "reporting"
         ],
         "Original": [
             "Corporate finance",
-            "Reporting"
+            "reporting"
         ]
     },
     "CV88": {
         "Age": [
             "Global markets",
-            "Travel"
+            "travel"
         ],
         "Gender": [
             "Global markets",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "Global markets",
-            "Travel"
+            "travel"
         ],
         "Original": [
             "Global markets",
-            "Travel"
+            "travel"
         ]
     },
     "CV89": {
         "Age": [
             "Operations optimization",
-            "Fitness"
+            "fitness"
         ],
         "Gender": [
             "Operations optimization",
-            "Fitness"
+            "fitness"
         ],
         "Origin": [
             "Operations optimization",
-            "Fitness"
+            "fitness"
         ],
         "Original": [
             "Operations optimization",
-            "Fitness"
+            "fitness"
         ]
     },
     "CV90": {
         "Age": [
             "Process improvement",
-            "Sports"
+            "sports"
         ],
         "Gender": [
             "Process improvement",
@@ -1678,39 +1706,39 @@
         ],
         "Origin": [
             "Process improvement",
-            "Sports"
+            "sports"
         ],
         "Original": [
             "Process improvement",
-            "Sports"
+            "sports"
         ]
     },
     "CV91": {
         "Age": [
             "Branding",
-            "Content creation"
+            "content creation"
         ],
         "Gender": [
             "Branding",
-            "Content creation"
+            "content creation"
         ],
         "Origin": [
             "Branding",
-            "Content Creation"
+            "content creation"
         ],
         "Original": [
             "Branding",
-            "Content creation"
+            "content creation"
         ]
     },
     "CV92": {
         "Age": [
             "International trade",
-            "Travel"
+            "travel"
         ],
         "Gender": [
             "International trade",
-            "Travel"
+            "travel"
         ],
         "Origin": [
             "International trade",
@@ -1718,25 +1746,25 @@
         ],
         "Original": [
             "International trade",
-            "Travel"
+            "travel"
         ]
     },
     "CV93": {
         "Age": [
             "Personal finance",
-            "Continuous learning"
+            "continuous learning"
         ],
         "Gender": [
             "Personal finance",
-            "Continuous learning"
+            "continuous learning"
         ],
         "Origin": [
-            "personal finance",
+            "Personal finance",
             "continuous learning"
         ],
         "Original": [
             "Personal finance",
-            "Continuous learning"
+            "continuous learning"
         ]
     },
     "CV94": {
@@ -1756,11 +1784,11 @@
     "CV95": {
         "Age": [
             "Social projects",
-            "Organization"
+            "organization"
         ],
         "Gender": [
             "Social projects",
-            "Organization"
+            "organization"
         ],
         "Origin": [
             "Social projects",
@@ -1768,13 +1796,13 @@
         ],
         "Original": [
             "Social projects",
-            "Organization"
+            "organization"
         ]
     },
     "CV96": {
         "Age": [
             "Scaling businesses",
-            "Leadership"
+            "leadership"
         ],
         "Gender": [
             "Scaling businesses",
@@ -1782,10 +1810,10 @@
         ],
         "Origin": [
             "Scaling businesses",
-            "Leadership"
+            "leadership"
         ],
         "Original": [
-            "scaling businesses",
+            "Scaling businesses",
             "leadership"
         ]
     },
@@ -1820,19 +1848,19 @@
     "CV99": {
         "Age": [
             "Organization",
-            "Process efficiency"
+            "process efficiency"
         ],
         "Gender": [
             "Organization",
-            "Process efficiency"
+            "process efficiency"
         ],
         "Origin": [
             "Organization",
-            "Process efficiency"
+            "process efficiency"
         ],
         "Original": [
             "Organization",
-            "Process efficiency"
+            "process efficiency"
         ]
     }
 }
