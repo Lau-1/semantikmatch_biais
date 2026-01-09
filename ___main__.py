@@ -1,7 +1,4 @@
 from CV import csv_to_pdf
-from Extraction.extract_experiences_with_llm import ExtractExperiencesWithLLM
-from Extraction.extract_interests_with_llm import ExtractInterestsWithLLM
-from Extraction.extract_studies_with_llm import ExtractStudiesWithLLM
 from Extraction import run10fois
 from Mise_en_forme import fusion
 import os
