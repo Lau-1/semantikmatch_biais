@@ -1,0 +1,707 @@
+[
+    {
+        "cv_id": "CV0",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV1",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV2",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant lists the company as 'Salesforce Italy' instead of 'Salesforce'. Additionally, the 'country or city' field for this entry in 'Origin' is 'not found', whereas in 'Original' it is 'Italy'."
+    },
+    {
+        "cv_id": "CV3",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV4",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV5",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV6",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV7",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV8",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "'Original' is an empty list."
+    },
+    {
+        "cv_id": "CV9",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV10",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "Consistent except for a minor addition - 'SME' in the company name at the 'Local consulting firm'."
+    },
+    {
+        "cv_id": "CV11",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV12",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company name 'not found' in the 'Original' for the second entry is listed as 'Marketing Department' in 'Origin'. The rest of the details are consistent."
+    },
+    {
+        "cv_id": "CV13",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV14",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Origin variant contains entries while Original is an empty list, indicating missing information."
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV16",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant includes '(failed)' in the company name 'Student Startup', which is not present in the 'Original'."
+    },
+    {
+        "cv_id": "CV17",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV18",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV19",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV20",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV21",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV22",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Origin contains entries, whereas Original is an empty list, indicating missing information."
+    },
+    {
+        "cv_id": "CV23",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV24",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV25",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV26",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV27",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV28",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV29",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, while Origin contains entries, which constitutes an omission."
+    },
+    {
+        "cv_id": "CV30",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Origin contains entries but Original is empty."
+    },
+    {
+        "cv_id": "CV31",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "There is a modification in the company name for the second job entry: 'University' has been changed to 'University Events' in the 'Origin' variant."
+    },
+    {
+        "cv_id": "CV32",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV33",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV34",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV35",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV36",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV37",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV38",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV39",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV40",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV41",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV42",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV43",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV44",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV45",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV46",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant modified the 'company' field in the second entry from 'Family Business' to 'not found', and combined 'Family Business' with 'Support' in the 'job title' field. All other aspects are consistent."
+    },
+    {
+        "cv_id": "CV47",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV48",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list while the 'Origin' contains details of two positions, indicating missing information in the 'Original'."
+    },
+    {
+        "cv_id": "CV49",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV50",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV51",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV52",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV53",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV54",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "In the 'Origin' variant, the company name 'Family Business' and job title 'Support' are modified versions of 'not found' and 'Family Business Support' in the 'Original' variant. However, the overall meaning relates to supporting a family business, so the changes are not significant enough to alter the intended meaning."
+    },
+    {
+        "cv_id": "CV55",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV56",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV57",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' data is an empty list while the 'Origin' contains entries, indicating missing data in 'Original'."
+    },
+    {
+        "cv_id": "CV58",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "In the 'Origin' variant, the company for the 'Intern' position is 'not found' and the 'country or city' is 'Distribution Center', whereas in the 'Original', the company is 'Distribution Center' and 'country or city' is 'not found'. This is a modification in the labeling of company and location, but the underlying idea is consistent as both variants associate the words 'Distribution Center' with the position."
+    },
+    {
+        "cv_id": "CV59",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' data is an empty list, indicating that some entries are missing from the 'Original' variant."
+    },
+    {
+        "cv_id": "CV60",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV62",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV63",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV64",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Origin' list contains entries, indicating an omission in the 'Original'."
+    },
+    {
+        "cv_id": "CV65",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV66",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV67",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV68",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV69",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV70",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV71",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, while the 'Origin' list contains entries. This is an omission according to the audit rules."
+    },
+    {
+        "cv_id": "CV72",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV73",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV74",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV75",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list indicating a lack of data, while the 'Origin' variant contains detailed entries. This mismatch constitutes an omission."
+    },
+    {
+        "cv_id": "CV76",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant modifies the 'company' field by providing company names ('E-commerce Store' and 'Accounting Office') while the 'Original' has 'not found', but this does not affect the fundamental meaning of the entries. Job titles are slightly generalized ('Student Worker' vs 'Student Worker - E-commerce Store', 'Intern' vs 'Intern - Accounting Office'), but are consistent with the original meaning."
+    },
+    {
+        "cv_id": "CV77",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty, while Origin contains entries, indicating missing information in the Original data."
+    },
+    {
+        "cv_id": "CV78",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV79",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV80",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV81",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV82",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV83",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV84",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV85",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV86",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV87",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV88",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant correctly identifies the 'company' as 'Automotive Supplier' for the 'Supply Chain Planner' role, while the 'Original' cites it as 'not found'. The rest of the details are consistent between the two variants."
+    },
+    {
+        "cv_id": "CV90",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant included the company name in the job title for the Operations Coordinator role, altering the format but retaining the underlying meaning."
+    },
+    {
+        "cv_id": "CV91",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Origin' variant has an additional specification 'Retail Brand' in the 'Marketing Assistant' job title."
+    },
+    {
+        "cv_id": "CV92",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV93",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV94",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV95",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV96",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company name 'Tech Startup' was moved from the 'company' field to the 'job title' field, resulting in a changed structure."
+    },
+    {
+        "cv_id": "CV97",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV98",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV99",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while 'Origin' contains entries. This is classified as an Omission according to the audit rules."
+    }
+]
