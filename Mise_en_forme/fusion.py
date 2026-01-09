@@ -3,7 +3,7 @@ import re
 import os
 
 # --- Dossiers racine ---
-EXTRACTION_BASE_DIR = "Extraction/data"
+EXTRACTION_BASE_DIR = "Runs"
 OUTPUT_BASE_DIR = "Mise_en_forme/data"
 
 BIAISES = ["age", "genre", "origin"]
