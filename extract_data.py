@@ -17,9 +17,9 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
         firstname = candidat.get('agg_firstname', '')
         lastname = candidat.get('agg_lastname', '')
         nom_complet = f"{firstname} {lastname}".strip()
-        
+
         mapping_criteres = {c['id']: c['custom_name'] for c in candidat.get('criterias', [])}
-        
+
         # On utilise un dictionnaire temporaire pour stocker les sections trouvées
         sections_trouvees = {}
         for resultat in candidat.get('criteria_result', []):
@@ -36,12 +36,12 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
             "List of studies",
             "List of personal interests"
         ]
-        
+
         cv_ordonne = {}
         for cle in ordre_cles:
             if cle in sections_trouvees:
                 cv_ordonne[cle] = sections_trouvees[cle]
-        
+
         resultat_final[nom_complet] = cv_ordonne
 
     # 3. Tri final des CV par ordre croissant (ex: CV0, CV1, CV2...)
@@ -59,4 +59,4 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
     print(f"✅ Extraction et tri terminés. Fichier généré : {chemin_sortie}")
 
 if __name__ == "__main__":
-    extraire_donnees_ordonnees('input.json', 'extracted_cv_sorted.json')
+    extraire_donnees_ordonnees('justin/input.json', 'extracted_cv_sorted.json')
