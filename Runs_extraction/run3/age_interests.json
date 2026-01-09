@@ -1,0 +1,603 @@
+{
+    "CV27 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "It seems I couldn't find any specific mentions of personal interests in the document. Could you provide more context or specify another section to search for this information?"
+    },
+    "CV45 Age.pdf": {
+        "personal_interests": [
+            "Public policy",
+            "Analysis"
+        ]
+    },
+    "CV55 Age.pdf": {
+        "personal_interests": [
+            "Data modeling",
+            "Analytics"
+        ]
+    },
+    "CV18 Age.pdf": {
+        "personal_interests": [
+            "Economic development",
+            "Public speaking"
+        ]
+    },
+    "CV37 Age.pdf": {
+        "personal_interests": [
+            "Sustainability",
+            "Yoga"
+        ]
+    },
+    "CV97 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "It seems that the document does not contain any sections explicitly labeled as \"personal interests\" of the candidate. If you can guide me to a specific part of the document that might contain this information, or if you have another query, please let me know!"
+    },
+    "CV3 Age.pdf": {
+        "personal_interests": [
+            "Photography",
+            "Fashion Marketing",
+            "Content Creation"
+        ]
+    },
+    "CV87 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Reporting"
+        ]
+    },
+    "CV63 Age.pdf": {
+        "personal_interests": [
+            "Event marketing",
+            "Communication"
+        ]
+    },
+    "CV73 Age.pdf": {
+        "personal_interests": [
+            "Social media",
+            "Communication"
+        ]
+    },
+    "CV11 Age.pdf": {
+        "personal_interests": [
+            "personal finance",
+            "pilates",
+            "budgeting"
+        ]
+    },
+    "CV2 Age.pdf": {
+        "personal_interests": [
+            "Cycling",
+            "Geopolitics",
+            "Luxury industry trends"
+        ]
+    },
+    "CV62 Age.pdf": {
+        "personal_interests": [
+            "Operations optimization",
+            "Reading"
+        ]
+    },
+    "CV96 Age.pdf": {
+        "personal_interests": [
+            "Scaling businesses",
+            "Leadership"
+        ]
+    },
+    "CV86 Age.pdf": {
+        "personal_interests": [
+            "Brand strategy",
+            "Communication"
+        ]
+    },
+    "CV72 Age.pdf": {
+        "personal_interests": [
+            "Analytics",
+            "Automation"
+        ]
+    },
+    "CV44 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "I couldn't find any information about personal interests in the uploaded files. Could you specify a different term or provide more context?"
+    },
+    "CV26 Age.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Social impact"
+        ]
+    },
+    "CV10 Age.pdf": {
+        "personal_interests": [
+            "Travel",
+            "Football",
+            "Online courses"
+        ]
+    },
+    "CV36 Age.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Networking"
+        ]
+    },
+    "CV54 Age.pdf": {
+        "personal_interests": [
+            "Manufacturing systems",
+            "Learning"
+        ]
+    },
+    "CV84 Age.pdf": {
+        "personal_interests": [
+            "Data science",
+            "Teaching"
+        ]
+    },
+    "CV19 Age.pdf": {
+        "candidate_personal_interests": [
+            "Professional growth",
+            "Finance books"
+        ]
+    },
+    "CV94 Age.pdf": {
+        "personal_interests": [
+            "Local business development"
+        ]
+    },
+    "CV0 Age.pdf": {
+        "personal_interests": [
+            "Football",
+            "Macroeconomics",
+            "Entrepreneurship",
+            "Endurance running"
+        ]
+    },
+    "CV12 Age.pdf": {
+        "personal_interests": [
+            "Content creation",
+            "Social media",
+            "Photography"
+        ]
+    },
+    "CV60 Age.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Learning languages"
+        ]
+    },
+    "CV70 Age.pdf": {
+        "personal_interests": [
+            "Business development",
+            "Networking"
+        ]
+    },
+    "CV56 Age.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Business models"
+        ]
+    },
+    "CV9 Age.pdf": {
+        "personal_interests": [
+            "Professional development",
+            "Public speaking",
+            "Mentoring"
+        ]
+    },
+    "CV34 Age.pdf": {
+        "personal_interests": [
+            "Business strategy",
+            "Hiking"
+        ]
+    },
+    "CV46 Age.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Learning"
+        ]
+    },
+    "CV79 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Self development"
+        ]
+    },
+    "CV69 Age.pdf": {
+        "personal_interests": [
+            "Data visualization",
+            "Analytics"
+        ]
+    },
+    "CV24 Age.pdf": {
+        "personal_interests": [
+            "Process improvement",
+            "Sports"
+        ]
+    },
+    "CV57 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Self study"
+        ]
+    },
+    "CV8 Age.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Podcasts",
+            "Fintech innovation"
+        ]
+    },
+    "CV25 Age.pdf": {
+        "personal_interests": [
+            "Photography",
+            "Travel Branding"
+        ]
+    },
+    "CV47 Age.pdf": {
+        "personal_interests": [
+            "Process optimization",
+            "Yoga"
+        ]
+    },
+    "CV35 Age.pdf": {
+        "personal_interests": [
+            "Social impact",
+            "Project management"
+        ]
+    },
+    "CV85 Age.pdf": {
+        "personal_interests": [
+            "Leadership",
+            "Business Development"
+        ]
+    },
+    "CV78 Age.pdf": {
+        "personal_interests": [
+            "Tech products",
+            "Automation"
+        ]
+    },
+    "CV68 Age.pdf": {
+        "personal_interests": [
+            "Process efficiency",
+            "Fitness"
+        ]
+    },
+    "CV95 Age.pdf": {
+        "personal_interests": [
+            "Social projects",
+            "Organization"
+        ]
+    },
+    "CV1 Age.pdf": {
+        "personal_interests": [
+            "Stock markets",
+            "Yoga",
+            "Public speaking",
+            "Financial literacy initiatives"
+        ]
+    },
+    "CV71 Age.pdf": {
+        "personal_interests": [
+            "Economic policy",
+            "sustainability"
+        ]
+    },
+    "CV13 Age.pdf": {
+        "personal_interests": [
+            "Startups",
+            "networking events",
+            "yoga"
+        ]
+    },
+    "CV61 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Analytics"
+        ]
+    },
+    "CV16 Age.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Public policy",
+            "Mentoring"
+        ]
+    },
+    "CV64 Age.pdf": {
+        "personal_interests": [
+            "Case interviews",
+            "Geopolitics"
+        ]
+    },
+    "CV74 Age.pdf": {
+        "personal_interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
+    },
+    "CV90 Age.pdf": {
+        "personal_interests": [
+            "Process improvement",
+            "sports"
+        ]
+    },
+    "CV80 Age.pdf": {
+        "personal_interests": [
+            "Retail strategy",
+            "Running"
+        ]
+    },
+    "CV39 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "learning languages"
+        ]
+    },
+    "CV29 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Sustainability"
+        ]
+    },
+    "CV52 Age.pdf": {
+        "personal_interests": []
+    },
+    "CV4 Age.pdf": {
+        "personal_interests": [
+            "Martial arts",
+            "Process optimization",
+            "Productivity systems"
+        ]
+    },
+    "CV42 Age.pdf": {
+        "personal_interests": [
+            "Data storytelling",
+            "Jogging"
+        ]
+    },
+    "CV99 Age.pdf": {
+        "personal_interests": [
+            "Organization",
+            "Process efficiency"
+        ]
+    },
+    "CV20 Age.pdf": {
+        "personal_interests": [
+            "Travel",
+            "Economics podcasts"
+        ]
+    },
+    "CV30 Age.pdf": {
+        "personal_interests": [
+            "Personal finance",
+            "Cycling"
+        ]
+    },
+    "CV43 Age.pdf": {
+        "personal_interests": [
+            "Digital branding",
+            "Photography"
+        ]
+    },
+    "CV53 Age.pdf": {
+        "personal_interests": [
+            "Brand storytelling",
+            "Design"
+        ]
+    },
+    "CV89 Age.pdf": {
+        "personal_interests": [
+            "Operations optimization",
+            "Fitness"
+        ]
+    },
+    "CV31 Age.pdf": {
+        "personal_interests": [
+            "Content creation",
+            "Branding"
+        ]
+    },
+    "CV21 Age.pdf": {
+        "personal_interests": [
+            "Women entrepreneurship",
+            "Reading"
+        ]
+    },
+    "CV88 Age.pdf": {
+        "personal_interests": [
+            "Global markets",
+            "Travel"
+        ]
+    },
+    "CV98 Age.pdf": {
+        "personal_interests": [
+            "Humanitarian action"
+        ]
+    },
+    "CV75 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "It seems that the document doesn't specifically list the personal interests of the candidate. Could you guide me on where to find this information within the document or if there's another aspect of the document I should look at?"
+    },
+    "CV17 Age.pdf": {
+        "personal_interests": [
+            "Data visualization",
+            "Hiking"
+        ]
+    },
+    "CV28 Age.pdf": {
+        "personal_interests": [
+            "Business strategy",
+            "Fitness"
+        ]
+    },
+    "CV65 Age.pdf": {
+        "personal_interests": [
+            "International cooperation",
+            "Volunteering"
+        ]
+    },
+    "CV5 Age.pdf": {
+        "personal_interests": [
+            "International relations",
+            "Volunteering",
+            "Travel"
+        ]
+    },
+    "CV38 Age.pdf": {
+        "personal_interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
+    },
+    "CV91 Age.pdf": {
+        "personal_interests": [
+            "Branding",
+            "Content creation"
+        ]
+    },
+    "CV81 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Yoga"
+        ]
+    },
+    "CV33 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "I couldn't find any information on personal interests or hobbies in the provided document. If you have specific sections or terms within the document you'd like me to search, please let me know!"
+    },
+    "CV23 Age.pdf": {
+        "personal_interests": [
+            "case competitions",
+            "debating"
+        ]
+    },
+    "CV51 Age.pdf": {
+        "personal_interests": [
+            "Talent development",
+            "Wellbeing"
+        ]
+    },
+    "CV41 Age.pdf": {
+        "personal_interests": [
+            "Financial inclusion",
+            "Reading"
+        ]
+    },
+    "CV15 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "I could not find specific information about the candidate's personal interests in the uploaded document. Please try checking the document to identify sections that include this information."
+    },
+    "CV67 Age.pdf": {
+        "personal_interests": [
+            "Banking",
+            "Learning"
+        ]
+    },
+    "CV77 Age.pdf": {
+        "personal_interests": [
+            "Energy markets",
+            "Strategy"
+        ]
+    },
+    "CV7 Age.pdf": {
+        "personal_interests": [
+            "case competitions",
+            "sustainability strategy",
+            "Pilates"
+        ]
+    },
+    "CV48 Age.pdf": {
+        "personal_interests": [
+            "International markets",
+            "News"
+        ]
+    },
+    "CV58 Age.pdf": {
+        "personal_interests": [
+            "Operations excellence",
+            "Cycling"
+        ]
+    },
+    "CV83 Age.pdf": {
+        "personal_interests": [
+            "Operational excellence",
+            "Leadership"
+        ]
+    },
+    "CV93 Age.pdf": {
+        "personal_interests": [
+            "Personal finance",
+            "Continuous learning"
+        ]
+    },
+    "CV49 Age.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Self development"
+        ]
+    },
+    "CV76 Age.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Learning"
+        ]
+    },
+    "CV66 Age.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Innovation"
+        ]
+    },
+    "CV14 Age.pdf": {
+        "personal_interests": [
+            "Running",
+            "Process optimization",
+            "Podcasts"
+        ]
+    },
+    "CV82 Age.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Mentoring"
+        ]
+    },
+    "CV59 Age.pdf": {
+        "personal_interests": [
+            "International cooperation",
+            "Development"
+        ]
+    },
+    "CV6 Age.pdf": {
+        "personal_interests": [
+            "Data science competitions",
+            "Cycling",
+            "Technology trends"
+        ]
+    },
+    "CV22 Age.pdf": {
+        "personal_interests": [
+            "Data projects",
+            "Automation"
+        ]
+    },
+    "CV92 Age.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Travel"
+        ]
+    },
+    "CV50 Age.pdf": {
+        "personal_interests": [
+            "Cross-border trade",
+            "Travel"
+        ]
+    },
+    "CV32 Age.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Travel"
+        ]
+    },
+    "CV40 Age.pdf": {
+        "personal_interests": [
+            "Hospitality trends",
+            "Travel"
+        ]
+    }
+}

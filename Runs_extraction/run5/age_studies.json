@@ -1,0 +1,889 @@
+{
+    "CV27 Age.pdf": [
+        {
+            "university": "Lebanese American University",
+            "level_of_degree": "Bachelor",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "ESADE Business School",
+            "level_of_degree": "not found",
+            "field": "Global Management",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV55 Age.pdf": [
+        {
+            "university": "Charles University",
+            "level_of_degree": "Bachelor",
+            "field": "Applied Mathematics",
+            "country or city": "Prague",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Economics",
+            "level_of_degree": "Master",
+            "field": "Data and Business Analysis",
+            "country or city": "Prague",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV45 Age.pdf": [
+        {
+            "university": "University of Ljubljana",
+            "level_of_degree": "Bachelor",
+            "field": "Business and Organization",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV37 Age.pdf": {
+        "university": "Lund University",
+        "level_of_degree": "Bachelor",
+        "field": "Business and Economics",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV18 Age.pdf": {
+        "university": "University of Cape Town",
+        "level_of_degree": "Bachelor of Commerce",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV3 Age.pdf": {
+        "university": "Tecnológico de Monterrey",
+        "level_of_degree": "Bachelor",
+        "field": "Marketing",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV87 Age.pdf": {
+        "university": "KU Leuven",
+        "level_of_degree": "Bachelor",
+        "field": "Business Economics",
+        "country or city": "not found",
+        "dates": "2016 - 2019"
+    },
+    "CV97 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "Here is the extracted information from the 'education' section:\n\n\n{\n  \"university\": \"Private Training Institute\",\n  \"level_of_degree\": \"Professional Certificate\",\n  \"field\": \"Project Management\",\n  \"country or city\": \"not found\",\n  \"dates\": \"2017 - 2018\"\n}\n\nThis entry does require a review as \"not found\" is present in the \"country or city\" field."
+    },
+    "CV73 Age.pdf": [
+        {
+            "university": "University of Tuzla",
+            "level_of_degree": "Bachelor",
+            "field": "Business and Marketing",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV63 Age.pdf": {
+        "university": "Corvinus University of Budapest",
+        "level_of_degree": "Bachelor",
+        "field": "Commerce and Marketing",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV11 Age.pdf": [
+        {
+            "university": "University of Warsaw",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of Warsaw",
+            "level_of_degree": "Master",
+            "field": "Accounting",
+            "country or city": "not found",
+            "dates": "2022 - 2023"
+        }
+    ],
+    "CV96 Age.pdf": [
+        {
+            "university": "Public High School Sao Paulo",
+            "level_of_degree": "High School Diploma",
+            "field": "not found",
+            "country or city": "Sao Paulo",
+            "dates": "2008 - 2011"
+        }
+    ],
+    "CV86 Age.pdf": [
+        {
+            "university": "University of Valencia",
+            "level_of_degree": "Bachelor",
+            "field": "Marketing",
+            "country or city": "not found",
+            "dates": "2015 - 2019"
+        }
+    ],
+    "CV2 Age.pdf": {
+        "university": "Bocconi University",
+        "level_of_degree": "Bachelor",
+        "field": "Economics and Management",
+        "country or city": "Milan",
+        "dates": "2019 - 2022"
+    },
+    "CV36 Age.pdf": [
+        {
+            "university": "University of Belgrade",
+            "level_of_degree": "Bachelor",
+            "field": "Management",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV72 Age.pdf": [
+        {
+            "university": "Al-Farabi Kazakh National University",
+            "level_of_degree": "Bachelor",
+            "field": "Information Systems",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Local Technical University",
+            "level_of_degree": "Master",
+            "field": "Data Analytics",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV62 Age.pdf": [
+        {
+            "university": "Lahore University of Management Sciences",
+            "level_of_degree": "Bachelor",
+            "field": "Business Administration",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV10 Age.pdf": [
+        {
+            "university": "University of Tunis El Manar",
+            "level_of_degree": "Bachelor Degree in Management",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Barcelona",
+            "level_of_degree": "Summer School",
+            "field": "Business Analytics",
+            "country or city": "not found",
+            "dates": "Summer 2022 (6 weeks)"
+        }
+    ],
+    "CV26 Age.pdf": [
+        {
+            "university": "University of Lagos",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV44 Age.pdf": {
+        "university": "Universidad Autonoma de Nuevo Leon",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV54 Age.pdf": [
+        {
+            "university": "Ain Shams University",
+            "level_of_degree": "Bachelor",
+            "field": "Industrial Management",
+            "country or city": "not found",
+            "dates": "2021 - Present"
+        }
+    ],
+    "CV84 Age.pdf": [
+        {
+            "university": "Higher School of Economics",
+            "level_of_degree": "Bachelor",
+            "field": "Applied Mathematics",
+            "country or city": "not found",
+            "dates": "2012 - 2016"
+        },
+        {
+            "university": "Local Technical University",
+            "level_of_degree": "Master",
+            "field": "Data Science",
+            "country or city": "not found",
+            "dates": "2016 - 2018"
+        }
+    ],
+    "CV19 Age.pdf": [
+        {
+            "university": "National Economics University",
+            "level_of_degree": "Bachelor",
+            "field": "Finance",
+            "country or city": "Hanoi",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Local Private University",
+            "level_of_degree": "Master",
+            "field": "Banking & Finance",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV94 Age.pdf": [
+        {
+            "university": "Kenya Institute of Management",
+            "level_of_degree": "Diploma",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2014 - 2016"
+        }
+    ],
+    "CV0 Age.pdf": {
+        "university": "Fundação Getulio Vargas (FGV)",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "São Paulo",
+        "dates": "2019 - 2023"
+    },
+    "CV12 Age.pdf": [
+        {
+            "university": "Universidad de los Andes",
+            "level_of_degree": "Bachelor in Business Administration",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        },
+        {
+            "university": "ESCP Business School",
+            "level_of_degree": "Summer Program - Digital Marketing",
+            "field": "not found",
+            "country or city": "Paris",
+            "dates": "Summer 2023"
+        }
+    ],
+    "CV9 Age.pdf": [
+        {
+            "university": "Foreign Trade University",
+            "level_of_degree": "Bachelor",
+            "field": "International Business",
+            "country or city": "Hanoi",
+            "dates": "2021 - 2024"
+        }
+    ],
+    "CV70 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "Here is the extracted information from the 'education' section of the provided document:\n\n\n[\n  {\n    \"university\": \"Yerevan State University\",\n    \"level_of_degree\": \"Bachelor\",\n    \"field\": \"Management\",\n    \"country or city\": \"not found\",\n    \"dates\": \"2019 - 2022\"\n  }\n]\n\n\nNote: The field \"country or city\" is marked as \"not found\" as there was no explicit geographic information provided in the 'education' section."
+    },
+    "CV46 Age.pdf": {
+        "university": "North South University",
+        "level_of_degree": "Bachelor in Business Administration",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV60 Age.pdf": {
+        "university": "Universidad San Francisco de Quito",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV56 Age.pdf": {
+        "university": "Universidad ORT Uruguay",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV24 Age.pdf": {
+        "university": "National University of Sciences and Technology",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV34 Age.pdf": {
+        "university": "WU Vienna University of Economics and Business",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV79 Age.pdf": [
+        {
+            "university": "University of Kragujevac",
+            "level_of_degree": "Bachelor",
+            "field": "Business Economics",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV69 Age.pdf": {
+        "university": "University of Sofia",
+        "level_of_degree": "Bachelor",
+        "field": "Applied Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV47 Age.pdf": {
+        "university": "University of Applied Sciences Bremen",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics Management",
+        "country or city": "not found",
+        "dates": "2018 - 2021"
+    },
+    "CV57 Age.pdf": {
+        "university": "University of Tehran",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV8 Age.pdf": {
+        "university": "University of Buenos Aires",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV35 Age.pdf": {
+        "university": "University of Ghana",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2018 - 2021"
+    },
+    "CV25 Age.pdf": [
+        {
+            "university": "University of Bologna",
+            "level_of_degree": "Bachelor",
+            "field": "Communication Sciences",
+            "country or city": "not found",
+            "dates": "2017 - 2020"
+        },
+        {
+            "university": "Private Business School",
+            "level_of_degree": "Master",
+            "field": "Digital Marketing",
+            "country or city": "not found",
+            "dates": "2020 - 2021"
+        }
+    ],
+    "CV78 Age.pdf": {
+        "university": "Tampere University",
+        "level_of_degree": "Bachelor",
+        "field": "Information Technology",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV68 Age.pdf": {
+        "university": "University of Rijeka",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV85 Age.pdf": {
+        "university": "Athens University of Economics and Business",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2010 - 2014"
+    },
+    "CV95 Age.pdf": {
+        "university": "Centre de Formation Prive",
+        "level_of_degree": "BTS Gestion",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2019 - 2021"
+    },
+    "CV1 Age.pdf": {
+        "university": "St. Xavier's College",
+        "level_of_degree": "Bachelor of Commerce",
+        "field": "Finance",
+        "country or city": "Mumbai",
+        "dates": "2020 - 2023"
+    },
+    "CV71 Age.pdf": {
+        "university": "University of Costa Rica",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV16 Age.pdf": {
+        "university": "not found",
+        "level_of_degree": "not found",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "not found"
+    },
+    "CV13 Age.pdf": {
+        "university": "American University in Cairo",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV61 Age.pdf": [
+        {
+            "university": "University of Novi Sad",
+            "level_of_degree": "Bachelor in Economics",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Private University",
+            "level_of_degree": "Master in Financial Management",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV39 Age.pdf": {
+        "university": "University of Zagreb",
+        "level_of_degree": "Bachelor",
+        "field": "Business Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV74 Age.pdf": {
+        "university": "De La Salle University",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV64 Age.pdf": [
+        {
+            "university": "HEC Montreal",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        }
+    ],
+    "CV80 Age.pdf": [
+        {
+            "university": "Universite de Rennes 1",
+            "level_of_degree": "Licence",
+            "field": "Economie et Gestion",
+            "country or city": "not found",
+            "dates": "2017 - 2020"
+        },
+        {
+            "university": "IUT de Rennes",
+            "level_of_degree": "BUT",
+            "field": "Gestion des Entreprises et des Administrations",
+            "country or city": "not found",
+            "dates": "2015 - 2017"
+        }
+    ],
+    "CV90 Age.pdf": [
+        {
+            "university": "IUT de Tours",
+            "level_of_degree": "not found",
+            "field": "Gestion des Entreprises et des Administrations",
+            "country or city": "not found",
+            "dates": "2017 - 2019"
+        }
+    ],
+    "CV52 Age.pdf": {
+        "university": "Poznan University of Economics",
+        "level_of_degree": "Bachelor in Finance and Accounting",
+        "field": "Finance and Accounting",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV99 Age.pdf": {
+        "error": "Education section not found in the provided document.",
+        "flag_for_review": true
+    },
+    "CV4 Age.pdf": [
+        {
+            "university": "Keio University",
+            "level_of_degree": "Bachelor",
+            "field": "Industrial Engineering",
+            "country or city": "Tokyo",
+            "dates": "2018 - 2022"
+        }
+    ],
+    "CV29 Age.pdf": {
+        "university": "Universidad del Pacifico",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV42 Age.pdf": {
+        "university": "University of Gdansk",
+        "level_of_degree": "Bachelor",
+        "field": "Statistics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV89 Age.pdf": {
+        "university": "University of Zilina",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics",
+        "country or city": "not found",
+        "dates": "2016 - 2019"
+    },
+    "CV20 Age.pdf": [
+        {
+            "university": "Pontificia Universidad Catolica de Chile",
+            "level_of_degree": "Bachelor",
+            "field": "Business Administration",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of British Columbia",
+            "level_of_degree": "not found",
+            "field": "International Business",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV53 Age.pdf": {
+        "university": "ESPM Sao Paulo",
+        "level_of_degree": "Bachelor",
+        "field": "Advertising",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV30 Age.pdf": {
+        "university": "University of National and World Economy",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV43 Age.pdf": {
+        "university": "University of Sousse",
+        "level_of_degree": "Bachelor",
+        "field": "Communication and Media",
+        "country or city": "not found",
+        "dates": "2017 - 2020"
+    },
+    "CV88 Age.pdf": {
+        "education": "not found"
+    },
+    "CV31 Age.pdf": {
+        "university": "ISCTE Business School",
+        "level_of_degree": "Bachelor",
+        "field": "Marketing",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV21 Age.pdf": {
+        "university": "University of Jordan",
+        "level_of_degree": "Bachelor",
+        "field": "Finance",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV98 Age.pdf": {
+        "university": "Kabul High School",
+        "level_of_degree": "High School Diploma",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2007 - 2010"
+    },
+    "CV17 Age.pdf": [
+        {
+            "university": "University of Lyon",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        },
+        {
+            "university": "HEC Lausanne",
+            "level_of_degree": "not found",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV38 Age.pdf": {
+        "university": "ENCG Casablanca",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics and Transport",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV65 Age.pdf": {
+        "university": "Birzeit University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV75 Age.pdf": [
+        {
+            "university": "University of Carthage",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of Marseille",
+            "level_of_degree": "Summer School",
+            "field": "International Trade",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV28 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "[\n  {\n    \"university\": \"Cracow University of Economics\",\n    \"level_of_degree\": \"Bachelor\",\n    \"field\": \"Management\",\n    \"country or city\": \"not found\",\n    \"dates\": \"2021 - Present\"\n  }\n]\n\nThis entry doesn't require flagging for review, as \"not found\" appears only once in the extracted data."
+    },
+    "CV81 Age.pdf": [
+        {
+            "university": "Universite Paris Est Creteil",
+            "level_of_degree": "Licence",
+            "field": "Gestion",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "IUT de Creteil",
+            "level_of_degree": "BUT",
+            "field": "Gestion Comptable et Financiere",
+            "country or city": "not found",
+            "dates": "2016 - 2018"
+        }
+    ],
+    "CV91 Age.pdf": [
+        {
+            "university": "not found",
+            "level_of_degree": "BTS Communication",
+            "field": "not found",
+            "country or city": "Paris",
+            "dates": "2018 - 2020"
+        }
+    ],
+    "CV23 Age.pdf": {
+        "university": "University College Dublin",
+        "level_of_degree": "Bachelor",
+        "field": "Business Studies",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV51 Age.pdf": {
+        "education": "not found",
+        "level_of_degree": "not found",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "not found",
+        "flag_for_review": true
+    },
+    "CV5 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "{\n  \"university\": \"Al Akhawayn University\",\n  \"level_of_degree\": \"Bachelor\",\n  \"field\": \"Management\",\n  \"country or city\": \"Ifrane\",\n  \"dates\": \"2019 - 2022\"\n}\n \n\nThis entry from the \"education\" section in the document does not trigger a review as it has fewer than two \"not found\" instances."
+    },
+    "CV33 Age.pdf": {
+        "university": "Universidad Carlos III de Madrid",
+        "level_of_degree": "Bachelor",
+        "field": "Business and Data",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV41 Age.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "{\n  \"university\": \"University of Ilorin\",\n  \"level_of_degree\": \"Bachelor\",\n  \"field\": \"Banking and Finance\",\n  \"country or city\": \"not found\",\n  \"dates\": \"2020 - 2023\"\n}\n \n\nThis entry doesn't require a flag for review as it only contains \"not found\" once. The source of this information is from the file \"CV41 Age.pdf\"."
+    },
+    "CV67 Age.pdf": {
+        "university": "University of Oran",
+        "level_of_degree": "Bachelor",
+        "field": "Finance",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV77 Age.pdf": {
+        "university": "Bogazici University",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV15 Age.pdf": {
+        "university": "Bucharest University of Economic Studies",
+        "level_of_degree": "Bachelor",
+        "field": "International Business",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV7 Age.pdf": [
+        {
+            "university": "University of Warwick",
+            "level_of_degree": "Bachelor",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV58 Age.pdf": {
+        "education": [
+            {
+                "university": "Hanze University of Applied Sciences",
+                "level_of_degree": "Bachelor",
+                "field": "Logistics Management",
+                "country or city": "not found",
+                "dates": "2017 - 2021"
+            }
+        ]
+    },
+    "CV48 Age.pdf": {
+        "university": "University of Algiers",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV83 Age.pdf": [
+        {
+            "university": "Universidad Nacional de Colombia",
+            "level_of_degree": "Bachelor",
+            "field": "Industrial Engineering",
+            "country or city": "not found",
+            "dates": "2014 - 2019"
+        }
+    ],
+    "CV93 Age.pdf": {
+        "university": "Technical College Bucharest",
+        "level_of_degree": "Post-secondary Accounting Certificate",
+        "field": "Accounting",
+        "country or city": "not found",
+        "dates": "2016 - 2017"
+    },
+    "CV76 Age.pdf": {
+        "university": "Babes-Bolyai University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV66 Age.pdf": {
+        "university": "University of Montenegro",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV14 Age.pdf": [
+        {
+            "university": "Korea University",
+            "level_of_degree": "Bachelor",
+            "field": "Business Administration",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV49 Age.pdf": {
+        "university": "University of Montenegro",
+        "level_of_degree": "Bachelor",
+        "field": "Business Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV6 Age.pdf": [
+        {
+            "university": "University of Mannheim",
+            "level_of_degree": "Bachelor",
+            "field": "Business Informatics",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV59 Age.pdf": {
+        "education": [
+            {
+                "university": "University of Sarajevo",
+                "level_of_degree": "Bachelor",
+                "field": "Economics",
+                "country or city": "not found",
+                "dates": "2019 - 2022"
+            }
+        ]
+    },
+    "CV92 Age.pdf": {
+        "university": "Liceo Economico Sociale",
+        "level_of_degree": "High School Diploma",
+        "field": "Economics Track",
+        "country or city": "not found",
+        "dates": "2009 - 2014"
+    },
+    "CV32 Age.pdf": {
+        "university": "King Saud University",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV82 Age.pdf": [
+        {
+            "university": "Universite de Lille",
+            "level_of_degree": "Licence",
+            "field": "Economie",
+            "country or city": "not found",
+            "dates": "2016 - 2019"
+        },
+        {
+            "university": "IUT de Roubaix",
+            "level_of_degree": "BUT",
+            "field": "Techniques de Commercialisation",
+            "country or city": "not found",
+            "dates": "2014 - 2016"
+        }
+    ],
+    "CV22 Age.pdf": [
+        {
+            "university": "Technical University of Cluj-Napoca",
+            "level_of_degree": "Bachelor",
+            "field": "Computer Science",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Bucharest",
+            "level_of_degree": "Master",
+            "field": "Applied Data Science",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV50 Age.pdf": {
+        "university": "Ss. Cyril and Methodius University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "Skopje",
+        "dates": "2017 - 2021"
+    },
+    "CV40 Age.pdf": [
+        {
+            "university": "University of Malaga",
+            "level_of_degree": "Bachelor",
+            "field": "Tourism Management",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Private Business School",
+            "level_of_degree": "Master",
+            "field": "Hospitality Management",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ]
+}

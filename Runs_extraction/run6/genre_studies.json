@@ -1,0 +1,878 @@
+{
+    "CV8 Gender.pdf": [],
+    "CV35 Gender.pdf": {
+        "university": "University of Ghana",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2018 - 2021"
+    },
+    "CV60 Gender.pdf": {
+        "university": "Universidad San Francisco de Quito",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV83 Gender.pdf": {
+        "university": "Universidad Nacional de Colombia",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2014 - 2019"
+    },
+    "CV57 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "{\n  \"university\": \"University of Tehran\",\n  \"level_of_degree\": \"Bachelor\",\n  \"field\": \"Management\",\n  \"country or city\": \"not found\",\n  \"dates\": \"2020 - 2023\"\n}\n \n\nThis entry is flagged for review due to \"not found\" appearing more than twice."
+    },
+    "CV38 Gender.pdf": {
+        "university": "ENCG Casablanca",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics and Transport",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV29 Gender.pdf": {
+        "university": "Universidad del Pacifico",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV5 Gender.pdf": {
+        "university": "Al Akhawayn University",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "Ifrane",
+        "dates": "2019 - 2022"
+    },
+    "CV46 Gender.pdf": {
+        "university": "North South University",
+        "level_of_degree": "Bachelor in Business Administration",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV24 Gender.pdf": {
+        "university": "National University of Sciences and Technology",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV92 Gender.pdf": {
+        "university": "Liceo Economico Sociale",
+        "level_of_degree": "High School Diploma",
+        "field": "Economics Track",
+        "country or city": "not found",
+        "dates": "2009 - 2014"
+    },
+    "CV13 Gender.pdf": {
+        "university": "American University in Cairo",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV71 Gender.pdf": {
+        "university": "University of Costa Rica",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV97 Gender.pdf": {
+        "university": "Private Training Institute",
+        "level_of_degree": "Professional Certificate",
+        "field": "Project Management",
+        "country or city": "not found",
+        "dates": "2017 - 2018"
+    },
+    "CV0 Gender.pdf": {
+        "university": "Fundação Getulio Vargas (FGV)",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "São Paulo",
+        "dates": "2019 - 2023"
+    },
+    "CV68 Gender.pdf": {
+        "university": "University of Rijeka",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV43 Gender.pdf": {
+        "university": "University of Sousse",
+        "level_of_degree": "Bachelor",
+        "field": "Communication and Media",
+        "country or city": "not found",
+        "dates": "2017 - 2020"
+    },
+    "CV16 Gender.pdf": [
+        {
+            "university": "University of Porto",
+            "level_of_degree": "Bachelor",
+            "field": "Management",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Porto",
+            "level_of_degree": "Master",
+            "field": "Innovation & Entrepreneurship",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV21 Gender.pdf": {
+        "university": "University of Jordan",
+        "level_of_degree": "Bachelor",
+        "field": "Finance",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV74 Gender.pdf": {
+        "university": "De La Salle University",
+        "level_of_degree": "Bachelor in Industrial Engineering",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV52 Gender.pdf": {
+        "university": "Poznan University of Economics",
+        "level_of_degree": "Bachelor",
+        "field": "Finance and Accounting",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV65 Gender.pdf": {
+        "university": "Birzeit University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV30 Gender.pdf": {
+        "university": "University of National and World Economy",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV79 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "[\n  {\n    \"university\": \"University of Kragujevac\",\n    \"level_of_degree\": \"Bachelor\",\n    \"field\": \"Business Economics\",\n    \"country or city\": \"not found\",\n    \"dates\": \"2020 - 2023\"\n  }\n]\n \n\nThis entry wasn't flagged for review as 'not found' appeared less than three times. The extracted information is taken directly from the 'education' section of the document."
+    },
+    "CV81 Gender.pdf": [
+        {
+            "university": "Universite Paris Est Creteil",
+            "level_of_degree": "Licence",
+            "field": "Gestion",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "IUT de Creteil",
+            "level_of_degree": "BUT",
+            "field": "Gestion Comptable et Financiere",
+            "country or city": "not found",
+            "dates": "2016 - 2018"
+        }
+    ],
+    "CV86 Gender.pdf": {
+        "university": "University of Valencia",
+        "level_of_degree": "Bachelor",
+        "field": "Marketing",
+        "country or city": "not found",
+        "dates": "2015 - 2019"
+    },
+    "CV55 Gender.pdf": [
+        {
+            "university": "Charles University Prague",
+            "level_of_degree": "Bachelor",
+            "field": "Applied Mathematics",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Economics Prague",
+            "level_of_degree": "Master",
+            "field": "Data and Business Analysis",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV49 Gender.pdf": {
+        "university": "University of Montenegro",
+        "level_of_degree": "Bachelor",
+        "field": "Business Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV62 Gender.pdf": {
+        "university": "Lahore University of Management Sciences",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV37 Gender.pdf": [
+        {
+            "university": "Lund University",
+            "level_of_degree": "Bachelor",
+            "field": "Business and Economics",
+            "country or city": "not found",
+            "dates": "2021 - Present"
+        }
+    ],
+    "CV73 Gender.pdf": {
+        "university": "University of Tuzla",
+        "level_of_degree": "Bachelor",
+        "field": "Business and Marketing",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV11 Gender.pdf": [
+        {
+            "university": "University of Warsaw",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of Warsaw",
+            "level_of_degree": "Master",
+            "field": "Accounting",
+            "country or city": "not found",
+            "dates": "2022 - 2023"
+        }
+    ],
+    "CV26 Gender.pdf": {
+        "university": "University of Lagos",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV7 Gender.pdf": {
+        "error": "Education section not found or not present in the uploaded document."
+    },
+    "CV44 Gender.pdf": {
+        "university": "Universidad Autonoma de Nuevo Leon",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Engineering",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV58 Gender.pdf": [
+        {
+            "university": "Hanze University of Applied Sciences",
+            "level_of_degree": "Bachelor",
+            "field": "Logistics Management",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        }
+    ],
+    "CV90 Gender.pdf": [
+        {
+            "university": "IUT de Tours",
+            "level_of_degree": "BUT Gestion des Entreprises et des Administrations",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2017 - 2019"
+        }
+    ],
+    "CV23 Gender.pdf": {
+        "university": "University College Dublin",
+        "level_of_degree": "Bachelor",
+        "field": "Business Studies",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV41 Gender.pdf": {
+        "university": "University of Ilorin",
+        "level_of_degree": "Bachelor",
+        "field": "Banking and Finance",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV89 Gender.pdf": [
+        {
+            "university": "University of Zilina",
+            "level_of_degree": "Bachelor",
+            "field": "Logistics",
+            "country or city": "not found",
+            "dates": "2016 - 2019"
+        }
+    ],
+    "CV14 Gender.pdf": {
+        "university": "Korea University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV76 Gender.pdf": {
+        "university": "Babes-Bolyai University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV2 Gender.pdf": [
+        {
+            "university": "Bocconi University",
+            "level_of_degree": "Bachelor",
+            "field": "Economics and Management",
+            "country or city": "Milan",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV19 Gender.pdf": [
+        {
+            "university": "National Economics University",
+            "level_of_degree": "Bachelor",
+            "field": "Finance",
+            "country or city": "Hanoi",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Local Private University",
+            "level_of_degree": "Master",
+            "field": "Banking & Finance",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV84 Gender.pdf": [
+        {
+            "university": "Higher School of Economics",
+            "level_of_degree": "Bachelor",
+            "field": "Applied Mathematics",
+            "country or city": "not found",
+            "dates": "2012 - 2016"
+        },
+        {
+            "university": "Local Technical University",
+            "level_of_degree": "Master",
+            "field": "Data Science",
+            "country or city": "not found",
+            "dates": "2016 - 2018"
+        }
+    ],
+    "CV95 Gender.pdf": {
+        "university": "Centre de Formation Prive",
+        "level_of_degree": "BTS Gestion",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2019 - 2021"
+    },
+    "CV50 Gender.pdf": {
+        "university": "Ss. Cyril and Methodius University",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "Skopje",
+        "dates": "2017 - 2021"
+    },
+    "CV67 Gender.pdf": [
+        {
+            "university": "University of Oran",
+            "level_of_degree": "Bachelor",
+            "field": "Finance",
+            "country or city": "not found",
+            "dates": "2021 - Present"
+        }
+    ],
+    "CV32 Gender.pdf": {
+        "university": "King Saud University",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV96 Gender.pdf": {
+        "university": "Public High School",
+        "level_of_degree": "High School Diploma",
+        "field": "not found",
+        "country or city": "Sao Paulo",
+        "dates": "2008 - 2011"
+    },
+    "CV69 Gender.pdf": {
+        "university": "University of Sofia",
+        "level_of_degree": "Bachelor",
+        "field": "Applied Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV1 Gender.pdf": [
+        {
+            "university": "St. Xavier's College, Mumbai",
+            "level_of_degree": "Bachelor of Commerce",
+            "field": "Finance",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV98 Gender.pdf": [
+        {
+            "university": "Kabul High School",
+            "level_of_degree": "High School Diploma",
+            "field": "not found",
+            "country or city": "not found",
+            "dates": "2007 - 2010"
+        }
+    ],
+    "CV17 Gender.pdf": [
+        {
+            "university": "University of Lyon",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        },
+        {
+            "university": "HEC Lausanne",
+            "level_of_degree": "not found",
+            "field": "Data for Business",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV20 Gender.pdf": [
+        {
+            "university": "Pontificia Universidad Catolica de Chile",
+            "level_of_degree": "Bachelor",
+            "field": "Business Administration",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of British Columbia",
+            "level_of_degree": "Summer School",
+            "field": "International Business",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV75 Gender.pdf": [
+        {
+            "university": "University of Carthage",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "University of Marseille",
+            "level_of_degree": "not found",
+            "field": "International Trade",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV53 Gender.pdf": {
+        "university": "ESPM",
+        "level_of_degree": "Bachelor",
+        "field": "Advertising",
+        "country or city": "Sao Paulo",
+        "dates": "2019 - 2022"
+    },
+    "CV42 Gender.pdf": [
+        {
+            "university": "University of Gdansk",
+            "level_of_degree": "Bachelor",
+            "field": "Statistics",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV64 Gender.pdf": {
+        "university": "HEC Montreal",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2018 - 2021"
+    },
+    "CV31 Gender.pdf": {
+        "university": "ISCTE Business School",
+        "level_of_degree": "Bachelor",
+        "field": "Marketing",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV87 Gender.pdf": [
+        {
+            "university": "KU Leuven",
+            "level_of_degree": "Bachelor",
+            "field": "Business Economics",
+            "country or city": "not found",
+            "dates": "2016 - 2019"
+        }
+    ],
+    "CV78 Gender.pdf": {
+        "university": "Tampere University",
+        "level_of_degree": "Bachelor",
+        "field": "Information Technology",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV61 Gender.pdf": [
+        {
+            "university": "University of Novi Sad",
+            "level_of_degree": "Bachelor",
+            "field": "Economics",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Private University",
+            "level_of_degree": "Master",
+            "field": "Financial Management",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV56 Gender.pdf": {
+        "university": "Universidad ORT Uruguay",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV9 Gender.pdf": {
+        "university": "Foreign Trade University",
+        "level_of_degree": "Bachelor",
+        "field": "International Business",
+        "country or city": "Hanoi",
+        "dates": "2021 - 2024"
+    },
+    "CV82 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "{\n  \"university\": \"not found\",\n  \"level_of_degree\": \"not found\",\n  \"field\": \"not found\",\n  \"country or city\": \"not found\",\n  \"dates\": \"not found\"\n}\n\nFlagged for review due to \"not found\" appearing more than twice."
+    },
+    "CV34 Gender.pdf": {
+        "university": "WU Vienna University of Economics and Business",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV93 Gender.pdf": [
+        {
+            "university": "Technical College Bucharest",
+            "level_of_degree": "Post-secondary Accounting Certificate",
+            "field": "not found",
+            "country or city": "Bucharest",
+            "dates": "2016 - 2017"
+        }
+    ],
+    "CV28 Gender.pdf": {
+        "university": "Cracow University of Economics",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV4 Gender.pdf": [
+        {
+            "university": "Keio University",
+            "level_of_degree": "Bachelor",
+            "field": "Industrial Engineering",
+            "country or city": "Tokyo",
+            "dates": "2018 - 2022"
+        }
+    ],
+    "CV47 Gender.pdf": {
+        "university": "University of Applied Sciences Bremen",
+        "level_of_degree": "Bachelor",
+        "field": "Logistics Management",
+        "country or city": "not found",
+        "dates": "2018 - 2021"
+    },
+    "CV25 Gender.pdf": {
+        "education": [
+            {
+                "university": "University of Bologna",
+                "level_of_degree": "Bachelor",
+                "field": "Communication Sciences",
+                "country or city": "not found",
+                "dates": "2017 - 2020"
+            },
+            {
+                "university": "Private Business School",
+                "level_of_degree": "Master",
+                "field": "Digital Marketing",
+                "country or city": "not found",
+                "dates": "2020 - 2021"
+            }
+        ]
+    },
+    "CV39 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "{\n  \"university\": \"University of Zagreb\",\n  \"level_of_degree\": \"Bachelor\",\n  \"field\": \"Business Economics\",\n  \"country or city\": \"not found\",\n  \"dates\": \"2019 - 2022\"\n}\n \n\nThis entry is from the \"EDUCATION\" section and not flagged for review as \"not found\" appears only once."
+    },
+    "CV12 Gender.pdf": [
+        {
+            "university": "Universidad de los Andes",
+            "level_of_degree": "Bachelor",
+            "field": "Business Administration",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        },
+        {
+            "university": "ESCP Business School",
+            "level_of_degree": "not found",
+            "field": "Digital Marketing",
+            "country or city": "Paris",
+            "dates": "Summer 2023"
+        }
+    ],
+    "CV70 Gender.pdf": {
+        "university": "Yerevan State University",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV22 Gender.pdf": [
+        {
+            "university": "Technical University of Cluj-Napoca",
+            "level_of_degree": "Bachelor",
+            "field": "Computer Science",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Bucharest",
+            "level_of_degree": "Master",
+            "field": "Applied Data Science",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV15 Gender.pdf": {
+        "university": "Bucharest University of Economic Studies",
+        "level_of_degree": "Bachelor",
+        "field": "International Business",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV40 Gender.pdf": [
+        {
+            "university": "University of Malaga",
+            "level_of_degree": "Bachelor",
+            "field": "Tourism Management",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Private Business School",
+            "level_of_degree": "Master",
+            "field": "Hospitality Management",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV3 Gender.pdf": {
+        "university": "Tecnológico de Monterrey",
+        "level_of_degree": "Bachelor",
+        "field": "Marketing",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV88 Gender.pdf": {
+        "university": "Saint Joseph University",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "Beirut",
+        "dates": "2013 - 2017"
+    },
+    "CV77 Gender.pdf": {
+        "university": "Bogazici University",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2017 - 2021"
+    },
+    "CV94 Gender.pdf": [
+        {
+            "university": "Kenya Institute of Management",
+            "level_of_degree": "Diploma",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2014 - 2016"
+        }
+    ],
+    "CV85 Gender.pdf": {
+        "university": "Athens University of Economics and Business",
+        "level_of_degree": "Bachelor",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2010 - 2014"
+    },
+    "CV18 Gender.pdf": {
+        "university": "University of Cape Town",
+        "level_of_degree": "Bachelor of Commerce",
+        "field": "not found",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV51 Gender.pdf": [
+        {
+            "university": "University of Sharjah",
+            "level_of_degree": "Bachelor",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV99 Gender.pdf": {
+        "university": "Madrid Vocational School",
+        "level_of_degree": "Vocational Training Diploma",
+        "field": "Business Administration",
+        "country or city": "not found",
+        "dates": "2014 - 2016"
+    },
+    "CV66 Gender.pdf": [
+        {
+            "university": "University of Montenegro",
+            "level_of_degree": "Bachelor",
+            "field": "Management",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV33 Gender.pdf": [
+        {
+            "university": "Universidad Carlos III de Madrid",
+            "level_of_degree": "Bachelor",
+            "field": "Business and Data",
+            "country or city": "not found",
+            "dates": "2020 - 2023"
+        }
+    ],
+    "CV63 Gender.pdf": [
+        {
+            "university": "Corvinus University of Budapest",
+            "level_of_degree": "Bachelor",
+            "field": "Commerce and Marketing",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        }
+    ],
+    "CV48 Gender.pdf": {
+        "university": "University of Algiers",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV80 Gender.pdf": [
+        {
+            "university": "Universite de Rennes 1",
+            "level_of_degree": "Licence",
+            "field": "Economie et Gestion",
+            "country or city": "not found",
+            "dates": "2017 - 2020"
+        },
+        {
+            "university": "IUT de Rennes",
+            "level_of_degree": "BUT",
+            "field": "Gestion des Entreprises et des Administrations",
+            "country or city": "not found",
+            "dates": "2015 - 2017"
+        }
+    ],
+    "CV54 Gender.pdf": {
+        "university": "Ain Shams University",
+        "level_of_degree": "Bachelor",
+        "field": "Industrial Management",
+        "country or city": "not found",
+        "dates": "2021 - Present"
+    },
+    "CV27 Gender.pdf": [
+        {
+            "university": "Lebanese American University",
+            "level_of_degree": "Bachelor in Business Management",
+            "field": "Business Management",
+            "country or city": "not found",
+            "dates": "2019 - 2022"
+        },
+        {
+            "university": "ESADE Business School",
+            "level_of_degree": "Summer School",
+            "field": "Global Management",
+            "country or city": "not found",
+            "dates": "Summer 2022"
+        }
+    ],
+    "CV10 Gender.pdf": [
+        {
+            "university": "University of Tunis El Manar",
+            "level_of_degree": "Bachelor Degree",
+            "field": "Management",
+            "country or city": "not found",
+            "dates": "2018 - 2021"
+        },
+        {
+            "university": "University of Barcelona",
+            "level_of_degree": "Summer School",
+            "field": "Business Analytics",
+            "country or city": "not found",
+            "dates": "Summer 2022 (6 weeks)"
+        }
+    ],
+    "CV36 Gender.pdf": {
+        "university": "University of Belgrade",
+        "level_of_degree": "Bachelor",
+        "field": "Management",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV45 Gender.pdf": {
+        "university": "University of Ljubljana",
+        "level_of_degree": "Bachelor",
+        "field": "Business and Organization",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV72 Gender.pdf": [
+        {
+            "university": "Al-Farabi Kazakh National University",
+            "level_of_degree": "Bachelor",
+            "field": "Information Systems",
+            "country or city": "not found",
+            "dates": "2017 - 2021"
+        },
+        {
+            "university": "Local Technical University",
+            "level_of_degree": "Master",
+            "field": "Data Analytics",
+            "country or city": "not found",
+            "dates": "2021 - 2022"
+        }
+    ],
+    "CV59 Gender.pdf": {
+        "university": "University of Sarajevo",
+        "level_of_degree": "Bachelor",
+        "field": "Economics",
+        "country or city": "not found",
+        "dates": "2019 - 2022"
+    },
+    "CV6 Gender.pdf": {
+        "university": "University of Mannheim",
+        "level_of_degree": "Bachelor",
+        "field": "Business Informatics",
+        "country or city": "not found",
+        "dates": "2020 - 2023"
+    },
+    "CV91 Gender.pdf": {
+        "university": "Lycee Voltaire",
+        "level_of_degree": "BTS Communication",
+        "field": "not found",
+        "country or city": "Paris",
+        "dates": "2018 - 2020"
+    }
+}
