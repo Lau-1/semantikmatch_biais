@@ -3,10 +3,11 @@ import sys
 import time
 
 scripts_to_run = ["Extraction/extract_experiences_with_llm.py", "Extraction/extract_interests_with_llm.py", "Extraction/extract_studies_with_llm.py"]
-iterations = 10
+iterations = 0
 
 print(f"Démarrage OPTIMISÉ (Parallèle) : {iterations} itérations.")
 global_start = time.time()
+
 
 for i in range(1, iterations + 1):
     iter_start = time.time()
@@ -17,7 +18,7 @@ for i in range(1, iterations + 1):
 
     # 1. Lancer tous les scripts en arrière-plan
     for script in scripts_to_run:
-        p = subprocess.Popen([sys.executable, script])
+        p = subprocess.Popen([sys.executable, script, str(i)])
         processes.append((script, p))
 
     # 2. Attendre qu'ils finissent tous

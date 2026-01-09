@@ -5,6 +5,9 @@ import time
 import re
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import sys
+
+RUN_NUMBER = sys.argv[1] if len(sys.argv) > 1 else None
 
 # 1. Import spécifique pour Azure
 from openai import AzureOpenAI
@@ -25,7 +28,13 @@ CITATION_PATTERN = re.compile(r"【.*?】")
 class ExtractWithLLM(ABC):
 
     def __init__(self, output_filename, input_folder):
-        run_dir = self.get_next_run_dir(output_filename)
+        #run_dir = self.get_next_run_dir(output_filename)
+        if RUN_NUMBER is None:
+            raise ValueError("RUN_NUMBER manquant (doit être fourni par le launcher)")
+        
+        run_dir = os.path.join("Extraction", "data", f"run_{RUN_NUMBER}")
+        os.makedirs(run_dir, exist_ok=True)
+
         self.input_folder = input_folder
 
         # Déduction automatique du préfixe à partir du dossier

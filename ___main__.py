@@ -1,13 +1,12 @@
 from CV import csv_to_pdf
-from Extraction.extract_experiences_with_llm import ExtractExperiencesWithLLM
-from Extraction.extract_interests_with_llm import ExtractInterestsWithLLM
-from Extraction.extract_studies_with_llm import ExtractStudiesWithLLM
 from Extraction import run10fois
 from Mise_en_forme import fusion
 import os
 import builtins
 
-from Analyse import AnalyseAge, AnalyseGenre, AnalyseOrigin
+from Analyse.analyseage import AnalyseAge
+from Analyse.analysegenre import AnalyseGenre
+from Analyse.analyseorigin import AnalyseOrigin
 # ⬆️ adapte ces imports aux classes concrètes que tu as
 
 BASE_DIR = os.path.join("Mise_en_page", "data")
@@ -52,11 +51,6 @@ if __name__ == "__main__":
     # Analyse
     run_analysis_for_all_runs()
 
-
-
-# Mise en page
-
-# Analyse
 
 
 
