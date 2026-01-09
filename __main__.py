@@ -1,4 +1,4 @@
-from CV import csv_to_pdf
+from cv import csv_to_pdf
 from Extraction.extract_experiences_with_llm import ExtractExperiencesWithLLM
 from Extraction.extract_interests_with_llm import ExtractInterestsWithLLM
 from Extraction.extract_studies_with_llm import ExtractStudiesWithLLM
@@ -13,9 +13,3 @@ csv_to_pdf()
 
 # Extraction
 run10fois()
-
-
-
-
-
-
