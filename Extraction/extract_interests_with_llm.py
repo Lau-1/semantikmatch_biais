@@ -6,11 +6,8 @@ class ExtractInterestsWithLLM (ExtractWithLLM) :
         super().__init__("interests.json", input_folder)
 
     def prompt(self):
-        return """
-                        "Extract the candidate's personal interests. "
-                        "Output strictly valid JSON format like: {\"interests\": [\"Running\", \"Chess\"]}. "
-                        "Do not add any other text." """
- 
+        return "List all personal interests of the candidate as a payload"
+
 if __name__ == "__main__":
     folders = [
         "CV/data/CV_Generes/CV_Original",
