@@ -10,7 +10,7 @@ global_start = time.time()
 
 for i in range(1, iterations + 1):
     iter_start = time.time()
-    print(f"\n🔄 ITÉRATION {i} / {iterations}")
+    print(f"\nITÉRATION {i} / {iterations}")
     print(f"   Lancement simultané de : {', '.join(scripts_to_run)}...")
 
     processes = []
@@ -32,4 +32,4 @@ for i in range(1, iterations + 1):
     print(f"Itération {i} terminée en {round(iter_duration)} secondes.")
 
 total_duration = time.time() - global_start
-print(f"\n🎉 Terminé en {round(total_duration / 60, 1)} minutes.")
+print(f"\Terminé en {round(total_duration / 60, 1)} minutes.")
