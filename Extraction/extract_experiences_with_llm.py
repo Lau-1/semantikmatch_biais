@@ -57,6 +57,3 @@ if __name__ == "__main__":
     for folder in folders:
         extractor = ExtractExperiencesWithLLM(folder)
         extractor.extract_parallel()
-
-
-

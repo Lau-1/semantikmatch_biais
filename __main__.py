@@ -13,16 +13,3 @@ csv_to_pdf()
 
 # Extraction
 run10fois()
-<<<<<<< HEAD:___main__.py
-
-# Mise en page
-
-# Analyse
-
-
-
-
-
-
-=======
->>>>>>> d660da56d0dacb74e9edc3d9c9c6e39d42d62639:__main__.py

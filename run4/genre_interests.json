@@ -1,0 +1,611 @@
+{
+    "CV57 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "I'm unable to directly access and extract information about the personal interests of the candidate from the uploaded document. Could you please ensure the document includes this specific information or provide more context?"
+    },
+    "CV83 Gender.pdf": {
+        "personal_interests": [
+            "Operational excellence",
+            "Leadership"
+        ]
+    },
+    "CV60 Gender.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Learning languages"
+        ]
+    },
+    "CV35 Gender.pdf": {
+        "personal_interests": [
+            "Social impact",
+            "Project management"
+        ]
+    },
+    "CV8 Gender.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Podcasts",
+            "Fintech innovation"
+        ]
+    },
+    "CV29 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Sustainability"
+        ]
+    },
+    "CV5 Gender.pdf": {
+        "personal_interests": [
+            "International relations",
+            "Volunteering",
+            "Travel"
+        ]
+    },
+    "CV38 Gender.pdf": {
+        "personal_interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
+    },
+    "CV92 Gender.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Travel"
+        ]
+    },
+    "CV24 Gender.pdf": {
+        "personal_interests": [
+            "Process improvement",
+            "Sports"
+        ]
+    },
+    "CV13 Gender.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Networking events",
+            "Yoga"
+        ]
+    },
+    "CV46 Gender.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Learning"
+        ]
+    },
+    "CV71 Gender.pdf": {
+        "personal_interests": [
+            "Economic policy",
+            "Sustainability"
+        ]
+    },
+    "CV97 Gender.pdf": {
+        "personal_interests": [
+            "International cooperation"
+        ]
+    },
+    "CV0 Gender.pdf": {
+        "personal_interests": [
+            "Football",
+            "Macroeconomics",
+            "Entrepreneurship",
+            "Endurance running"
+        ]
+    },
+    "CV68 Gender.pdf": {
+        "personal_interests": [
+            "Process efficiency",
+            "Fitness"
+        ]
+    },
+    "CV16 Gender.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Public Policy",
+            "Mentoring"
+        ]
+    },
+    "CV74 Gender.pdf": {
+        "personal_interests": [
+            "Operations efficiency",
+            "Fitness"
+        ]
+    },
+    "CV43 Gender.pdf": {
+        "personal_interests": [
+            "Digital branding",
+            "Photography"
+        ]
+    },
+    "CV21 Gender.pdf": {
+        "personal_interests": [
+            "Women entrepreneurship",
+            "Reading"
+        ]
+    },
+    "CV52 Gender.pdf": {
+        "personal_interests": [
+            "Financial markets",
+            "Fitness"
+        ]
+    },
+    "CV30 Gender.pdf": {
+        "personal_interests": [
+            "personal finance",
+            "cycling"
+        ]
+    },
+    "CV65 Gender.pdf": {
+        "personal_interests": [
+            "International cooperation",
+            "Volunteering"
+        ]
+    },
+    "CV79 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Self development"
+        ]
+    },
+    "CV86 Gender.pdf": {
+        "personal_interests": [
+            "Brand strategy",
+            "Communication"
+        ]
+    },
+    "CV81 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Yoga"
+        ]
+    },
+    "CV55 Gender.pdf": {
+        "personal_interests": [
+            "Data modeling",
+            "Analytics"
+        ]
+    },
+    "CV62 Gender.pdf": {
+        "personal_interests": [
+            "Operations optimization",
+            "Reading"
+        ]
+    },
+    "CV49 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Self development"
+        ]
+    },
+    "CV11 Gender.pdf": {
+        "personal_interests": [
+            "personal finance",
+            "pilates",
+            "budgeting"
+        ]
+    },
+    "CV26 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "I couldn't find any document that explicitly lists the personal interests of the candidate. Please provide more context or specify any other details that might help locate this information."
+    },
+    "CV37 Gender.pdf": {
+        "personal_interests": [
+            "Sustainability",
+            "yoga"
+        ]
+    },
+    "CV73 Gender.pdf": {
+        "personal_interests": [
+            "Social media",
+            "Communication"
+        ]
+    },
+    "CV44 Gender.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Productivity"
+        ]
+    },
+    "CV7 Gender.pdf": {
+        "personal_interests": [
+            "Case competitions",
+            "Sustainability strategy",
+            "Pilates"
+        ]
+    },
+    "CV58 Gender.pdf": {
+        "personal_interests": [
+            "Operations excellence",
+            "Cycling"
+        ]
+    },
+    "CV90 Gender.pdf": {
+        "personal_interests": [
+            "process improvement",
+            "sports"
+        ]
+    },
+    "CV89 Gender.pdf": {
+        "personal_interests": [
+            "Operations optimization",
+            "Fitness"
+        ]
+    },
+    "CV23 Gender.pdf": {
+        "personal_interests": [
+            "Case competitions",
+            "Debating"
+        ]
+    },
+    "CV14 Gender.pdf": {
+        "personal_interests": [
+            "Running",
+            "Process optimization",
+            "Podcasts"
+        ]
+    },
+    "CV41 Gender.pdf": {
+        "personal_interests": [
+            "Financial inclusion",
+            "Reading"
+        ]
+    },
+    "CV76 Gender.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Learning"
+        ]
+    },
+    "CV67 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "The document does not contain any explicit information about personal interests or hobbies of the candidate."
+    },
+    "CV95 Gender.pdf": {
+        "personal_interests": [
+            "Social projects",
+            "Organization"
+        ]
+    },
+    "CV19 Gender.pdf": {
+        "personal_interests": [
+            "Professional growth",
+            "Finance books"
+        ]
+    },
+    "CV2 Gender.pdf": {
+        "personal_interests": [
+            "Cycling",
+            "Geopolitics",
+            "Luxury industry trends"
+        ]
+    },
+    "CV84 Gender.pdf": {
+        "personal_interests": [
+            "Data science",
+            "Teaching"
+        ]
+    },
+    "CV32 Gender.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Travel"
+        ]
+    },
+    "CV69 Gender.pdf": {
+        "personal_interests": [
+            "Data visualization",
+            "Analytics"
+        ]
+    },
+    "CV50 Gender.pdf": {
+        "personalInterests": [
+            "Cross-border trade",
+            "Travel"
+        ]
+    },
+    "CV98 Gender.pdf": {
+        "personal_interests": [
+            "Humanitarian action"
+        ]
+    },
+    "CV96 Gender.pdf": {
+        "personal_interests": [
+            "Scaling businesses",
+            "Leadership"
+        ]
+    },
+    "CV17 Gender.pdf": {
+        "personal_interests": [
+            "Data visualization",
+            "Hiking"
+        ]
+    },
+    "CV1 Gender.pdf": {
+        "personal_interests": [
+            "Stock markets",
+            "Yoga",
+            "Public speaking",
+            "Financial literacy initiatives"
+        ]
+    },
+    "CV20 Gender.pdf": {
+        "personal_interests": [
+            "Travel",
+            "Economics podcasts"
+        ]
+    },
+    "CV42 Gender.pdf": {
+        "personal_interests": [
+            "Data storytelling",
+            "Jogging"
+        ]
+    },
+    "CV75 Gender.pdf": {
+        "personal_interests": [
+            "International markets",
+            "Travel"
+        ]
+    },
+    "CV64 Gender.pdf": {
+        "personal_interests": [
+            "Case interviews",
+            "Geopolitics"
+        ]
+    },
+    "CV53 Gender.pdf": {
+        "personal_interests": [
+            "Brand storytelling",
+            "Design"
+        ]
+    },
+    "CV31 Gender.pdf": {
+        "personal_interests": [
+            "Content creation",
+            "Branding"
+        ]
+    },
+    "CV78 Gender.pdf": {
+        "personal_interests": [
+            "Tech products",
+            "Automation"
+        ]
+    },
+    "CV87 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Reporting"
+        ]
+    },
+    "CV56 Gender.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Business models"
+        ]
+    },
+    "CV61 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Analytics"
+        ]
+    },
+    "CV34 Gender.pdf": {
+        "personal_interests": [
+            "Business strategy",
+            "Hiking"
+        ],
+        "source": "CV34 Gender.pdf"
+    },
+    "CV9 Gender.pdf": {
+        "personalInterests": [
+            "Professional development",
+            "Public speaking",
+            "Mentoring"
+        ]
+    },
+    "CV28 Gender.pdf": {
+        "personal_interests": [
+            "Business strategy",
+            "Fitness"
+        ]
+    },
+    "CV4 Gender.pdf": {
+        "personal_interests": [
+            "Martial arts",
+            "Process optimization",
+            "Productivity systems"
+        ]
+    },
+    "CV39 Gender.pdf": {
+        "personal_interests": [
+            "Corporate finance",
+            "Learning languages"
+        ]
+    },
+    "CV93 Gender.pdf": {
+        "personal_interests": [
+            "personal finance",
+            "continuous learning"
+        ]
+    },
+    "CV82 Gender.pdf": {
+        "personal_interests": [
+            "International trade",
+            "Mentoring"
+        ]
+    },
+    "CV25 Gender.pdf": {
+        "personal_interests": [
+            "Photography",
+            "Travel branding"
+        ]
+    },
+    "CV12 Gender.pdf": {
+        "personal_interests": [
+            "Content creation",
+            "Social media",
+            "Photography"
+        ]
+    },
+    "CV47 Gender.pdf": {
+        "personal_interests": [
+            "Process optimization",
+            "Yoga"
+        ]
+    },
+    "CV22 Gender.pdf": {
+        "personal_interests": [
+            "Data projects",
+            "Automation"
+        ]
+    },
+    "CV70 Gender.pdf": {
+        "personal_interests": [
+            "Business development",
+            "Networking"
+        ]
+    },
+    "CV15 Gender.pdf": {
+        "personal_interests": [
+            "Psychology",
+            "Volunteering",
+            "Reading"
+        ]
+    },
+    "CV40 Gender.pdf": {
+        "personal_interests": [
+            "Hospitality trends",
+            "travel"
+        ]
+    },
+    "CV77 Gender.pdf": {
+        "personal_interests": [
+            "Energy markets",
+            "Strategy"
+        ]
+    },
+    "CV3 Gender.pdf": {
+        "personal_interests": [
+            "Photography",
+            "Fashion marketing",
+            "Content creation"
+        ]
+    },
+    "CV88 Gender.pdf": {
+        "personal_interests": [
+            "Global markets",
+            "Travel"
+        ]
+    },
+    "CV94 Gender.pdf": {
+        "personal_interests": [
+            "Local business development"
+        ]
+    },
+    "CV85 Gender.pdf": {
+        "personal_interests": [
+            "Leadership",
+            "Business development"
+        ]
+    },
+    "CV99 Gender.pdf": {
+        "personal_interests": [
+            "Organization",
+            "Process efficiency"
+        ]
+    },
+    "CV18 Gender.pdf": {
+        "personal_interests": [
+            "Economic development",
+            "Public speaking"
+        ]
+    },
+    "CV66 Gender.pdf": {
+        "personal_interests": [
+            "Entrepreneurship",
+            "Innovation"
+        ]
+    },
+    "CV51 Gender.pdf": {
+        "personal_interests": [
+            "Talent development",
+            "Wellbeing"
+        ]
+    },
+    "CV54 Gender.pdf": {
+        "personal_interests": [
+            "Manufacturing systems",
+            "learning"
+        ]
+    },
+    "CV33 Gender.pdf": {
+        "personal_interests": [
+            "Data visualization",
+            "Running"
+        ]
+    },
+    "CV48 Gender.pdf": {
+        "personal_interests": [
+            "International markets",
+            "News"
+        ]
+    },
+    "CV80 Gender.pdf": {
+        "personal_interests": [
+            "Retail strategy",
+            "Running"
+        ]
+    },
+    "CV63 Gender.pdf": {
+        "error": "JSON Parse Error",
+        "raw_text": "It seems there is no explicit mention of personal interests in the provided document. If relevant sections are named differently, please provide additional context or terms to assist in locating the pertinent information."
+    },
+    "CV36 Gender.pdf": {
+        "personal_interests": [
+            "Startups",
+            "Networking"
+        ]
+    },
+    "CV10 Gender.pdf": {
+        "personal_interests": [
+            "Travel",
+            "Football",
+            "Online courses"
+        ]
+    },
+    "CV45 Gender.pdf": {
+        "personal_interests": [
+            "Public policy",
+            "Analysis"
+        ]
+    },
+    "CV72 Gender.pdf": {
+        "personal_interests": [
+            "Analytics",
+            "Automation"
+        ]
+    },
+    "CV91 Gender.pdf": {
+        "personal_interests": [
+            "Branding",
+            "Content Creation"
+        ]
+    },
+    "CV27 Gender.pdf": {
+        "personal_interests": [
+            "Geopolitics",
+            "Languages"
+        ]
+    },
+    "CV6 Gender.pdf": {
+        "personal_interests": [
+            "Data science competitions",
+            "Cycling",
+            "Technology trends"
+        ]
+    },
+    "CV59 Gender.pdf": {
+        "personal_interests": [
+            "International cooperation",
+            "Development"
+        ]
+    }
+}
