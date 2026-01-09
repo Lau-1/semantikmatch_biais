@@ -44,11 +44,19 @@ Extraction/extract_studies_with_llm.py
 ```
 Ou passer par semantikmatch interface
 Dossier entrée : CV/data/CV_Generes
-Dossier sortie : "Extraction/data/run_X/interests.json",
-                 "Extraction/data/run_X/experiences.json",
-                 "Extraction/data/run_X/studies.json"
+Dossier sortie : "Extraction/data/run_X/age_interests.json",
+                 "Extraction/data/run_X/age_experiences.json",
+                 "Extraction/data/run_X/age_studies.json"
+                 "Extraction/data/run_X/original_interests.json",
+                 ...  12 fichiers
 
-3. Analyse binaire des différences
+
+3. Mise en forme
+```python
+Mise_en_forme/fusion.py
+```
+
+4. Analyse binaire des différences
 ```python
 Analyse/analyseage.py
 Analyse/analysegenre.py

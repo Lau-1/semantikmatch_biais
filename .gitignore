@@ -47,6 +47,8 @@ build/
 # CSV sources et résultats
 json/data/
 CV/data/
+Extraction/data/
+Mise_en_page/data/
 Analyse/data/
 
 # CV générés

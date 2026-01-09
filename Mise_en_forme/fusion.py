@@ -3,9 +3,9 @@ import re
 import os
 
 # --- Configuration des noms de fichiers ---
-FILE_EXPERIENCES = "experiences.json"
-FILE_INTERESTS = "interests.json"
-FILE_STUDIES = "studies.json"
+FILE_EXPERIENCES = "extraction/data/run_1/age_experiences.json"
+FILE_INTERESTS = "extraction/data/run_1/age_interests.json"
+FILE_STUDIES = "extraction/data/run_1/age_studies.json"
 FILE_OUTPUT = "merged.json"
 
 def load_json(filename):
