@@ -1,8 +1,18 @@
 from abc import ABC, abstractmethod
 import json
 import os
+import sys
 from dotenv import load_dotenv
 from openai import AzureOpenAI
+
+# Configuration de l'encodage pour Windows
+if sys.platform == 'win32':
+    try:
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+    except:
+        pass
 
 # --- Configuration Azure OpenAI ---
 load_dotenv()
