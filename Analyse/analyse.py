@@ -39,33 +39,58 @@ class Analyse(ABC):
         """
         self.biais_name = biais_name
 
-    def process_all_runs(self, input_root="Runs_jointure", output_root="Runs_analyse"):
+    def process_runs(self, input_root="Runs_jointure", output_root="Runs_analyse", target_runs=None):
         """
-        Scanne le dossier input_root, détecte tous les dossiers 'runX' et lance l'analyse.
+        Scanne le dossier input_root et lance l'analyse.
+
+        Args:
+            input_root (str): Dossier source.
+            output_root (str): Dossier de destination.
+            target_runs (list or str): Liste des dossiers à traiter (ex: ["run1", "run3"])
+                                       ou une seule chaine (ex: "run1").
+                                       Si None, traite TOUS les dossiers trouvés.
         """
         if not os.path.exists(input_root):
             print(f"❌ Erreur : Le dossier '{input_root}' n'existe pas.")
             return
 
-        # On ne crée pas output_root ici, il sera créé récursivement plus bas
+        # 1. Récupération de tous les dossiers existants
+        all_available_runs = [d for d in os.listdir(input_root) if os.path.isdir(os.path.join(input_root, d))]
 
-        # Récupération des dossiers (run1, run2, etc.)
-        runs = [d for d in os.listdir(input_root) if os.path.isdir(os.path.join(input_root, d))]
-        runs.sort()
+        # 2. Filtrage selon la demande de l'utilisateur
+        runs_to_process = []
 
-        print(f"🚀 Démarrage de l'analyse '{self.biais_name}' sur {len(runs)} runs...\n")
+        if target_runs:
+            # Si l'utilisateur a passé une seule string (ex: "run1"), on la met dans une liste
+            if isinstance(target_runs, str):
+                target_runs = [target_runs]
 
-        for run_folder in runs:
+            # On ne garde que les runs demandées qui existent vraiment sur le disque
+            for run in target_runs:
+                if run in all_available_runs:
+                    runs_to_process.append(run)
+                else:
+                    print(f"⚠️ Attention : Le dossier demandé '{run}' n'existe pas dans {input_root}.")
+        else:
+            # Si target_runs est None, on prend tout
+            runs_to_process = all_available_runs
+
+        runs_to_process.sort()
+
+        if not runs_to_process:
+            print("❌ Aucune run à traiter.")
+            return
+
+        print(f"🚀 Démarrage de l'analyse '{self.biais_name}' sur {len(runs_to_process)} runs : {runs_to_process}\n")
+
+        for run_folder in runs_to_process:
+            # ... (Le reste de la boucle reste identique à votre code original)
             print(f"🔹 Traitement : {run_folder}")
 
             run_input_path = os.path.join(input_root, run_folder)
-
-            # --- MODIFICATION ICI ---
-            # Construction du chemin : Runs_analyse/runX/Rapport_age
             dossier_rapport = f"Rapport_{self.biais_name.lower()}"
             run_output_path = os.path.join(output_root, run_folder, dossier_rapport)
 
-            # Vérification et récupération des fichiers
             fichiers_a_traiter = []
             for filename in self.REQUIRED_FILES:
                 f = os.path.join(run_input_path, filename)
@@ -75,7 +100,6 @@ class Analyse(ABC):
                     print(f"   ⚠️ Manquant : {filename}")
 
             if fichiers_a_traiter:
-                # On passe le chemin final (avec Rapport_age) à la fonction de génération
                 self.generer_rapports(fichiers_a_traiter, run_output_path)
             else:
                 print("   ❌ Aucun fichier valide trouvé pour cette run.")

@@ -33,5 +33,6 @@ if __name__ == "__main__":
     classe = AnalyseOrigin()
     classe.process_all_runs(
         input_root="Runs_jointure",
-        output_root="Runs_analyse"
+        output_root="Runs_analyse",
+        target_runs = ["run4", "run5"]
     )
