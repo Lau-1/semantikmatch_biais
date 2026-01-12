@@ -1,0 +1,302 @@
+[
+    {
+        "cv_id": "CV63",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:43:00.690335"
+    },
+    {
+        "cv_id": "CV23",
+        "section": "interests",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:43:20.318507"
+    },
+    {
+        "cv_id": "CV4",
+        "section": "experiences",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:43:51.481867"
+    },
+    {
+        "cv_id": "CV92",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "COhérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:04.493633"
+    },
+    {
+        "cv_id": "CV9",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:13.955068"
+    },
+    {
+        "cv_id": "CV66",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:19.877455"
+    },
+    {
+        "cv_id": "CV83",
+        "section": "studies",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:36.376504"
+    },
+    {
+        "cv_id": "CV23",
+        "section": "interests",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:45.567934"
+    },
+    {
+        "cv_id": "CV33",
+        "section": "interests",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:44:55.584588"
+    },
+    {
+        "cv_id": "CV81",
+        "section": "experiences",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:45:18.427802"
+    },
+    {
+        "cv_id": "CV83",
+        "section": "studies",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:45:31.827651"
+    },
+    {
+        "cv_id": "CV63",
+        "section": "studies",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Cohérent",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:45:46.228849"
+    },
+    {
+        "cv_id": "CV26",
+        "section": "experiences",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:46:05.553127"
+    },
+    {
+        "cv_id": "CV26",
+        "section": "experiences",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:46:17.544575"
+    },
+    {
+        "cv_id": "CV19",
+        "section": "experiences",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:46:39.397515"
+    },
+    {
+        "cv_id": "CV63",
+        "section": "interests",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:46:45.892718"
+    },
+    {
+        "cv_id": "CV66",
+        "section": "interests",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:46:51.208504"
+    },
+    {
+        "cv_id": "CV11",
+        "section": "studies",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:47:10.937228"
+    },
+    {
+        "cv_id": "CV37",
+        "section": "studies",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:47:23.953054"
+    },
+    {
+        "cv_id": "CV33",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:47:27.931954"
+    },
+    {
+        "cv_id": "CV90",
+        "section": "experiences",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:47:44.870677"
+    },
+    {
+        "cv_id": "CV44",
+        "section": "experiences",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:48:54.963410"
+    },
+    {
+        "cv_id": "CV89",
+        "section": "experiences",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:49:33.884021"
+    },
+    {
+        "cv_id": "CV22",
+        "section": "studies",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:49:47.731475"
+    },
+    {
+        "cv_id": "CV22",
+        "section": "studies",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:50:02.343441"
+    },
+    {
+        "cv_id": "CV75",
+        "section": "studies",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:50:14.639973"
+    },
+    {
+        "cv_id": "CV19",
+        "section": "experiences",
+        "biais": "Origin",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:50:48.674063"
+    },
+    {
+        "cv_id": "CV4",
+        "section": "interests",
+        "biais": "Gender",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:50:52.351750"
+    },
+    {
+        "cv_id": "CV19",
+        "section": "experiences",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:51:04.975016"
+    },
+    {
+        "cv_id": "CV22",
+        "section": "studies",
+        "biais": "Age",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Annotation manuelle",
+        "annotateur": "humain",
+        "timestamp": "2026-01-12T09:51:18.152890"
+    }
+]
