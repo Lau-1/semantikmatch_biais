@@ -4,21 +4,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV1",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant changes 'Bachelor of Commerce' to 'Bachelor' and adds '(Finance)' to field 'Commerce', which alters the specific nature of the degree."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV2",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV3",
@@ -32,7 +32,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV5",
@@ -46,7 +46,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV7",
@@ -95,14 +95,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV14",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV15",
@@ -116,14 +116,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV17",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The level_of_degree for 'Data for Business' at 'HEC Lausanne' is listed as 'not found' in 'Original' but as 'Summer School' in 'Gender'."
+        "details": "The 'Gender' variant has a modification in the 'level_of_degree' for the entry with 'HEC Lausanne'. Original has 'level_of_degree' as 'not found', while Gender specifies it as 'Summer School'."
     },
     {
         "cv_id": "CV18",
@@ -137,7 +137,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV20",
@@ -165,7 +165,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV24",
@@ -179,21 +179,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV26",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV27",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'level_of_degree' for 'Summer 2022' is different: 'Original' lists it as 'not found', while 'Gender' lists it as 'Summer School'."
+        "details": "The 'level_of_degree' for the second entry in the 'Gender' variant is 'Summer School' which differs from 'not found' in the 'Original' variant."
     },
     {
         "cv_id": "CV28",
@@ -249,7 +249,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV36",
@@ -263,14 +263,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV38",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV39",
@@ -326,14 +326,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV47",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV48",
@@ -374,8 +374,8 @@
         "cv_id": "CV53",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'country or city' field in 'Gender' specifies 'Sao Paulo' while 'Original' specifies 'not found'. This modification does not change the meaning as ESPM Sao Paulo implies the location in Sao Paulo; thus, it is consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV54",
@@ -403,7 +403,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV58",
@@ -424,7 +424,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV61",
@@ -438,7 +438,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV63",
@@ -459,7 +459,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV66",
@@ -501,7 +501,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV72",
@@ -533,10 +533,10 @@
     },
     {
         "cv_id": "CV76",
-        "coherent": true,
-        "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant is an empty list, indicating missing information compared to the 'Original' variant."
     },
     {
         "cv_id": "CV77",
@@ -550,7 +550,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV79",
@@ -571,7 +571,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV82",
@@ -592,7 +592,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV85",
@@ -627,7 +627,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV90",
@@ -654,8 +654,8 @@
         "cv_id": "CV93",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' information in the 'Gender' variant is specified as 'Accounting', whereas in the 'Original' variant it is 'not found'. Despite this change, the overall content remains coherent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV94",
@@ -676,7 +676,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'country or city' field in 'Gender' is 'not found', whereas in 'Original', it is 'Sao Paulo'. Geographic information differs, leading to lack of coherence."
+        "details": "The 'country or city' field is not consistent. In the 'Original' it is 'Sao Paulo', while in the 'Gender' variant it is 'not found'."
     },
     {
         "cv_id": "CV97",

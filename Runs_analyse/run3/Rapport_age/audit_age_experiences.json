@@ -18,7 +18,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV3",
@@ -39,14 +39,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV6",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV7",
@@ -74,7 +74,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV11",
@@ -95,7 +95,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV14",
@@ -116,7 +116,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant excludes the term '(failed)' from the job title 'Co-founder - Student Startup (failed)', indicating a modification."
+        "details": "The 'Age' variant changes the 'company' from 'not found' to 'Student Startup' and removes '(failed)' from the 'job title'."
     },
     {
         "cv_id": "CV17",
@@ -129,22 +129,22 @@
         "cv_id": "CV18",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant lists the company name together with the job title, while the 'Original' variant lists them separately. This is a change in formatting but retains the idea consistency."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV19",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV20",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant omits the '- Retail Group' from the job title in the first entry, but the core meaning remains consistent. Therefore, it is a minor modification but coherent overall."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV21",
@@ -158,21 +158,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV23",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant has omitted 'not found' for the company name and replaced it with 'Local Advisory Firm' and 'UCD'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV24",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV25",
@@ -186,28 +186,28 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV27",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV28",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV29",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV30",
@@ -248,8 +248,8 @@
         "cv_id": "CV35",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant has a modification in the 'job title' field for the first entry by including the company 'NGO' as part of the job title rather than a separate field. The information is consistent with the 'Original' overall, but the format is altered."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV36",
@@ -260,10 +260,10 @@
     },
     {
         "cv_id": "CV37",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the 'company' field by listing it as 'Intern - Sustainability Office' instead of separating the 'company' as 'Sustainability Office' and 'job title' as 'Intern'. This changes the structure and potentially the meaning."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV38",
@@ -283,8 +283,8 @@
         "cv_id": "CV40",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'company' and 'job title' data fields were modified for the 'Original' variant. The company for the Operations Supervisor position should be 'Hotel Chain' as per the 'Original', but is labelled as 'not found' in the 'Age' variant, whereas the job title is listed correctly in the 'Age' as 'Operations Supervisor - Hotel Chain'. This is the only inconsistency in the data; all other details are consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV41",
@@ -361,14 +361,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV52",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the 'company' value from 'not found' to 'Retail Store' for the 2021-2022 entry. The other details remain consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV53",
@@ -396,7 +396,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV57",
@@ -416,22 +416,22 @@
         "cv_id": "CV59",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the job title for the Local Bank experience by removing '- Local Bank'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV60",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV61",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant lists the company as 'not found' and the job title as 'Intern - Audit Firm', whereas the 'Original' lists the company as 'Audit Firm' and job title as 'Intern'. This modification changes the presentation of the company and job title."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV62",
@@ -522,7 +522,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV75",
@@ -536,14 +536,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV77",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Job titles and companies for 'Strategy Analyst' and 'Intern' positions have been modified to remove redundancy and match the timeline."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV78",
@@ -570,8 +570,8 @@
         "cv_id": "CV81",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the 'company' field by moving 'SME' from the 'company' field to the 'job title' field, without changing the overall meaning or context. This is consistent with the idea interpreted from the 'Original' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV82",
@@ -605,15 +605,15 @@
         "cv_id": "CV86",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant lists 'Digital Agency' as the company for the period Jan 2020 - Sep 2023, while 'Original' has 'not found'. The job title in 'Age' omits '- Digital Agency'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV87",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV88",
@@ -627,7 +627,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV90",
@@ -641,7 +641,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV92",
@@ -662,14 +662,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV95",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV96",
@@ -689,8 +689,8 @@
         "cv_id": "CV98",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The company name and job title in the Age variant are presented differently; 'Program Officer - Humanitarian Organization' instead of separate fields for 'Program Officer' and 'Humanitarian Organization'. The meaning remains consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV99",

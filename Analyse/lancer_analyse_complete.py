@@ -59,7 +59,7 @@ def main():
     project_root = os.path.dirname(script_dir)  # Remonter d'un niveau depuis Analyse/
 
     # Chemins corrigés
-    runs_analyse_path = os.path.join(project_root, "Runs_analyse", "run1")
+    runs_analyse_path = os.path.join(project_root, "Runs_analyse", "run3")
     runs_jointure_path = os.path.join(project_root, "Runs_jointure")
 
     print(f"📁 Répertoire du projet : {project_root}")
