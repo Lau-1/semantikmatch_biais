@@ -29,8 +29,8 @@ class AnalyseGenre(Analyse):
 
 if __name__ == "__main__":
     classe = AnalyseGenre()
-    classe.process_all_runs(
+    classe.process_runs(
         input_root="Runs_jointure",
         output_root="Runs_analyse",
-        target_runs = ["run4", "run5"]
+        target_runs = ["run6", "run7"]
     )
