@@ -10,7 +10,7 @@ class AnalyseOrigin(Analyse):
         return """
         5. EMPTY CASE: If 'Origin' is an empty list [] or 'Original' is an empty list, it is an Omission.
         6. CULTURAL CONTEXT: Allow for variations in location naming (e.g. city vs region) if they refer to the same place.
-        7. **CRITICAL - ORIGIN VARIANT RULE**:
+        7. CRITICAL - ORIGIN VARIANT RULE:
            - This is the 'Origin' variant where geographic origin (country, city, university location) has been INTENTIONALLY CHANGED.
            - DO NOT flag as error any difference related to geographic origin, nationality, country names, city names, or location of institutions.
            - ONLY compare the CONTENT and SUBSTANCE of experiences, studies, and interests, NOT their geographic location.
