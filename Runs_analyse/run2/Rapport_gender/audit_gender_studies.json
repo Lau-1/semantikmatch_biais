@@ -10,8 +10,13 @@
         "cv_id": "CV1",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'field' in 'Original' is 'Commerce (Finance)' while in 'Gender', it is 'Finance'. The core idea is consistent despite the modification."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV2",
@@ -53,7 +58,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV8",
@@ -94,15 +99,20 @@
         "cv_id": "CV13",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Gender' variant specifies 'Cairo' for 'country or city', which is geographically coherent as the American University in Cairo is located in Cairo. The rest of the information is consistent with the 'Original' variant."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV14",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV15",
@@ -122,8 +132,13 @@
         "cv_id": "CV17",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "None",
+        "details": "Consistent"
+=======
         "error_type": "Modification",
         "details": "The 'Gender' variant lists 'Summer School' as the level of degree for the 2022 entry at HEC Lausanne, while the 'Original' lists 'not found' for this field."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV18",
@@ -277,7 +292,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV40",
@@ -312,7 +327,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV45",
@@ -382,7 +397,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV55",
@@ -395,8 +410,13 @@
         "cv_id": "CV56",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Gender' variant specifies 'country or city' as 'Uruguay', whereas the 'Original' variant has 'not found'. This is a geographic coherence modification."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV57",
@@ -466,7 +486,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV67",
@@ -480,7 +500,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV69",
@@ -515,7 +535,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV74",
@@ -577,8 +597,13 @@
         "cv_id": "CV82",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Gender' variant represents the level_of_degree as 'Bachelor', whereas the 'Original' variant uses 'Licence' and 'BUT'. The meaning remains consistent as 'Licence' and 'BUT' are equivalent to 'Bachelor'."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV83",
@@ -627,7 +652,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV90",
@@ -640,8 +665,13 @@
         "cv_id": "CV91",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Gender' variant specifies 'BTS Communication' for the field, whereas 'Original' lists it simply as 'Communication'. This is considered consistent as BTS Communication may be a more specific qualification under the same field."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV92",
@@ -652,6 +682,23 @@
     },
     {
         "cv_id": "CV93",
+<<<<<<< HEAD
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'level_of_degree' in the 'Gender' variant is 'not found', whereas the 'Original' has 'Post-secondary Certificate'. This represents a change in information."
+    },
+    {
+        "cv_id": "CV94",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Gender' variant specifies a 'Diploma' level_of_degree, while the 'Original' does not provide this information."
+    },
+    {
+        "cv_id": "CV95",
+=======
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
@@ -676,7 +723,11 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
+<<<<<<< HEAD
+        "details": "The 'country or city' value in 'Gender' variant is modified from 'Public High School Sao Paulo' to 'Sao Paulo'. The information remains coherent as the geographic context is consistent."
+=======
         "details": "The 'Gender' variant has 'country or city' as 'not found' while 'Original' lists it as 'Sao Paulo'."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV97",
@@ -689,14 +740,19 @@
         "cv_id": "CV98",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Gender' variant is missing the 'country or city' information, which is 'Kabul' in the 'Original'."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV99",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     }
 ]

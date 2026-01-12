@@ -10,8 +10,13 @@
         "cv_id": "CV1",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Age' variant has a missing company name for the 'Treasurer' role from 2021 - 2023. In the 'Original' variant, the company name is 'Student Finance Club'."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV2",
@@ -74,7 +79,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV11",
@@ -115,15 +120,20 @@
         "cv_id": "CV16",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Age' variant added '(failed)' to the company name 'Student Startup', which changes the original meaning by indicating the startup did not succeed. Otherwise, the content is consistent."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV17",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV18",
@@ -172,7 +182,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV25",
@@ -228,7 +238,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",
@@ -270,7 +280,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV39",
@@ -284,7 +294,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV41",
@@ -323,10 +333,15 @@
     },
     {
         "cv_id": "CV46",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Age' variant mentions 'FMCG Distributor' as the company for the 'Student Intern' position, whereas 'Original' lists the company as 'not found'."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV47",
@@ -379,10 +394,15 @@
     },
     {
         "cv_id": "CV54",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Original' version lists 'company' for the second entry as 'not found' and 'job title' as 'Family Business Support', while the 'Age' variant lists 'company' as 'Family Business Support' and 'job title' as 'not found'."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV55",
@@ -410,7 +430,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV59",
@@ -424,7 +444,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV61",
@@ -452,7 +472,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV65",
@@ -479,8 +499,13 @@
         "cv_id": "CV68",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Original' variant lists the company as 'not found' for the Internship role in 2020, whereas the 'Age' variant specifies it as 'Warehouse'. This is a modification in company detail."
+=======
         "error_type": "None",
         "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV69",
@@ -494,7 +519,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV71",
@@ -550,14 +575,19 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV79",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+        "error_type": "Modification",
+        "details": "The 'Age' variant lists 'Finance Dept' as the company for the Student Assistant role, whereas the 'Original' lists the company as 'not found'."
+=======
         "error_type": "None",
         "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV80",
@@ -571,7 +601,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV82",
@@ -592,7 +622,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV85",
@@ -661,8 +691,8 @@
         "cv_id": "CV94",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Age' variant modifies the company name from 'not found' to 'Retail Shop' for the 'Small Business Owner' role and changes the description formatting from bullet points to a comma-separated list. These modifications do not affect the coherence of the job experience."
     },
     {
         "cv_id": "CV95",
@@ -690,7 +720,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV99",
