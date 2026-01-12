@@ -3,7 +3,7 @@ import re
 import os
 
 # --- Configuration ---
-INPUT_DIR = "Runs_fusion"
+INPUT_DIR = "Extract_via_semantikmatch"
 OUTPUT_DIR = "Runs_jointure"
 
 # Configuration des fichiers attendus dans chaque dossier "run"

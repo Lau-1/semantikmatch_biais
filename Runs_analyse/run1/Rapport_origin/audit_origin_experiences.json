@@ -109,7 +109,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV16",
@@ -172,7 +172,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV25",
@@ -291,14 +291,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV42",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV43",
@@ -325,8 +325,13 @@
         "cv_id": "CV46",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The job title for the 'Family Business' entry is missing in the 'Origin' variant. The company name has also been modified from 'Family Business' to 'Family Business Support'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV47",
@@ -381,8 +386,13 @@
         "cv_id": "CV54",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Origin' variant changes the 'job title' from 'not found' to 'Support' under the 'Family Business Support' entry."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV55",
@@ -431,7 +441,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV62",
@@ -452,7 +462,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV65",
@@ -477,17 +487,22 @@
     },
     {
         "cv_id": "CV68",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The company for the Internship in 2020 was changed from 'not found' to 'Warehouse'."
+=======
+        "error_type": "None",
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV69",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV70",
@@ -550,14 +565,19 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV79",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The job title changed from 'Student Assistant - Finance Dept' in 'Original' to 'Student Assistant' in 'Origin'. The content and substance of the title were altered."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV80",
@@ -606,14 +626,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV87",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV88",
@@ -634,7 +654,11 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
+<<<<<<< HEAD
         "details": "Consistent."
+=======
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV91",

@@ -113,10 +113,15 @@
     },
     {
         "cv_id": "CV16",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "None",
         "details": "Consistent."
+=======
+        "error_type": "Modification",
+        "details": "The 'Age' variant changes the 'company' from 'not found' to 'Student Startup' and removes '(failed)' from the 'job title'."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV17",
@@ -144,7 +149,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV21",
@@ -193,7 +198,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV28",
@@ -284,7 +289,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV41",
@@ -311,8 +316,13 @@
         "cv_id": "CV44",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Age' variant combines 'job title' and 'company' fields into a single 'job title' field entry, whereas 'Original' keeps them separate, but the overall meaning remains consistent."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV45",
@@ -361,7 +371,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV52",
@@ -403,7 +413,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV58",
@@ -535,8 +545,13 @@
         "cv_id": "CV76",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Age' variant modifies the 'company' field by specifying the names 'E-commerce Store' and 'Accounting Office' which were 'not found' in the 'Original'. This change does not affect the consistency of ideas but alters specific details."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV77",
@@ -599,7 +614,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV86",

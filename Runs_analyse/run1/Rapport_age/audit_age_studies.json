@@ -11,7 +11,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV2",
@@ -25,14 +25,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV4",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV5",
@@ -95,7 +95,11 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
+<<<<<<< HEAD
         "details": "Consistent"
+=======
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV14",
@@ -116,7 +120,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV17",
@@ -130,7 +134,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV19",
@@ -151,7 +155,11 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
+<<<<<<< HEAD
         "details": "Consistent"
+=======
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV22",
@@ -165,7 +173,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV24",
@@ -186,7 +194,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV27",
@@ -200,7 +208,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV29",
@@ -277,7 +285,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV40",
@@ -312,7 +320,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
@@ -382,7 +390,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV55",
@@ -410,7 +418,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV59",
@@ -424,7 +432,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV61",
@@ -452,7 +460,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV65",
@@ -466,7 +474,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV67",
@@ -536,7 +544,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV77",
@@ -557,7 +565,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV80",
@@ -617,10 +625,15 @@
     },
     {
         "cv_id": "CV88",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Age' variant lists 'country or city' as 'not found', which is inconsistent with the 'Original' that specifies 'Beirut'."
+=======
+        "error_type": "None",
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV89",
@@ -654,15 +667,25 @@
         "cv_id": "CV93",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'country or city' field differs. 'Original' has 'not found', while 'Age' lists 'Bucharest'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV94",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Age' variant adds a 'level_of_degree' as 'Diploma', which was 'not found' in the 'Original'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV95",
@@ -680,17 +703,22 @@
     },
     {
         "cv_id": "CV97",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Age' variant has a missing 'level_of_degree', which is 'Professional Certificate' in the 'Original'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV98",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV99",

@@ -18,7 +18,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV3",
@@ -39,7 +39,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV6",
@@ -53,7 +53,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV8",
@@ -87,8 +87,13 @@
         "cv_id": "CV12",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The job title in the second entry has been modified from 'Student Assistant' to 'Student Assistant - Marketing Department'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV13",
@@ -115,8 +120,13 @@
         "cv_id": "CV16",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Origin' variant has added 'failed' to the company description for 'Student Startup', altering the semantic content of the experience."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV17",
@@ -193,7 +203,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV28",
@@ -228,14 +238,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV34",
@@ -253,10 +263,15 @@
     },
     {
         "cv_id": "CV36",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The company name for 2022 is 'not found' in the Original but 'Freelance Project' in the Origin. Also, the job title for 2022 is 'Freelance Project' in the Original, but 'not found' in the Origin."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV37",
@@ -323,10 +338,15 @@
     },
     {
         "cv_id": "CV46",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "In the first entry, the 'company' changed from 'not found' to 'FMCG Distributor', but this might be due to geographic variant rules. The second entry has a change in 'job title' from 'not found' to 'Family Business Support', which is a modification of substantive content against the rules."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV47",
@@ -379,10 +399,15 @@
     },
     {
         "cv_id": "CV54",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "Job title for 'Family Business Support' is missing in 'Origin' variant."
+=======
+        "error_type": "None",
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV55",
@@ -431,14 +456,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV62",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV63",
@@ -456,10 +481,15 @@
     },
     {
         "cv_id": "CV65",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'company' name for the volunteer position is missing in the 'Origin' variant compared to the 'Original' variant where it is listed as 'Youth Program'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV66",
@@ -477,10 +507,15 @@
     },
     {
         "cv_id": "CV68",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The company name for the job titled 'Intern' in 2020 was changed from 'not found' to 'Warehouse'."
+=======
+        "error_type": "None",
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV69",
@@ -501,7 +536,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV72",
@@ -550,14 +585,19 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV79",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The job title 'Student Assistant - Finance Dept' was changed to 'Student Assistant', altering the semantic content of the job title."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV80",
@@ -620,7 +660,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV89",

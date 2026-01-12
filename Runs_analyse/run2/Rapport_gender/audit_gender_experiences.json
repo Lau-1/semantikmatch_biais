@@ -18,7 +18,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV3",
@@ -39,7 +39,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV6",
@@ -87,8 +87,13 @@
         "cv_id": "CV12",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Gender' variant includes 'Marketing Department' in the job title for the 'Student Assistant' position. The rest of the content is consistent."
+=======
+        "error_type": "None",
+        "details": "Consistent."
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV13",
@@ -179,7 +184,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV26",
@@ -249,7 +254,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV36",
@@ -270,7 +275,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV39",
@@ -325,8 +330,13 @@
         "cv_id": "CV46",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Gender' variant modifies the 'company' field in the first entry from 'not found' to 'FMCG Distributor' and alters the 'job title' field in the second entry from 'not found' to 'Family Business Support'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV47",
@@ -381,8 +391,13 @@
         "cv_id": "CV54",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "In the 'Gender' variant, 'Family Business Support' is modified to 'Family Business' as the company name and 'Support' as the job title, but the overall idea remains consistent with the 'Original' variant."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV55",
@@ -407,10 +422,15 @@
     },
     {
         "cv_id": "CV58",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Omission",
         "details": "In the 'Gender' variant, the company name for the internship in 2020 is missing compared to 'Original', which lists 'Distribution Center'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV59",
@@ -477,10 +497,15 @@
     },
     {
         "cv_id": "CV68",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'company' value for the second entry changed from 'not found' to 'Warehouse'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV69",
@@ -526,10 +551,15 @@
     },
     {
         "cv_id": "CV75",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Gender' variant omits the company name 'Customs Broker' for the entry in 2021, while the 'Original' includes it."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV76",
@@ -633,8 +663,13 @@
         "cv_id": "CV90",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'company' field is modified in the first entry: 'Logistics SME' is extracted from the job title instead of 'not found'. The description is slightly reformatted but consistent in meaning."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV91",
@@ -697,6 +732,6 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     }
 ]

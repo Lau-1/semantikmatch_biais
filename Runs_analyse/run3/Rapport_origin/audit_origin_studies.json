@@ -8,10 +8,15 @@
     },
     {
         "cv_id": "CV1",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The level of degree has been altered from 'Bachelor of Commerce' to 'Bachelor'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV2",
@@ -85,10 +90,15 @@
     },
     {
         "cv_id": "CV12",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'level_of_degree' for the Digital Marketing entry was changed from 'not found' to 'Summer Program'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV13",
@@ -120,17 +130,22 @@
     },
     {
         "cv_id": "CV17",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'Origin' variant has 'Summer School' as the level of degree instead of 'not found'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV18",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV19",
@@ -190,6 +205,7 @@
     },
     {
         "cv_id": "CV27",
+<<<<<<< HEAD
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
@@ -197,17 +213,26 @@
     },
     {
         "cv_id": "CV28",
+=======
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent"
     },
     {
-        "cv_id": "CV29",
+        "cv_id": "CV28",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent."
+    },
+    {
+        "cv_id": "CV29",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV30",
@@ -235,7 +260,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV34",
@@ -277,7 +302,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV40",
@@ -291,7 +316,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV42",
@@ -424,7 +449,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV61",
@@ -473,7 +498,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV68",
@@ -550,14 +575,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV79",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV80",
@@ -577,6 +602,16 @@
         "cv_id": "CV82",
         "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
+=======
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV83",
+        "coherent": true,
+        "empty_list": false,
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
         "error_type": "None",
         "details": "Consistent"
     },
@@ -585,7 +620,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV84",
@@ -620,7 +655,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
@@ -633,15 +668,20 @@
         "cv_id": "CV90",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The 'field' in the Origin variant is 'not found', while the Original variant specifies 'Gestion des Entreprises et des Administrations'. Additionally, the 'level_of_degree' in the Origin variant includes the field name, which alters the intended separation of data points."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV91",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV92",
@@ -654,8 +694,13 @@
         "cv_id": "CV93",
         "coherent": false,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Modification",
         "details": "The field of study has been modified from 'not found' to 'Accounting'."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV94",
@@ -680,10 +725,15 @@
     },
     {
         "cv_id": "CV97",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
+<<<<<<< HEAD
         "error_type": "Omission",
         "details": "The 'Origin' variant is missing the 'Professional Certificate' level_of_degree information."
+=======
+        "error_type": "None",
+        "details": "Consistent"
+>>>>>>> cbe8ec4608224bf9d8bf562aeff708b2d292b12a
     },
     {
         "cv_id": "CV98",
