@@ -59,4 +59,4 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
     print(f"✅ Extraction et tri terminés. Fichier généré : {chemin_sortie}")
 
 if __name__ == "__main__":
-    extraire_donnees_ordonnees('justin/input.json', 'extracted_cv_sorted.json')
+    extraire_donnees_ordonnees('input.json', 'extracted_cv_sorted.json')
