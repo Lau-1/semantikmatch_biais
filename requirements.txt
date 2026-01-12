@@ -6,3 +6,13 @@ scipy>=1.10.0
 python-dotenv
 fpdf>=1.7.2
 
+# Analyses statistiques avancées
+statsmodels>=0.14.0
+numpy>=1.24.0
+
+# Validation et métriques
+scikit-learn>=1.3.0
+
+# Progress bars
+tqdm>=4.65.0
+
