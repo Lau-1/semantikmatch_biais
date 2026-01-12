@@ -1,0 +1,716 @@
+[
+    {
+        "cv_id": "CV92.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV91.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists, indicating an omission case."
+    },
+    {
+        "cv_id": "CV70.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating a complete omission of information."
+    },
+    {
+        "cv_id": "CV39.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV33.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV65.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Origin' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV36.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating an omission."
+    },
+    {
+        "cv_id": "CV77.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing information compared to the 'Origin' variant."
+    },
+    {
+        "cv_id": "CV12.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV44.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, which constitutes an omission."
+    },
+    {
+        "cv_id": "CV0.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV29.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV22.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV11.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Origin' contains entries."
+    },
+    {
+        "cv_id": "CV42.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV82.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original data is an empty list, indicating missing information compared to the Origin data which contains education details."
+    },
+    {
+        "cv_id": "CV58.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, whereas the 'Origin' list contains information about an education experience. This constitutes an omission as per the audit rules."
+    },
+    {
+        "cv_id": "CV50.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both Original and Origin variants are empty lists."
+    },
+    {
+        "cv_id": "CV41.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, while the 'Origin' contains education details. There is an omission in the 'Original'."
+    },
+    {
+        "cv_id": "CV37.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV28.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating missing data in the ground truth."
+    },
+    {
+        "cv_id": "CV90.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty while Origin has entries, indicating an omission."
+    },
+    {
+        "cv_id": "CV26.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV23.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, which qualifies as an omission."
+    },
+    {
+        "cv_id": "CV96.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' lists are empty."
+    },
+    {
+        "cv_id": "CV79.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' variants are empty lists."
+    },
+    {
+        "cv_id": "CV57.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both of the lists are empty."
+    },
+    {
+        "cv_id": "CV63.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV16.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV45.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists, indicating an Omission."
+    },
+    {
+        "cv_id": "CV40.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information compared to the 'Origin' variant."
+    },
+    {
+        "cv_id": "CV83.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV35.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, which indicates an omission as there is content present in the 'Origin' list."
+    },
+    {
+        "cv_id": "CV1.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Origin variants are both empty."
+    },
+    {
+        "cv_id": "CV7.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists. This is an omission."
+    },
+    {
+        "cv_id": "CV53.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV8.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list indicating missing information."
+    },
+    {
+        "cv_id": "CV10.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Origin' list contains entries indicating missing information in the 'Original'."
+    },
+    {
+        "cv_id": "CV87.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV97.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV9.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating missing data compared to Origin."
+    },
+    {
+        "cv_id": "CV74.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV14.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original content is an empty list, indicating an omission."
+    },
+    {
+        "cv_id": "CV18.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV69.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV52.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV49.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "'Original' is an empty list, indicating an omission."
+    },
+    {
+        "cv_id": "CV48.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original variant is an empty list, indicating missing information that exists in the Origin variant."
+    },
+    {
+        "cv_id": "CV47.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating an omission compared to the 'Origin' variant, which contains educational background information."
+    },
+    {
+        "cv_id": "CV51.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an omission compared to the 'Origin'."
+    },
+    {
+        "cv_id": "CV5.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV21.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV81.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV68.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "'Original' is an empty list, indicating a potential omission of data present in 'Origin'."
+    },
+    {
+        "cv_id": "CV71.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV73.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating omission."
+    },
+    {
+        "cv_id": "CV66.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, indicating missing data compared to the 'Origin'."
+    },
+    {
+        "cv_id": "CV62.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV59.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV4.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV75.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Origin' and 'Original' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV38.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV43.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV54.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty while Origin has content."
+    },
+    {
+        "cv_id": "CV31.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, which means there is no reference information to compare against the 'Origin' variant."
+    },
+    {
+        "cv_id": "CV34.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV85.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV86.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' lists are empty."
+    },
+    {
+        "cv_id": "CV13.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating a total omission of expected information."
+    },
+    {
+        "cv_id": "CV15.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating an omission of information in the Origin variant."
+    },
+    {
+        "cv_id": "CV60.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information compared to 'Origin'."
+    },
+    {
+        "cv_id": "CV72.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV25.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' variants are empty lists."
+    },
+    {
+        "cv_id": "CV2.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV80.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV94.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the Original and Origin variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV88.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV95.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV78.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating an omission."
+    },
+    {
+        "cv_id": "CV6.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both of the variants are empty lists."
+    },
+    {
+        "cv_id": "CV32.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV55.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV20.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an omission compared to the 'Origin' variant which contains educational information."
+    },
+    {
+        "cv_id": "CV46.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV76.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV99.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV64.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV56.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV98.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV93.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty, indicating missing information compared to the Origin variant."
+    },
+    {
+        "cv_id": "CV3.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV19.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Origin' variant or the 'Original' variant is an empty list, indicating an omission."
+    },
+    {
+        "cv_id": "CV30.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV67.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Origin' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV84.pdf",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, whereas the 'Origin' contains educational entries."
+    },
+    {
+        "cv_id": "CV24.pdf",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Origin' are empty lists."
+    },
+    {
+        "cv_id": "CV17.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV27.pdf",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    }
+]

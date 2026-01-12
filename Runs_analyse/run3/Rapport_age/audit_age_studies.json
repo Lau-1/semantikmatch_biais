@@ -4,7 +4,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV1",
@@ -18,7 +18,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV3",
@@ -32,7 +32,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV5",
@@ -60,14 +60,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV9",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV10",
@@ -95,21 +95,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV14",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV15",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV16",
@@ -123,7 +123,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant lists the level of degree for the 'Data for Business' entry as 'Summer School', while the 'Original' does not specify this information. This represents a modification in the level of degree detail."
+        "details": "The 'Age' variant specifies the level_of_degree as 'Summer School' instead of 'not found', which modifies the original information."
     },
     {
         "cv_id": "CV18",
@@ -137,7 +137,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV20",
@@ -151,21 +151,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV22",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV23",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV24",
@@ -193,7 +193,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'level_of_degree' for the 'Summer 2022' entry in 'Age' is listed as 'Summer School' while in 'Original' it is 'not found'. The modification enhances specificity in context."
+        "details": "The 'level_of_degree' for ESADE Business School is modified from 'not found' in 'Original' to 'Summer School' in 'Age'."
     },
     {
         "cv_id": "CV28",
@@ -284,14 +284,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV41",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV42",
@@ -312,7 +312,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
@@ -340,21 +340,21 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV49",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV50",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV51",
@@ -445,7 +445,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV64",
@@ -466,7 +466,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV67",
@@ -501,7 +501,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV72",
@@ -529,7 +529,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV76",
@@ -543,7 +543,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV78",
@@ -613,14 +613,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV88",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
@@ -634,14 +634,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' in the 'Age' variant is 'not found', while in the 'Original' it is 'Gestion des Entreprises et des Administrations'. Additionally, the 'level_of_degree' in 'Age' combines the level and field from 'Original', leading to a structural modification."
+        "details": "The 'Age' variant lists the 'field' as 'not found' and combines it with 'level_of_degree', whereas the 'Original' variant specifies 'field' as 'Gestion des Entreprises et des Administrations' and 'level_of_degree' as 'BUT'."
     },
     {
         "cv_id": "CV91",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' and 'level_of_degree' values have been swapped between 'Original' and 'Age'."
+        "details": "The 'Age' variant has modified the 'field' from 'not found' to 'Communication' and the 'level_of_degree' from 'BTS Communication' to 'not found'."
     },
     {
         "cv_id": "CV92",
@@ -655,7 +655,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' differs between 'Original' and 'Age'. 'Original' has 'not found' while 'Age' specifies 'Accounting'."
+        "details": "The 'field' in 'Age' has been changed from 'not found' in 'Original' to 'Accounting'."
     },
     {
         "cv_id": "CV94",
@@ -676,7 +676,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'country or city' field differs between the two variants. 'Original' has 'Sao Paulo', while 'Age' has 'not found'."
+        "details": "The 'Age' variant is missing the 'Sao Paulo' city/country information present in the 'Original' variant."
     },
     {
         "cv_id": "CV97",

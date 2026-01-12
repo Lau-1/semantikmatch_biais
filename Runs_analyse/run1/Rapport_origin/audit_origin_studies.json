@@ -60,7 +60,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV9",
@@ -95,7 +95,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV14",
@@ -116,7 +116,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV17",
@@ -141,10 +141,10 @@
     },
     {
         "cv_id": "CV20",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant has 'country or city' as 'not found' for the first entry, whereas the 'Original' specifies 'Chile'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV21",
@@ -162,10 +162,10 @@
     },
     {
         "cv_id": "CV23",
-        "coherent": true,
-        "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is a list while Origin is not, indicating an Omission."
     },
     {
         "cv_id": "CV24",
@@ -193,14 +193,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV28",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV29",
@@ -326,7 +326,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV47",
@@ -410,7 +410,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV59",
@@ -424,14 +424,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV61",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV62",
@@ -480,7 +480,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV69",
@@ -501,7 +501,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV72",
@@ -571,14 +571,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV82",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant changes the 'level_of_degree' from 'Licence' and 'BUT' to 'Bachelor'. This is a translation modification as 'Licence' in French often corresponds to 'Bachelor' in English, and 'BUT' is equivalent to 'Bachelor of Technology'."
+        "details": "The level of degree is altered from 'Licence' and 'BUT' in the 'Original' to 'Bachelor' for both entries in the 'Origin'."
     },
     {
         "cv_id": "CV83",
@@ -613,28 +613,28 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV88",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'country or city' field is not consistent with 'Original', where 'Original' specifies 'Beirut', but 'Origin' states 'not found', which alters the geographic context."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV90",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV91",
@@ -647,22 +647,22 @@
         "cv_id": "CV92",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant specifies 'Liceo Economico Sociale' as the university, while the 'Original' variant lists 'university': 'not found'. Both variants are consistent in terms of academic track and level of degree."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV93",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'level_of_degree' differs between the two variants. 'Original' lists it as 'Post-secondary Certificate' while 'Origin' lists it as 'not found'."
+        "details": "The level_of_degree in the 'Origin' variant is 'not found', whereas in the 'Original' it is 'Post-secondary Certificate'. This changes the semantic content regarding the educational qualification."
     },
     {
         "cv_id": "CV94",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV95",
@@ -673,30 +673,30 @@
     },
     {
         "cv_id": "CV96",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Original' has 'High School Diploma' as the level of degree, while 'Origin' lacks this information. The 'Original' provides 'not found' for university, whereas 'Origin' lists 'Public High School Sao Paulo'. Both entries coherently refer to the same geographic location of 'Sao Paulo'."
+        "details": "The 'level_of_degree' is 'High School Diploma' in the 'Original' but 'not found' in the 'Origin'. Additionally, the 'university' field is 'not found' in 'Original' but 'Public High School Sao Paulo' in 'Origin'. These changes are modifications beyond the allowed geographic location changes."
     },
     {
         "cv_id": "CV97",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'level_of_degree' field in 'Origin' is 'not found' instead of 'Professional Certificate'."
+        "details": "The 'level_of_degree' in 'Origin' is listed as 'not found', whereas in 'Original' it is specified as 'Professional Certificate'. This represents a modification in the semantic content of the entry."
     },
     {
         "cv_id": "CV98",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant has 'country or city' as 'not found' while the 'Original' specifies 'Kabul'. This is a modification of the geographic information."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV99",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'country or city' field in 'Original' is 'Madrid', whereas in 'Origin' it is 'not found'. This constitutes an inconsistency in geographic data."
+        "error_type": "None",
+        "details": "Consistent"
     }
 ]

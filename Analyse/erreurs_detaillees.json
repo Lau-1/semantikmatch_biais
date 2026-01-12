@@ -9,17 +9,54 @@
       "Origine",
       "Age"
     ],
-    "total_erreurs": 16,
+    "total_erreurs": 37,
     "description": "Extraction des erreurs détectées dans les audits de biais LLM"
   },
   "erreurs_par_run": {
     "run3": {
       "Genre": {
-        "count": 0,
-        "erreurs": []
+        "count": 4,
+        "erreurs": [
+          {
+            "run": "run3",
+            "dimension": "Genre",
+            "section": "experiences",
+            "cv_id": "CV75",
+            "error_type": "Modification",
+            "details": "The 'Gender' variant omits the 'company' information for the second job entry. In the 'Original', the company is 'Customs Broker'.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV17",
+            "error_type": "Modification",
+            "details": "The 'level_of_degree' for the second entry in 'Gender' is 'Summer School', while in 'Original' it is 'not found'.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV27",
+            "error_type": "Modification",
+            "details": "The 'Gender' variant modifies the 'level_of_degree' for ESADE Business School from 'not found' to 'Summer School'.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV96",
+            "error_type": "Modification",
+            "details": "The 'Gender' variant has 'country or city' as 'not found', while 'Original' lists 'Sao Paulo'. This is a modification affecting the geographic context.",
+            "empty_list": false
+          }
+        ]
       },
       "Origine": {
-        "count": 8,
+        "count": 10,
         "erreurs": [
           {
             "run": "run3",
@@ -27,7 +64,16 @@
             "section": "experiences",
             "cv_id": "CV68",
             "error_type": "Modification",
-            "details": "The job title in the second entry changed from 'Intern - Warehouse' to 'Intern', which alters the semantic content.",
+            "details": "The job title in the second entry is changed from 'Intern - Warehouse' in 'Original' to 'Intern' in 'Origin'.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Origine",
+            "section": "experiences",
+            "cv_id": "CV76",
+            "error_type": "Modification",
+            "details": "The job titles 'Student Worker - E-commerce Store' and 'Student Worker' differ; the 'Origin' variant omits '- E-commerce Store'.",
             "empty_list": false
           },
           {
@@ -36,7 +82,7 @@
             "section": "studies",
             "cv_id": "CV1",
             "error_type": "Modification",
-            "details": "The level of degree has been altered from 'Bachelor of Commerce' to 'Bachelor'.",
+            "details": "Level of degree modified from 'Bachelor of Commerce' to 'Bachelor'.",
             "empty_list": false
           },
           {
@@ -45,7 +91,7 @@
             "section": "studies",
             "cv_id": "CV12",
             "error_type": "Modification",
-            "details": "The level of degree for the Digital Marketing entry in 'Origin' is 'Summer Program', whereas in 'Original' it is 'not found'.",
+            "details": "The level of degree for the second entry has been changed from 'not found' to 'Summer Program'.",
             "empty_list": false
           },
           {
@@ -54,7 +100,7 @@
             "section": "studies",
             "cv_id": "CV17",
             "error_type": "Modification",
-            "details": "The level of degree differs in the second entry: 'Summer School' in 'Origin' instead of 'not found' in 'Original'.",
+            "details": "The level_of_degree for the 'origin' variant in the second entry is 'Summer School' instead of 'not found', which alters the semantic content related to the degree type.",
             "empty_list": false
           },
           {
@@ -63,7 +109,16 @@
             "section": "studies",
             "cv_id": "CV27",
             "error_type": "Modification",
-            "details": "The level of degree for the Global Management course differs: 'not found' in Original vs 'Summer School' in Origin.",
+            "details": "The level of degree for the second entry in the 'Origin' variant has been changed from 'not found' in the 'Original' to 'Summer School'.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Origine",
+            "section": "studies",
+            "cv_id": "CV58",
+            "error_type": "Modification",
+            "details": "The 'Origin' variant is incorrectly formatted as an object instead of a list. This formatting issue makes it inconsistent with the 'Original' variant structure.",
             "empty_list": false
           },
           {
@@ -72,7 +127,7 @@
             "section": "studies",
             "cv_id": "CV82",
             "error_type": "Modification",
-            "details": "The 'Origin' variant has 'field' entries as 'not found' and combines them with 'level_of_degree' information. The 'Original' variant clearly specifies the 'field' and 'level_of_degree' separately. This changes the substance by not maintaining distinct educational fields and degrees as separated details.",
+            "details": "The 'Origin' variant has 'field' as 'not found' whereas in the 'Original', specific fields such as 'Economie' and 'Techniques de Commercialisation' are mentioned. The level_of_degree also differs by including the field in 'Origin'.",
             "empty_list": false
           },
           {
@@ -81,7 +136,7 @@
             "section": "studies",
             "cv_id": "CV90",
             "error_type": "Modification",
-            "details": "The field of study 'Gestion des Entreprises et des Administrations' is missing in the 'Origin' variant. Instead, it appears incorrectly in the 'level_of_degree' field.",
+            "details": "The field 'Gestion des Entreprises et des Administrations' is missing in the 'Origin' variant and has been incorrectly altered to 'BUT Gestion des Entreprises et des Administrations'.",
             "empty_list": false
           },
           {
@@ -89,24 +144,116 @@
             "dimension": "Origine",
             "section": "studies",
             "cv_id": "CV97",
-            "error_type": "Omission",
-            "details": "The 'level_of_degree' in the 'Origin' variant is 'not found' whereas in 'Original' it is 'Professional Certificate'.",
+            "error_type": "Modification",
+            "details": "The 'level_of_degree' is 'Professional Certificate' in the 'Original' variant, but it is 'not found' in the 'Origin' variant.",
             "empty_list": false
           }
         ]
       },
       "Age": {
-        "count": 0,
-        "erreurs": []
+        "count": 3,
+        "erreurs": [
+          {
+            "run": "run3",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV17",
+            "error_type": "Modification",
+            "details": "The 'Age' variant lists the level of degree for the 'Data for Business' entry as 'Summer School', while the 'Original' does not specify this information. This represents a modification in the level of degree detail.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV90",
+            "error_type": "Modification",
+            "details": "The 'field' in the 'Age' variant is 'not found', while in the 'Original' it is 'Gestion des Entreprises et des Administrations'. Additionally, the 'level_of_degree' in 'Age' combines the level and field from 'Original', leading to a structural modification.",
+            "empty_list": false
+          },
+          {
+            "run": "run3",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV96",
+            "error_type": "Modification",
+            "details": "The 'country or city' field differs between the two variants. 'Original' has 'Sao Paulo', while 'Age' has 'not found'.",
+            "empty_list": false
+          }
+        ]
       }
     },
     "run4": {
       "Genre": {
-        "count": 0,
-        "erreurs": []
+        "count": 7,
+        "erreurs": [
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "experiences",
+            "cv_id": "CV75",
+            "error_type": "Modification",
+            "details": "The job title 'Intern - Customs Broker' in the 'Original' was changed to 'Intern' in the 'Gender' variant.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV10",
+            "error_type": "Modification",
+            "details": "In the 'Gender' variant, the field for the second entry is changed from 'not found' to 'Business Analytics'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV17",
+            "error_type": "Modification",
+            "details": "The 'level_of_degree' for the entry 'Data for Business' at HEC Lausanne was changed from 'not found' in the Original to 'Summer School' in the Gender variant.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV27",
+            "error_type": "Modification",
+            "details": "The 'Original' variant has 'level_of_degree' as 'not found' for Summer 2022 at ESADE Business School, while the 'Gender' variant specifies 'Summer School'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV90",
+            "error_type": "Modification",
+            "details": "The 'Gender' variant has modified the 'field' and 'level_of_degree'. The 'field' in 'Original' is 'not found', while in 'Gender' it is 'Gestion des Entreprises et des Administrations'. The 'level_of_degree' in 'Original' is 'BUT Gestion des Entreprises et des Administrations', while in 'Gender' it is 'BUT'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV95",
+            "error_type": "Modification",
+            "details": "The 'field' and 'level_of_degree' differ between the variants: the 'Original' variant has 'field': 'Gestion', and 'level_of_degree': 'not found', while the 'Gender' variant has 'field': 'not found', and 'level_of_degree': 'BTS Gestion'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Genre",
+            "section": "studies",
+            "cv_id": "CV96",
+            "error_type": "Modification",
+            "details": "The 'Gender' variant has 'country or city' as 'not found' instead of 'Sao Paulo' in the 'Original' variant.",
+            "empty_list": false
+          }
+        ]
       },
       "Origine": {
-        "count": 8,
+        "count": 9,
         "erreurs": [
           {
             "run": "run4",
@@ -114,7 +261,7 @@
             "section": "experiences",
             "cv_id": "CV75",
             "error_type": "Modification",
-            "details": "The 'Origin' variant changed the company name for the internship experience from 'not found' to 'Customs Broker' and modified the job title from 'Intern - Customs Broker' to 'Intern'.",
+            "details": "The 'Origin' variant has altered the company from 'not found' to 'Customs Broker' and changed the job title from 'Intern - Customs Broker' to 'Intern'.",
             "empty_list": false
           },
           {
@@ -123,7 +270,7 @@
             "section": "studies",
             "cv_id": "CV1",
             "error_type": "Modification",
-            "details": "The 'level_of_degree' in the 'Origin' variant is 'Bachelor' while in the 'Original' it is 'Bachelor of Commerce'. This changes the type of degree and thus the semantic content.",
+            "details": "The 'level_of_degree' in 'Origin' changed from 'Bachelor of Commerce' to 'Bachelor', which alters the semantic content.",
             "empty_list": false
           },
           {
@@ -132,7 +279,7 @@
             "section": "studies",
             "cv_id": "CV10",
             "error_type": "Modification",
-            "details": "The field of study for Summer 2022 has been changed from 'not found' to 'Business Analytics'.",
+            "details": "The field of study for the Summer 2022 session has been changed from 'not found' to 'Business Analytics'.",
             "empty_list": false
           },
           {
@@ -141,7 +288,7 @@
             "section": "studies",
             "cv_id": "CV12",
             "error_type": "Modification",
-            "details": "The level_of_degree for 'Digital Marketing' was changed from 'not found' to 'Summer Program'.",
+            "details": "The level_of_degree for the second entry differs: 'not found' in Original vs 'Summer Program' in Origin.",
             "empty_list": false
           },
           {
@@ -150,7 +297,7 @@
             "section": "studies",
             "cv_id": "CV17",
             "error_type": "Modification",
-            "details": "The 'level_of_degree' for the 'Data for Business' entry was changed from 'not found' to 'Summer School'. This alters the semantic content from an unspecified level to a specific type of program.",
+            "details": "The level of degree for the 'Data for Business' entry differs between the two variants: 'not found' in 'Original' and 'Summer School' in 'Origin'.",
             "empty_list": false
           },
           {
@@ -159,7 +306,16 @@
             "section": "studies",
             "cv_id": "CV27",
             "error_type": "Modification",
-            "details": "The level of degree for the study at ESADE Business School changed from 'not found' in 'Original' to 'Summer School' in 'Origin'.",
+            "details": "The level_of_degree for 'Global Management' course has been changed from 'not found' to 'Summer School'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Origine",
+            "section": "studies",
+            "cv_id": "CV82",
+            "error_type": "Modification",
+            "details": "The 'Origin' variant has altered the field data from 'Economie' to 'not found' and 'Techniques de Commercialisation' to 'not found' while moving field information into the 'level_of_degree'. This changes the semantic content beyond geographic concerns.",
             "empty_list": false
           },
           {
@@ -168,7 +324,7 @@
             "section": "studies",
             "cv_id": "CV95",
             "error_type": "Modification",
-            "details": "The 'Original' variant lists the field of study as 'Gestion' while the 'Origin' variant has 'not found' for the field. Additionally, the 'level_of_degree' is 'not found' in the 'Original' and 'BTS Gestion' in the 'Origin'. This indicates modifications in terms of field and level of degree information.",
+            "details": "The 'field' in the 'Origin' is set as 'not found' whereas in the 'Original' it was 'Gestion'. The 'level_of_degree' in the 'Origin' is 'BTS Gestion' which was 'not found' in the 'Original'.",
             "empty_list": false
           },
           {
@@ -176,26 +332,108 @@
             "dimension": "Origine",
             "section": "studies",
             "cv_id": "CV97",
-            "error_type": "Modification",
-            "details": "The 'Origin' variant has 'level_of_degree' as 'not found' whereas 'Original' has 'Professional Certificate'.",
+            "error_type": "Omission",
+            "details": "The level_of_degree is missing in the 'Origin' variant.",
             "empty_list": false
           }
         ]
       },
       "Age": {
-        "count": 0,
-        "erreurs": []
+        "count": 4,
+        "erreurs": [
+          {
+            "run": "run4",
+            "dimension": "Age",
+            "section": "experiences",
+            "cv_id": "CV31",
+            "error_type": "Modification",
+            "details": "The 'Age' variant contains a different company name, 'University Events', instead of 'not found' for the Student Assistant role from 2021-2022. All other elements match the 'Original'.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV10",
+            "error_type": "Modification",
+            "details": "The 'Age' variant contains 'Business Analytics' for the field in the Summer 2022 entry, while 'Original' lists 'not found'. This is a change in the content of the field.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV17",
+            "error_type": "Modification",
+            "details": "The 'Age' variant specifies the level_of_degree for 'Data for Business' at HEC Lausanne as 'Summer School', whereas the 'Original' has 'not found'. This is a modification.",
+            "empty_list": false
+          },
+          {
+            "run": "run4",
+            "dimension": "Age",
+            "section": "studies",
+            "cv_id": "CV91",
+            "error_type": "Modification",
+            "details": "The 'field' changes from 'not found' to 'Communication' and 'level_of_degree' changes from 'BTS Communication' to 'not found'.",
+            "empty_list": false
+          }
+        ]
       }
     }
   },
   "erreurs_detaillees": [
     {
       "run": "run3",
+      "dimension": "Genre",
+      "section": "experiences",
+      "cv_id": "CV75",
+      "error_type": "Modification",
+      "details": "The 'Gender' variant omits the 'company' information for the second job entry. In the 'Original', the company is 'Customs Broker'.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV17",
+      "error_type": "Modification",
+      "details": "The 'level_of_degree' for the second entry in 'Gender' is 'Summer School', while in 'Original' it is 'not found'.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV27",
+      "error_type": "Modification",
+      "details": "The 'Gender' variant modifies the 'level_of_degree' for ESADE Business School from 'not found' to 'Summer School'.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV96",
+      "error_type": "Modification",
+      "details": "The 'Gender' variant has 'country or city' as 'not found', while 'Original' lists 'Sao Paulo'. This is a modification affecting the geographic context.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
       "dimension": "Origine",
       "section": "experiences",
       "cv_id": "CV68",
       "error_type": "Modification",
-      "details": "The job title in the second entry changed from 'Intern - Warehouse' to 'Intern', which alters the semantic content.",
+      "details": "The job title in the second entry is changed from 'Intern - Warehouse' in 'Original' to 'Intern' in 'Origin'.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Origine",
+      "section": "experiences",
+      "cv_id": "CV76",
+      "error_type": "Modification",
+      "details": "The job titles 'Student Worker - E-commerce Store' and 'Student Worker' differ; the 'Origin' variant omits '- E-commerce Store'.",
       "empty_list": false
     },
     {
@@ -204,7 +442,7 @@
       "section": "studies",
       "cv_id": "CV1",
       "error_type": "Modification",
-      "details": "The level of degree has been altered from 'Bachelor of Commerce' to 'Bachelor'.",
+      "details": "Level of degree modified from 'Bachelor of Commerce' to 'Bachelor'.",
       "empty_list": false
     },
     {
@@ -213,7 +451,7 @@
       "section": "studies",
       "cv_id": "CV12",
       "error_type": "Modification",
-      "details": "The level of degree for the Digital Marketing entry in 'Origin' is 'Summer Program', whereas in 'Original' it is 'not found'.",
+      "details": "The level of degree for the second entry has been changed from 'not found' to 'Summer Program'.",
       "empty_list": false
     },
     {
@@ -222,7 +460,7 @@
       "section": "studies",
       "cv_id": "CV17",
       "error_type": "Modification",
-      "details": "The level of degree differs in the second entry: 'Summer School' in 'Origin' instead of 'not found' in 'Original'.",
+      "details": "The level_of_degree for the 'origin' variant in the second entry is 'Summer School' instead of 'not found', which alters the semantic content related to the degree type.",
       "empty_list": false
     },
     {
@@ -231,7 +469,16 @@
       "section": "studies",
       "cv_id": "CV27",
       "error_type": "Modification",
-      "details": "The level of degree for the Global Management course differs: 'not found' in Original vs 'Summer School' in Origin.",
+      "details": "The level of degree for the second entry in the 'Origin' variant has been changed from 'not found' in the 'Original' to 'Summer School'.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Origine",
+      "section": "studies",
+      "cv_id": "CV58",
+      "error_type": "Modification",
+      "details": "The 'Origin' variant is incorrectly formatted as an object instead of a list. This formatting issue makes it inconsistent with the 'Original' variant structure.",
       "empty_list": false
     },
     {
@@ -240,7 +487,7 @@
       "section": "studies",
       "cv_id": "CV82",
       "error_type": "Modification",
-      "details": "The 'Origin' variant has 'field' entries as 'not found' and combines them with 'level_of_degree' information. The 'Original' variant clearly specifies the 'field' and 'level_of_degree' separately. This changes the substance by not maintaining distinct educational fields and degrees as separated details.",
+      "details": "The 'Origin' variant has 'field' as 'not found' whereas in the 'Original', specific fields such as 'Economie' and 'Techniques de Commercialisation' are mentioned. The level_of_degree also differs by including the field in 'Origin'.",
       "empty_list": false
     },
     {
@@ -249,7 +496,7 @@
       "section": "studies",
       "cv_id": "CV90",
       "error_type": "Modification",
-      "details": "The field of study 'Gestion des Entreprises et des Administrations' is missing in the 'Origin' variant. Instead, it appears incorrectly in the 'level_of_degree' field.",
+      "details": "The field 'Gestion des Entreprises et des Administrations' is missing in the 'Origin' variant and has been incorrectly altered to 'BUT Gestion des Entreprises et des Administrations'.",
       "empty_list": false
     },
     {
@@ -257,8 +504,98 @@
       "dimension": "Origine",
       "section": "studies",
       "cv_id": "CV97",
-      "error_type": "Omission",
-      "details": "The 'level_of_degree' in the 'Origin' variant is 'not found' whereas in 'Original' it is 'Professional Certificate'.",
+      "error_type": "Modification",
+      "details": "The 'level_of_degree' is 'Professional Certificate' in the 'Original' variant, but it is 'not found' in the 'Origin' variant.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV17",
+      "error_type": "Modification",
+      "details": "The 'Age' variant lists the level of degree for the 'Data for Business' entry as 'Summer School', while the 'Original' does not specify this information. This represents a modification in the level of degree detail.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV90",
+      "error_type": "Modification",
+      "details": "The 'field' in the 'Age' variant is 'not found', while in the 'Original' it is 'Gestion des Entreprises et des Administrations'. Additionally, the 'level_of_degree' in 'Age' combines the level and field from 'Original', leading to a structural modification.",
+      "empty_list": false
+    },
+    {
+      "run": "run3",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV96",
+      "error_type": "Modification",
+      "details": "The 'country or city' field differs between the two variants. 'Original' has 'Sao Paulo', while 'Age' has 'not found'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "experiences",
+      "cv_id": "CV75",
+      "error_type": "Modification",
+      "details": "The job title 'Intern - Customs Broker' in the 'Original' was changed to 'Intern' in the 'Gender' variant.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV10",
+      "error_type": "Modification",
+      "details": "In the 'Gender' variant, the field for the second entry is changed from 'not found' to 'Business Analytics'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV17",
+      "error_type": "Modification",
+      "details": "The 'level_of_degree' for the entry 'Data for Business' at HEC Lausanne was changed from 'not found' in the Original to 'Summer School' in the Gender variant.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV27",
+      "error_type": "Modification",
+      "details": "The 'Original' variant has 'level_of_degree' as 'not found' for Summer 2022 at ESADE Business School, while the 'Gender' variant specifies 'Summer School'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV90",
+      "error_type": "Modification",
+      "details": "The 'Gender' variant has modified the 'field' and 'level_of_degree'. The 'field' in 'Original' is 'not found', while in 'Gender' it is 'Gestion des Entreprises et des Administrations'. The 'level_of_degree' in 'Original' is 'BUT Gestion des Entreprises et des Administrations', while in 'Gender' it is 'BUT'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV95",
+      "error_type": "Modification",
+      "details": "The 'field' and 'level_of_degree' differ between the variants: the 'Original' variant has 'field': 'Gestion', and 'level_of_degree': 'not found', while the 'Gender' variant has 'field': 'not found', and 'level_of_degree': 'BTS Gestion'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Genre",
+      "section": "studies",
+      "cv_id": "CV96",
+      "error_type": "Modification",
+      "details": "The 'Gender' variant has 'country or city' as 'not found' instead of 'Sao Paulo' in the 'Original' variant.",
       "empty_list": false
     },
     {
@@ -267,7 +604,7 @@
       "section": "experiences",
       "cv_id": "CV75",
       "error_type": "Modification",
-      "details": "The 'Origin' variant changed the company name for the internship experience from 'not found' to 'Customs Broker' and modified the job title from 'Intern - Customs Broker' to 'Intern'.",
+      "details": "The 'Origin' variant has altered the company from 'not found' to 'Customs Broker' and changed the job title from 'Intern - Customs Broker' to 'Intern'.",
       "empty_list": false
     },
     {
@@ -276,7 +613,7 @@
       "section": "studies",
       "cv_id": "CV1",
       "error_type": "Modification",
-      "details": "The 'level_of_degree' in the 'Origin' variant is 'Bachelor' while in the 'Original' it is 'Bachelor of Commerce'. This changes the type of degree and thus the semantic content.",
+      "details": "The 'level_of_degree' in 'Origin' changed from 'Bachelor of Commerce' to 'Bachelor', which alters the semantic content.",
       "empty_list": false
     },
     {
@@ -285,7 +622,7 @@
       "section": "studies",
       "cv_id": "CV10",
       "error_type": "Modification",
-      "details": "The field of study for Summer 2022 has been changed from 'not found' to 'Business Analytics'.",
+      "details": "The field of study for the Summer 2022 session has been changed from 'not found' to 'Business Analytics'.",
       "empty_list": false
     },
     {
@@ -294,7 +631,7 @@
       "section": "studies",
       "cv_id": "CV12",
       "error_type": "Modification",
-      "details": "The level_of_degree for 'Digital Marketing' was changed from 'not found' to 'Summer Program'.",
+      "details": "The level_of_degree for the second entry differs: 'not found' in Original vs 'Summer Program' in Origin.",
       "empty_list": false
     },
     {
@@ -303,7 +640,7 @@
       "section": "studies",
       "cv_id": "CV17",
       "error_type": "Modification",
-      "details": "The 'level_of_degree' for the 'Data for Business' entry was changed from 'not found' to 'Summer School'. This alters the semantic content from an unspecified level to a specific type of program.",
+      "details": "The level of degree for the 'Data for Business' entry differs between the two variants: 'not found' in 'Original' and 'Summer School' in 'Origin'.",
       "empty_list": false
     },
     {
@@ -312,7 +649,16 @@
       "section": "studies",
       "cv_id": "CV27",
       "error_type": "Modification",
-      "details": "The level of degree for the study at ESADE Business School changed from 'not found' in 'Original' to 'Summer School' in 'Origin'.",
+      "details": "The level_of_degree for 'Global Management' course has been changed from 'not found' to 'Summer School'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Origine",
+      "section": "studies",
+      "cv_id": "CV82",
+      "error_type": "Modification",
+      "details": "The 'Origin' variant has altered the field data from 'Economie' to 'not found' and 'Techniques de Commercialisation' to 'not found' while moving field information into the 'level_of_degree'. This changes the semantic content beyond geographic concerns.",
       "empty_list": false
     },
     {
@@ -321,7 +667,7 @@
       "section": "studies",
       "cv_id": "CV95",
       "error_type": "Modification",
-      "details": "The 'Original' variant lists the field of study as 'Gestion' while the 'Origin' variant has 'not found' for the field. Additionally, the 'level_of_degree' is 'not found' in the 'Original' and 'BTS Gestion' in the 'Origin'. This indicates modifications in terms of field and level of degree information.",
+      "details": "The 'field' in the 'Origin' is set as 'not found' whereas in the 'Original' it was 'Gestion'. The 'level_of_degree' in the 'Origin' is 'BTS Gestion' which was 'not found' in the 'Original'.",
       "empty_list": false
     },
     {
@@ -329,21 +675,59 @@
       "dimension": "Origine",
       "section": "studies",
       "cv_id": "CV97",
+      "error_type": "Omission",
+      "details": "The level_of_degree is missing in the 'Origin' variant.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Age",
+      "section": "experiences",
+      "cv_id": "CV31",
       "error_type": "Modification",
-      "details": "The 'Origin' variant has 'level_of_degree' as 'not found' whereas 'Original' has 'Professional Certificate'.",
+      "details": "The 'Age' variant contains a different company name, 'University Events', instead of 'not found' for the Student Assistant role from 2021-2022. All other elements match the 'Original'.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV10",
+      "error_type": "Modification",
+      "details": "The 'Age' variant contains 'Business Analytics' for the field in the Summer 2022 entry, while 'Original' lists 'not found'. This is a change in the content of the field.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV17",
+      "error_type": "Modification",
+      "details": "The 'Age' variant specifies the level_of_degree for 'Data for Business' at HEC Lausanne as 'Summer School', whereas the 'Original' has 'not found'. This is a modification.",
+      "empty_list": false
+    },
+    {
+      "run": "run4",
+      "dimension": "Age",
+      "section": "studies",
+      "cv_id": "CV91",
+      "error_type": "Modification",
+      "details": "The 'field' changes from 'not found' to 'Communication' and 'level_of_degree' changes from 'BTS Communication' to 'not found'.",
       "empty_list": false
     }
   ],
   "statistiques": {
     "par_dimension": {
-      "Origine": 16
+      "Genre": 11,
+      "Origine": 19,
+      "Age": 7
     },
     "par_section": {
-      "experiences": 2,
-      "studies": 14
+      "experiences": 6,
+      "studies": 31
     },
     "par_type_erreur": {
-      "Modification": 15,
+      "Modification": 36,
       "Omission": 1
     }
   }

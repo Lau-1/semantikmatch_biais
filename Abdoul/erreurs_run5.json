@@ -1,0 +1,57 @@
+{
+    "Genre": {
+        "total": 167,
+        "semantiques": 0,
+        "empty": 167,
+        "details": []
+    },
+    "Origine": {
+        "total": 106,
+        "semantiques": 6,
+        "empty": 100,
+        "details": [
+            {
+                "cv_id": "CV61.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "In the 'Origin' variant, the company for the internship is listed as 'Intern - Audit Firm' rather than just 'Audit Firm', which changes the semantic content. The structure implies the job title includes the company name, altering the presentation compared to the 'Original'."
+            },
+            {
+                "cv_id": "CV49.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "The 'company' field in the second entry differs: 'Local Bank' in 'Original' vs 'not found' in 'Origin'."
+            },
+            {
+                "cv_id": "CV81.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "In the Origin variant, the job title was changed from 'Accounting Officer' to 'Accounting Officer - SME'."
+            },
+            {
+                "cv_id": "CV73.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "The 'Origin' variant combined the company and job title into 'Student Volunteer - Student Union'. This alters the semantic content by modifying the structure and potentially the understanding of the role's context."
+            },
+            {
+                "cv_id": "CV59.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "The job title 'Intern - Local Bank' in the 'Original' variant was altered to 'Intern' in the 'Origin' variant, which changes the semantic content by removing specific reference to the bank."
+            },
+            {
+                "cv_id": "CV20.pdf",
+                "section": "experiences",
+                "error_type": "Modification",
+                "details": "In the 'Origin' variant, the job title 'Commercial Analyst - Retail Group' was changed to 'Commercial Analyst', indicating a modification in the job title."
+            }
+        ]
+    },
+    "Age": {
+        "total": 39,
+        "semantiques": 0,
+        "empty": 39,
+        "details": []
+    }
+}
