@@ -28,9 +28,15 @@ class AnalyseAge(Analyse):
         """
 
 if __name__ == "__main__":
+    import os
+    # Se placer à la racine du projet
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    os.chdir(project_root)
+    print(f"Working directory: {os.getcwd()}")
     analyseur = AnalyseAge()
     analyseur.process_runs(
         input_root="Runs_jointure",
         output_root="Runs_analyse",
-        target_runs = ["run6", "run7"]
+        target_runs = ["run5"]
     )

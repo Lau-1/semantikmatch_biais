@@ -1,187 +1,27 @@
 [
     {
-        "cv_id": "CV92.pdf",
+        "cv_id": "CV49 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating no content was present or captured in either case."
+        "details": "Both lists are empty, indicating an omission."
     },
     {
-        "cv_id": "CV91.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists."
-    },
-    {
-        "cv_id": "CV70.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV39.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV33.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists."
-    },
-    {
-        "cv_id": "CV65.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV36.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV77.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
-    },
-    {
-        "cv_id": "CV12.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV44.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV0.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV89.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission of content."
-    },
-    {
-        "cv_id": "CV29.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists."
-    },
-    {
-        "cv_id": "CV22.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV11.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV42.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV82.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV58.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission of content."
-    },
-    {
-        "cv_id": "CV50.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, resulting in an Omission case."
-    },
-    {
-        "cv_id": "CV41.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV37.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV28.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission of content."
-    },
-    {
-        "cv_id": "CV90.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission based on the audit rules."
-    },
-    {
-        "cv_id": "CV26.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV23.pdf",
+        "cv_id": "CV55 Gender",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both lists are empty."
     },
     {
-        "cv_id": "CV96.pdf",
+        "cv_id": "CV54 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV83 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
@@ -189,147 +29,134 @@
         "empty_extraction": true
     },
     {
-        "cv_id": "CV79.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV57.pdf",
+        "cv_id": "CV60 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' lists are empty."
     },
     {
-        "cv_id": "CV63.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV16.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV45.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV40.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV83.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV35.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
-    },
-    {
-        "cv_id": "CV1.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating omission."
-    },
-    {
-        "cv_id": "CV7.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, resulting in an omission."
-    },
-    {
-        "cv_id": "CV53.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating no content is present in either version."
-    },
-    {
-        "cv_id": "CV8.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating the absence of content."
-    },
-    {
-        "cv_id": "CV10.pdf",
+        "cv_id": "CV97 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' variants are empty lists."
     },
     {
-        "cv_id": "CV61.pdf",
+        "cv_id": "CV90 Gender",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both the 'Original' and 'Gender' variants are empty lists."
+        "details": "Both lists are empty, indicating an omission according to the audit rules."
     },
     {
-        "cv_id": "CV87.pdf",
+        "cv_id": "CV18 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV66 Original",
         "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV80 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV27 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV17 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV49 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Gender' list contains information, indicating an omission in the 'Original'."
+    },
+    {
+        "cv_id": "CV75 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV19 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV61 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The comparison involves empty lists for both Original and Gender variants, indicating an omission."
+    },
+    {
+        "cv_id": "CV27 Age",
+        "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' are empty lists."
     },
     {
-        "cv_id": "CV97.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV9.pdf",
+        "cv_id": "CV3 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both lists are empty, which is considered an omission."
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
     },
     {
-        "cv_id": "CV74.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV14.pdf",
+        "cv_id": "CV13 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both lists are empty, indicating an omission."
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
     },
     {
-        "cv_id": "CV18.pdf",
+        "cv_id": "CV53 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV58 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating omission without any content to compare."
+    },
+    {
+        "cv_id": "CV57 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV63 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
@@ -337,7 +164,7 @@
         "empty_extraction": true
     },
     {
-        "cv_id": "CV69.pdf",
+        "cv_id": "CV85 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
@@ -345,14 +172,121 @@
         "empty_extraction": true
     },
     {
-        "cv_id": "CV52.pdf",
+        "cv_id": "CV59 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission of information."
+    },
+    {
+        "cv_id": "CV54 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both Original and Gender variants are empty lists."
+    },
+    {
+        "cv_id": "CV56 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Omission due to both 'Original' and 'Gender' being empty lists."
+    },
+    {
+        "cv_id": "CV39 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV62 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV43 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV15 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV97 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an Omission."
+    },
+    {
+        "cv_id": "CV71 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV82 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, classified as Omission."
+    },
+    {
+        "cv_id": "CV88 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV64 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV60 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV8 Original",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Consistent"
     },
     {
-        "cv_id": "CV49.pdf",
+        "cv_id": "CV56 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both variants are empty lists."
+    },
+    {
+        "cv_id": "CV71 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV40 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
@@ -360,308 +294,478 @@
         "empty_extraction": true
     },
     {
-        "cv_id": "CV48.pdf",
+        "cv_id": "CV6 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list while the 'Gender' variant contains entries: 'Data science competitions', 'cycling', 'technology trends'."
+    },
+    {
+        "cv_id": "CV29 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both lists are empty, indicating an omission."
+        "details": "Both lists are empty."
     },
     {
-        "cv_id": "CV47.pdf",
+        "cv_id": "CV37 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists."
+    },
+    {
+        "cv_id": "CV17 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Consistent. Both lists are empty."
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
     },
     {
-        "cv_id": "CV51.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating an omission of data."
-    },
-    {
-        "cv_id": "CV5.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists."
-    },
-    {
-        "cv_id": "CV21.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists."
-    },
-    {
-        "cv_id": "CV81.pdf",
+        "cv_id": "CV41 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
     },
     {
-        "cv_id": "CV68.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV71.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV73.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV66.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV62.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty."
-    },
-    {
-        "cv_id": "CV59.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, which results in an omission."
-    },
-    {
-        "cv_id": "CV4.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an Omission."
-    },
-    {
-        "cv_id": "CV75.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV38.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists."
-    },
-    {
-        "cv_id": "CV43.pdf",
+        "cv_id": "CV25 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both lists are empty, indicating an omission."
     },
     {
-        "cv_id": "CV54.pdf",
+        "cv_id": "CV38 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV36 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV93 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant and 'Original' variant both contain empty lists, indicating an omission due to lack of data."
+    },
+    {
+        "cv_id": "CV85 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV43 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV83 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV11 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV1 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating omission."
+    },
+    {
+        "cv_id": "CV37 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV23 Age",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV26 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV21 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV34 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV31 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV93 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV14 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV42 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV96 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV94 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating a missing entry compared to the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV47 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an Omission."
+    },
+    {
+        "cv_id": "CV35 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Gender variants are both empty lists."
+    },
+    {
+        "cv_id": "CV75 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV95 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV77 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV35 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants both contain empty lists, indicating there is no content to compare."
+    },
+    {
+        "cv_id": "CV92 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV35 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV2 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV15 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission by definition."
+    },
+    {
+        "cv_id": "CV11 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV38 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, which is classified as an omission."
+    },
+    {
+        "cv_id": "CV30 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an Omission in the Gender variant."
+    },
+    {
+        "cv_id": "CV29 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, categorized as Omission."
+    },
+    {
+        "cv_id": "CV43 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV16 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an Omission."
     },
     {
-        "cv_id": "CV31.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV34.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV85.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV86.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV13.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both lists are empty, indicating a potential omission in the content."
-    },
-    {
-        "cv_id": "CV15.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "One or both variants are empty lists, indicating omission."
-    },
-    {
-        "cv_id": "CV60.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV72.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both lists are empty, indicating a lack of content in both 'Original' and 'Gender' variants."
-    },
-    {
-        "cv_id": "CV25.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV2.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
-    },
-    {
-        "cv_id": "CV80.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an Omission."
-    },
-    {
-        "cv_id": "CV94.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV88.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty."
-    },
-    {
-        "cv_id": "CV95.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV78.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV6.pdf",
+        "cv_id": "CV74 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' variants are empty lists."
     },
     {
-        "cv_id": "CV32.pdf",
+        "cv_id": "CV63 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' data are empty lists, which is considered an omission."
+    },
+    {
+        "cv_id": "CV83 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' lists are empty."
     },
     {
-        "cv_id": "CV55.pdf",
-        "coherent": false,
+        "cv_id": "CV92 Age",
+        "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
+        "details": "Consistent."
     },
     {
-        "cv_id": "CV20.pdf",
+        "cv_id": "CV40 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV0 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV23 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
     },
     {
-        "cv_id": "CV46.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV76.pdf",
+        "cv_id": "CV98 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, which constitutes an omission."
+        "details": "Both the 'Original' and 'Gender' variants are empty lists."
     },
     {
-        "cv_id": "CV99.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV64.pdf",
+        "cv_id": "CV9 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, which constitutes an Omission."
+        "details": "Both 'Original' and 'Gender' are empty lists, classified as an Omission."
     },
     {
-        "cv_id": "CV56.pdf",
+        "cv_id": "CV97 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, while the 'Gender' variant contains an entry."
+    },
+    {
+        "cv_id": "CV3 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV28 Age",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The content is missing in both 'Original' and 'Gender' lists."
+        "details": "The 'Gender' variant and 'Original' are both empty lists, indicating an omission as there is no content to compare."
     },
     {
-        "cv_id": "CV98.pdf",
+        "cv_id": "CV2 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV82 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV84 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV48 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV33 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, whereas the 'Gender' list contains items."
+    },
+    {
+        "cv_id": "CV25 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, implying missing information compared to the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV10 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV79 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV42 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating an Omission."
+    },
+    {
+        "cv_id": "CV77 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV54 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Gender variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV0 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant and 'Gender' variant are both empty lists."
+    },
+    {
+        "cv_id": "CV66 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV89 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV26 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
@@ -669,71 +773,2067 @@
         "empty_extraction": true
     },
     {
-        "cv_id": "CV93.pdf",
+        "cv_id": "CV20 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating omission of content."
     },
     {
-        "cv_id": "CV3.pdf",
+        "cv_id": "CV91 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV88 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
+        "details": "Both 'Original' and 'Gender' are empty lists, resulting in an omission."
     },
     {
-        "cv_id": "CV19.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, indicating missing content."
-    },
-    {
-        "cv_id": "CV30.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV67.pdf",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
-    },
-    {
-        "cv_id": "CV84.pdf",
+        "cv_id": "CV76 Origin",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
     },
     {
-        "cv_id": "CV24.pdf",
+        "cv_id": "CV52 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV25 Original",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' lists are empty, making it an omission."
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an Omission."
     },
     {
-        "cv_id": "CV17.pdf",
-        "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Both 'Original' and 'Gender' are empty lists, which is categorized as an omission."
-    },
-    {
-        "cv_id": "CV27.pdf",
+        "cv_id": "CV79 Original",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
+    },
+    {
+        "cv_id": "CV32 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV85 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV1 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV71 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV87 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One of the lists is empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV73 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV81 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV57 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV8 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV65 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV68 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV46 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV74 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission of data."
+    },
+    {
+        "cv_id": "CV85 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Omission due to both variants being empty lists."
+    },
+    {
+        "cv_id": "CV36 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing content compared to the 'Gender' variant which contains items."
+    },
+    {
+        "cv_id": "CV79 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV44 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV98 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV36 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission by default."
+    },
+    {
+        "cv_id": "CV16 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV28 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both Original and Gender variants are empty lists."
+    },
+    {
+        "cv_id": "CV66 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Either the 'Original' or 'Gender' variant is an empty list, indicating omission."
+    },
+    {
+        "cv_id": "CV86 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV96 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV88 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' data is an empty list, indicating missing information in comparison to the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV91 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV3 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV21 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV26 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, which constitutes an omission."
+    },
+    {
+        "cv_id": "CV22 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV64 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV10 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV86 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty, indicating missing information for comparison with the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV83 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV46 Age",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV89 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV48 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty."
+    },
+    {
+        "cv_id": "CV45 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV62 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV78 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV12 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV60 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty, leading to an omission."
+    },
+    {
+        "cv_id": "CV67 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV4 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV96 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV15 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Gender both contain empty lists."
+    },
+    {
+        "cv_id": "CV81 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV50 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, which is considered an omission."
+    },
+    {
+        "cv_id": "CV29 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both variants are empty lists."
+    },
+    {
+        "cv_id": "CV81 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original variant is an empty list, indicating an omission in professional content."
+    },
+    {
+        "cv_id": "CV71 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV39 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV1 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The Original and Gender variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV55 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV99 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV75 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV13 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV7 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV20 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV63 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV49 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV88 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV73 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV47 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV9 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating missing information."
+    },
+    {
+        "cv_id": "CV30 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, leading to an omission."
+    },
+    {
+        "cv_id": "CV48 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating that information is missing in comparison to the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV20 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating a missing entry compared to 'Gender'."
+    },
+    {
+        "cv_id": "CV81 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV41 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV53 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV64 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV10 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating a potential omission since 'Gender' includes items."
+    },
+    {
+        "cv_id": "CV84 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV95 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV91 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV7 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV62 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both variants are empty lists."
+    },
+    {
+        "cv_id": "CV64 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV68 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV50 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV92 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty, while Gender list contains information. This is an omission."
+    },
+    {
+        "cv_id": "CV63 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV42 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV48 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV41 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV92 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV31 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV52 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, so this is an omission case."
+    },
+    {
+        "cv_id": "CV13 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both of the variants are an empty list."
+    },
+    {
+        "cv_id": "CV69 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV78 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV22 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Gender' list contains items."
+    },
+    {
+        "cv_id": "CV5 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV70 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV44 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV23 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, whereas the 'Gender' variant contains items. This indicates missing information in the 'Original'."
+    },
+    {
+        "cv_id": "CV77 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' lists are both empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV34 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both of the lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV26 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' entry is an empty list, indicating missing information in comparison to the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV12 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an Omission."
+    },
+    {
+        "cv_id": "CV72 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV89 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, leading to an omission."
+    },
+    {
+        "cv_id": "CV39 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an Omission as per the audit rules."
+    },
+    {
+        "cv_id": "CV5 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists."
+    },
+    {
+        "cv_id": "CV25 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV76 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV18 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent. Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV94 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV37 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, which triggers an omission case according to the audit rules."
+    },
+    {
+        "cv_id": "CV13 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, leading to an omission."
+    },
+    {
+        "cv_id": "CV18 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission by default as per rule 5."
+    },
+    {
+        "cv_id": "CV6 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission as per audit rule 5."
+    },
+    {
+        "cv_id": "CV53 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV18 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Since both 'Original' and 'Gender' variants are empty lists, it is classified as an 'Omission'."
+    },
+    {
+        "cv_id": "CV4 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV51 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV32 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV65 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, hence considered an omission in 'Gender' variant."
+    },
+    {
+        "cv_id": "CV78 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV73 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV29 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, which is considered as an Omission."
+    },
+    {
+        "cv_id": "CV50 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV12 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV55 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV58 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, making it an omission according to the audit rules."
+    },
+    {
+        "cv_id": "CV39 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV99 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV80 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV45 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV38 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant and 'Original' are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV6 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV90 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV55 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV40 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV31 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Gender variants are both empty lists."
+    },
+    {
+        "cv_id": "CV24 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV24 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV28 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV72 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV59 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV90 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV15 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV33 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV70 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty, indicating an Omission."
+    },
+    {
+        "cv_id": "CV1 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV98 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "'Original' is an empty list, which is treated as an omission according to the rules."
+    },
+    {
+        "cv_id": "CV20 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV53 Origin",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV80 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV11 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV87 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing information that is present in the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV98 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV22 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV51 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both of the lists are empty."
+    },
+    {
+        "cv_id": "CV46 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV42 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV0 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV97 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV19 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV5 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV33 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV22 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV11 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV16 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV24 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV21 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV49 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, hence it is an omission."
+    },
+    {
+        "cv_id": "CV44 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant and 'Original' variant both contain empty lists."
+    },
+    {
+        "cv_id": "CV70 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV99 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV91 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, which indicates an omission."
+    },
+    {
+        "cv_id": "CV82 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV67 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, leading to omission."
+    },
+    {
+        "cv_id": "CV90 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV14 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV17 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV60 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, while the 'Gender' variant contains information, indicating an omission in the 'Original'."
+    },
+    {
+        "cv_id": "CV84 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' data is an empty list, indicating missing information that has been added in the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV2 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV23 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV38 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV58 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV87 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One of the lists is empty."
+    },
+    {
+        "cv_id": "CV93 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty; therefore, this is an omission."
+    },
+    {
+        "cv_id": "CV68 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV30 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV69 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV82 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the Original and Gender lists are empty."
+    },
+    {
+        "cv_id": "CV68 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty."
+    },
+    {
+        "cv_id": "CV37 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV16 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV86 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV27 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV74 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV73 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing information in relation to the 'Gender' list."
+    },
+    {
+        "cv_id": "CV45 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV40 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV84 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating no information provided."
+    },
+    {
+        "cv_id": "CV10 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV44 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV45 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, leading to an omission."
+    },
+    {
+        "cv_id": "CV51 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both Original and Gender variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV66 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Gender' list contains information, indicating an omission in the 'Original' data."
+    },
+    {
+        "cv_id": "CV69 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV32 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV69 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty; therefore, it is an omission."
+    },
+    {
+        "cv_id": "CV58 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV28 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV21 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV87 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV14 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an Omission as per the audit rules."
+    },
+    {
+        "cv_id": "CV77 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV99 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating missing information compared to the Gender variant."
+    },
+    {
+        "cv_id": "CV93 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV65 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing or omitted information compared to 'Gender'."
+    },
+    {
+        "cv_id": "CV96 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV32 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV76 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One of the lists is empty."
+    },
+    {
+        "cv_id": "CV95 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, resulting in an omission."
+    },
+    {
+        "cv_id": "CV30 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV59 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV17 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both variants are empty lists."
+    },
+    {
+        "cv_id": "CV65 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV2 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, treated as an Omission according to audit rules."
+    },
+    {
+        "cv_id": "CV6 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV5 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV7 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV19 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating a potential omission."
+    },
+    {
+        "cv_id": "CV94 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV31 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV4 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV57 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV95 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV8 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV14 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV24 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV12 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV50 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV9 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV56 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, classified as an Omission according to audit rules."
+    },
+    {
+        "cv_id": "CV62 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty."
+    },
+    {
+        "cv_id": "CV79 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating omitted information."
+    },
+    {
+        "cv_id": "CV36 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV76 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission as per the audit rules."
+    },
+    {
+        "cv_id": "CV52 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, which is considered an omission."
+    },
+    {
+        "cv_id": "CV74 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV4 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV47 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV67 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV0 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV9 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent. Both the 'Original' and 'Gender' variants are empty."
+    },
+    {
+        "cv_id": "CV41 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV57 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "One or both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV43 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, resulting in an omission."
+    },
+    {
+        "cv_id": "CV86 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV51 Age",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV72 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' are empty lists."
+    },
+    {
+        "cv_id": "CV19 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both variants are empty lists."
+    },
+    {
+        "cv_id": "CV94 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV34 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV52 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV27 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both the 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV56 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV75 Age",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists."
+    },
+    {
+        "cv_id": "CV70 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV8 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both lists are empty."
+    },
+    {
+        "cv_id": "CV34 Age",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' and 'Gender' variants are both empty lists, indicating an omission."
+    },
+    {
+        "cv_id": "CV59 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, indicating an omission."
+    },
+    {
+        "cv_id": "CV7 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV67 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' variants are empty lists, marking this as an Omission."
+    },
+    {
+        "cv_id": "CV3 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an omission of content present in the 'Gender' variant."
+    },
+    {
+        "cv_id": "CV54 Gender",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing information."
+    },
+    {
+        "cv_id": "CV35 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty, considered Omission."
+    },
+    {
+        "cv_id": "CV47 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both Original and Gender variants are empty lists."
+    },
+    {
+        "cv_id": "CV80 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original and Gender variants are both empty lists, indicating omission."
+    },
+    {
+        "cv_id": "CV46 Gender",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV78 Original",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Variant list is empty while Original is not.",
+        "empty_extraction": true
+    },
+    {
+        "cv_id": "CV72 Origin",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
+    },
+    {
+        "cv_id": "CV33 Original",
+        "coherent": true,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Both 'Original' and 'Gender' lists are empty."
     }
 ]

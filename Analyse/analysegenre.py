@@ -32,5 +32,5 @@ if __name__ == "__main__":
     classe.process_runs(
         input_root="Runs_jointure",
         output_root="Runs_analyse",
-        target_runs = ["run6", "run7"]
+        target_runs = ["run5", "run6", "run7"]
     )

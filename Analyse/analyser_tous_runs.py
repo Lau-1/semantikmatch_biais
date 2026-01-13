@@ -44,7 +44,7 @@ def analyser_tous_les_runs(project_root=None):
     runs_disponibles.sort()
 
     # Filtrer uniquement run3 et run4 (mêmes prompts d'extraction)
-    runs_disponibles = [r for r in runs_disponibles if r in ['run3', 'run4']]
+    runs_disponibles = [r for r in runs_disponibles if r in ['run5', 'run6', 'run7']]
 
     if not runs_disponibles:
         print("[ERR] Aucun run valide trouve")

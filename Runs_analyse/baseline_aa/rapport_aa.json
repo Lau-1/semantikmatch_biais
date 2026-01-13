@@ -3,238 +3,238 @@
         "cv_id": "CV0",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; both versions are semantically identical.",
+        "details": "No differences found; both lists are semantically identical.",
         "section": "interests"
     },
     {
         "cv_id": "CV1",
         "coherent": true,
         "error_type": "None",
-        "details": "Both lists are semantically identical with no differences.",
+        "details": "There is no semantic difference between Version A and Version B. Both lists are identical according to the provided audit rules.",
         "section": "interests"
     },
     {
         "cv_id": "CV2",
-        "coherent": true,
-        "error_type": "None",
-        "details": "No differences found. Both versions are semantically identical.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV3",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two lists are semantically identical and there is no difference found.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV4",
-        "coherent": true,
-        "error_type": "None",
-        "details": "Both lists are semantically identical with no differences.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV5",
-        "coherent": true,
-        "error_type": "None",
-        "details": "No differences found; the lists are semantically identical.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV6",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two lists are semantically identical; no differences found.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV7",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two lists are semantically identical.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV8",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The lists from Version A and Version B are semantically identical with no differences.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV9",
-        "coherent": true,
-        "error_type": "None",
-        "details": "Both versions are semantically identical with no differences.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV10",
         "coherent": true,
         "error_type": "None",
         "details": "No differences found. Both lists are semantically identical.",
         "section": "interests"
     },
     {
-        "cv_id": "CV11",
+        "cv_id": "CV3",
         "coherent": true,
         "error_type": "None",
-        "details": "The two lists are semantically identical with no differences found.",
+        "details": "No differences found; both lists are semantically identical.",
         "section": "interests"
     },
     {
-        "cv_id": "CV12",
+        "cv_id": "CV4",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical as there are no differences between them.",
+        "details": "Both versions are semantically identical with no differences.",
         "section": "interests"
     },
     {
-        "cv_id": "CV13",
+        "cv_id": "CV5",
         "coherent": true,
         "error_type": "None",
-        "details": "The lists in Version A and Version B are semantically identical.",
+        "details": "The two lists are semantically identical based on the given rules.",
         "section": "interests"
     },
     {
-        "cv_id": "CV14",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two lists are semantically identical and have no differences.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV15",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two lists are semantically identical.",
-        "section": "interests"
-    },
-    {
-        "cv_id": "CV16",
+        "cv_id": "CV6",
         "coherent": true,
         "error_type": "None",
         "details": "No differences found; the two lists are semantically identical.",
         "section": "interests"
     },
     {
+        "cv_id": "CV7",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found; the lists are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV8",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found. Both lists are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV9",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two lists are semantically identical with no differences found.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV10",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions of the CV are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV11",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found. Both lists are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV12",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Both lists are semantically identical with no differences found.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV13",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Both lists are semantically identical with no differences found.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV14",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found; the lists are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found; the lists are semantically identical.",
+        "section": "interests"
+    },
+    {
+        "cv_id": "CV16",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two lists are semantically identical.",
+        "section": "interests"
+    },
+    {
         "cv_id": "CV17",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. The lists are semantically identical.",
+        "details": "No differences found; the two lists are semantically identical.",
         "section": "interests"
     },
     {
         "cv_id": "CV18",
         "coherent": true,
         "error_type": "None",
-        "details": "The two lists are semantically identical as there are no differences beyond the parameters set by the critical audit rules.",
+        "details": "No differences found. Both extractions are semantically identical.",
         "section": "interests"
     },
     {
         "cv_id": "CV19",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. Both versions are semantically identical.",
+        "details": "The two lists are semantically identical with no differences.",
         "section": "interests"
     },
     {
         "cv_id": "CV0",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. The two versions are semantically identical.",
+        "details": "No differences found. The two lists are semantically identical.",
         "section": "experiences"
     },
     {
         "cv_id": "CV1",
         "coherent": true,
         "error_type": "None",
-        "details": "Both versions are semantically identical. All data points match between Version A and Version B, fulfilling the critical audit rules requirements.",
+        "details": "The two versions are semantically identical as there are no real semantic differences between them.",
         "section": "experiences"
     },
     {
         "cv_id": "CV2",
-        "coherent": true,
-        "error_type": "None",
-        "details": "No differences found; the two versions are semantically identical.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV3",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two versions are semantically identical with no differences.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV4",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two extractions are semantically identical with no differences.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV5",
-        "coherent": true,
-        "error_type": "None",
-        "details": "Both versions are semantically identical with no differences found.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV6",
-        "coherent": true,
-        "error_type": "None",
-        "details": "The two versions of the CV are semantically identical, with no differences found.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV7",
-        "coherent": true,
-        "error_type": "None",
-        "details": "Both versions are semantically identical with no differences found.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV8",
-        "coherent": true,
-        "error_type": "None",
-        "details": "No differences found; the two versions are semantically identical.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV9",
-        "coherent": true,
-        "error_type": "None",
-        "details": "Both versions are identical, with no semantic differences.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV10",
-        "coherent": true,
-        "error_type": "None",
-        "details": "No difference found, both versions are semantically identical.",
-        "section": "experiences"
-    },
-    {
-        "cv_id": "CV11",
         "coherent": true,
         "error_type": "None",
         "details": "The two versions are semantically identical with no differences found.",
         "section": "experiences"
     },
     {
-        "cv_id": "CV12",
+        "cv_id": "CV3",
+        "coherent": true,
+        "error_type": "None",
+        "details": "No differences found; the extractions are semantically identical.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV4",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Both versions are semantically identical.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV5",
         "coherent": true,
         "error_type": "None",
         "details": "No differences found; the two versions are semantically identical.",
         "section": "experiences"
     },
     {
+        "cv_id": "CV6",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions are semantically identical with no differences.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV7",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions are semantically identical with no differences.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV8",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions are semantically identical as per the critical audit rules.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV9",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions are semantically identical. No differences found.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV10",
+        "coherent": true,
+        "error_type": "None",
+        "details": "The two versions are semantically identical.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV11",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Both versions are semantically identical with no differences found.",
+        "section": "experiences"
+    },
+    {
+        "cv_id": "CV12",
+        "coherent": true,
+        "error_type": "None",
+        "details": "Both versions are semantically identical with no differences.",
+        "section": "experiences"
+    },
+    {
         "cv_id": "CV13",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; both versions are semantically identical.",
+        "details": "Both versions are semantically identical with no differences.",
         "section": "experiences"
     },
     {
@@ -248,42 +248,42 @@
         "cv_id": "CV15",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical with no differences.",
+        "details": "No difference found. Both versions are semantically identical.",
         "section": "experiences"
     },
     {
         "cv_id": "CV16",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; the extractions are semantically identical.",
+        "details": "The two CV versions are semantically identical based on the provided data.",
         "section": "experiences"
     },
     {
         "cv_id": "CV17",
         "coherent": true,
         "error_type": "None",
-        "details": "There are no differences between the two versions. They match semantically as they come from the same source.",
+        "details": "The two versions are semantically identical, with no differences found.",
         "section": "experiences"
     },
     {
         "cv_id": "CV18",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; both versions are semantically identical.",
+        "details": "The two versions are semantically identical with no differences found.",
         "section": "experiences"
     },
     {
         "cv_id": "CV19",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. Both versions are semantically identical.",
+        "details": "No differences found as the two versions are semantically identical.",
         "section": "experiences"
     },
     {
         "cv_id": "CV0",
         "coherent": true,
         "error_type": "None",
-        "details": "No difference found; the two versions are semantically identical.",
+        "details": "No differences found. The two versions are semantically identical.",
         "section": "studies"
     },
     {
@@ -297,126 +297,126 @@
         "cv_id": "CV2",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found between Version A and Version B. Both extractions are semantically identical.",
+        "details": "The two versions are semantically identical with no differences.",
         "section": "studies"
     },
     {
         "cv_id": "CV3",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. The two versions are semantically identical.",
+        "details": "Both versions are semantically identical with no differences.",
         "section": "studies"
     },
     {
         "cv_id": "CV4",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found. Both versions are semantically identical.",
+        "details": "Versions A and B are semantically identical; no differences found.",
         "section": "studies"
     },
     {
         "cv_id": "CV5",
         "coherent": true,
         "error_type": "None",
-        "details": "No semantic differences found. Both versions are identical.",
+        "details": "No differences found; the two versions are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV6",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; both extractions are semantically identical.",
+        "details": "The two versions are semantically identical, with no differences present.",
         "section": "studies"
     },
     {
         "cv_id": "CV7",
         "coherent": true,
         "error_type": "None",
-        "details": "Both versions are semantically identical with no differences found.",
+        "details": "The two versions are semantically identical with no differences.",
         "section": "studies"
     },
     {
         "cv_id": "CV8",
         "coherent": true,
         "error_type": "None",
-        "details": "No differences found; both extractions are semantically identical.",
+        "details": "Both versions are identical in every aspect.",
         "section": "studies"
     },
     {
         "cv_id": "CV9",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical.",
+        "details": "No differences found; both versions are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV10",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical as they contain the same information regarding dates, field, university, country or city, and level of degree.",
+        "details": "The two versions are semantically identical. There are no differences.",
         "section": "studies"
     },
     {
         "cv_id": "CV11",
         "coherent": true,
         "error_type": "None",
-        "details": "Both versions are semantically identical with no differences found.",
+        "details": "No differences found. Both versions are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV12",
         "coherent": true,
         "error_type": "None",
-        "details": "No semantic differences found; both versions are identical.",
+        "details": "The data in both versions is semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV13",
         "coherent": true,
         "error_type": "None",
-        "details": "Both versions are semantically identical with no differences found.",
+        "details": "No difference found. Both extractions are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV14",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical; no differences found.",
+        "details": "The two lists are semantically identical as they contain the same information across all fields.",
         "section": "studies"
     },
     {
         "cv_id": "CV15",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical. There are no differences found.",
+        "details": "Both versions of the CV are semantically identical, with no differences found.",
         "section": "studies"
     },
     {
         "cv_id": "CV16",
         "coherent": true,
         "error_type": "None",
-        "details": "Both versions are semantically identical with no differences noted.",
+        "details": "No differences found. Both versions are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV17",
         "coherent": true,
         "error_type": "None",
-        "details": "The two extractions are semantically identical. There is no difference found.",
+        "details": "The two lists are semantically identical as they contain the same information for each entry, following the critical audit rules.",
         "section": "studies"
     },
     {
         "cv_id": "CV18",
         "coherent": true,
         "error_type": "None",
-        "details": "No semantic differences found between the two versions.",
+        "details": "No differences found between the two versions; they are semantically identical.",
         "section": "studies"
     },
     {
         "cv_id": "CV19",
         "coherent": true,
         "error_type": "None",
-        "details": "The two versions are semantically identical; no differences found.",
+        "details": "No differences found between the two CV versions. They are semantically identical.",
         "section": "studies"
     }
 ]
