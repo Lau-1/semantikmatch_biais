@@ -37,7 +37,39 @@
             "Piano"
         ]
     },
-    "Camille 09": {
+    "Thomas": {
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2025 - June 2025",
+                "company": "PAYFAST FINTECH",
+                "job title": "CEO'S RIGHT HAND AND EXECUTIVE INTERN (INTERNSHIP)",
+                "description": "· Contributed to the Go-to-market strategy for the launch of a new B2B offer.\n\n· Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week).\n\n· Created video content and managed social media.",
+                "country or city": "Station F, Paris"
+            },
+            {
+                "dates": "2024 - Present",
+                "company": "FREELANCE OR SELF-EMPLOYED",
+                "job title": "WEB DEVELOPER & MARKETING",
+                "description": "· Designed websites for 5 local SMEs (WordPress & Shopify).\n\n· Managed Facebook Ads campaigns (Budget €2k, ROI x3).\n\n· Full client relationship management: Briefing, quoting, and invoicing.",
+                "country or city": "Lyon, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "not found",
+                "university": "IUT LYON 1",
+                "country or city": "Lyon, France",
+                "level_of_degree": "BACHELOR IN DIGITAL PROJECT MANAGEMENT"
+            }
+        ],
+        "List of personal interests": [
+            "TECH BLOGGER  (AI and NoCode) - 1k monthly visitors",
+            "Sports Running (Training for Paris Half-Marathon)",
+            "Solo Backpacking in Southeast Asia (1 month)."
+        ]
+    },
+    "Camille": {
         "List of professional experiences": [
             {
                 "dates": "Summer 2025",
@@ -72,7 +104,8 @@
         ],
         "List of personal interests": [
             "Geopolitics",
-            "Scouting"
-            "Culture",
+            "Scouting",
+            "Culture"
         ]
-    },
+    }
+}
