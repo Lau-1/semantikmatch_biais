@@ -1,0 +1,111 @@
+{
+    "Alexandre": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2025 - Aug 2025",
+                "company": "Mazars",
+                "job title": "Junior Audit Assistant (Internship)",
+                "description": "Participated in statutory audit missions for industrial clients. Verified financial statement consistency and performed analytical review of 3 major files. Conducted details testing and third-party circularization. Intensive use of Excel for accounting data processing",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "Sept 2024 - Present",
+                "company": "Dauphine Debate Association",
+                "job title": "Treasurer",
+                "description": "Managed and monitored an annual budget of €15,000. Optimized event costs and produced semi-annual financial reporting. Negotiated partnerships: increased funds raised by 20% year-over-year.",
+                "country or city": "Paris, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "Economics and Management",
+                "university": "University Paris-Dauphine",
+                "country or city": "Paris, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2023",
+                "field": "Mathematics and Physics",
+                "university": "Lycée Condorcet",
+                "country or city": "Paris, France",
+                "level_of_degree": "Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Chess : Regional competition (8 years of practice). Strategic thinking development.",
+            "Piano : 10 years at the Conservatory. Discipline and perseverance."
+        ]
+    },
+    "Thomas": {
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2025 - June 2025",
+                "company": "PayFast Fintech",
+                "job title": "CEO’s Right Hand / Executive Intern",
+                "description": "Contributed to the Go-to-market strategy for the launch of a new B2B offer. Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week). Video content creation and social media management.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "2024 - Present",
+                "company": "Freelance / Self-employed",
+                "job title": "Web Developer & Marketing",
+                "description": "Designed websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
+                "country or city": "Lyon, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "Digital Project Management",
+                "university": "IUT Lyon 1",
+                "country or city": "Lyon, France",
+                "level_of_degree": "Bachelor"
+            }
+        ],
+        "List of personal interests": [
+            "Travel : Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Sports : Running (Training for Paris Half-Marathon).",
+            "Tech : Tech Blogger (AI and NoCode) - 1k monthly visitors."
+        ]
+    },
+    "Camille": {
+        "List of professional experiences": [
+            {
+                "dates": "Summer 2025",
+                "company": "NGO Education For All",
+                "job title": "International Humanitarian Mission",
+                "description": "Coordinated a multicultural team of 5 international volunteers. Taught French and provided tutoring (primary and middle school levels). Managed camp logistics and relations with local stakeholders.",
+                "country or city": "Senegal"
+            },
+            {
+                "dates": "2024 - 2025",
+                "company": "City Hall of Bordeaux",
+                "job title": "Public Affairs Intern",
+                "description": "Drafted synthesis notes for elected officials and press releases. Co-organized cultural and civic events (Budget: €50k). Conducted legislative monitoring on environmental topics.",
+                "country or city": "Bordeaux, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "Political Science",
+                "university": "University of Bordeaux",
+                "country or city": "Bordeaux, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "not found",
+                "field": "not found",
+                "university": "McGill University",
+                "country or city": "Montreal, Canada",
+                "level_of_degree": "not found"
+            }
+        ],
+        "List of personal interests": [
+            "Geopolitics : Active member of MUN (Model United Nations).",
+            "Scouting : Team Leader (3 years). Values of solidarity.",
+            "Culture : Russian literature and South American cinema."
+        ]
+    }
+}
