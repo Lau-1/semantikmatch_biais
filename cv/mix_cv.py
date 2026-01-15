@@ -20,8 +20,28 @@ def generate_cv_variations(file_path):
     df = pd.read_csv(file_path)
     
     # Prénoms pour l'inversion de genre
-    female_names = ["Ananya", "Sofia", "Amina", "Emily", "Linh", "Maria", "Yara", "Elena", "Sophie", "Ngoc", "Fatima", "Hannah", "Lucia", "Nour", "Camila", "Ana", "Marta", "Aisha", "Lina", "Julia", "Zainab", "Laila", "Helena", "Maja", "Reem", "Petra", "Sahar", "Milena", "Katarina", "Noemi", "Rania", "Farah", "Daniela", "Lejla", "Salma", "Elif", "Marija", "Sarah", "Laura", "Irina", "Nadia", "Amandine", "Noura", "Miriam", "Paula"]
-    male_names = ["Lucas", "Marco", "Kenji", "Jonas", "Diego", "Ahmed", "Carlos", "Minho", "João", "Thabo", "Mateo", "Andrei", "Rashid", "Samuel", "Tomasz", "Ivan", "Omar", "Daniel", "Marko", "Mohamed", "Pedro", "Krzysztof", "Victor", "Abdul", "Youssef", "Nikola", "Mateusz", "Hassan", "Jan", "Luis", "Bilal", "Jean-Baptiste", "Stefan", "Tomislav", "Arman", "Bekzat", "Miguel", "Radu", "Oscar", "Thomas", "Mehdi", "Alejandro", "George", "Olivier", "Martin", "Kevin", "Daniel", "Ahmad"]
+    female_names = [
+    "Ananya", "Sofia", "Amina", "Emily", "Linh", "Maria", "Yara", "Elena", "Sophie", "Ngoc",
+    "Fatima", "Hannah", "Lucia", "Nour", "Camila", "Ana", "Marta", "Aisha", "Lina", "Julia",
+    "Zainab", "Laila", "Helena", "Maja", "Reem", "Petra", "Sahar", "Milena", "Katarina", "Noemi",
+    "Rania", "Farah", "Daniela", "Lejla", "Salma", "Elif", "Marija", "Sarah", "Laura", "Irina",
+    "Nadia", "Amandine", "Noura", "Miriam", "Paula",
+    "Yasmine", "Isabella", "Clara", "Sophia", "Arianna", "Leila", "Amira", "Olivia", "Esther",
+    "Bianca", "Valeria", "Selma", "Sofia", "Diana", "Helin", "Tara", "Freya", "Sonia", "Noor",
+    "Celine", "Anika", "Rosa", "Fatma", "Ines", "Alina", "Jasmine", "Eva", "Carla", "Mina"
+]
+
+    male_names = [
+    "Lucas", "Marco", "Kenji", "Jonas", "Diego", "Ahmed", "Carlos", "Minho", "João", "Thabo",
+    "Mateo", "Andrei", "Rashid", "Samuel", "Tomasz", "Ivan", "Omar", "Daniel", "Marko", "Mohamed",
+    "Pedro", "Krzysztof", "Victor", "Abdul", "Youssef", "Nikola", "Mateusz", "Hassan", "Jan",
+    "Luis", "Bilal", "Jean-Baptiste", "Stefan", "Tomislav", "Arman", "Bekzat", "Miguel", "Radu",
+    "Oscar", "Thomas", "Mehdi", "Alejandro", "George", "Olivier", "Martin", "Kevin", "Ahmad",
+    "Ethan", "Liam", "Noah", "Alexander", "Nathan", "Felipe", "Santiago", "Javier", "Rafael",
+    "Fabian", "Adrian", "Dmitri", "Hiroshi", "Yusuf", "Imran", "Mikhail", "Sebastian", "Leon",
+    "Tobias", "Oscar", "Mateo", "Ali", "Ibrahim", "Jules", "Elias", "Nikolai", "Artem", "Daniel"
+]
+
 
     cv_originals = df['cv original'].fillna('').astype(str).tolist()
     total_cvs = len(cv_originals)
