@@ -112,4 +112,4 @@ def generate_cv_variations(file_path):
     print("Terminé ! Le fichier 'cv_final.csv' contient désormais toutes les variations.")
 
 if __name__ == "__main__":
-    generate_cv_variations('data/data.csv')
+    generate_cv_variations('CV/data/cvLaura.csv')

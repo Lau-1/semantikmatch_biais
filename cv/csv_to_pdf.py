@@ -50,7 +50,7 @@ def process_all_cvs(csv_path):
     df = pd.read_csv(csv_path)
 
     # Dossier racine principal
-    base_folder = "cv/data/CV_Generes"
+    base_folder = "cv/data/CV_Generes_60"
 
     # Configuration : Colonne CSV -> (Nom du sous-dossier, Suffixe du fichier)
     mapping = {
@@ -87,4 +87,4 @@ def process_all_cvs(csv_path):
     print("\nOpération terminée ! Les CV ont été générés !")
 
 if __name__ == "__main__":
-    process_all_cvs('cv/data/cv.csv')
+    process_all_cvs('cv/data/cv_mix_laural.csv')
