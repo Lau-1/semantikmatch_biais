@@ -6,7 +6,7 @@ def get_shuffled_list_guaranteed(original_list):
     """Mélange une liste en garantissant que l'élément change de place."""
     shuffled = original_list[:]
     if len(shuffled) < 2: return shuffled
-    
+
     random.shuffle(shuffled)
     # On évite les boucles infinies si trop de doublons avec un décalage de secours
     attempts = 0
@@ -18,7 +18,7 @@ def get_shuffled_list_guaranteed(original_list):
 def generate_cv_variations(file_path):
     print("Chargement du fichier...")
     df = pd.read_csv(file_path)
-    
+
     # Prénoms pour l'inversion de genre
     female_names = [
     "Ananya", "Sofia", "Amina", "Emily", "Linh", "Maria", "Yara", "Elena", "Sophie", "Ngoc",
@@ -45,7 +45,7 @@ def generate_cv_variations(file_path):
 
     cv_originals = df['cv original'].fillna('').astype(str).tolist()
     total_cvs = len(cv_originals)
-    
+
     # Listes pour le mélange des pays
     original_countries = []
     for cv in cv_originals:
@@ -65,7 +65,7 @@ def generate_cv_variations(file_path):
         lines = cv_originals[i].split('\n')
         header_orig = lines[0]
         rest_of_cv = lines[1:]
-        
+
         sep = ' – ' if ' – ' in header_orig else ' - '
         parts_orig = [p.strip() for p in header_orig.replace('–', '-').split('-')]
 
@@ -81,7 +81,7 @@ def generate_cv_variations(file_path):
         current_gender = v1[2].strip().lower()
         name_parts = full_name.split(' ')
         last_name = " ".join(name_parts[1:]) if len(name_parts) > 1 else ""
-        
+
         if "male" in current_gender and "female" not in current_gender:
             v1[2], v1[0] = "Female", f"{random.choice(female_names)} {last_name}".strip()
         else:
@@ -106,10 +106,10 @@ def generate_cv_variations(file_path):
     df['cv gender - name variation'] = col_gen_name
     df['cv origin variation'] = col_origin
     df['cv age variation'] = col_age
-    
+
     print("Sauvegarde en cours...")
     df.to_csv('cv_final.csv', index=False)
     print("Terminé ! Le fichier 'cv_final.csv' contient désormais toutes les variations.")
 
 if __name__ == "__main__":
-    generate_cv_variations('CV/data/cvLaura.csv')
+    generate_cv_variations('cv/300cv.csv')
