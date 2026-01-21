@@ -27,7 +27,51 @@ Et téléchargement des librairies
 ```python
 pip install -r requirements.txt
 ```
-### **Fonctionnement des codes**
+
+### **Fonctionnement Analyse Biais Format**
+
+1. Extraire les données via l'extraction Semantikmatch, copier le contenu de with criteria et le coller dans un fichier nommé "input.json" dans le dossier "Audit forme"
+
+2. Mise en forme données
+Lancer
+```python
+Analyse_forme_CV/extract_data_v2.py
+```
+Dossier entrée : "Analyse_forme_CV/Audit_forme/input.json"
+Dossier sortie : "Analyse_forme_CV/Audit_forme/output.json"
+
+3. Analyse
+```python
+Analyse_forme_CV/analyseforme.py
+```
+Dossier entrée : "Analyse_forme_CV/Audit_forme/output.json"
+                 "Analyse_forme_CV/Audit_forme/real_cv.json"
+Dossier sortie : "Analyse_forme_CV/Audit_forme/rapport_analyse.json"
+
+4. Synthèse
+```python
+Analyse_forme_CV/synthese_erreurs.py
+```
+Dossier entrée : "Analyse_forme_CV/Audit_forme/rapport_analyse.json"
+Dossier sortie : "Analyse_forme_CV/Audit_forme/audit_personnes.csv"
+                 "Analyse_forme_CV/Audit_forme/audit_formats.csv"
+
+
+Pour refaire des runs, mettre les fichiers que l'on ne veut pas supprimer dans le dossier run_X
+
+5. Synthèse toutes les runs d'une étude
+```python
+Analyse_forme_CV/synthese_multi_runs.py
+```
+Dossier entrée : "Analyse_forme_CV/Audit_forme/runs"
+Fichier sortie : "Analyse_forme_CV/Audit_forme/synthese_personnes.csv"
+                 "Analyse_forme_CV/Audit_forme/synthese_formats.csv"
+
+
+Pour faire une étude sans suprimer la précédente, mettre les fichier dans un dossier Audit forme X et vider le dossier Audit_forme avec un nouveau (ou pas) real_cv.json
+
+
+### **Fonctionnement Analyse Biais Genre/Age/Origine**
 
 1. Obtention des CV au format PDF
 ```python
@@ -75,3 +119,7 @@ df_run3 = charger_rapport_run3('data/run_3/rapport') en fonction de la run chois
 ```python
 analyse_rapport.ipynb
 ```
+
+
+
+                 

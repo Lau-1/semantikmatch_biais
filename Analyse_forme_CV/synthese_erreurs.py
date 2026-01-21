@@ -6,9 +6,9 @@ import sys
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-FICHIER_RAPPORT = "Analyse_forme_CV/rapport_analyse.json"
-CSV_GLOBAL = "audit_personnes.csv"
-CSV_FORMATS = "audit_formats.csv"
+FICHIER_RAPPORT = "Analyse_forme_CV/Audit_forme/rapport_analyse.json"
+CSV_GLOBAL = "Analyse_forme_CV/Audit_forme/audit_personnes.csv"
+CSV_FORMATS = "Analyse_forme_CV/Audit_forme/audit_formats.csv"
 
 def charger_json(chemin):
     if not os.path.exists(chemin):

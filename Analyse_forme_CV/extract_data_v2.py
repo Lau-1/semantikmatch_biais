@@ -82,4 +82,4 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
 # Exécution du script
 if __name__ == "__main__":
     # Assurez-vous que le fichier source s'appelle bien input.json
-    extraire_donnees_ordonnees('input.json', 'output.json')
+    extraire_donnees_ordonnees('Analyse_forme_CV/Audit_forme/input.json', 'Analyse_forme_CV/Audit_forme/output.json')
