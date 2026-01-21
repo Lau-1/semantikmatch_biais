@@ -149,6 +149,26 @@ def fill_edu(title, org, city, country, fd, fm, fy, td, tm, ty):
     save.click()
     time.sleep(3)
 
+def fill_skill(skill_title, skill_desc):
+    print(f"   -> Remplissage skill : {skill_title}...")
+    # 1. Champ TITRE (On cible le premier input après le label 'Title')
+    inp_title = wait.until(EC.visibility_of_element_located((By.XPATH, "//label[contains(., 'Title')]/following::input[1]")))
+    inp_title.click()
+    inp_title.clear()
+    inp_title.send_keys(skill_title)
+
+    # 2. Champ DESCRIPTION (Editeur de texte riche)
+    editor = driver.find_elements(By.CSS_SELECTOR, ".ql-editor")
+    if editor:
+        driver.execute_script("arguments[0].innerText = arguments[1];", editor[-1], skill_desc)
+
+    # 3. SAUVEGARDER
+    save_btn = driver.find_element(By.ID, "section-add-record-save")
+    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", save_btn)
+    time.sleep(1)
+    save_btn.click()
+    time.sleep(3) # Attente de la sauvegarde
+
 # --- MAIN ---
 try:
     # 1. NAVIGATION
@@ -253,7 +273,7 @@ try:
     time.sleep(3)
     fill_edu(EDU1_TITLE, EDU1_ORG, EDU1_CITY, EDU1_COUNTRY, EDU1_FROM_DAY, EDU1_FROM_MONTH, EDU1_FROM_YEAR, EDU1_TO_DAY, EDU1_TO_MONTH, EDU1_TO_YEAR)
 
-    # 6. EDUCATION 2 (CORRECTION)
+    # 6. EDUCATION 2
     print("\n🎓 Education 2...")
     # On cherche TOUS les boutons "Add new" stricts (sans "Add new section")
     add_news = driver.find_elements(By.XPATH, "//span[normalize-space()='Add new']")
@@ -267,7 +287,62 @@ try:
     else:
         print("❌ Impossible de trouver le bouton Add new pour Education 2")
 
-    print("\n🎉 TERMINÉ ! CV Complet (2 Jobs, 2 Diplômes).")
+    # ==========================================
+    # 7. CRÉATION DE LA SECTION "SKILLS"
+    # ==========================================
+    print("\n➕ Création de la section 'Skills'...")
+
+    # 1. Clic sur le gros bouton "Add new section" en bas
+    add_sec_btn = wait.until(EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'Add new section')]")))
+    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", add_sec_btn)
+    add_sec_btn.click()
+    time.sleep(2)
+
+    # 2. Sélection de "Other" (Index 15)
+    select_elem = wait.until(EC.visibility_of_element_located((By.ID, "new-section-banner-select")))
+    sel = Select(select_elem)
+    try:
+        sel.select_by_value("15: custom-section")
+    except:
+        sel.select_by_visible_text("Other")
+    time.sleep(1)
+
+    # 3. Nommer la section "Skills"
+    print("   -> Renommage de la section en 'Skills'...")
+    title_sec = wait.until(EC.visibility_of_element_located((By.ID, "new-section-banner-title")))
+    title_sec.clear()
+    title_sec.send_keys("Skills")
+    time.sleep(1)
+
+    # 4. Valider la création de la section
+    driver.find_element(By.ID, "add-section").click()
+    time.sleep(3)
+
+    # ==========================================
+    # 8. AJOUT DES COMPÉTENCES (SKILLS)
+    # ==========================================
+
+    # --- SKILL 1 (Formulaire déjà ouvert) ---
+    fill_skill("Python Development", "Automation scripts, Web Scraping (Selenium), Data Analysis.")
+
+    # --- SKILL 2 ---
+    print("   -> Clic sur 'Add new' pour le 2ème skill...")
+
+    # On cherche tous les boutons "Add new"
+    add_news = driver.find_elements(By.XPATH, "//span[normalize-space()='Add new']")
+    if add_news:
+        # On prend le DERNIER bouton de la page (celui de la section Skills)
+        last_btn = add_news[-1]
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", last_btn)
+        last_btn.click()
+        time.sleep(2)
+
+        # On remplit le 2ème skill
+        fill_skill("DevOps Tools", "Docker, CI/CD pipelines, Git version control.")
+    else:
+        print("❌ Erreur : Bouton 'Add new' introuvable.")
+
+    print("\n🎉 TERMINÉ ! CV Complet (2 Jobs, 2 Diplômes, 2 Skills).")
     time.sleep(600)
 
 except Exception as e:
