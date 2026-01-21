@@ -375,7 +375,7 @@ try:
     time.sleep(3)
 
     # ==========================================
-    # 8. AJOUT DES LANGUES (LANGUAGES)
+    # 10. AJOUT DES LANGUES (LANGUAGES)
     # ==========================================
 
     # --- LANGUAGE 1 (Formulaire déjà ouvert) ---
@@ -415,7 +415,86 @@ try:
     else:
         print("❌ Erreur : Bouton 'Add new' introuvable.")
 
-    print("\n🎉 TERMINÉ ! CV Complet (2 Jobs, 2 Diplômes, 2 Skills).")
+ # ==========================================
+    # 11. CRÉATION DE LA SECTION "INTERESTS"
+    # ==========================================
+    print("\n➕ Création de la section 'Interests'...")
+
+    # 1. Clic sur le gros bouton "Add new section" en bas
+    add_sec_btn = wait.until(EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'Add new section')]")))
+    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", add_sec_btn)
+    add_sec_btn.click()
+    time.sleep(2)
+
+    # 2. Sélection de "Other" (Index 15 ou texte)
+    select_elem = wait.until(EC.visibility_of_element_located((By.ID, "new-section-banner-select")))
+    sel = Select(select_elem)
+    try:
+        sel.select_by_value("15: custom-section")
+    except:
+        sel.select_by_visible_text("Other")
+    time.sleep(1)
+
+    # 3. Nommer la section "Interests"
+    print("   -> Renommage de la section en 'Interests'...")
+    title_sec = wait.until(EC.visibility_of_element_located((By.ID, "new-section-banner-title")))
+    title_sec.clear()
+    title_sec.send_keys("Interests")
+    time.sleep(1)
+
+    # 4. Valider la création de la section
+    driver.find_element(By.ID, "add-section").click()
+    time.sleep(3)
+
+    # ==========================================
+    # 12. AJOUT DES INTÉRÊTS (INTERESTS)
+    # ==========================================
+
+    # --- INTEREST 1 : Tech (Formulaire déjà ouvert) ---
+    fill_other("Open Source", "Active contributor to Python libraries on GitHub.")
+
+    # --- INTEREST 2 : Sport ---
+    print("   -> Clic sur 'Add new' pour le 2ème intérêt...")
+    add_news = driver.find_elements(By.XPATH, "//span[normalize-space()='Add new']")
+    if add_news:
+        last_btn = add_news[-1] # Le dernier bouton est celui de la section Interests
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", last_btn)
+        last_btn.click()
+        time.sleep(2)
+
+        fill_other("Hiking", "Trekking in the Alps and Pyrenees.")
+
+    # --- INTEREST 3 : Hobby ---
+    print("   -> Clic sur 'Add new' pour le 3ème intérêt...")
+    add_news = driver.find_elements(By.XPATH, "//span[normalize-space()='Add new']")
+    if add_news:
+        last_btn = add_news[-1]
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", last_btn)
+        last_btn.click()
+        time.sleep(2)
+
+        fill_other("Photography", "Street photography and digital editing.")
+
+    # ==========================================
+    # 13. CLIC SUR LE BOUTON "NEXT"
+    # ==========================================
+    print("\n➡️ Clic sur 'Next' pour passer au design...")
+
+    # On cherche un bouton (ou un lien) qui contient le texte "Next"
+    # L'utilisation de contains(., 'Next') permet de trouver le bouton même si le texte est dans un span enfant
+    next_btn = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(., 'Next')] | //a[contains(., 'Next')]")))
+
+    # On scroll vers le bouton pour être sûr qu'il est visible
+    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", next_btn)
+    time.sleep(1)
+
+    # On clique
+    next_btn.click()
+
+    print("   -> Page suivante chargée (Choix du design).")
+    time.sleep(5) # On attend que la page de design se charge
+
+    print("\n🎉 TERMINÉ ! CV Complet (Jobs, Diplômes, Skills, Langues, Intérêts).")
     time.sleep(600)
 
 except Exception as e:
