@@ -10,8 +10,16 @@ import time
 import traceback
 
 # ==============================================================================
-# --- ZONE DE DONNÉES (LISTE DES CANDIDATS) ---
+# --- CONFIGURATION GLOBALE (CONSTANTES) ---
 # ==============================================================================
+
+# Ces valeurs s'appliqueront à TOUS les candidats
+DATE_FORMAT_DEFAULT = "1: d MMM yyyy"
+ADRESSE_TYPE_DEFAULT = "1: home"
+
+# ==============================================================================
+# --- ZONE DE DONNÉES (LISTE DES CANDIDATS) ---
+# =============================================================================
 
 LISTE_CANDIDATS = [
     # --- CANDIDAT 1 : Thomas Anderson ---
@@ -25,10 +33,8 @@ LISTE_CANDIDATS = [
             "email": "thomas.anderson@matrix.com",
             "phone_pays": "France",
             "phone_num": "612345678",
-            "adresse_type": "1: home",
             "ville": "Paris",
-            "pays": "France",
-            "date_format": "1: d MMM yyyy"
+            "pays": "France"
         },
         "jobs": [
             {
@@ -79,10 +85,8 @@ LISTE_CANDIDATS = [
             "email": "sarah.connor@skynet.com",
             "phone_pays": "United States",
             "phone_num": "987654321",
-            "adresse_type": "1: home",
             "ville": "Los Angeles",
-            "pays": "United States",
-            "date_format": "1: d MMM yyyy"
+            "pays": "United States"
         },
         "jobs": [
             {
@@ -242,7 +246,6 @@ for index, candidat in enumerate(LISTE_CANDIDATS):
         time.sleep(3) # Attente chargement page
 
         # Gestion des popups (Cookies + Start from Scratch)
-        # On insiste un peu car c'est souvent là que ça plante au 2ème tour
         try:
             cookie = wait.until(EC.element_to_be_clickable((By.XPATH, "//a[contains(text(), 'Accept')] | //a[contains(text(), 'Accepter')]")))
             cookie.click()
@@ -271,8 +274,11 @@ for index, candidat in enumerate(LISTE_CANDIDATS):
         time.sleep(3)
         infos = candidat['infos']
 
-        try: Select(wait.until(EC.presence_of_element_located((By.ID, "cv-date-format-picker")))).select_by_value(infos['date_format'])
+        # --- MODIFICATION ICI : Utilisation de la constante globale pour DATE_FORMAT ---
+        try:
+            Select(wait.until(EC.presence_of_element_located((By.ID, "cv-date-format-picker")))).select_by_value(DATE_FORMAT_DEFAULT)
         except: pass
+
         try:
             driver.find_element(By.CSS_SELECTOR, "input[placeholder='e.g. John']").send_keys(infos['prenom'])
             driver.find_element(By.CSS_SELECTOR, "input[placeholder='e.g. Doe']").send_keys(infos['nom'])
@@ -301,7 +307,10 @@ for index, candidat in enumerate(LISTE_CANDIDATS):
             time.sleep(1.5)
             actions.send_keys(Keys.ARROW_DOWN).send_keys(Keys.ENTER).perform()
             driver.find_element(By.ID, "perso-info-phone-form-0").send_keys(infos['phone_num'])
-            Select(driver.find_element(By.ID, "perso-info-address-type-0")).select_by_value(infos['adresse_type'])
+
+            # --- MODIFICATION ICI : Utilisation de la constante globale pour ADRESSE_TYPE ---
+            Select(driver.find_element(By.ID, "perso-info-address-type-0")).select_by_value(ADRESSE_TYPE_DEFAULT)
+
             driver.find_element(By.ID, "perso-info-city-0").send_keys(infos['ville'])
             driver.find_element(By.ID, "perso-info-city-0").send_keys(Keys.TAB)
             time.sleep(1)
