@@ -6,7 +6,7 @@ import sys
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-FICHIER_RAPPORT = "rapport_analyse.json"
+FICHIER_RAPPORT = "Analyse_forme_CV/rapport_analyse.json"
 CSV_GLOBAL = "audit_personnes.csv"
 CSV_FORMATS = "audit_formats.csv"
 

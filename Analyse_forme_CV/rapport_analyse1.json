@@ -81,10 +81,26 @@
     },
     {
         "cv_id": "Alexandre 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modifications in the 'List of studies' where the field and university names are altered or missing, and the 'country or city' field is not found. Additionally, the 'List of personal interests' is simplified, losing specific details about the activities.",
+        "error_type": "None",
+        "details": "Consistent",
+        "reference_used": "Alexandre"
+    },
+    {
+        "cv_id": "Alexandre 12",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'List of personal interests' is completely missing in the Extraction.",
+        "reference_used": "Alexandre"
+    },
+    {
+        "cv_id": "Alexandre 13",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'List of personal interests' is completely absent in the Extraction variant.",
         "reference_used": "Alexandre"
     },
     {
@@ -97,10 +113,10 @@
     },
     {
         "cv_id": "Camille 02",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'List of studies' section has a discrepancy in the dates and field for McGill University. The 'Original' lists 'not found' for both, while the 'Extraction' specifies 'Fall 2024' and 'International Relations & Diplomacy'.",
         "reference_used": "Camille"
     },
     {
@@ -137,34 +153,34 @@
     },
     {
         "cv_id": "Camille 07",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The job title 'International Humanitarian Mission' is missing in the extraction for the experience with 'NGO Education For All'.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 08",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The job title 'International Humanitarian Mission' is missing in the extraction for the NGO experience. The description for the 'Public Affairs Intern' role at the City Hall of Bordeaux is significantly different, with financial management details not present in the original.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 09",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'International Humanitarian Mission' experience in Senegal is missing from the Extraction.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 10",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the 'International Humanitarian Mission' experience in Senegal from the 'Original'.",
         "reference_used": "Camille"
     },
     {
@@ -173,6 +189,22 @@
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent",
+        "reference_used": "Camille"
+    },
+    {
+        "cv_id": "Camille 12",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
+        "reference_used": "Camille"
+    },
+    {
+        "cv_id": "Camille 13",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'List of personal interests' is completely missing in the Extraction.",
         "reference_used": "Camille"
     },
     {
@@ -201,10 +233,10 @@
     },
     {
         "cv_id": "Thomas 04",
-        "coherent": true,
-        "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'List of personal interests' is completely absent in the Extraction variant.",
         "reference_used": "Thomas"
     },
     {
@@ -261,6 +293,22 @@
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent",
+        "reference_used": "Thomas"
+    },
+    {
+        "cv_id": "Thomas 12",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
+        "reference_used": "Thomas"
+    },
+    {
+        "cv_id": "Thomas 13",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the dates and company name for the 'Freelance / Self-employed' experience. Additionally, the 'List of personal interests' is completely absent in the 'Extraction'.",
         "reference_used": "Thomas"
     }
 ]

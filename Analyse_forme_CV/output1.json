@@ -144,7 +144,7 @@
                 "field": "not found",
                 "university": "Lycée Condorcet",
                 "country or city": "Paris, France",
-                "level_of_degree": "Baccalauréat"
+                "level_of_degree": "Baccalauréat (High School Diploma)"
             }
         ],
         "List of personal interests": [
@@ -158,14 +158,14 @@
                 "dates": "June - Aug 2025",
                 "company": "Mazars",
                 "job title": "Junior Audit Assistant (Internship)",
-                "description": "Participated in statutory audit missions for industrial clients. Verified financial statement consistency and performed analytical review of 3 major files.\nConducted details testing and third-party circularization. Intensive use of Excel for accounting data processing.",
+                "description": "Participated in statutory audit missions for industrial clients. Verified financial statement consistency and performed analytical review of 3 major files.\n\nConducted details testing and third-party circularization. Intensive use of Excel for accounting data processing.",
                 "country or city": "Paris La Défense"
             },
             {
                 "dates": "Sept 2024 - Present",
                 "company": "Dauphine Debate Association",
                 "job title": "Treasurer",
-                "description": "Managed and monitored an annual budget of €15,000. Optimized event costs and produced semi-annual financial reporting.\nNegotiated partnerships: increased funds raised by 20% year-over-year.",
+                "description": "Managed and monitored an annual budget of €15,000. Optimized event costs and produced semi-annual financial reporting.\n\nNegotiated partnerships: increased funds raised by 20% year-over-year.",
                 "country or city": "Paris"
             }
         ],
@@ -182,7 +182,7 @@
                 "field": "not found",
                 "university": "Lycée Condorcet",
                 "country or city": "Paris",
-                "level_of_degree": "French Baccalauréat"
+                "level_of_degree": "French Baccalauréat (High School Diploma)"
             }
         ],
         "List of personal interests": [
@@ -220,7 +220,7 @@
                 "field": "not found",
                 "university": "LYCÉE CONDORCET",
                 "country or city": "PARIS",
-                "level_of_degree": "French Baccalauréat"
+                "level_of_degree": "French Baccalauréat (High School Diploma)"
             }
         ],
         "List of personal interests": [
@@ -369,7 +369,7 @@
             },
             {
                 "dates": "2023",
-                "field": "Specialization in Math & Physics",
+                "field": "not found",
                 "university": "Lycée Condorcet",
                 "country or city": "Paris",
                 "level_of_degree": "French Baccalauréat (High School Diploma)"
@@ -384,37 +384,30 @@
         "List of professional experiences": [
             {
                 "dates": "Jun 2025 - Aug 2025",
-                "company": "Mazars Paris, La defense",
+                "company": "Mazars",
                 "job title": "Junior Audit Assistant (Internship)",
                 "description": "· Participated in statutory audit missions for industrial clients. · Verified financial statement consistency and performed analytical review of 3 major files. · Conducted details testing and third-party circularization. · Intensive use of Excel for accounting data processing.",
                 "country or city": "not found"
             },
             {
                 "dates": "Sept 2024 - Present",
-                "company": "Dauphine Debate Association Paris",
+                "company": "Dauphine Debate Association",
                 "job title": "Treasurer",
                 "description": "· Managed and monitored an annual budget of €15,000. · Optimized event costs and produced semi-annual financial reporting. · Negotiated partnerships: increased funds raised by 20% year-over-year.",
-                "country or city": "not found"
+                "country or city": "Paris"
             }
         ],
         "List of studies": [
             {
                 "dates": "2023-2026",
-                "field": "not found",
+                "field": "Economics & Management",
                 "university": "University",
-                "country or city": "not found",
+                "country or city": "Paris",
                 "level_of_degree": "Bachelor in Economics & Management"
             },
             {
-                "dates": "not found",
-                "field": "not found",
-                "university": "Paris-Dauphine",
-                "country or city": "Paris",
-                "level_of_degree": "not found"
-            },
-            {
                 "dates": "2023",
-                "field": "Specialization in Math & Physics",
+                "field": "Math & Physics",
                 "university": "Lycée Condorcet Paris",
                 "country or city": "not found",
                 "level_of_degree": "French Baccalauréat (High School Diploma)"
@@ -424,6 +417,69 @@
             "Chess",
             "Piano"
         ]
+    },
+    "Alexandre 12": {
+        "List of professional experiences": [
+            {
+                "dates": "Jun 2025-Aug 2025",
+                "company": "Mazars",
+                "job title": "Junior Audit Assistant (Internship)",
+                "description": "· Participated in statutory audit missions for industrial clients.\n\n· Verified financial statement consistency and performed analytical review of 3 major files.\n\n· Conducted details testing and third-party circularization.\n\n· Intensive use of Excel for accounting data processing.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Sept 2024 -Present",
+                "company": "Dauphine Debate Association",
+                "job title": "Treasurer",
+                "description": "· Managed and monitored an annual budget of €15,000.\n\n· Optimized event costs and produced semi-annual financial reporting.\n\n· Negotiated partnerships: increased funds raised by 20% year-over-year.",
+                "country or city": "Paris"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023-2026",
+                "field": "not found",
+                "university": "University Paris-Dauphine, Paris",
+                "country or city": "Paris",
+                "level_of_degree": "Bachelor in Economics & Management"
+            },
+            {
+                "dates": "2023",
+                "field": "not found",
+                "university": "Lycée Condorcet, Paris",
+                "country or city": "Paris",
+                "level_of_degree": "French Baccalauréat (High School Diploma)"
+            }
+        ],
+        "List of personal interests": []
+    },
+    "Alexandre 13": {
+        "List of professional experiences": [
+            {
+                "dates": "Jun 2025 - Aug 2025",
+                "company": "Mazars",
+                "job title": "Junior Audit Assistant (Internship)",
+                "description": "· Participated in statutory audit missions for industrial clients.\n\n· Verified financial statement consistency and performed analytical review of 3 major files.\n\n· Conducted details testing and third-party circularization.\n\n· Intensive use of Excel for accounting data processing.",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "not found",
+                "university": "University Paris-Dauphine, Paris",
+                "country or city": "Paris",
+                "level_of_degree": "Bachelor in Economics & Management"
+            },
+            {
+                "dates": "2023",
+                "field": "not found",
+                "university": "Lycée Condorcet, Paris",
+                "country or city": "Paris",
+                "level_of_degree": "French Baccalauréat (High School Diploma)"
+            }
+        ],
+        "List of personal interests": []
     },
     "Camille 01": {
         "List of professional experiences": [
@@ -448,20 +504,16 @@
                 "field": "not found",
                 "university": "UNIV. OF BORDEAUX",
                 "country or city": "Bordeaux, France",
-                "level_of_degree": "Bachelor Political Science"
-            },
-            {
-                "dates": "not found",
-                "field": "Exch",
-                "university": "McGill Univ. (Canada)",
-                "country or city": "not found",
-                "level_of_degree": "not found"
+                "level_of_degree": "BACHELOR POLITICAL SCIENCE"
             }
         ],
         "List of personal interests": [
             "GEOPOLITICS",
-            "MUN (Model United Nations) Debates (London/Brussels)",
-            "SCOUTING"
+            "MUN (Model United Nations)",
+            "Debates (London/Brussels)",
+            "SCOUTING",
+            "Team Leader (3 years)",
+            "Humanitarian values"
         ]
     },
     "Camille 02": {
@@ -491,7 +543,7 @@
             },
             {
                 "dates": "Fall 2024",
-                "field": "International Exchange",
+                "field": "International Relations & Diplomacy",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -509,7 +561,7 @@
             {
                 "dates": "Summer 2025",
                 "company": "NGO \"Education For All\"",
-                "job title": "INTERNATIONAL HUMANITARIAN MISSION (2 MONTHS)",
+                "job title": "INTERNATIONAL HUMANITARIAN MISSION",
                 "description": "· Coordinated a multicultural team of 5 international volunteers.\n\n· Taught French and provided tutoring (primary and middle school levels).\n\n· Managed camp logistics and relations with local stakeholders.",
                 "country or city": "Senegal"
             },
@@ -531,16 +583,16 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange: Semester at McGill University (Montreal, Canada). Focus: International Relations.",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
             }
         ],
         "List of personal interests": [
-            "Geopolitics: Active member of MUN (Model United Nations).",
-            "Scouting: Team Leader (3 years). Values of solidarity.",
-            "Culture: Russian literature and South American cinema."
+            "Geopolitics: Active member of MUN (Model United Nations)",
+            "Scouting: Team Leader (3 years). Values of solidarity",
+            "Culture: Russian literature and South American cinema"
         ]
     },
     "Camille 04": {
@@ -570,7 +622,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange: Semester",
+                "field": "Int. Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -609,7 +661,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange: Semester",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -648,7 +700,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange: Semester",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -665,15 +717,15 @@
             {
                 "dates": "Summer 2025",
                 "company": "NGO \"Education For All\"",
-                "job title": "Iternational Humanitarian Mission",
-                "description": "· Coordinated a multicultural team of 5 international volunteers.\n\n· Taught French and provided tutoring (primary and middle school levels).\n\n· Managed camp logistics and relations with local stakeholders.",
+                "job title": "not found",
+                "description": "· Coordinated a multicultural team of 5\ninternational volunteers.\n\n· Taught French and provided tutoring\n(primary and middle school levels).\n\n· Managed camp logistics and relations with\nlocal stakeholders.",
                 "country or city": "Senegal"
             },
             {
                 "dates": "2024 - 2025",
                 "company": "City Hall of Bordeaux",
                 "job title": "Public Affairs Intern",
-                "description": "· Drafted synthesis notes for elected officials and press releases.\n\n· Co-organized cultural and civic events (Budget: €50k).\n\n· Conducted legislative monitoring on environmental topics.",
+                "description": "· Drafted synthesis notes for elected officials\nand press releases.\n\n· Co-organized cultural and civic events\n(Budget: €50k).\n\n· Conducted legislative monitoring on\nenvironmental topics.",
                 "country or city": "Bordeaux"
             }
         ],
@@ -687,7 +739,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -704,15 +756,15 @@
             {
                 "dates": "Summer 2025",
                 "company": "NGO \"Education For All\"",
-                "job title": "International Humanitarian Mission",
-                "description": "· Coordinated a multicultural team of 5 international volunteers.\n\n· Taught French and provided tutoring (primary and middle school levels).\n\n· Managed camp logistics and relations with local stakeholders.",
+                "job title": "not found",
+                "description": "Coordinated a multicultural team of 5 international volunteers.\nTaught French and provided tutoring (primary and middle school levels).\nManaged camp logistics and relations with local stakeholders.",
                 "country or city": "Senegal"
             },
             {
                 "dates": "2024 - 2025",
                 "company": "City Hall of Bordeaux",
                 "job title": "Public Affairs Intern",
-                "description": "Drafted synthesis notes for elected officials and press releases.\n\nCo-organized cultural and civic events (Budget: €50k).\n\n· Conducted legislative monitoring on environmental topcs.",
+                "description": "Managed and monitored an annual budget of €15,000. Optimized event costs and produced semi-annual financial reporting.\nNegotiated partnerships: increased funds raised by 20% year-over-year.",
                 "country or city": "Bordeaux"
             }
         ],
@@ -723,13 +775,6 @@
                 "university": "University Bordeaux",
                 "country or city": "Bordeaux",
                 "level_of_degree": "Bachelor in Political Science"
-            },
-            {
-                "dates": "not found",
-                "field": "International Exchange",
-                "university": "McGill University",
-                "country or city": "Montreal, Canada",
-                "level_of_degree": "not found"
             }
         ],
         "List of personal interests": [
@@ -744,15 +789,8 @@
                 "dates": "2024 - 2025",
                 "company": "CITY HALL OF BORDEAUX, FRANCE",
                 "job title": "PUBLIC AFFAIRS INTERN",
-                "description": "Drafted synthesis notes for elected officials and press releases.\nCo-organized cultural and civic events (Budget: €50k).\nConducted legislative monitoring on environmental topics.",
+                "description": "Drafted synthesis notes for elected officials and press releases.\n\nCo-organized cultural and civic events (Budget: €50k).\n\nConducted legislative monitoring on environmental topics.",
                 "country or city": "not found"
-            },
-            {
-                "dates": "2025 - 2025",
-                "company": "NGO \"Education For All\"",
-                "job title": "not found",
-                "description": "Coordinated a multicultural team of 5 international volunteers.\nTaught French and provided tutoring (primary and middle school levels).\nManaged camp logistics and relations with local stakeholders",
-                "country or city": "Senegal"
             }
         ],
         "List of studies": [
@@ -765,7 +803,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange: Semester",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -788,13 +826,6 @@
                 "job title": "Public Affairs Intern",
                 "description": "Drafted synthesis notes for elected officials and press releases.\nCo-organized cultural and civic events (Budget: €50k).\nConducted legislative monitoring on environmental topics.",
                 "country or city": "not found"
-            },
-            {
-                "dates": "2025 - 2025",
-                "company": "NGO \"Education For All\"",
-                "job title": "not found",
-                "description": "Coordinated a multicultural team of 5 international volunteers.\nTaught French and provided tutoring (primary and middle school levels).\nManaged camp logistics and relations with local stakeholders",
-                "country or city": "Senegal"
             }
         ],
         "List of studies": [
@@ -807,7 +838,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -823,6 +854,48 @@
         ]
     },
     "Camille 11": {
+        "List of professional experiences": [
+            {
+                "dates": "Jun 2025 - Aug 2025",
+                "company": "NGO \"Education For All\"",
+                "job title": "not found",
+                "description": "· Coordinated a multicultural team of 5 international volunteers. · Taught French and provided tutoring (primary and middle school levels). · Managed camp logistics and relations with local stakeholders.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2024-2025",
+                "company": "City Hall of Bordeaux Bordeaux",
+                "job title": "Public Affairs Intern",
+                "description": "· Drafted synthesis notes for elected officials and press releases. · Co-organized cultural and civic events (Budget: €50k). · Conducted legislative monitoring on environmental topics.",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023-2026",
+                "field": "not found",
+                "university": "University of Bordeaux",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Political Science"
+            },
+            {
+                "dates": "not found",
+                "field": "International Relations",
+                "university": "McGill University",
+                "country or city": "Montreal, Canada",
+                "level_of_degree": "not found"
+            }
+        ],
+        "List of personal interests": [
+            "Geopolitics",
+            "Active member of MUN (Model United Nations).",
+            "Scouting",
+            "Team Leader (3 years). Values of solidarity.",
+            "Culture",
+            "Russian literature and South American cinema."
+        ]
+    },
+    "Camille 12": {
         "List of professional experiences": [
             {
                 "dates": "Jun 2025 - Aug 2025",
@@ -849,7 +922,7 @@
             },
             {
                 "dates": "not found",
-                "field": "International Exchange",
+                "field": "International Relations",
                 "university": "McGill University",
                 "country or city": "Montreal, Canada",
                 "level_of_degree": "not found"
@@ -857,12 +930,43 @@
         ],
         "List of personal interests": [
             "Geopolitics",
-            "Active member of MUN (Model United Nations).",
-            "Scouting",
-            "Team Leader (3 years). Values of solidarity.",
-            "Culture",
-            "Russian literature and South American cinema."
+            "Active member of MUN (Model United Nations)."
         ]
+    },
+    "Camille 13": {
+        "List of professional experiences": [
+            {
+                "dates": "Jun 2025 - Aug 2025",
+                "company": "NGO \"Education For All\"",
+                "job title": "not found",
+                "description": "· Coordinated a multicultural team of 5 international volunteers.\n\n· Taught French and provided tutoring (primary and middle school levels).\n\n· Managed camp logistics and relations with local stakeholders.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2024 - 2025",
+                "company": "City Hall of Bordeaux",
+                "job title": "Public Affairs Intern",
+                "description": "· Drafted synthesis notes for elected officials and press releases.\n\n· Co-organized cultural and civic events (Budget: €50k).\n\n· Conducted legislative monitoring on environmental topics.",
+                "country or city": "Bordeaux"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "not found",
+                "university": "University of Bordeaux",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Political Science"
+            },
+            {
+                "dates": "not found",
+                "field": "International Relations",
+                "university": "McGill University",
+                "country or city": "Montreal, Canada",
+                "level_of_degree": "not found"
+            }
+        ],
+        "List of personal interests": {}
     },
     "Thomas 01": {
         "List of professional experiences": [
@@ -875,8 +979,8 @@
             },
             {
                 "dates": "2024 - Present",
-                "company": "not found",
-                "job title": "FREELANCE | WEB DEVELOPER & GROWTH MARKETER",
+                "company": "FREELANCE",
+                "job title": "WEB DEVELOPER & GROWTH MARKETER",
                 "description": "· Designed websites for 5 local SMEs (WordPress & Shopify).\n\n· Managed Facebook Ads campaigns (Budget €2k, ROI x3).\n\n· Full client relationship management: Briefing, quoting, and invoicing.",
                 "country or city": "Lyon, France"
             }
@@ -891,9 +995,11 @@
             }
         ],
         "List of personal interests": [
-            "Writing about Al tools & NoCode solutions (1k monthly visitors)",
-            "Solo Backpacking in Southeast Asia (1 month)",
-            "Running: Training for Paris Half-Marathon"
+            "TECH BLOGGER | PERSONAL PROJECT",
+            "Writing about Al tools & NoCode solutions (1k monthly visitors).",
+            "TRAVEL & SPORT",
+            "Solo Backpacking in Southeast Asia (1 month).",
+            "Running: Training for Paris Half-Marathon."
         ]
     },
     "Thomas 02": {
@@ -955,9 +1061,9 @@
             }
         ],
         "List of personal interests": [
-            "Backpacking road-trip in Southeast Asia (Solo, 1 month)",
-            "Running (Training for Paris Half-Marathon)",
-            "Tech Blogger (Al & NoCode) - 1k monthly visitors"
+            "Travel: Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Sports: Running (Training for Paris Half-Marathon).",
+            "Tech: Tech Blogger (Al & NoCode) - 1k monthly visitors."
         ]
     },
     "Thomas 04": {
@@ -986,10 +1092,7 @@
                 "level_of_degree": "Bachelor in Digital Project Management"
             }
         ],
-        "List of personal interests": [
-            "Backpacking road-trip in Southeast Asia (Solo, 1 month)",
-            "Author of a Tech Blog on Al NoCode (1k monthly visitors)"
-        ]
+        "List of personal interests": {}
     },
     "Thomas 05": {
         "List of professional experiences": [
@@ -1004,7 +1107,7 @@
                 "dates": "2024 - 2026",
                 "company": "not found",
                 "job title": "Freelancer / Self-Employed",
-                "description": "Designed websites for 5 local SMEs (WordPress & Shopify).\nManaged Facebook Ads campaigns (Budget €2k, ROI x3).\nFull client relationship management: Briefing, quoting, and invoicing.",
+                "description": "Web Development & Marketing, Lyon, 2024 - 2026\nDesigned websites for 5 local SMEs (WordPress & Shopify).\nManaged Facebook Ads campaigns (Budget €2k, ROI x3).\nFull client relationship management: Briefing, quoting, and invoicing.",
                 "country or city": "Lyon"
             }
         ],
@@ -1013,12 +1116,12 @@
                 "dates": "2023-2026",
                 "field": "not found",
                 "university": "IUT Lyon 1/ École du Web, Lyon",
-                "country or city": "not found",
+                "country or city": "Lyon",
                 "level_of_degree": "Bachelor in Digital Project Management"
             }
         ],
         "List of personal interests": [
-            "Travel Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Travel Backpacking road- trip in Southeast Asia (Solo, 1 month).",
             "Sports Running (Training for Paris Half-Marathon).",
             "Tech Blogger (Al and NoCode) - 1k monthly visitors."
         ]
@@ -1029,14 +1132,14 @@
                 "dates": "JAN - JUNE 2025",
                 "company": "\"PAYFAST\" FINTECH (STATION F)",
                 "job title": "CEO's Right Hand / Executive Intern",
-                "description": "Contributed to the Go-to-market strategy for the launch of a new B2B offer. Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week). Video content creation and social media management",
+                "description": "Contributed to the Go-to-market strategy for the launch of a new B2B offer.\nGrowth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week).\nVideo content creation and social media management",
                 "country or city": "PARIS"
             },
             {
                 "dates": "2024 - 2026",
                 "company": "not found",
                 "job title": "Freelancer / Self-Employed",
-                "description": "Designed websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
+                "description": "WEB DEVELOPMENT & MARKETING, LYON, 2024 - 2026\nDesigned websites for 5 local SMEs (WordPress & Shopify). Managed\nFacebook Ads campaigns (Budget €2k, ROI x3). Full client relationship\nmanagement: Briefing, quoting, and invoicing.",
                 "country or city": "LYON"
             }
         ],
@@ -1068,7 +1171,7 @@
                 "dates": "2024 - 2026",
                 "company": "not found",
                 "job title": "Freelancer / Self-Employed",
-                "description": "Designed websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
+                "description": "Web Development & Marketing, Lyon, 2024 - 2026\n\nDesigned websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
                 "country or city": "Lyon"
             }
         ],
@@ -1091,16 +1194,16 @@
         "List of professional experiences": [
             {
                 "dates": "Jan - June 2025",
-                "company": "\"PayFast\" FinTech (Station F)",
+                "company": "\"PayFast\" FinTech (Station F), Paris",
                 "job title": "CEO's Right Hand / Executive Intern",
-                "description": "Contributed to the Go-to-market strategy for the launch of a new B2B offer.\n\nGrowth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week).\n\nVideo content creation and social media management",
+                "description": "Contributed to the Go-to-market strategy for the\nlaunch of a new B2B offer.\n\nGrowth Hacking: Automating LinkedIn prospecting\n(+30 qualified leads/week).\n\nVideo content creation and social media management",
                 "country or city": "Paris"
             },
             {
                 "dates": "2024 - 2026",
                 "company": "not found",
                 "job title": "Freelancer / Self-Employed",
-                "description": "Web Development & Marketing, Lyon, 2024 - 2026\nDesigned websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
+                "description": "Web Development & Marketing, Lyon, 2024 - 2026\nDesigned websites for 5 local SMEs (WordPress &\nShopify). Managed Facebook Ads campaigns (Budget\n€2k, ROI x3). Full client relationship management:\nBriefing, quoting, and invoicing.",
                 "country or city": "Lyon"
             }
         ],
@@ -1109,7 +1212,7 @@
                 "dates": "2023-2026",
                 "field": "not found",
                 "university": "IUT Lyon 1 / École du Web, Lyon",
-                "country or city": "not found",
+                "country or city": "Lyon",
                 "level_of_degree": "Bachelor in Digital Project Management"
             }
         ],
@@ -1142,12 +1245,15 @@
                 "field": "not found",
                 "university": "IUT Lyon 1 / École du Web",
                 "country or city": "Lyon, France",
-                "level_of_degree": "Bachelor in Digital Project Management"
+                "level_of_degree": "BACHELOR IN DIGITAL PROJECT MANAGEMENT"
             }
         ],
         "List of personal interests": [
+            "Travel",
             "Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Sports",
             "Running (Training for Paris Half-Marathon).",
+            "Tech",
             "Tech Blogger (AI and NoCode) - 1k monthly visitors."
         ]
     },
@@ -1162,10 +1268,10 @@
             },
             {
                 "dates": "2024 - 2025",
-                "company": "not found",
+                "company": "Lyon",
                 "job title": "Freelancer / Self-Employed, Web Development & Marketing",
                 "description": "Designed websites for 5 local SMEs (WordPress & Shopify)\nManaged Facebook Ads campaigns (Budget €2k, ROI x3)\nFull client relationship management: Briefing, quoting, and invoicing",
-                "country or city": "Lyon"
+                "country or city": "not found"
             }
         ],
         "List of studies": [
@@ -1195,7 +1301,7 @@
             {
                 "dates": "2024-2026",
                 "company": "not found",
-                "job title": "Freelancer / Self-Employed, Web Development & Marketing",
+                "job title": "Freelancer / Self-Employed",
                 "description": "· Designed websites for 5 local SMEs (WordPress & Shopify). · Managed Facebook Ads campaigns (Budget €2k, ROI x3). · Full client relationship management: Briefing, quoting, and invoicing.",
                 "country or city": "Lyon"
             }
@@ -1217,5 +1323,64 @@
             "Tech",
             "Tech Blogger (AI and NoCode) - 1k monthly visitors."
         ]
+    },
+    "Thomas 12": {
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2025- Jun 2025",
+                "company": "PayFast FinTech",
+                "job title": "CEO's Right Hand / Executive Intern",
+                "description": "· Contributed to the Go-to-market strategy for the launch of a new B2B offer. · Growth Hacking: Automating Linkedln prospecting (+30 qualified leads/week). · Video content creation and social media management.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "2024-2026",
+                "company": "not found",
+                "job title": "Freelancer / Self-Employed, Web Development & Marketing",
+                "description": "· Designed websites for 5 local SMEs (WordPress & Shopify). · Managed Facebook Ads campaigns (Budget €2k, ROI x3). · Full client relationship management: Briefing, quoting, and invoicing.",
+                "country or city": "Lyon"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023-2026",
+                "field": "not found",
+                "university": "IUT Lyon 1/ École du Web, Lyon",
+                "country or city": "Lyon",
+                "level_of_degree": "Bachelor in Digital Project Management"
+            }
+        ],
+        "List of personal interests": [
+            "Travel",
+            "Backpacking road-trip in Southeast Asia (Solo, 1 month)."
+        ]
+    },
+    "Thomas 13": {
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2025 - Jun 2025",
+                "company": "PayFast",
+                "job title": "CEO's Right Hand / Executive Intern",
+                "description": "· Contributed to the Go-to-market strategy for the launch of a new B2B offer.\n\n· Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week).\n\n· Video content creation and social media management.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Freelancer / Self-Employed, Web Development & Marketing",
+                "description": "· Designed websites for 5 local SMEs (WordPress & Shopify).\n\n· Managed Facebook Ads campaigns (Budget €2k, ROI x3).\n\n· Full client relationship management: Briefing, quoting, and invoicing.",
+                "country or city": "Lyon"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "not found",
+                "university": "IUT Lyon 1 / École du Web, Lyon",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Digital Project Management"
+            }
+        ],
+        "List of personal interests": []
     }
 }

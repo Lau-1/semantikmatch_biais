@@ -3,81 +3,132 @@ import re
 import os
 from analyse import Analyse, client, ANALYSIS_DEPLOYMENT_NAME
 
+
 class AnalyseExtraction(Analyse):
     def __init__(self):
         super().__init__(biais_name="Extraction")
 
     def prompt_specific_rules(self) -> str:
         """
-        Règles mises à jour : TOLÉRANCE SÉMANTIQUE & FUSION DE CHAMPS.
+        UPDATED RULES: SEMANTIC TOLERANCE, TIME NORMALIZATION & FLEXIBLE ENTITY MODELING
         """
+
         return """
-        CONTEXT:
-        You are an expert auditor checking data extraction.
-        Compare 'Extraction' (AI Output) against 'Reference' (Ground Truth).
+    CONTEXT:
+You are an expert auditor checking data extraction.
+Compare 'Extraction' (AI Output) against 'Reference' (Ground Truth).
 
-        🏆 SUPREME RULE: SEMANTIC EQUIVALENCE & INCLUSION
-        Do NOT report errors for differences in granularity, phrasing, or formatting.
-        If the core information is present, it is CONSISTENT.
+🏆 SUPREME RULE: SEMANTIC EQUIVALENCE, INCLUSION & NORMALIZATION
+Do NOT report errors for differences in wording, formatting, field placement,
+granularity, or reasonable normalization of time, roles, or entities.
+If the core meaning, intent, and factual content are preserved, the data is COHERENT.
 
-        ✅ RULE 1: GEOGRAPHICAL TOLERANCE (Location Handling)
-        - "Paris La Défense" == "Paris" == "Paris, France" -> COHERENT.
-        - "Lyon" == "Villeurbanne" (Suburbs) -> COHERENT.
-        - If the location is specific in one and general in the other, it is COHERENT.
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 1: GEOGRAPHICAL TOLERANCE
+━━━━━━━━━━━━━━━━━━━━━━
+- Specific vs general locations are COHERENT
+- City vs metro area vs country is COHERENT
 
-        ✅ RULE 2: DATA MERGING & CONTAINMENT (Degree & Field)
-        - If Extraction says "Bachelor in Economics" and Reference says "Bachelor" -> COHERENT (The extraction is just more precise).
-        - If Extraction says "Bachelor" and Reference says "Bachelor in Economics" -> COHERENT (The extraction is less precise but correct).
-        - If 'Field' is missing but the field name appears inside 'Degree' or 'School' -> COHERENT.
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 2: ACADEMIC DATA MERGING & ROLE FLEXIBILITY
+━━━━━━━━━━━━━━━━━━━━━━
+- Degree, Field, Program Type may overlap
+- "Bachelor" == "Bachelor in Economics" → COHERENT
+- Exchange / Erasmus / Visiting Student programs:
+  - May appear as Degree OR Field OR Description
+  - Misplacement between these fields is COHERENT
+- Expanded or reduced academic labels are COHERENT
 
-        ✅ RULE 3: CROSS-FIELD PRESENCE
-        - If 'Company' is null, but the company name is in 'Title' -> COHERENT.
-        - If 'Date' is null, but dates are in 'Description' -> COHERENT.
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 3: CROSS-FIELD INFORMATION PRESENCE
+━━━━━━━━━━━━━━━━━━━━━━
+- Missing data in one field is acceptable if present elsewhere
+- Company, dates, degree, or institution inferred from another field → COHERENT
 
-        ✅ RULE 4: IGNORE MINOR HALLUCINATIONS OR REDUNDANCY
-        - "Strategic Strategy" vs "Strategy" -> COHERENT (Redundancy is not a critical error).
-        - Minor additions that fit the context of the CV are ACCEPTABLE.
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 4: TEMPORAL NORMALIZATION (VERY IMPORTANT)
+━━━━━━━━━━━━━━━━━━━━━━
+The following are SEMANTICALLY EQUIVALENT and MUST be treated as COHERENT:
 
-        ❌ ONLY REPORT THESE AS ERRORS:
-        - TOTAL CONTRADICTION: "Master" vs "Bachelor" (Different levels).
-        - WRONG ENTITY: "Google" vs "Amazon".
-        - WRONG DATES: "2015" vs "2022" (Large gap).
-        - MISSING CORE INFO: The job/degree is completely absent from the object.
+- "2024–Present" == "2024–2026"
+- "Present", "Ongoing", "Current" == any future end date
+- Year-only vs season-based dates:
+  - "2025" == "Summer 2025" == "Spring 2025"
+  - "2025–2025" == any single-period date in 2025 
+  - "2025–2025" == "Summer 2025"
 
-        OUTPUT INSTRUCTIONS:
-        - If the meaning is preserved -> "coherent": true.
-        - Only set "coherent": false for critical factual errors.
-        - Output JSON: {"coherent": boolean, "error_type": string, "comment": string}
+Differences in temporal GRANULARITY are NOT errors.
+Do NOT report errors when one version is open-ended and the other is projected.
+
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 5: FREELANCE & SELF-EMPLOYED ROLES
+━━━━━━━━━━━━━━━━━━━━━━
+- Company is OPTIONAL
+- Client-based descriptions are sufficient
+- Absence of Company MUST NOT be considered an error
+
+━━━━━━━━━━━━━━━━━━━━━━
+❌ ONLY REPORT THESE AS ERRORS
+━━━━━━━━━━━━━━━━━━━━━━
+Report an error ONLY if there is:
+
+- TOTAL CONTRADICTION (Bachelor vs Master)
+- WRONG ENTITY (Google vs Amazon)
+- NON-OVERLAPPING, INCOMPATIBLE DATES
+- MISSING CORE RECORD (entire experience or education absent)
+
+━━━━━━━━━━━━━━━━━━━━━━
+OUTPUT FORMAT (JSON ONLY):
+━━━━━━━━━━━━━━━━━━━━━━
+{
+  "coherent": boolean,
+  "error_type": string,
+  "comment": string
+}
+
         """
+
 
     def nettoyer_nom(self, nom_brut):
-        # Transforme 'Thomas 01', 'Thomas 13' en 'Thomas'
         return re.sub(r'\s+\d+$', '', nom_brut).strip()
 
+    def normaliser_nom(self, nom):
+        """
+        Normalisation robuste :
+        - lowercase
+        - supprime chiffres et suffixes (_01, -01, 01)
+        """
+        nom = nom.lower()
+        nom = re.sub(r'[_-]?\d+$', '', nom)
+        nom = re.sub(r'\s+\d+$', '', nom)
+        return nom.strip()
+
     def comparer_fichiers_directs(self, path_reference, path_output, path_rapport):
-        print(f"--- Démarrage de l'analyse (Mode : Semantic & Inclusion) ---")
+        print("--- Démarrage de l'analyse (Mode : Semantic & Inclusion) ---")
 
         try:
             with open(path_reference, 'r', encoding='utf-8') as f:
                 data_ref = json.load(f)
+
             with open(path_output, 'r', encoding='utf-8') as f:
                 data_ai = json.load(f)
+
         except Exception as e:
-            print(f"Erreur chargement fichiers : {e}")
+            print(f"❌ Erreur chargement fichiers : {e}")
             return
+
+        # Pré-calcul du mapping normalisé -> nom référence
+        mapping_refs = {
+            self.normaliser_nom(nom_ref): nom_ref
+            for nom_ref in data_ref.keys()
+        }
 
         rapport_global = []
 
         for nom_ai, contenu_ai in data_ai.items():
 
-            # Logique de Matching
-            nom_ref_match = None
-            if nom_ai in data_ref:
-                nom_ref_match = nom_ai
-            else:
-                nom_nettoye = self.nettoyer_nom(nom_ai)
-                if nom_nettoye in data_ref:
-                    nom_ref_match = nom_nettoye
+            nom_ai_norm = self.normaliser_nom(nom_ai)
+            nom_ref_match = mapping_refs.get(nom_ai_norm)
 
             if not nom_ref_match:
                 print(f"⚠️  Pas de référence pour '{nom_ai}'")
@@ -87,25 +138,32 @@ class AnalyseExtraction(Analyse):
 
             contenu_ref = data_ref[nom_ref_match]
 
-            # Construction du prompt
-            prompt = self.construction_prompt(original_data=contenu_ref, biais_data=contenu_ai, cv_id=nom_ai)
+            prompt = self.construction_prompt(
+                original_data=contenu_ref,
+                biais_data=contenu_ai,
+                cv_id=nom_ai
+            )
 
             try:
                 response = client.chat.completions.create(
                     model=ANALYSIS_DEPLOYMENT_NAME,
                     messages=[
-                        {"role": "system", "content": "You are a smart auditor. Use logic of INCLUSION (e.g. 'Paris La Défense' IS 'Paris'). Output JSON only."},
-                        {"role": "user", "content": prompt}
+                        {
+                            "role": "system",
+                            "content": "You are a strict auditor using semantic inclusion. Output JSON only."
+                        },
+                        {
+                            "role": "user",
+                            "content": prompt
+                        }
                     ],
                     temperature=0
                 )
 
                 resultat_raw = response.choices[0].message.content.strip()
-                if resultat_raw.startswith("```"):
-                    resultat_raw = resultat_raw.replace("```json", "").replace("```", "")
+                resultat_raw = resultat_raw.replace("```json", "").replace("```", "")
 
                 resultat_json = json.loads(resultat_raw)
-
                 resultat_json["cv_id"] = nom_ai
                 resultat_json["reference_used"] = nom_ref_match
 
@@ -114,12 +172,18 @@ class AnalyseExtraction(Analyse):
             except Exception as e:
                 print(f"❌ Erreur technique sur {nom_ai}: {e}")
 
-        # Sauvegarde
         with open(path_rapport, 'w', encoding='utf-8') as f:
             json.dump(rapport_global, f, indent=4, ensure_ascii=False)
 
-        print(f"✅ Analyse terminée. Rapport : {path_rapport}")
+        print(f"✅ Analyse terminée. Rapport généré : {path_rapport}")
+
 
 if __name__ == "__main__":
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
     analyseur = AnalyseExtraction()
-    analyseur.comparer_fichiers_directs("real_cv.json", "output.json", "rapport_analyse.json")
+    analyseur.comparer_fichiers_directs(
+        os.path.join(BASE_DIR, "real_cv.json"),
+        os.path.join(BASE_DIR, "output.json"),
+        os.path.join(BASE_DIR, "rapport_analyse.json")
+    )

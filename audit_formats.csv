@@ -1,0 +1,3 @@
+Format_Numero,Candidat,Type_Erreur,Détails
+04,Thomas 04,Modification,"The 'Extraction' variant has a modification in the dates for the 'Freelance / Self-employed' role, changing '2024 - Present' to '2024 - 2026'. Additionally, the company name 'PayFast Fintech' is modified to '""PayFast"" FinTech (Station F)'."
+11,Alexandre 11,Modification,The 'Extraction' variant has modifications in the 'List of studies' where the field and university details are inconsistent with the 'Original'. The 'Extraction' also lacks specific geographic details in 'country or city' fields for professional experiences and studies.
