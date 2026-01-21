@@ -459,7 +459,6 @@ for index, candidat in enumerate(LISTE_CANDIDATS):
         traceback.print_exc()
 
     finally:
-        # --- MODIFICATION ICI : Suppression de l'input() pour enchaîner directement ---
         time.sleep(3)
         print(f"Fermeture du navigateur pour {candidat['infos']['prenom']} et passage au suivant...")
         driver.quit()
