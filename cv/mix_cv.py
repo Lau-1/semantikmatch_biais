@@ -108,8 +108,8 @@ def generate_cv_variations(file_path):
     df['cv age variation'] = col_age
 
     print("Sauvegarde en cours...")
-    df.to_csv('cv_final.csv', index=False)
-    print("Terminé ! Le fichier 'cv_final.csv' contient désormais toutes les variations.")
+    df.to_csv('CV/cv_final.csv', index=False)
+    print("Terminé ! Le fichier 'CV/cv_final.csv' contient désormais toutes les variations.")
 
 if __name__ == "__main__":
     generate_cv_variations('cv/300cv.csv')
