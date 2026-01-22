@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import traceback
+import sys  # Ajout pour quitter proprement si aucun choix
 
 # ==============================================================================
 # --- CONFIGURATION GLOBALE (CONSTANTES) ---
@@ -624,12 +625,58 @@ def fill_other(driver, wait, item_title, item_desc):
 
 
 # ==============================================================================
+# --- MENU DE SÉLECTION DES CANDIDATS ---
+# ==============================================================================
+
+candidates_to_process = []
+
+print("\n" + "="*50)
+print(" MENU DE SÉLECTION")
+print("="*50)
+
+choix_tous = input("Voulez-vous traiter TOUS les candidats ? (o/n) [défaut: o] : ").strip().lower()
+
+if choix_tous == '' or choix_tous == 'o' or choix_tous == 'y':
+    print("✅ Choix : Traitement de TOUS les candidats.")
+    candidates_to_process = LISTE_CANDIDATS
+else:
+    print("\n--- Liste des candidats disponibles ---")
+    for idx, c in enumerate(LISTE_CANDIDATS):
+        print(f"{idx + 1}. {c['infos']['prenom']} {c['infos']['nom']}")
+
+    choix_ids = input("\nEntrez les numéros des candidats à traiter (séparés par des virgules, ex: 1, 3) : ")
+
+    try:
+        # On découpe la chaine, on enlève les espaces et on convertit en int
+        # On fait -1 car la liste commence à 0
+        indices = [int(x.strip()) - 1 for x in choix_ids.split(',')]
+
+        for i in indices:
+            if 0 <= i < len(LISTE_CANDIDATS):
+                candidates_to_process.append(LISTE_CANDIDATS[i])
+            else:
+                print(f"⚠️  Attention : Le numéro {i+1} n'existe pas, ignoré.")
+
+        if not candidates_to_process:
+            print("❌ Aucun candidat valide sélectionné. Fin du programme.")
+            sys.exit()
+
+    except ValueError:
+        print("❌ Erreur de saisie (il faut entrer des chiffres). Fin du programme.")
+        sys.exit()
+
+print(f"\n🚀 {len(candidates_to_process)} candidat(s) prêt(s) à être traité(s).")
+time.sleep(1)
+
+
+# ==============================================================================
 # --- MAIN EXECUTION LOOP ---
 # ==============================================================================
 
-for index, candidat in enumerate(LISTE_CANDIDATS):
+# Note : On boucle maintenant sur candidates_to_process
+for index, candidat in enumerate(candidates_to_process):
     print(f"\n==================================================")
-    print(f"🚀 TRAITEMENT DU CANDIDAT {index + 1}/{len(LISTE_CANDIDATS)} : {candidat['infos']['prenom']} {candidat['infos']['nom']}")
+    print(f"🚀 TRAITEMENT DU CANDIDAT {index + 1}/{len(candidates_to_process)} : {candidat['infos']['prenom']} {candidat['infos']['nom']}")
     print(f"==================================================")
 
     service = Service(ChromeDriverManager().install())
@@ -908,4 +955,4 @@ for index, candidat in enumerate(LISTE_CANDIDATS):
         driver.quit()
         time.sleep(2)
 
-print("🎉 TOUS LES CANDIDATS ONT ÉTÉ TRAITÉS !")
+print("🎉 TOUS LES CANDIDATS SÉLECTIONNÉS ONT ÉTÉ TRAITÉS !")
