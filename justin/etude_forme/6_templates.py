@@ -68,7 +68,52 @@ def prepare_data(candidat):
 
 # --- 2. DÉFINITION DES 6 TEMPLATES ---
 
+# --- 2. DÉFINITION DES TEMPLATES (AVEC LE NOUVEAU TEMPLATE 0) ---
+
 TEMPLATES = {
+    # ---------------------------------------------------------
+    # T0: SIMPLE BASE (NOIR & BLANC, STRICT MINIMUM)
+    # ---------------------------------------------------------
+    "0_Simple_Base": {
+        "preamble": r"""
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{enumitem}
+\pagestyle{empty}
+\begin{document}
+""",
+        "body": r"""
+\begin{{center}}
+    {{\LARGE \textbf{{{infos[prenom]} {infos[nom]}}}}} \\ \vspace{{5pt}}
+    {infos[ville]}, {infos[pays]} $\cdot$ {infos[phone_num]} $\cdot$ {infos[email]}
+\end{{center}}
+
+\vspace{{10pt}}
+\hrule
+\vspace{{10pt}}
+
+\section*{{Profile}}
+{infos[description]}
+
+\section*{{Professional Experience}}
+{exp_block}
+
+\section*{{Education}}
+{edu_block}
+
+\section*{{Skills \& Languages}}
+\begin{{itemize}}[noitemsep]
+{lang_list}
+{skills_list}
+\end{{itemize}}
+
+\section*{{Interests}}
+{interests_str}
+"""
+    },
+
     # ---------------------------------------------------------
     # T1: CLASSIC BLUE
     # ---------------------------------------------------------
