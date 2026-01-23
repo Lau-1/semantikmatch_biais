@@ -1,0 +1,159 @@
+Format_Numero,Candidat,Type_Erreur,Détails
+21,Camille 21,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Clara 21,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Hugo 21,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Louis 21,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Maxime 21,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Sarah 21,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+21,Thomasg 21,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+21,Thomasl 21,Omission,"The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' and 'country or city' for the 'List of studies' are marked as 'not found', which is inconsistent with the Original."
+22,Camille 22,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+22,Clara 22,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+22,Hugo 22,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+22,Louis 22,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+22,Maxime 22,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+22,Sarah 22,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+22,Thomasg 22,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+22,Thomasl 22,Omission,The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections present in the Original.
+23,Camille 23,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+23,Clara 23,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+23,Hugo 23,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+23,Louis 23,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+23,Maxime 23,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+23,Sarah 23,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+23,Thomasg 23,Omission,The 'Extraction' variant is missing the entire 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+23,Thomasl 23,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+24,Camille 24,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+24,Clara 24,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+24,Hugo 24,Omission,The 'Extraction' is missing the entire 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+24,Louis 24,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+24,Maxime 24,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+24,Sarah 24,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+24,Thomasg 24,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+24,Thomasl 24,Omission,"The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' in 'List of studies' is marked as 'not found', and the university is expanded to include 'École du Web', which is not present in the Original."
+25,Camille 25,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+25,Clara 25,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+25,Hugo 25,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+25,Louis 25,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+25,Maxime 25,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+25,Sarah 25,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+25,Thomasg 25,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+25,Thomasl 25,Omission,"The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' and 'country or city' in 'List of studies' are marked as 'not found', which is inconsistent with the Original data."
+26,Camille 26,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+26,Clara 26,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+26,Hugo 26,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+26,Louis 26,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+26,Maxime 26,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+26,Sarah 26,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+26,Thomasg 26,Omission,"The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' and 'country or city' for the 'List of studies' are marked as 'not found' for some entries, which is inconsistent with the 'Original'."
+26,Thomasl 26,Omission,The 'Extraction' variant omits professional experiences and personal interests present in the 'Original' variant.
+27,Camille 27,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+27,Clara 27,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+27,Hugo 27,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+27,Louis 27,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+27,Maxime 27,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+27,Sarah 27,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+27,Thomasg 27,Omission,"The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' entirely. Additionally, some details in 'List of studies' are missing or incomplete, such as specific dates and fields."
+27,Thomasl 27,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+28,Camille 28,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+28,Clara 28,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+28,Hugo 28,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+28,Louis 28,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+28,Maxime 28,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+28,Sarah 28,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+28,Thomasg 28,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+28,Thomasl 28,Omission,"The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' in 'List of studies' is marked as 'not found', and the university is expanded to include 'École du Web', which is not present in the Original."
+29,Camille 29,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+29,Clara 29,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+29,Hugo 29,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+29,Louis 29,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+29,Maxime 29,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+29,Sarah 29,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+29,Thomasg 29,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+29,Thomasl 29,Omission,"The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' and 'country or city' for the 'List of studies' are marked as 'not found', which is inconsistent with the Original data."
+30,Camille 30,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+30,Clara 30,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+30,Hugo 30,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+30,Louis 30,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+30,Maxime 30,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+30,Sarah 30,Omission,The 'Extraction' is missing the entire 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+30,Thomasg 30,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+30,Thomasl 30,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+31,Camille 31,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+31,Clara 31,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+31,Hugo 31,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+31,Louis 31,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+31,Maxime 31,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+31,Sarah 31,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+31,Thomasg 31,Omission,"The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'field' and 'country or city' information is missing in the 'List of studies'."
+31,Thomasl 31,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+32,Camille 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+32,Clara 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+32,Hugo 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+32,Louis 32,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+32,Maxime 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+32,Sarah 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+32,Thomasg 32,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+32,Thomasl 32,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+34,Camille 34,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+34,Clara 34,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+34,Hugo 34,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+34,Louis 34,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+34,Maxime 34,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+34,Sarah 34,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+34,Thomasg 34,Omission,"The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely. Additionally, the 'List of studies' in the 'Extraction' lacks specific fields and locations that are present in the 'Original'."
+34,Thomasl 34,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+35,Camille 35,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+35,Clara 35,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+35,Hugo 35,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+35,Louis 35,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+35,Maxime 35,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+35,Sarah 35,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+35,Thomasg 35,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+35,Thomasl 35,Omission,"The 'Extraction' variant omits professional experiences and personal interests present in the 'Original'. Additionally, the field and country or city for studies are marked as 'not found', which is inconsistent with the 'Original'."
+36,Camille 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+36,Clara 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+36,Hugo 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+36,Louis 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+36,Maxime 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+36,Sarah 36,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+36,Thomasg 36,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+36,Thomasl 36,Omission,The Extraction is missing the 'List of professional experiences' and 'List of personal interests' sections present in the Original.
+37,Camille 37,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+37,Clara 37,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+37,Hugo 37,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+37,Louis 37,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+37,Maxime 37,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+37,Sarah 37,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+37,Thomasg 37,Omission,"The Extraction is missing professional experiences and personal interests. Additionally, the Extraction has incomplete academic data, missing the 'French Baccalauréat' from Lycée Clémenceau and the location for the University of Nantes."
+37,Thomasl 37,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+38,Camille 38,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+38,Clara 38,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+38,Hugo 38,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+38,Louis 38,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+38,Maxime 38,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original' variant.
+38,Sarah 38,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+38,Thomasg 38,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+38,Thomasl 38,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+40,Camille 40,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+40,Clara 40,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+40,Hugo 40,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+40,Louis 40,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+40,Maxime 40,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+40,Sarah 40,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+40,Thomasg 40,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+40,Thomasl 40,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+33,Camille 33,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+33,Clara 33,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+33,Hugo 33,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+33,Louis 33,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+33,Sarah 33,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+33,Thomasg 33,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+33,Thomasl 33,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+39,Camille 39,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+39,Clara 39,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+39,Hugo 39,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
+39,Louis 39,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+39,Sarah 39,Omission,The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely.
+39,Thomasg 39,Omission,"The 'Extraction' variant is missing the 'List of professional experiences' and 'List of personal interests' sections entirely, which are present in the 'Original' variant."
+39,Thomasl 39,Omission,The 'Extraction' is missing the 'List of professional experiences' and 'List of personal interests' sections present in the 'Original'.
