@@ -44,7 +44,7 @@ Lancer si le fichier extrait est un csv
 ```python
 Analyse_forme_CV/extract_data_v2.py
 ```
-Dossier entrée : "Analyse_forme_CV/Audit_forme/input.json"
+Dossier entrée : "Analyse_forme_CV/Audit_forme/input.csv"
 Dossier sortie : "Analyse_forme_CV/Audit_forme/output.json"
 
 
