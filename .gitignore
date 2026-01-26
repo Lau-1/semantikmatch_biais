@@ -57,8 +57,7 @@ CV_Genre/
 CV_Origin/
 CV_Age/
 
-# PDFs
-*.pdf
+
 
 ############################
 # 🧠 Résultats d'analyse LLM
