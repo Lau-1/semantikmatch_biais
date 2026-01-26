@@ -2,13 +2,13 @@ import json
 import csv
 import re
 import os
-import sys
 from collections import defaultdict
 
 # --- CONFIGURATION ---
 FICHIER_RAPPORT = "Analyse_forme_CV/Audit_forme/rapport_analyse.json"
 CSV_GLOBAL = "Analyse_forme_CV/Audit_forme/audit_personnes.csv"
 CSV_FORMATS = "Analyse_forme_CV/Audit_forme/audit_formats.csv"
+
 
 def charger_json(chemin):
     if not os.path.exists(chemin):
@@ -20,6 +20,30 @@ def charger_json(chemin):
     except Exception as e:
         print(f"❌ Erreur de lecture JSON : {e}")
         return None
+
+
+# ===========================
+# FONCTION PRINCIPALE : LISTE DE TOUTES LES ERREURS
+# ===========================
+def lister_toutes_erreurs(data):
+    erreurs = []
+
+    for entree in data:
+        est_coherent = entree.get("coherent", True)
+
+        if not est_coherent:
+            cv_id = entree.get("cv_id", "Inconnu")
+            type_erreur = entree.get("error_type", "N/A")
+            detail_contenu = entree.get("details") or entree.get("detail") or entree.get("comment") or "Aucun détail"
+
+            erreurs.append({
+                "CV_ID": cv_id,
+                "Type_Erreur": type_erreur,
+                "Details": detail_contenu
+            })
+
+    return erreurs
+
 
 # ==========================================
 # MODULE 1 : ANALYSE PAR PERSONNE (GLOBAL)
@@ -38,11 +62,8 @@ def analyse_par_personne(data):
         est_coherent = entree.get("coherent", False)
         type_erreur = entree.get("error_type", "N/A")
 
-        # --- MODIFICATION ICI : Récupération intelligente du champ détail ---
-        # On cherche 'details', 'detail' ou 'comment' pour être sûr d'avoir l'info
         detail_contenu = entree.get("details") or entree.get("detail") or entree.get("comment") or "Aucun détail"
 
-        # Extraction du nom (Thomas 01 -> Thomas)
         match = re.match(r"^(.*?)\s+(\d+)$", cv_id)
         nom_personne = match.group(1) if match else cv_id
         variant = match.group(2) if match else "N/A"
@@ -58,10 +79,9 @@ def analyse_par_personne(data):
                 "Variant": variant,
                 "CV_ID": cv_id,
                 "Type Erreur": type_erreur,
-                "Détails": detail_contenu  # <--- COLONNE AJOUTÉE
+                "Détails": detail_contenu
             })
 
-    # Affichage Console
     taux_succes = ((total_cvs - total_erreurs) / total_cvs) * 100 if total_cvs > 0 else 0
     print(f"Total CVs: {total_cvs} | Succès Global: {taux_succes:.1f}%")
 
@@ -88,6 +108,7 @@ def analyse_par_personne(data):
     except Exception as e:
         print(f"Erreur export CSV : {e}")
 
+
 # ==========================================
 # MODULE 2 : ANALYSE PAR FORMAT (NUMÉROS)
 # ==========================================
@@ -99,8 +120,6 @@ def analyse_par_format(data):
     for entree in data:
         cv_id = entree.get("cv_id", "Inconnu")
         est_coherent = entree.get("coherent", True)
-
-        # --- MODIFICATION ICI AUSSI ---
         detail_contenu = entree.get("details") or entree.get("detail") or entree.get("comment") or "Aucun détail"
 
         match = re.search(r'\s+(\d+)$', cv_id)
@@ -114,10 +133,9 @@ def analyse_par_format(data):
                 "Format_Numero": numero_format,
                 "Candidat": cv_id,
                 "Type_Erreur": entree.get("error_type", "N/A"),
-                "Détails": detail_contenu  # <--- COLONNE AJOUTÉE
+                "Détails": detail_contenu
             })
 
-    # Affichage Console
     print(f"{'Format':<8} | {'Échecs':<8} | {'Taux Erreur':<12}")
     print("-" * 35)
 
@@ -139,7 +157,6 @@ def analyse_par_format(data):
         for det in data_fmt['details']:
             csv_data.append(det)
 
-    # Export CSV
     try:
         colonnes = ["Format_Numero", "Candidat", "Type_Erreur", "Détails"]
 
@@ -150,6 +167,7 @@ def analyse_par_format(data):
         print(f"📂 Rapport exporté : {CSV_FORMATS}")
     except Exception as e:
         print(f"Erreur export CSV : {e}")
+
 
 # ==========================================
 # MENU PRINCIPAL
@@ -162,14 +180,17 @@ def menu():
         print("1. 👤 Audit par Personne")
         print("2. 🎨 Audit par Format")
         print("3. 🚀 Tout générer")
-        print("4. 🚪 Quitter")
+        print("4. 🧾 Lister toutes les erreurs")
+        print("5. 🚪 Quitter")
 
-        choix = input("\nVotre choix (1-4) : ")
+        choix = input("\nVotre choix (1-5) : ")
 
         data = charger_json(FICHIER_RAPPORT)
         if not data:
-            if choix != '4': continue
-            else: break
+            if choix != '5':
+                continue
+            else:
+                break
 
         if choix == '1':
             analyse_par_personne(data)
@@ -181,12 +202,19 @@ def menu():
             analyse_par_personne(data)
             analyse_par_format(data)
             print("\n✅ Tous les rapports ont été générés.")
-            break
+            input("\n[Entrée] pour continuer...")
         elif choix == '4':
+            erreurs = lister_toutes_erreurs(data)
+            print("\n📌 Liste complète des erreurs :")
+            for e in erreurs:
+                print(f"- {e['CV_ID']} | {e['Type_Erreur']} | {e['Details']}")
+            input("\n[Entrée] pour continuer...")
+        elif choix == '5':
             print("Au revoir !")
             break
         else:
             print("Choix invalide.")
+
 
 if __name__ == "__main__":
     menu()
