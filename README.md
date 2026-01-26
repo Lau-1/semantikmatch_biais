@@ -30,15 +30,23 @@ pip install -r requirements.txt
 
 ### **Fonctionnement Analyse Biais Format**
 
-1. Extraire les données via l'extraction Semantikmatch, copier le contenu de with criteria et le coller dans un fichier nommé "input.json" dans le dossier "Audit forme"
+1. Extraire les données via l'extraction Semantikmatch, copier le contenu de with criteria et le coller dans un fichier nommé "input.json" ou "input.csv" dans le dossier "Audit forme" (selon le format du fichier)
 
 2. Mise en forme données
-Lancer
+Lancer si le fichier extrait est un json
 ```python
 Analyse_forme_CV/extract_data_v2.py
 ```
 Dossier entrée : "Analyse_forme_CV/Audit_forme/input.json"
 Dossier sortie : "Analyse_forme_CV/Audit_forme/output.json"
+
+Lancer si le fichier extrait est un csv
+```python
+Analyse_forme_CV/extract_data_v2.py
+```
+Dossier entrée : "Analyse_forme_CV/Audit_forme/input.json"
+Dossier sortie : "Analyse_forme_CV/Audit_forme/output.json"
+
 
 3. Analyse
 ```python
