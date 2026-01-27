@@ -1,0 +1,404 @@
+{
+    "Clara": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - December 2024",
+                "company": "Roland Berger",
+                "job title": "Strategy Analyst Intern",
+                "description": "Conducted market and competitor analysis for industrialclients. Built Excel models and PowerPoint decks for seniorconsultants. Participated in client interviews and synthesis workshops.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "September 2023 - May 2024",
+                "company": "emlyon Junior Conseil",
+                "job title": "Student Consultant",
+                "description": "Delivered consulting missions for SMEs (market sizing, pricing). Led a team of 4 students on a retail optimization project.",
+                "country or city": "Lyon, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2022 - 2025",
+                "field": "Management - Global BBA",
+                "university": "emlyon business school",
+                "country or city": "Lyon, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2022",
+                "field": "Mathematics & Economics",
+                "university": "Lycée du Parc",
+                "country or city": "Lyon, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Debating (national competitions)",
+            "Long-distance running",
+            "Economics podcasts"
+        ]
+    },
+
+    "Hugo": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - August 2024",
+                "company": "Société Générale CIB",
+                "job title": "Corporate Finance Intern",
+                "description": "Assisted in financial modeling and company valuation. Prepared pitchbooks and market analysis for M&A transactions. Conducted comparable companies and precedent transactions analyses.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "January 2024 - May 2024",
+                "company": "Student Investment Fund",
+                "job title": "Private Equity Analyst (Part-time)",
+                "description": "Analyzed investment opportunities in SMEs. Built LBO models and investment memos.",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2021 - 2024",
+                "field": "Economics",
+                "university": "University Paris-Dauphine",
+                "country or city": "Paris, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2021",
+                "field": "Mathematics & Physics",
+                "university": "Lycée Saint-Louis",
+                "country or city": "Paris, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Stock market investing",
+            "Chess",
+            "Marathon training"
+        ]
+    },
+
+    "Sarah": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - December 2024",
+                "company": "L'Oréal France",
+                "job title": "Marketing Intern",
+                "description": "Assisted brand managers in the preparation and launch of new skincare products. Analyzed sales performance and campaign KPIs using Excel and internal dashboards. Coordinated with creative agencies and influencers for digital campaigns. Conducted competitive analysis and consumer trend monitoring.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "September 2023 - May 2024",
+                "company": "E-commerce Startup",
+                "job title": "Digital Marketing Assistant (Part-time)",
+                "description": "Managed social media content calendars (Instagram, TikTok). Monitored online performance metrics and engagement rates. Supported SEO optimization and newsletter campaigns.",
+                "country or city": "Marseille, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2022-2025",
+                "field": "Business Administration",
+                "university": "KEDGE Business School",
+                "country or city": "Marseille, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2022",
+                "field": "Economics & Social Sciences",
+                "university": "Lycée Thiers",
+                "country or city": "Marseille, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Photography",
+            "Personal Instagram portfolio focused on lifestyle and travel photography.",
+            "Cultural Trends",
+            "Strong interest in fashion, consumer trends, and contemporary art exhibitions."
+        ]
+    },
+
+    "ThomasG": {
+        "List of professional experiences": [
+            {
+                "dates": "January 2023 - Present",
+                "company": "GreenMove (Student Startup)",
+                "job title": "Co-founder & Operations Manager",
+                "description": "Co-founded a sustainable mobility startup offering shared electric bikes for students. Managed daily operations and partnerships with local institutions. Built financial forecasts and monitored monthly cash flow. Led customer acquisition campaigns, reaching over 1,000 registered users.",
+                "country or city": "Nantes, France"
+            },
+            {
+                "dates": "June - August 2023",
+                "company": "Startup Incubator",
+                "job title": "Business Development Intern",
+                "description": "Supported early-stage startups in market analysis and go-to-market strategy. Assisted entrepreneurs in preparing pitch decks for investors. Participated in mentoring sessions and demo days.",
+                "country or city": "Nantes, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2021 - 2024",
+                "field": "Business Economics and Management",
+                "university": "University of Nantes",
+                "country or city": "Nantes, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2021",
+                "field": "Mathematics & Economics",
+                "university": "Lycée Clémenceau",
+                "country or city": "Nantes, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "Active member of startup communities and innovation events.",
+            "Sports",
+            "Competitive sailing (regional level, 6 years)."
+        ]
+    },
+    "Ines": {
+        "List of professional experiences": [
+            {
+                "dates": "September 2024 - February 2025",
+                "company": "French Economic Think Tank",
+                "job title": "Policy Research Assistant (Internship)",
+                "description": "Conducted literature reviews and data analysis for policy briefs. Contributed to reports on labor market reforms and public spending efficiency. Participated in stakeholder interviews and policy workshops.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "June - August 2024",
+                "company": "Public Affairs Intern",
+                "job title": "Ministry of Economy and Finance",
+                "description": "Assisted senior analysts in economic impact assessments. Prepared briefing notes and synthesis documents for internal use. Monitored legislative developments related to economic policy.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Volunteering",
+                "description": "Tutor for underprivileged high school students in economics.",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2022 - 2025",
+                "field": "Economics & Social Sciences",
+                "university": "Sciences Po Paris",
+                "country or city": "Paris, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2022",
+                "field": "Economics & Humanities",
+                "university": "Lycée Henri-IV",
+                "country or city": "Paris, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Public Debate",
+            "Regular attendee of economic conferences and public policy forums.",
+            "Volunteering",
+            "Tutor for underprivileged high school students in economics."
+        ]
+    },
+
+    "Louis": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Retail Analytics Company",
+                "job title": "Data Analyst Intern",
+                "description": "Cleaned and analyzed large customer datasets using Python and SQL. Built dashboards to support marketing and pricing decisions. Presented insights to non-technical stakeholders.",
+                "country or city": "Lyon, France"
+            },
+            {
+                "dates": "January 2024 - May 2024",
+                "company": "not found",
+                "job title": "Business Analytics Project (Academic)",
+                "description": "Worked in a team to analyze sales performance for a retail chain. Developed forecasting models and recommendations for inventory optimization.",
+                "country or city": "Grenoble, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2021 - 2024",
+                "field": "Applied Mathematics & Economics",
+                "university": "University Grenoble Alpes",
+                "country or city": "Grenoble, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2021",
+                "field": "Mathematics & Physics",
+                "university": "Lycée Champollion",
+                "country or city": "Grenoble, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Data Visualization",
+            "Personal projects focused on transforming complex data into clear insights.",
+            "Outdoor Sports",
+            "Hiking and trail running in alpine environments."
+        ]
+    },
+    "Amelie": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - December 2024",
+                "company": "EY Climate Change & Sustainability Services",
+                "job title": "Sustainability Consulting Intern",
+                "description": "Contributed to ESG diagnostics and carbon footprint analyses for corporate clients. Assisted in the preparation of sustainability reports aligned with CSRD standards. Conducted benchmarking on sustainable business practices across industries.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "September 2023 - May 2024",
+                "company": "Environmental NGO",
+                "job title": "Project Coordinator (Part-time)",
+                "description": "Coordinated sustainability awareness projects with universities. Managed project timelines, budgets, and stakeholder communication. Prepared impact assessment reports.",
+                "country or city": "Paris, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2022-2025",
+                "field": "Management & Sustainability",
+                "university": "Paris School of Economics (Joint Program)",
+                "country or city": "Paris, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2022",
+                "field": "Economics & Sciences",
+                "university": "Lycée Louis-le-Grand",
+                "country or city": "Paris, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Environmental Engagement",
+            "Active participation in climate-related student initiatives.",
+            "Yoga & Mindfulness",
+            "Regular practice focused on balance and resilience."
+        ]
+    },
+
+    "Maxime": {
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Decathlon Logistics",
+                "job title": "Operations Intern",
+                "description": "Analyzed warehouse processes and identified efficiency improvement areas. Supported the implementation of lean management tools. Built performance dashboards to monitor key operational indicators.",
+                "country or city": "Lille, France"
+            },
+            {
+                "dates": "February - May 2024",
+                "company": "not found",
+                "job title": "Supply Chain Project (Academic)",
+                "description": "Modeled supply chain flows and demand forecasts for a retail company. Proposed inventory optimization strategies to reduce stockouts.",
+                "country or city": "Lille, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2021 - 2024",
+                "field": "Industrial Engineering & Management",
+                "university": "IMT Nord Europe",
+                "country or city": "Lille, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "2021",
+                "field": "Mathematics & Engineering Sciences",
+                "university": "Lycée Faidherbe",
+                "country or city": "Lille, France",
+                "level_of_degree": "French Baccalauréat"
+            }
+        ],
+        "List of personal interests": [
+            "Industrial Innovation",
+            "Strong interest in Industry 4.0 and automation technologies.",
+            "Team Sports",
+            "Competitive basketball (regional league)."
+        ]
+    },
+
+    "ThomasL": {
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2025 - June 2025",
+                "company": "PayFast Fintech",
+                "job title": "CEO’s Right Hand / Executive Intern",
+                "description": "Contributed to the Go-to-market strategy for the launch of a new B2B offer. Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week). Video content creation and social media management.",
+                "country or city": "Paris, France"
+            },
+            {
+                "dates": "2024 - 2026",
+                "company": "Freelance / Self-employed",
+                "job title": "Web Developer & Marketing",
+                "description": "Designed websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
+                "country or city": "Lyon, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "Digital Project Management",
+                "university": "IUT Lyon 1",
+                "country or city": "Lyon, France",
+                "level_of_degree": "Bachelor"
+            }
+        ],
+        "List of personal interests": [
+            "Travel : Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Sports : Running (Training for Paris Half-Marathon).",
+            "Tech : Tech Blogger (AI and NoCode) - 1k monthly visitors."
+        ]
+    },
+    "Camille": {
+        "List of professional experiences": [
+            {
+                "dates": "Summer 2025",
+                "company": "NGO Education For All",
+                "job title": "International Humanitarian Mission",
+                "description": "Coordinated a multicultural team of 5 international volunteers. Taught French and provided tutoring (primary and middle school levels). Managed camp logistics and relations with local stakeholders.",
+                "country or city": "Senegal"
+            },
+            {
+                "dates": "2024 - 2025",
+                "company": "City Hall of Bordeaux",
+                "job title": "Public Affairs Intern",
+                "description": "Drafted synthesis notes for elected officials and press releases. Co-organized cultural and civic events (Budget: €50k). Conducted legislative monitoring on environmental topics.",
+                "country or city": "Bordeaux, France"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2023 - 2026",
+                "field": "Political Science",
+                "university": "University of Bordeaux",
+                "country or city": "Bordeaux, France",
+                "level_of_degree": "Bachelor"
+            },
+            {
+                "dates": "not found",
+                "field": "not found",
+                "university": "McGill University",
+                "country or city": "Montreal, Canada",
+                "level_of_degree": "International Exchange"
+            }
+        ],
+        "List of personal interests": [
+            "Geopolitics : Active member of MUN (Model United Nations).",
+            "Scouting : Team Leader (3 years). Values of solidarity.",
+            "Culture : Russian literature and South American cinema."
+        ]
+    }
+}
