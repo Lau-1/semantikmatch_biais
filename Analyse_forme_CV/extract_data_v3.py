@@ -4,6 +4,7 @@ import os
 import re
 import ast
 
+
 def safe_parse_value(valeur):
     """
     Parse intelligemment les champs venant du CSV :
@@ -18,14 +19,18 @@ def safe_parse_value(valeur):
         return valeur
 
     if isinstance(valeur, str):
+        cleaned = valeur.replace('""', '"').strip()
+
+        if cleaned == "":
+            return []
+
         try:
-            cleaned = valeur.replace('""', '"').strip()
             return json.loads(cleaned)
         except Exception:
             try:
                 return ast.literal_eval(cleaned)
             except Exception:
-                return []
+                return cleaned
 
     return []
 
@@ -35,19 +40,24 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
         print(f"Erreur : Le fichier {chemin_entree} est introuvable.")
         return
 
-    # 🔹 Lecture CSV + reconstruction d'une structure type "data"
     data_source = []
+    erreurs = []
 
     with open(chemin_entree, newline='', encoding='utf-8') as f:
-        reader = csv.reader(f, delimiter=';')
+        reader = csv.DictReader(f, delimiter=';')
 
-        for row in reader:
-            if len(row) < 4:
+        for i, row in enumerate(reader, start=1):
+            nom = row.get("Name", "").strip()
+
+            if not nom:
+                erreurs.append((i, "Nom manquant"))
                 continue
 
-            nom = row[0].strip()
-            parties_nom = nom.split()
+            interests = row.get("List of interests-value", "")
+            studies = row.get("List of studies-value", "")
+            experiences = row.get("Professional Experience-value", "")
 
+            parties_nom = nom.split()
             firstname = parties_nom[0] if parties_nom else ""
             lastname = parties_nom[-1] if len(parties_nom) > 1 else ""
 
@@ -60,16 +70,15 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
                     {"id": 3, "custom_name": "List of professional experiences"}
                 ],
                 "criteria_result": [
-                    {"criteria_id": 1, "payload": {"value": row[1]}},
-                    {"criteria_id": 2, "payload": {"value": row[2]}},
-                    {"criteria_id": 3, "payload": {"value": row[3]}}
+                    {"criteria_id": 1, "payload": {"value": interests}},
+                    {"criteria_id": 2, "payload": {"value": studies}},
+                    {"criteria_id": 3, "payload": {"value": experiences}}
                 ]
             })
 
     resultat_final = {}
 
     for candidat in data_source:
-        # 🔹 Nom formaté (Louis 01, Louis 02...)
         firstname = candidat.get('agg_firstname', '').capitalize()
         lastname = candidat.get('agg_lastname', '')
 
@@ -96,7 +105,6 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
             valeur_brute = resultat.get('payload', {}).get('value')
             valeur = safe_parse_value(valeur_brute)
 
-            # 🔹 Déballage si encapsulé
             if isinstance(valeur, dict):
                 for key in ("interests", "studies", "experiences"):
                     if key in valeur:
@@ -105,7 +113,6 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
 
             sections_trouvees[nom_section] = valeur
 
-        # 🔹 Ordre imposé
         ordre_cles = [
             "List of professional experiences",
             "List of studies",
@@ -119,7 +126,6 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
 
         resultat_final[nom_complet] = cv_ordonne
 
-    # 🔹 Tri naturel (Louis 09 < Louis 10)
     def natural_sort_key(s):
         return [
             int(text) if text.isdigit() else text.lower()
@@ -130,11 +136,14 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
         sorted(resultat_final.items(), key=lambda x: natural_sort_key(x[0]))
     )
 
-    # 🔹 Sauvegarde JSON
     with open(chemin_sortie, 'w', encoding='utf-8') as f:
         json.dump(resultat_final, f, indent=4, ensure_ascii=False)
 
     print(f"Extraction terminée avec succès. {len(resultat_final)} CV traités.")
+    if erreurs:
+        print("⚠️ Erreurs rencontrées sur certaines lignes :")
+        for l, msg in erreurs:
+            print(f"  - Ligne {l} : {msg}")
 
 
 # ▶️ Exécution
