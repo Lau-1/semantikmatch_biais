@@ -97,10 +97,10 @@
     },
     {
         "cv_id": "Amelie 13",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the description of the 'Sustainability Consulting Intern' role by omitting details about benchmarking on sustainable business practices. Additionally, the 'Project Coordinator' role description is less detailed in the 'Extraction' variant. The 'List of studies' has a modification in the 'Baccalauréat' degree description, changing 'French Baccalauréat' to 'Baccalauréat (Economics)'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
@@ -115,28 +115,20 @@
         "cv_id": "Amelie 15",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has a different date for the Baccalauréat degree (2021 - 2022) compared to the 'Original' (2022). Additionally, the 'Extraction' variant has a simplified description for the professional experiences and personal interests, which may lead to loss of detail.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the country for the second professional experience and the field and country for both educational entries. Additionally, the description of the first professional experience is less detailed in the 'Extraction'.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 16",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change. Additionally, the 'Extraction' variant simplifies the description of personal interests, omitting specific details about 'Active participation in climate-related student initiatives' and 'Yoga & Mindfulness'.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in professional experiences and personal interests. Additionally, the 'Extraction' lacks the field and location for studies, and the dates for the French Baccalauréat are inconsistent with the 'Original'.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 17",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change.",
-        "reference_used": "Amelie"
-    },
-    {
-        "cv_id": "Amelie 18",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
@@ -144,19 +136,27 @@
         "reference_used": "Amelie"
     },
     {
+        "cv_id": "Amelie 18",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the country for the second professional experience and the field for both studies. Additionally, the 'Extraction' does not include the full description of personal interests.",
+        "reference_used": "Amelie"
+    },
+    {
         "cv_id": "Amelie 19",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant has a modified degree level for the 'Lycée Louis-le-Grand' entry, changing 'French Baccalauréat' to 'Baccalauréat (Economics)'. Additionally, the 'country or city' for the 'Environmental NGO' experience is 'not found' in the 'Original' but is 'Paris' in the 'Extraction'.",
+        "details": "The 'Extraction' variant has modified the field of study for the Baccalauréat from 'Economics & Sciences' to 'Economics' and omitted the field 'Management & Sustainability' for the Bachelor's degree. Additionally, the 'Extraction' variant has omitted specific details in the job descriptions and personal interests.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 20",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has a different date range for the 'Lycée Louis-le-Grand' education entry ('2021 - 2022' vs '2022'). Additionally, the 'Extraction' variant has a modified description for the 'Sustainability Consulting Intern' role and a simplified list of personal interests.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing detailed descriptions in professional experiences and the field of study for both educational entries. Additionally, the 'country or city' field is missing for educational entries.",
         "reference_used": "Amelie"
     },
     {
@@ -172,23 +172,23 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed descriptions of personal interests found in the 'Original' variant, specifically the active participation in climate-related student initiatives and the regular practice focused on balance and resilience.",
+        "details": "The 'Extraction' is missing the detailed descriptions of personal interests found in the 'Original'. Additionally, the 'field' for studies is marked as 'not found' in the 'Extraction', which omits the specific fields of study present in the 'Original'.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 23",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing detailed descriptions under 'List of personal interests' and the field of study for the first entry in 'List of studies'.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 24",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'List of personal interests' in the Extraction is missing the detail 'Active participation in climate-related student initiatives.' from the Original.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
@@ -201,18 +201,18 @@
     },
     {
         "cv_id": "Amelie 26",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of 'Active participation in climate-related student initiatives.' under 'List of personal interests'. Additionally, the 'country or city' for the 'Environmental NGO' experience is 'not found' in the 'Original' but is listed as 'Paris' in the 'Extraction'.",
-        "reference_used": "Amelie"
-    },
-    {
-        "cv_id": "Amelie 27",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent",
+        "reference_used": "Amelie"
+    },
+    {
+        "cv_id": "Amelie 27",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the detailed descriptions under 'List of personal interests' that are present in the 'Original'.",
         "reference_used": "Amelie"
     },
     {
@@ -228,7 +228,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits details from the 'List of personal interests' section, specifically the descriptions 'Active participation in climate-related student initiatives.' and 'Regular practice focused on balance and resilience.'",
+        "details": "The 'Extraction' variant omits the detailed descriptions of personal interests found in the 'Original'. Additionally, the field 'Management & Sustainability' is marked as 'not found' in the 'Extraction'.",
         "reference_used": "Amelie"
     },
     {
@@ -257,10 +257,10 @@
     },
     {
         "cv_id": "Amelie 33",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing detailed descriptions in the 'List of personal interests' and specific fields in 'List of studies'.",
         "reference_used": "Amelie"
     },
     {
@@ -268,15 +268,15 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'List of personal interests' in the Extraction is missing detailed descriptions present in the Original, such as 'Active participation in climate-related student initiatives' and 'Regular practice focused on balance and resilience.'",
+        "details": "The 'Extraction' variant omits detailed descriptions of personal interests and the field of study for the Paris School of Economics entry.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 35",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of personal interests related to 'Active participation in climate-related student initiatives' and 'Regular practice focused on balance and resilience'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
@@ -289,114 +289,114 @@
     },
     {
         "cv_id": "Amelie 37",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits detailed descriptions under 'List of personal interests' that are present in the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 38",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in 'List of personal interests' and the field of study for the first education entry.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 39",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in the 'List of studies' and 'List of personal interests'. The 'field' and 'country or city' are marked as 'not found' in the 'List of studies', and detailed descriptions of personal interests are missing.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Amelie 40",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the field 'Management & Sustainability' for the first study entry and the detailed descriptions under 'List of personal interests'.",
         "reference_used": "Amelie"
     },
     {
         "cv_id": "Camille 01",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire list of professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 02",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire list of professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 03",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' which is present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 04",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 05",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 06",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 07",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 08",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "details": "The job title 'International Humanitarian Mission' is missing in the 'Extraction' for the NGO 'Education For All' experience.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 09",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 10",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -409,10 +409,10 @@
     },
     {
         "cv_id": "Camille 12",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the 'International Exchange' study at McGill University, which is present in the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -425,18 +425,18 @@
     },
     {
         "cv_id": "Camille 14",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the second study entry related to McGill University, which is present in the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 15",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the location from 'Senegal' to 'Dakar', which is a specific city rather than the country. Additionally, the 'Extraction' variant has omitted detailed descriptions in both professional experiences and personal interests, reducing the granularity of information provided.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -444,15 +444,15 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing the entire record for the 'International Exchange' at McGill University. Additionally, the 'List of personal interests' in the 'Extraction' lacks the detailed descriptions found in the 'Original'.",
+        "details": "The 'Extraction' is missing the 'International Exchange' entry at McGill University from the 'Original'.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 17",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the location from 'Senegal' to 'Dakar', which is a specific city rather than the country. Additionally, the 'Extraction' variant omits the second study entry related to McGill University, which is present in the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -460,183 +460,183 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing the second study entry for McGill University and the detailed descriptions in personal interests.",
+        "details": "The 'Extraction' is missing the entire record for the 'International Exchange' at McGill University. Additionally, the 'List of personal interests' in the 'Extraction' lacks the detailed descriptions found in the 'Original'.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 19",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing the second study entry for McGill University and the detailed descriptions in the 'List of personal interests'.",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant has a different location for the NGO experience ('Dakar' vs 'Senegal') and omits the second study entry at McGill University. Additionally, the description of the NGO experience is less detailed in the 'Extraction' variant.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 20",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing the second study entry for McGill University and the detailed descriptions in personal interests.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 21",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 22",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' which is present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 23",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 24",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences listed in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 25",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 26",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 27",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences present in the 'Original'.",
+        "details": "The 'Extraction' variant omits specific details such as the country or city for professional experiences and studies, and the detailed descriptions of personal interests. Additionally, the field of study for the University of Bordeaux is missing, and the level of degree for McGill University is not found.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 28",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 29",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the entire 'List of professional experiences' which is present in the 'Original' variant.",
+        "details": "The 'Extraction' variant omits specific personal interests such as 'Culture: Russian literature and South American cinema' and detailed descriptions of interests. Additionally, the country or city for the 'International Humanitarian Mission' is missing in the 'Extraction' variant.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 30",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 31",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 32",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "details": "The 'country or city' for the 'International Humanitarian Mission' experience is missing in the Extraction. Additionally, the 'field' for the University of Bordeaux is missing in the Extraction.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 33",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 34",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 35",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences listed in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 36",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 37",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences present in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 38",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant. Additionally, the 'Extraction' variant has incomplete personal interests and lacks specific details found in the 'Original'.",
+        "details": "The 'Extraction' variant omits the country 'Senegal' for the NGO experience and the city 'Bordeaux, France' for the University of Bordeaux study. Additionally, the 'Extraction' variant omits the detailed descriptions of personal interests related to 'Culture' and 'Values of solidarity'.",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 39",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing all professional experiences present in the 'Original'.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
         "cv_id": "Camille 40",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing all professional experiences listed in the 'Original' variant.",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -724,7 +724,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Extraction has modified the dates for the studies at Lycée du Parc from '2022' to '1 SEP 2021 - 1 JUN 2022', which is a non-overlapping, incompatible date change. Additionally, the personal interests list in the Extraction has 'Sports' instead of 'long-distance running', which is a modification of the original content.",
+        "details": "The 'Extraction' variant modifies the location for the 'Student Consultant' role from 'not found' to 'LYON, FRANCE'. Additionally, the 'Extraction' variant omits the field 'Management - Global BBA' and 'Mathematics & Economics' in the 'List of studies'.",
         "reference_used": "Clara"
     },
     {
@@ -740,7 +740,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'List of personal interests' in the Extraction has been modified. The Original mentions 'Debating (national competitions), long-distance running, economic podcasts', while the Extraction lists 'Debating', 'Sports', and 'Culture'.",
+        "details": "The 'Extraction' variant has a modification in the 'List of studies' where the field of study is marked as 'not found' for both entries, whereas the 'Original' provides specific fields. Additionally, the 'List of personal interests' in the 'Extraction' includes 'Sports' and 'Culture', which are not present in the 'Original'.",
         "reference_used": "Clara"
     },
     {
@@ -748,15 +748,15 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the personal interests from 'Debating (national competitions), long-distance running, economic podcasts' to 'Debating, Sports, Culture', which changes the specific interests listed. Additionally, the 'Extraction' variant omits the detailed description of the internship at Roland Berger and the specific team size in the emlyon Junior Conseil experience.",
+        "details": "The 'Extraction' variant modifies the 'List of personal interests' by changing 'Long-distance running' to 'Sports' and 'Economics podcasts' to 'Culture'. Additionally, the 'Extraction' variant omits specific details in the 'List of studies' field descriptions, such as 'Management - Global BBA' and 'Mathematics & Economics'.",
         "reference_used": "Clara"
     },
     {
         "cv_id": "Clara 15",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant modifies the location for the 'Student Consultant' role from 'not found' to 'Lyon', which is inconsistent with the 'Original'. Additionally, the 'Extraction' variant omits specific details in the 'List of personal interests' and modifies the degree dates for 'French Baccalauréat' from '2022' to '2021 - 2022'.",
         "reference_used": "Clara"
     },
     {
@@ -764,7 +764,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Extraction has modified the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change.",
+        "details": "The 'Extraction' variant has modified the 'List of personal interests' by changing 'Long-distance running' to 'Sports' and 'Economics podcasts' to 'Culture'. Additionally, the 'country or city' for the second professional experience is 'Lyon' in 'Extraction' but 'not found' in 'Original'. The 'List of studies' has a date modification for the 'French Baccalauréat' from '2022' to '2021 - 2022'.",
         "reference_used": "Clara"
     },
     {
@@ -772,7 +772,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Extraction has modified the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change.",
+        "details": "The 'Extraction' variant modifies the 'List of personal interests' by changing 'Long-distance running' to 'Sports' and 'Economics podcasts' to 'Culture'.",
         "reference_used": "Clara"
     },
     {
@@ -780,7 +780,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'List of personal interests' in the Extraction has 'Sports' and 'Culture' which are not present in the Original, and 'long-distance running' and 'economic podcasts' from the Original are missing in the Extraction.",
+        "details": "The 'Extraction' variant modifies the 'List of personal interests' by changing 'Long-distance running' to 'Sports' and 'Economics podcasts' to 'Culture'.",
         "reference_used": "Clara"
     },
     {
@@ -788,7 +788,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Extraction has a modification in the 'List of studies' where the dates for the 'Baccalauréat' are different ('2021 - 2022' vs '2022'). Additionally, there is a modification in the 'List of personal interests' where 'long-distance running, economic podcasts' are replaced with 'Sports, Culture'.",
+        "details": "The 'Extraction' variant has a modification in the 'List of studies' section. The dates for the 'French Baccalauréat' are '2021 - 2022' in the 'Extraction' but '2022' in the 'Original'. Additionally, the 'Extraction' has a missing field and university for the 'French Baccalauréat'. The 'List of personal interests' in the 'Extraction' has 'Sports' and 'Culture' instead of 'Long-distance running' and 'Economics podcasts'.",
         "reference_used": "Clara"
     },
     {
@@ -796,7 +796,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change.",
+        "details": "The 'Extraction' variant modifies the location for 'emlyon Junior Conseil' from 'not found' to 'Lyon', and changes the personal interests from 'Economics podcasts' to 'Culture'. Additionally, the 'Extraction' variant alters the degree dates for 'Lycée du Parc' from '2022' to '2021 - 2022'.",
         "reference_used": "Clara"
     },
     {
@@ -1041,10 +1041,10 @@
     },
     {
         "cv_id": "Hugo 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interests 'chess' and 'marathon training' from the 'Original'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Hugo"
     },
     {
@@ -1076,23 +1076,23 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the 'List of personal interests' by generalizing 'Stock market investing' to 'Investing' and 'marathon training' to 'Sports'. Additionally, the 'Extraction' variant changes the dates for the 'French Baccalauréat' from '2021' to '2020 - 2021'.",
+        "details": "The 'Extraction' variant modifies the 'List of personal interests' by reducing 'Stock market investing', 'Chess', and 'Marathon training' to 'Investing' and 'Sports', which changes the specificity of the interests. Additionally, the 'Extraction' variant omits the detailed descriptions in the 'List of professional experiences' and modifies the dates for the 'French Baccalauréat' from '2021' to '2020 - 2021'.",
         "reference_used": "Hugo"
     },
     {
         "cv_id": "Hugo 16",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the dates for the 'French Baccalauréat' from '2021' to '2020 - 2021', which is a non-overlapping, incompatible date change.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Hugo"
     },
     {
         "cv_id": "Hugo 17",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the 'List of personal interests' by generalizing 'Stock market investing' to 'Investing' and 'marathon training' to 'Sports'. Additionally, the 'Extraction' variant changes the dates for the 'French Baccalauréat' from '2021' to '2020 - 2021', which is a temporal modification.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Hugo"
     },
     {
@@ -1100,7 +1100,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the dates for the 'French Baccalauréat' from '2021' to '2020 - 2021', which is a non-overlapping, incompatible date change.",
+        "details": "The 'Extraction' variant has modified the 'List of personal interests' by generalizing 'Stock market investing' to 'Investing' and 'Marathon training' to 'Sports'. Additionally, the 'Extraction' variant omits specific details in the job descriptions and the field of study for the 'List of studies'.",
         "reference_used": "Hugo"
     },
     {
@@ -1116,7 +1116,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Extraction' variant modifies the 'List of personal interests' by generalizing 'Stock market investing.' to 'Investing' and 'marathon training.' to 'Sports'. Additionally, the 'Extraction' variant includes 'Paris' as the location for the 'Student Investment Fund' experience, which is 'not found' in the 'Original'.",
+        "details": "The 'Extraction' variant has modified the 'List of personal interests' by changing 'Stock market investing' to 'Investing' and 'Marathon training' to 'Sports'. Additionally, the 'Extraction' variant omits the detailed description of the 'Corporate Finance Intern' role and the 'Private Equity Analyst' role, which affects the semantic content.",
         "reference_used": "Hugo"
     },
     {
@@ -1276,15 +1276,15 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The dates for professional experiences are combined incorrectly in the Extraction, making it appear as if both roles were held simultaneously. Additionally, the Extraction includes 'Highest Honors' in the field for the French Baccalauréat, which is not present in the Original.",
+        "details": "The dates for professional experiences are merged incorrectly, leading to a misrepresentation of the timeline. The 'field' for the Bachelor's degree is marked as 'not found' in the extraction, while it should be 'Economics'.",
         "reference_used": "Hugo"
     },
     {
         "cv_id": "Ines 01",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The job title and company are swapped in the second professional experience entry. The field is missing in the first study entry, and the country or city is missing in both study entries in the Extraction.",
         "reference_used": "Ines"
     },
     {
@@ -1321,10 +1321,10 @@
     },
     {
         "cv_id": "Ines 06",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Volunteering' experience is missing in the 'Extraction' data.",
         "reference_used": "Ines"
     },
     {
@@ -1345,10 +1345,10 @@
     },
     {
         "cv_id": "Ines 09",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the volunteering experience listed in the 'Original'.",
         "reference_used": "Ines"
     },
     {
@@ -1377,10 +1377,10 @@
     },
     {
         "cv_id": "Ines 13",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title 'Policy Research Assistant (Internship)' was modified to 'Policy Research Assistant'. The company 'French Economic Think Tank' was modified to 'E French Economic Think Tank'. The job title 'Public Affairs Intern' and company 'Ministry of Economy and Finance' were swapped. The description for both experiences was shortened, omitting specific tasks and contributions. The degree 'French Baccalauréat' was modified to 'Baccalauréat (Economics)'. The personal interests list was shortened, omitting specific activities.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -1396,39 +1396,39 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The job title for the first experience is missing 'Internship' in the Extraction. The description for both experiences is less detailed in the Extraction. The dates for the second education entry are inconsistent ('2022' vs '2021 - 2022'). The level of degree for the second education entry is modified ('French Baccalauréat' vs 'Baccalauréat (Economics)'). Personal interests are less detailed in the Extraction.",
+        "details": "The job titles for the first two professional experiences are swapped between 'company' and 'job title' fields. The 'Volunteering' experience is missing. The 'field' and 'country or city' for studies are marked as 'not found' in the extraction. The 'List of personal interests' is missing the detail about attending economic conferences and public policy forums.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 16",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title for the first professional experience is modified from 'Policy Research Assistant (Internship)' to 'Policy Research Assistant'. The dates for the second study entry are modified from '2022' to '2021 - 2022'. The level of degree for the second study entry is modified from 'French Baccalauréat' to 'Baccalauréat (Economics)'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 17",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title for the first experience is modified from 'Policy Research Assistant (Internship)' to 'Policy Research Assistant'. The description for both experiences is shortened, omitting details such as 'Contributed to reports on labor market reforms and public spending efficiency' and 'Participated in stakeholder interviews and policy workshops' for the first experience, and 'Prepared briefing notes and synthesis documents for internal use' for the second experience. The dates for the second education entry are modified from '2022' to '2021 - 2022'. The level of degree for the second education entry is modified from 'French Baccalauréat' to 'Baccalauréat (Economics)'. The list of personal interests is shortened, omitting 'Regular attendee of economic conferences and public policy forums.' and 'Tutor for underprivileged high school students in economics.'",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the volunteering experience and the detailed descriptions of professional experiences. Additionally, the 'Extraction' lacks the 'Regular attendee of economic conferences and public policy forums' personal interest.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 18",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title for the first professional experience is modified from 'Policy Research Assistant (Internship)' to 'Policy Research Assistant'. The description for both professional experiences is shortened, omitting details such as 'Contributed to reports on labor market reforms and public spending efficiency' and 'Participated in stakeholder interviews and policy workshops' for the first experience, and 'Prepared briefing notes and synthesis documents for internal use' for the second experience. The dates for the second educational experience are modified from '2022' to '2021 - 2022'. The level of degree for the second educational experience is modified from 'French Baccalauréat' to 'Baccalauréat (Economics)'. The list of personal interests is shortened, omitting 'Regular attendee of economic conferences and public policy forums.' and 'Tutor for underprivileged high school students in economics.'",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the volunteering experience and the detailed descriptions of professional experiences. Additionally, the field of study for 'Sciences Po Paris' is marked as 'not found' in the 'Extraction'.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 19",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title for the first experience is modified from 'Policy Research Assistant (Internship)' to 'Policy Research Assistant'. The description for the first experience is shortened, omitting details about literature reviews, stakeholder interviews, and policy workshops. The dates for the second education entry are modified from '2022' to '2021 - 2022'. The level of degree for the second education entry is modified from 'French Baccalauréat' to 'Baccalauréat (Economics)'. The list of personal interests is shortened, omitting 'Regular attendee of economic conferences and public policy forums.' and 'Tutor for underprivileged high school students in economics.'",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the volunteering experience and the detailed descriptions of professional experiences. Additionally, the 'Extraction' lacks the 'List of personal interests' details present in the 'Original'.",
         "reference_used": "Ines"
     },
     {
@@ -1436,135 +1436,135 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits specific details from the 'Original' variant, such as the full description of the internship roles and the 'Regular attendee of economic conferences and public policy forums' interest. Additionally, the location for the 'Ministry of Economy and Finance' experience is missing.",
+        "details": "The 'Extraction' variant omits the volunteering experience and detailed descriptions of professional experiences. Additionally, the location for the Ministry of Economy and Finance experience is missing.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 21",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title and company for the second professional experience are swapped in the Extraction. Additionally, the 'Tutor for underprivileged high school students in economics' is listed as a professional experience in the Extraction, whereas it is a personal interest in the Original.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 22",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of personal interests related to attending economic conferences and tutoring activities. Additionally, the 'Extraction' includes a tutoring role as a professional experience, which is not present in the 'Original'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 23",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title and company for the second professional experience are swapped in the Extraction. Additionally, a tutoring role is listed as a professional experience in the Extraction, which is not present in the Original as a professional experience.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 24",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing some personal interests and the description of the tutoring role is not included in the 'List of professional experiences'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 25",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'List of personal interests' is missing in the 'Extraction' variant.",
+        "details": "The 'Extraction' variant omits the volunteering experience and personal interests present in the 'Original' variant.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 26",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title and company for the second professional experience are swapped between 'Original' and 'Extraction'. Additionally, a personal interest is incorrectly listed as a professional experience in 'Extraction'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 27",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the description for the tutoring role under 'List of professional experiences'. Additionally, the 'List of personal interests' in the 'Extraction' variant omits the detail about being a regular attendee of economic conferences and public policy forums.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 28",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of personal interests related to regular attendance at economic conferences and public policy forums, as well as tutoring for underprivileged high school students in economics. Additionally, the 'Extraction' includes the tutoring role as a professional experience without a date, which is not present in the 'Original'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 29",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of personal interests related to attending economic conferences and tutoring activities, which are present in the 'Original'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 30",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the detailed description of personal interests related to economic conferences and tutoring activities. Additionally, the volunteering experience is listed as a professional experience without specific dates or company information.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 31",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title and company for the second professional experience are swapped in the Extraction. Additionally, a new professional experience as a 'Tutor for underprivileged high school students in economics' is added in the Extraction, which is not present in the Original as a professional experience but as a personal interest.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 32",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the detailed description of the tutoring role under 'List of professional experiences'. Additionally, the 'List of personal interests' in the 'Extraction' variant omits the interest 'Regular attendee of economic conferences and public policy forums.'",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 33",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the detailed description of personal interests related to attending economic conferences and public policy forums, as well as the tutoring activity under personal interests. Additionally, the 'Extraction' variant includes the tutoring activity as a professional experience without a description or dates, which is inconsistent with the 'Original' variant where it is listed under personal interests.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 34",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the description for the tutoring role under professional experiences, which is present in the 'Original' variant under personal interests. Additionally, the 'Extraction' variant omits the detailed personal interests related to economic conferences and tutoring activities.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 35",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' is missing the personal interest 'Regular attendee of economic conferences and public policy forums.' and 'Volunteering'. Additionally, the 'Extraction' includes a professional experience entry for 'Tutor for underprivileged high school students in economics' which is not listed as a professional experience in the 'Original'.",
+        "error_type": "Modification",
+        "details": "The job title and company for the second professional experience are swapped in the Extraction. The Extraction lists 'Ministry of Economy and Finance' as the company and 'Public Affairs Intern' as the job title, whereas the Original lists 'Public Affairs Intern' as the company and 'Ministry of Economy and Finance' as the job title.",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 36",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the description for the tutoring role under professional experiences, which is present in the 'Original' variant under personal interests.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -1585,18 +1585,18 @@
     },
     {
         "cv_id": "Ines 39",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The job title and company for the second professional experience are swapped in the Extraction. The Original lists 'Public Affairs Intern' as the company and 'Ministry of Economy and Finance' as the job title, while the Extraction lists 'Ministry of Economy and Finance' as the company and 'Public Affairs Intern' as the job title.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
         "cv_id": "Ines 40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the personal interest description 'Regular attendee of economic conferences and public policy forums.' Additionally, the 'Extraction' includes a professional experience as a 'Tutor for underprivileged high school students in economics' which is listed under personal interests in the 'Original'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -1681,10 +1681,10 @@
     },
     {
         "cv_id": "Louis 11",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant has modified the company name for the 'Business Analytics Project' from 'not found' to 'ACADEMIC TEAM'. Additionally, the description for the 'Data Analyst Intern' role is less detailed in the 'Extraction' variant. The field of study for the Bachelor's degree is marked as 'not found' in the 'Extraction' variant, whereas it is specified as 'Applied Mathematics & Economics' in the 'Original'.",
         "reference_used": "Louis"
     },
     {
@@ -1700,7 +1700,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The company name 'Retail Analytics Company' was modified to 'E Retail Analytics Company'. The job title 'Business Analytics Project (Academic)' was modified to 'Business Analytics Project'. The description for the 'Data Analyst Intern' role was shortened, omitting details about presenting insights to non-technical stakeholders. The description for the 'Business Analytics Project' role was shortened, omitting details about working in a team to analyze sales performance for a retail chain. The 'French Baccalauréat' was modified to 'Baccalauréat (Maths & Physics)'.",
+        "details": "The company name 'Retail Analytics Company' was modified to 'E Retail Analytics Company'. The company name 'not found' was modified to 'E Academic Team'. The description for the 'Data Analyst Intern' role was shortened, omitting details about presenting insights to non-technical stakeholders. The field 'Applied Mathematics & Economics' was marked as 'not found' in the extraction. The field 'Mathematics & Physics' was marked as 'not found' in the extraction. The personal interest 'Personal projects focused on transforming complex data into clear insights.' was omitted.",
         "reference_used": "Louis"
     },
     {
@@ -1713,10 +1713,10 @@
     },
     {
         "cv_id": "Louis 15",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has a modification in the 'List of personal interests' where 'Outdoor Sports' and 'Hiking and trail running in alpine environments' are reduced to 'Sports'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
@@ -1729,10 +1729,10 @@
     },
     {
         "cv_id": "Louis 17",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant modifies the company name for the 'Business Analytics Project' from 'not found' to 'Academic Team'. Additionally, the 'Extraction' omits specific details in the job descriptions and personal interests, and there is a discrepancy in the dates for the 'French Baccalauréat'.",
         "reference_used": "Louis"
     },
     {
@@ -1764,7 +1764,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits several personal interests listed in the 'Original' variant, specifically 'Data Visualization' and 'Personal projects focused on transforming complex data into clear insights.'",
+        "details": "The 'Extraction' variant omits personal interests related to 'Data Visualization' and 'Personal projects focused on transforming complex data into clear insights.'",
         "reference_used": "Louis"
     },
     {
@@ -1777,10 +1777,10 @@
     },
     {
         "cv_id": "Louis 23",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits specific personal interests related to 'Personal projects focused on transforming complex data into clear insights' and 'Hiking and trail running in alpine environments.'",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
@@ -1793,10 +1793,10 @@
     },
     {
         "cv_id": "Louis 25",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits personal interests related to 'Personal projects focused on transforming complex data into clear insights' and 'Hiking and trail running in alpine environments'. Additionally, the 'field' for studies is marked as 'not found' in the 'Extraction' variant, which omits 'Applied Mathematics & Economics' and 'Mathematics & Physics'.",
         "reference_used": "Louis"
     },
     {
@@ -1817,18 +1817,18 @@
     },
     {
         "cv_id": "Louis 28",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits specific personal interests related to 'Personal projects focused on transforming complex data into clear insights' and 'Hiking and trail running in alpine environments.'",
         "reference_used": "Louis"
     },
     {
         "cv_id": "Louis 29",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Personal projects focused on transforming complex data into clear insights.' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
@@ -1865,26 +1865,26 @@
     },
     {
         "cv_id": "Louis 34",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Personal projects focused on transforming complex data into clear insights.' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
         "cv_id": "Louis 35",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'List of personal interests' in the Extraction is missing the interest 'Personal projects focused on transforming complex data into clear insights.' from the Original.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
         "cv_id": "Louis 36",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Personal projects focused on transforming complex data into clear insights.' from the 'List of personal interests'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Louis"
     },
     {
@@ -1908,7 +1908,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits part of the description for the 'Business Analytics Project (Academic)' experience and the 'Data Visualization' interest.",
+        "details": "The 'Extraction' variant omits parts of the description for the 'Business Analytics Project (Academic)' and the 'List of personal interests'. Additionally, the 'Extraction' does not include the country or city for the studies, and the field of study is marked as 'not found'.",
         "reference_used": "Louis"
     },
     {
@@ -2113,18 +2113,18 @@
     },
     {
         "cv_id": "Maxime 25",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Strong interest in Industry 4.0 and automation technologies.' and 'Competitive basketball (regional league).' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Maxime"
     },
     {
         "cv_id": "Maxime 26",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Strong interest in Industry 4.0 and automation technologies.' and the field 'Mathematics & Engineering Sciences' for the 'French Baccalauréat' entry.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Maxime"
     },
     {
@@ -2140,7 +2140,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing the 'Supply Chain Project (Academic)' experience and the 'Strong interest in Industry 4.0 and automation technologies.' personal interest.",
+        "details": "The 'Extraction' is missing the 'Supply Chain Project (Academic)' experience from the 'Original'.",
         "reference_used": "Maxime"
     },
     {
@@ -2252,7 +2252,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The company name for the 'Digital Marketing Assistant (Part-time)' role is missing in the Extraction variant.",
+        "details": "The company name 'E-commerce Startup' is missing in the 'Extraction' variant for the 'Digital Marketing Assistant (Part-time)' role.",
         "reference_used": "Sarah"
     },
     {
@@ -2316,7 +2316,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the company name 'E-commerce Startup' for the 'Digital Marketing Assistant (Part-time)' role.",
+        "details": "The company name 'E-commerce Startup' is missing in the 'Extraction' for the second professional experience.",
         "reference_used": "Sarah"
     },
     {
@@ -2337,66 +2337,66 @@
     },
     {
         "cv_id": "Sarah 13",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has a modification in the 'List of studies' where the 'French Baccalauréat' is labeled as 'Baccalauréat (Economics)', which is a change in the degree specification. Additionally, the 'List of personal interests' in the 'Extraction' is significantly reduced, omitting details about the Instagram portfolio and specific interests in fashion, consumer trends, and contemporary art exhibitions.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 14",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has a modified description for the 'Digital Marketing Assistant' role, omitting details about SEO optimization and newsletter campaigns. Additionally, the 'List of personal interests' is significantly reduced, omitting specific interests in fashion, consumer trends, and contemporary art exhibitions.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 15",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the 'List of studies' by changing the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022' and altered the field from 'Economics & Social Sciences' to 'not found'. Additionally, the 'List of personal interests' has been significantly reduced, omitting details about the Instagram portfolio and specific interests in fashion, consumer trends, and contemporary art exhibitions.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in professional experiences and personal interests. Additionally, the field and country or city information for studies are marked as 'not found'.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 16",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in professional experiences and personal interests. Additionally, the field and country or city information for studies are marked as 'not found'.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 17",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the 'List of studies' by changing the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022' and altered the field from 'Economics & Social Sciences' to 'not found'. Additionally, the 'List of personal interests' has been reduced, omitting specific interests such as 'Personal Instagram portfolio focused on lifestyle and travel photography' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions'.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in professional experiences and personal interests. Additionally, the field and country or city information for studies are missing.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 18",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change. Additionally, the 'Extraction' variant has simplified the descriptions in both professional experiences and personal interests, which may lead to loss of detail but does not constitute an error under the audit rules.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits detailed descriptions in professional experiences and personal interests. Additionally, the field and country or city information for studies are marked as 'not found'.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 19",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has modified the dates for the 'French Baccalauréat' from '2022' to '2021 - 2022', which is a non-overlapping, incompatible date change. Additionally, the 'Extraction' variant has reduced the detail in the descriptions of professional experiences and personal interests, which affects the semantic inclusion.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 20",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Extraction' variant has omitted details in the job descriptions and modified the degree level for Lycée Thiers from 'French Baccalauréat' to 'Baccalauréat (Economics)'. Additionally, the company name for the second professional experience is missing.",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits specific details such as the company name for the second professional experience, detailed descriptions of job responsibilities, and the field of study for both educational entries. Additionally, the personal interests are less detailed compared to the 'Original'.",
         "reference_used": "Sarah"
     },
     {
@@ -2419,8 +2419,8 @@
         "cv_id": "Sarah 23",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.' from the 'List of personal interests'.",
+        "error_type": "Modification",
+        "details": "The company name 'E-commerce Startup' was modified to 'E-commerce'. The field 'Business Administration' was marked as 'not found'. The personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' is missing.",
         "reference_used": "Sarah"
     },
     {
@@ -2428,7 +2428,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the company name for the 'Digital Marketing Assistant' role and the detailed personal interests related to 'Personal Instagram portfolio focused on lifestyle and travel photography' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.'",
+        "details": "The 'Extraction' variant is missing the company name for the 'Digital Marketing Assistant' role and the field of study for both educational entries. Additionally, the personal interests list is incomplete, missing the detailed descriptions found in the 'Original'.",
         "reference_used": "Sarah"
     },
     {
@@ -2436,23 +2436,23 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest detail: 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.'",
+        "details": "The 'Extraction' is missing the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'Original'.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 26",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.' from the 'List of personal interests'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 27",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
@@ -2468,23 +2468,23 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'Original' variant.",
+        "details": "The 'Extraction' variant omits the 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'List of personal interests'.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 30",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.' from the 'List of personal interests'. Additionally, the 'field' for the first study entry is marked as 'not found', and 'country or city' is missing for both study entries.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 31",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits the field 'Business Administration' for the first study entry and the 'country or city' for both study entries. Additionally, the 'List of personal interests' is incomplete, missing detailed descriptions present in the 'Original'.",
         "reference_used": "Sarah"
     },
     {
@@ -2497,18 +2497,18 @@
     },
     {
         "cv_id": "Sarah 33",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' and the 'country or city' for the studies entries.",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 34",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant is missing the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
@@ -2516,19 +2516,11 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing the company name 'E-commerce Startup' for the 'Digital Marketing Assistant (Part-time)' role. Additionally, the 'List of personal interests' in the 'Extraction' is missing the 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.'",
+        "details": "The 'Extraction' is missing the company name for the 'Digital Marketing Assistant' role and the field of study for both educational entries. Additionally, the 'List of personal interests' is missing the 'Personal Instagram portfolio focused on lifestyle and travel photography' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.'",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 36",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.' from the 'Original' variant.",
-        "reference_used": "Sarah"
-    },
-    {
-        "cv_id": "Sarah 37",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
@@ -2536,19 +2528,27 @@
         "reference_used": "Sarah"
     },
     {
-        "cv_id": "Sarah 38",
+        "cv_id": "Sarah 37",
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the detailed description of personal interests related to 'Personal Instagram portfolio focused on lifestyle and travel photography' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions.'",
+        "details": "The 'Extraction' variant omits the personal interest 'Personal Instagram portfolio focused on lifestyle and travel photography.' from the 'Original' variant.",
+        "reference_used": "Sarah"
+    },
+    {
+        "cv_id": "Sarah 38",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
         "cv_id": "Sarah 39",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits details from the 'List of personal interests', specifically the 'Personal Instagram portfolio focused on lifestyle and travel photography' and 'Strong interest in fashion, consumer trends, and contemporary art exhibitions'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
@@ -2729,10 +2729,10 @@
     },
     {
         "cv_id": "Thomasg 22",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the interest 'Active member of startup communities and innovation events.' from the 'List of personal interests'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "ThomasG"
     },
     {
@@ -2761,10 +2761,10 @@
     },
     {
         "cv_id": "Thomasg 26",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the field 'Business Economics and Management' for the first study entry and the 'country or city' for the same entry. Additionally, the 'List of personal interests' in the 'Extraction' is missing the interest 'Active member of startup communities and innovation events.'",
         "reference_used": "ThomasG"
     },
     {
@@ -2785,10 +2785,10 @@
     },
     {
         "cv_id": "Thomasg 29",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' is missing the 'Active member of startup communities and innovation events.' from the 'List of personal interests'. Additionally, the 'country or city' field is marked as 'not found' for the studies, which is an omission of 'Nantes, France'.",
         "reference_used": "ThomasG"
     },
     {
@@ -2852,7 +2852,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Extraction' is missing the 'French Baccalauréat' from Lycée Clémenceau in the 'List of studies'. Additionally, the 'List of personal interests' in the 'Extraction' is missing 'Active member of startup communities and innovation events.'",
+        "details": "The 'Extraction' is missing the second educational entry from the 'Original' which includes the French Baccalauréat from Lycée Clémenceau. Additionally, the 'Extraction' does not include the full list of personal interests, omitting 'Active member of startup communities and innovation events.'",
         "reference_used": "ThomasG"
     },
     {
@@ -2865,10 +2865,10 @@
     },
     {
         "cv_id": "Thomasg 39",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits the personal interest 'Active member of startup communities and innovation events.' from the 'Original' variant.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "ThomasG"
     },
     {
@@ -2993,18 +2993,18 @@
     },
     {
         "cv_id": "Thomasl 15",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant has a missing company name for the freelance experience and a modified university name. Additionally, the personal interests are generalized without specific details present in the 'Original'.",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 16",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant has modified company names and omitted specific details in descriptions. The company 'PayFast Fintech' is altered to ''PayFast' FinTech', and the 'Freelance / Self-employed' role is marked as 'not found'. Additionally, the detailed descriptions of tasks and achievements are simplified, losing specific information such as 'Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week)' and 'Full client relationship management: Briefing, quoting, and invoicing'. The 'List of studies' field has a modification in the university name and lacks the 'country or city' information. The 'List of personal interests' is overly generalized, omitting specific activities and achievements.",
         "reference_used": "ThomasL"
     },
     {
@@ -3017,42 +3017,42 @@
     },
     {
         "cv_id": "Thomasl 18",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits specific details from the 'Original' variant, such as the full description of professional experiences and personal interests. Additionally, the 'Extraction' variant does not include the field of study and the country or city for the studies section.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 19",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Extraction' variant omits specific details from the 'Original' variant, such as the full description of professional experiences and personal interests. Additionally, the 'Extraction' lists 'not found' for the field of study and country or city in the education section, which are present in the 'Original'.",
+        "error_type": "Modification",
+        "details": "The 'Extraction' variant has modified company names and omitted specific details in descriptions. The company 'PayFast Fintech' is altered to ''PayFast' FinTech', and the 'Freelance / Self-employed' role is marked as 'not found'. Additionally, the detailed descriptions of tasks and achievements are simplified or partially omitted. The 'List of studies' includes an additional institution 'École du Web, Lyon' not present in the 'Original'. The 'List of personal interests' is significantly reduced, omitting specific activities and achievements.",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 20",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Extraction' variant omits specific details from the 'Original' variant, such as the full description of professional experiences and personal interests. Additionally, the company name for the freelance role is marked as 'not found', and the field of study is missing.",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 21",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Modification",
-        "details": "The company name 'PayFast Fintech' was modified to 'PayFast Paris'. The dates for the freelance role were changed from '2024 - Present' to 'Jan 2024 - Jan 2026'. The field of study 'Digital Project Management' was marked as 'not found'.",
-        "reference_used": "ThomasL"
-    },
-    {
-        "cv_id": "Thomasl 22",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent",
+        "reference_used": "ThomasL"
+    },
+    {
+        "cv_id": "Thomasl 22",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were modified from '2024 - 2026' to 'Jan 2024 - Jan 2026'. The field of study 'Digital Project Management' was marked as 'not found'. The university was expanded to 'IUT Lyon 1 / École du Web'. The list of personal interests was simplified, losing specific details.",
         "reference_used": "ThomasL"
     },
     {
@@ -3068,19 +3068,11 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were changed from '2024 - Present' to 'Jan 2024 - Jan 2026'. The university was expanded from 'IUT Lyon 1' to 'IUT Lyon 1 / École du Web'.",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were modified from '2024 - 2026' to 'Jan 2024 - Jan 2026'. The field of study 'Digital Project Management' was marked as 'not found'. The university was expanded to 'IUT Lyon 1 / École du Web'.",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 25",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Modification",
-        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were changed from '2024 - Present' to 'Jan 2024 - Jan 2026'. The university name was expanded to include 'École du Web, Lyon', and the field of study was marked as 'not found'. The personal interests were simplified, losing specific details.",
-        "reference_used": "ThomasL"
-    },
-    {
-        "cv_id": "Thomasl 26",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
@@ -3088,11 +3080,19 @@
         "reference_used": "ThomasL"
     },
     {
-        "cv_id": "Thomasl 27",
+        "cv_id": "Thomasl 26",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were changed from '2024 - Present' to 'Jan 2024 - Jan 2026', which is a temporal modification. The university name 'IUT Lyon 1' was expanded to 'IUT Lyon 1 / École du Web', which is a modification. The field of study 'Digital Project Management' was marked as 'not found'.",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The field 'Digital Project Management' was marked as 'not found'. The university 'IUT Lyon 1' was expanded to include 'École du Web'. The personal interest 'Tech : Tech Blogger (AI and NoCode) - 1k monthly visitors.' was omitted.",
+        "reference_used": "ThomasL"
+    },
+    {
+        "cv_id": "Thomasl 27",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "ThomasL"
     },
     {
@@ -3113,10 +3113,10 @@
     },
     {
         "cv_id": "Thomasl 30",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were modified from '2024 - 2026' to 'Jan 2024 - Jan 2026'. The field of study 'Digital Project Management' was marked as 'not found'. The university was expanded to 'IUT Lyon 1/ École du Web, Lyon'.",
         "reference_used": "ThomasL"
     },
     {
@@ -3129,10 +3129,10 @@
     },
     {
         "cv_id": "Thomasl 32",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were modified from '2024 - 2026' to 'Jan 2024 - Jan 2026'. The field of study 'Digital Project Management' was marked as 'not found'. The university name was expanded to include 'École du Web at Lyon'. The country or city for studies was marked as 'not found'. Personal interests were truncated.",
         "reference_used": "ThomasL"
     },
     {
@@ -3145,10 +3145,10 @@
     },
     {
         "cv_id": "Thomasl 34",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The field 'Digital Project Management' was marked as 'not found'. The university 'IUT Lyon 1' was expanded to 'IUT Lyon 1 / École du Web, Lyon'.",
         "reference_used": "ThomasL"
     },
     {
@@ -3161,10 +3161,10 @@
     },
     {
         "cv_id": "Thomasl 36",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The company name 'PayFast Fintech' was modified to 'PayFast'. The dates for the freelance experience were changed from '2024 - Present' to 'Jan 2024 - Jan 2026'. The university name was expanded from 'IUT Lyon 1' to 'IUT Lyon 1 / École du Web'. The field of study 'Digital Project Management' was marked as 'not found'. The list of personal interests was simplified, losing specific details.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "ThomasL"
     },
     {
