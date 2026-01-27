@@ -197,7 +197,7 @@ if __name__ == "__main__":
 
     analyseur = AnalyseExtraction()
     analyseur.comparer_fichiers_directs(
-        os.path.join(BASE_DIR, "Audit_forme/real_cv.json"),
+        os.path.join(BASE_DIR, "Audit_forme/new_real_cv.json"),
         os.path.join(BASE_DIR, "Audit_forme/output.json"),
         os.path.join(BASE_DIR, "Audit_forme/rapport_analyse.json")
     )
