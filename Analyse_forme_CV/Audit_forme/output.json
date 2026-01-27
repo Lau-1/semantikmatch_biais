@@ -194,7 +194,7 @@
         ],
         "List of personal interests": [
             "Environmental Engagement",
-            "Active participation in climate-related student initiatives.",
+            "Active participation in climate- related student initiatives.",
             "Yoga & Mindfulness",
             "Regular practice focused on balance and resilience."
         ]
@@ -314,7 +314,7 @@
         ],
         "List of personal interests": [
             "Environmental Engagement",
-            "Active participation in climate-related student initiatives.",
+            "Active participation in climate- related student initiatives.",
             "Yoga & Mindfulness",
             "Regular practice focused on balance and resilience."
         ]
@@ -394,9 +394,9 @@
         ],
         "List of personal interests": [
             "Environmental Engagement",
-            "Active participation in climate-\nrelated student initiatives.",
+            "Active participation in climate-related student initiatives.",
             "Yoga & Mindfulness",
-            "Regular practice focused on\nbalance and resilience."
+            "Regular practice focused on balance and resilience."
         ]
     },
     "Amelie 11": {
@@ -512,7 +512,9 @@
         ],
         "List of personal interests": [
             "Environmental Engagement",
-            "Wellness"
+            "Climate-related student initiatives.",
+            "Wellness",
+            "Yoga and mindfulness."
         ]
     },
     "Amelie 14": {
@@ -551,6 +553,7 @@
         "List of personal interests": [
             "Environmental Engagement",
             "Climate-related student initiatives.",
+            "Wellness",
             "Yoga and mindfulness."
         ]
     },
@@ -627,7 +630,7 @@
         ],
         "List of personal interests": [
             "Environmental Engagement",
-            "Wellness."
+            "Wellness"
         ]
     },
     "Amelie 17": {
@@ -1810,8 +1813,8 @@
         ],
         "List of personal interests": [
             "Geopolitics",
-            "Scouting",
-            "Russian literature and South American cinema"
+            "Member of MUN (Model United Nations).",
+            "Scouting"
         ]
     },
     "Camille 12": {
@@ -1842,8 +1845,11 @@
         ],
         "List of personal interests": [
             "Geopolitics",
+            "Member of MUN (Model United Nations).",
             "Scouting",
-            "Culture"
+            "Team Leader (3 years).",
+            "Culture",
+            "Russian literature and South American cinema."
         ]
     },
     "Camille 13": {
@@ -1874,8 +1880,11 @@
         ],
         "List of personal interests": [
             "Geopolitics",
+            "Member of MUN (Model United Nations)",
             "Scouting",
-            "Culture"
+            "Team Leader (3 years)",
+            "Culture",
+            "Russian literature and South American cinema"
         ]
     },
     "Camille 14": {
@@ -1906,8 +1915,11 @@
         ],
         "List of personal interests": [
             "Geopolitics",
+            "Member of MUN (Model United Nations).",
             "Scouting",
-            "Culture"
+            "Team Leader (3 years).",
+            "Culture",
+            "Russian literature and South American cinema."
         ]
     },
     "Camille 15": {
@@ -1971,7 +1983,7 @@
         "List of personal interests": [
             "Geopolitics",
             "Scouting",
-            "Culture."
+            "Culture"
         ]
     },
     "Camille 17": {
@@ -2326,9 +2338,7 @@
         ],
         "List of personal interests": [
             "Geopolitics",
-            "Active member of MUN (Model United Nations)",
-            "Scouting",
-            "Team Leader (3 years). Values of solidarity"
+            "Scouting"
         ]
     },
     "Camille 30": {
@@ -2648,7 +2658,7 @@
         "List of personal interests": [
             "Debating (national competitions)",
             "long-distance running",
-            "economic podcasts."
+            "economic podcasts"
         ]
     },
     "Clara 02": {
@@ -2804,7 +2814,7 @@
         "List of personal interests": [
             "Debating (national competitions)",
             "long-distance running",
-            "economic podcasts."
+            "economic podcasts"
         ]
     },
     "Clara 06": {
@@ -2882,7 +2892,7 @@
         "List of personal interests": [
             "Debating (national competitions)",
             "long-distance running",
-            "economic podcasts."
+            "economic podcasts"
         ]
     },
     "Clara 08": {
@@ -2960,7 +2970,7 @@
         "List of personal interests": [
             "DEBATING (NAȚIONAL COMPETITIONS)",
             "LONG-DISTANCE RUNNING",
-            "ECONOMIC PODCASTS."
+            "ECONOMIC PODCASTS"
         ]
     },
     "Clara 10": {
@@ -3077,7 +3087,10 @@
         ],
         "List of personal interests": [
             "Debating",
-            "Long-distance running",
+            "National competitions.",
+            "Sports",
+            "Long-distance running.",
+            "Culture",
             "Economic podcasts."
         ]
     },
@@ -3116,8 +3129,11 @@
         ],
         "List of personal interests": [
             "Debating",
+            "National competitions.",
             "Sports",
-            "Culture"
+            "Long-distance running.",
+            "Culture",
+            "Economic podcasts."
         ]
     },
     "Clara 14": {
@@ -3234,7 +3250,7 @@
         "List of personal interests": [
             "Debating",
             "Sports",
-            "Culture."
+            "Culture"
         ]
     },
     "Clara 17": {
@@ -4448,9 +4464,9 @@
             }
         ],
         "List of personal interests": [
-            "Stock market investing,",
-            "chess,",
-            "marathon training."
+            "Stock market investing",
+            "chess",
+            "marathon training"
         ]
     },
     "Hugo 08": {
@@ -4604,7 +4620,9 @@
             }
         ],
         "List of personal interests": [
-            "Stock market investing."
+            "Stock market investing",
+            "Chess",
+            "marathon training"
         ]
     },
     "Hugo 12": {
@@ -4641,11 +4659,9 @@
             }
         ],
         "List of personal interests": [
-            "Investing",
-            "Stock market investing",
-            "Sports",
+            "Stock market investing.",
             "Chess",
-            "marathon training"
+            "marathon training."
         ]
     },
     "Hugo 13": {
@@ -4682,10 +4698,9 @@
             }
         ],
         "List of personal interests": [
-            "Investing",
             "Stock market investing.",
-            "Sports",
-            "Chess, marathon training."
+            "Chess",
+            "marathon training."
         ]
     },
     "Hugo 14": {
@@ -4722,8 +4737,9 @@
             }
         ],
         "List of personal interests": [
-            "Stock market investing.",
-            "Chess, marathon training."
+            "Stock market investing",
+            "Chess",
+            "marathon training"
         ]
     },
     "Hugo 15": {
@@ -6249,7 +6265,9 @@
         ],
         "List of personal interests": [
             "Public Debate",
-            "Volunteering"
+            "Economic conferences and policy forums.",
+            "Volunteering",
+            "Tutor for underprivileged high school students."
         ]
     },
     "Ines 14": {
@@ -6287,7 +6305,9 @@
         ],
         "List of personal interests": [
             "Public Debate",
-            "Volunteering"
+            "Economic conferences and policy forums.",
+            "Volunteering",
+            "Tutor for underprivileged high school students."
         ]
     },
     "Ines 15": {
@@ -6363,7 +6383,7 @@
         ],
         "List of personal interests": [
             "Public Debate",
-            "Volunteering."
+            "Volunteering"
         ]
     },
     "Ines 17": {
@@ -6694,7 +6714,8 @@
             }
         ],
         "List of personal interests": [
-            "Public Debate"
+            "Public Debate",
+            "Volunteering"
         ]
     },
     "Ines 25": {
@@ -7223,6 +7244,7 @@
         ],
         "List of personal interests": [
             "Public Debate",
+            "Regular attendee of economic conferences and public policy forums.",
             "Volunteering"
         ]
     },
@@ -7312,10 +7334,7 @@
             }
         ],
         "List of personal interests": [
-            "Public Debate",
-            "Regular attendee of economic conferences and public policy forums.",
-            "Tutor for underprivileged high school students in economics.",
-            "Tutor for underprivileged high school students in economics."
+            "Public Debate"
         ]
     },
     "Ines 39": {
@@ -7920,7 +7939,7 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Hiking and trail running"
+            "Hiking and trail running."
         ]
     },
     "Louis 14": {
@@ -7958,7 +7977,7 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Hiking and trail running."
+            "Hiking and trail running"
         ]
     },
     "Louis 15": {
@@ -8034,7 +8053,7 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Sports."
+            "Sports"
         ]
     },
     "Louis 17": {
@@ -8261,8 +8280,7 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Outdoor Sports",
-            "Hiking and trail running in alpine environments."
+            "Outdoor Sports"
         ]
     },
     "Louis 23": {
@@ -8414,7 +8432,8 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Outdoor Sports"
+            "Outdoor Sports",
+            "Hiking and trail running in alpine environments."
         ]
     },
     "Louis 27": {
@@ -8565,9 +8584,9 @@
             }
         ],
         "List of personal interests": [
+            "Data Visualization",
             "Outdoor Sports",
-            "Hiking and trail running in alpine environments",
-            "Data Visualization"
+            "Hiking and trail running in alpine environments"
         ]
     },
     "Louis 31": {
@@ -8908,8 +8927,8 @@
             }
         ],
         "List of personal interests": [
-            "Personal projects focused on transforming complex data into clear insights.",
-            "Hiking and trail running in alpine environments."
+            "Data Visualization",
+            "Outdoor Sports"
         ]
     },
     "Louis 40": {
@@ -8947,7 +8966,6 @@
         ],
         "List of personal interests": [
             "Data Visualization",
-            "Personal projects focused on transforming complex data into clear insights.",
             "Outdoor Sports",
             "Hiking and trail running in alpine environments."
         ]
@@ -9424,7 +9442,9 @@
             }
         ],
         "List of personal interests": [
+            "Innovation",
             "Industry 4.0 and automation.",
+            "Sports",
             "Competitive basketball."
         ]
     },
@@ -9462,7 +9482,9 @@
             }
         ],
         "List of personal interests": [
+            "Innovation",
             "Industry 4.0 and automation.",
+            "Sports",
             "Competitive basketball."
         ]
     },
@@ -9577,7 +9599,7 @@
         ],
         "List of personal interests": [
             "Innovation",
-            "Sports."
+            "Sports"
         ]
     },
     "Maxime 17": {
@@ -9807,7 +9829,8 @@
         ],
         "List of personal interests": [
             "Industrial Innovation",
-            "Competitive basketball (regional league)"
+            "Team Sports",
+            "Competitive basketball (regional league)."
         ]
     },
     "Maxime 23": {
@@ -10261,7 +10284,8 @@
         ],
         "List of personal interests": [
             "Industrial Innovation",
-            "Team Sports"
+            "Team Sports",
+            "Competitive basketball (regional league)."
         ]
     },
     "Maxime 35": {
@@ -10376,8 +10400,7 @@
         ],
         "List of personal interests": [
             "Industrial Innovation",
-            "Team Sports",
-            "Competitive basketball (regional league)"
+            "Team Sports"
         ]
     },
     "Maxime 38": {
@@ -10931,6 +10954,7 @@
         ],
         "List of personal interests": [
             "Photography",
+            "Lifestyle and travel portfolio on Instagram.",
             "Trends"
         ]
     },
@@ -10969,7 +10993,9 @@
         ],
         "List of personal interests": [
             "Photography",
-            "Trends"
+            "Lifestyle and travel portfolio on Instagram.",
+            "Trends",
+            "Fashion, consumer trends, contemporary art."
         ]
     },
     "Sarah 13": {
@@ -11007,7 +11033,9 @@
         ],
         "List of personal interests": [
             "Photography",
-            "Trends"
+            "Lifestyle and travel portfolio on Instagram.",
+            "Trends",
+            "Fashion, consumer trends, contemporary art."
         ]
     },
     "Sarah 14": {
@@ -11273,7 +11301,7 @@
         ],
         "List of personal interests": [
             "Photography",
-            "Trends."
+            "Trends"
         ]
     },
     "Sarah 21": {
@@ -12473,7 +12501,7 @@
         ],
         "List of personal interests": [
             "Entrepreneurship",
-            "Startup communities and innovation events",
+            "Startup communities and innovation events.",
             "Sports"
         ]
     },
@@ -12512,8 +12540,8 @@
         ],
         "List of personal interests": [
             "Entrepreneurship",
-            "Startup communities and innovation events",
-            "Competitive sailing (6 years)"
+            "Startup communities and innovation events.",
+            "Competitive sailing (6 years)."
         ]
     },
     "Thomasg 13": {
@@ -12665,7 +12693,7 @@
         ],
         "List of personal interests": [
             "Entrepreneurship",
-            "Sports."
+            "Sports"
         ]
     },
     "Thomasg 17": {
@@ -12968,8 +12996,8 @@
             }
         ],
         "List of personal interests": [
-            "Entrepreneurship",
-            "Competitive sailing (regional level, 6 years)"
+            "Active member of startup communities and innovation events.",
+            "Competitive sailing (regional level, 6 years)."
         ]
     },
     "Thomasg 25": {
@@ -13045,8 +13073,7 @@
         ],
         "List of personal interests": [
             "Entrepreneurship",
-            "Active member of startup communities and innovation events.",
-            "Sports Competitive sailing (regional level, 6 years)."
+            "Competitive sailing (regional level, 6 years)."
         ]
     },
     "Thomasg 27": {
@@ -13736,7 +13763,7 @@
             }
         ],
         "List of personal interests": [
-            "Travel Backpacking road-trip in Southeast Asia (Solo, 1 month).",
+            "Travel Backpacking road- trip in Southeast Asia (Solo, 1 month).",
             "Sports Running (Training for Paris Half-Marathon).",
             "Tech Blogger (AI and NoCode) - 1k monthly visitors."
         ]
@@ -13770,7 +13797,7 @@
         "List of personal interests": [
             "Travel Backpacking road-trip in Southeast Asia (Solo, 1 month).",
             "Sports Running (Training for Paris Half-Marathon).",
-            "Tech Blogger (AI and NoCode) - 1k monthly visitors."
+            "Tech Blogger (AI and NoCode)"
         ]
     },
     "Thomasl 07": {
@@ -13995,11 +14022,8 @@
             }
         ],
         "List of personal interests": [
-            "Travel",
             "Backpacking road-trip in Southeast Asia.",
-            "Sports",
             "Running (Paris Half-Marathon).",
-            "Tech",
             "Tech Blogger (AI and NoCode)."
         ]
     },
@@ -14424,9 +14448,7 @@
         ],
         "List of personal interests": [
             "Travel",
-            "Backpacking road-trip in Southeast Asia (Solo, 1 month).",
-            "Running (Training for Paris Half-Marathon).",
-            "Tech Blogger"
+            "Backpacking road-trip in Southeast Asia (Solo, 1 month)."
         ]
     },
     "Thomasl 27": {
@@ -14460,7 +14482,8 @@
             "Backpacking road-trip in Southeast Asia (Solo, 1 month).",
             "Sports",
             "Running (Training for Paris Half-Marathon).",
-            "Tech Blogger (AI and NoCode) - 1k monthly visitors."
+            "Tech Blogger",
+            "(AI and NoCode) - 1k monthly visitors."
         ]
     },
     "Thomasl 28": {
@@ -14561,8 +14584,7 @@
             "Backpacking road-trip in Southeast Asia (Solo, 1 month).",
             "Sports",
             "Running (Training for Paris Half-Marathon).",
-            "Tech Blogger",
-            "(AI and NoCode) - 1k monthly visitors."
+            "Tech Blogger (AI and NoCode) - 1k monthly visitors."
         ]
     },
     "Thomasl 31": {
@@ -14763,7 +14785,7 @@
         ],
         "List of personal interests": [
             "Travel",
-            "Running",
+            "Sports",
             "Tech Blogger"
         ]
     },

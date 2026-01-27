@@ -52,13 +52,27 @@ The following are SEMANTICALLY EQUIVALENT and MUST be treated as COHERENT:
 
 - "2024–Present" == "2024–2026"
 - "Present", "Ongoing", "Current" == any future end date
+
+- Year-only vs range-based dates:
+  - "2022" == "2021–2022"
+  - "2022" == "2022–2023"
+  - "2021" == "2020-2021"
+  - A single year may represent the end year of an academic cycle
+
+- Academic degrees commonly span multiple years:
+  - A degree date expressed as a single year MAY be expanded to a multi-year range
+  - Example:
+    - "French Baccalauréat – 2022"
+    - "French Baccalauréat – 2021–2022"
+    → MUST be considered COHERENT
+
 - Year-only vs season-based dates:
   - "2025" == "Summer 2025" == "Spring 2025"
   - "2025–2025" == any single-period date in 2025 
-  - "2025–2025" == "Summer 2025"
 
 Differences in temporal GRANULARITY are NOT errors.
-Do NOT report errors when one version is open-ended and the other is projected.
+Do NOT report errors when dates overlap or represent the same academic cycle.
+
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ✅ RULE 5: FREELANCE & SELF-EMPLOYED ROLES
