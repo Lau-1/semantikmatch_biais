@@ -531,8 +531,9 @@ LISTE_CANDIDATS = [
             {"title": "French", "desc": "Native"}
         ],
         "interests": [
-            {"title": "Investing", "desc": "Stock market investing."},
-            {"title": "Sports", "desc": "Chess, marathon training."}
+            {"title": "Stock market investing", "desc": ""},
+            {"title": "Chess", "desc": ""},
+            {"title": "Marathon training", "desc": ""}
         ]
     },
 
@@ -568,7 +569,7 @@ LISTE_CANDIDATS = [
                 "fd": "1", "fm": "9", "fy": "2022", "td": "1", "tm": "6", "ty": "2025"
             },
             {
-                "title": "Baccalauréat (Economics)", "org": "Lycée Thiers", "city": "Marseille", "country": "France",
+                "title": "Baccalauréat (Economics & Social Sciences)", "org": "Lycée Thiers", "city": "Marseille", "country": "France",
                 "fd": "1", "fm": "9", "fy": "2021", "td": "1", "tm": "6", "ty": "2022"
             }
         ],
@@ -768,7 +769,7 @@ LISTE_CANDIDATS = [
                 "fd": "1", "fm": "9", "fy": "2022", "td": "1", "tm": "6", "ty": "2025"
             },
             {
-                "title": "Baccalauréat (Economics)", "org": "Lycée Louis-le-Grand", "city": "Paris", "country": "France",
+                "title": "Baccalauréat (Economics & Sciences)", "org": "Lycée Louis-le-Grand", "city": "Paris", "country": "France",
                 "fd": "1", "fm": "9", "fy": "2021", "td": "1", "tm": "6", "ty": "2022"
             }
         ],
