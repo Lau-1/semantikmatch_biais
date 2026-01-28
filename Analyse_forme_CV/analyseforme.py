@@ -61,14 +61,18 @@ The following are SEMANTICALLY EQUIVALENT and MUST be treated as COHERENT:
 
 - Academic degrees commonly span multiple years:
   - A degree date expressed as a single year MAY be expanded to a multi-year range
-  - Example:
+  - Examples:
     - "French Baccalauréat – 2022"
     - "French Baccalauréat – 2021–2022"
+    → MUST be considered COHERENT
+    - "French Baccalauréat – 2022"
+    - "French Baccalauréat – 2021 – 2022"
     → MUST be considered COHERENT
 
 - Year-only vs season-based dates:
   - "2025" == "Summer 2025" == "Spring 2025"
   - "2025–2025" == any single-period date in 2025 
+  - '2024 - 2026' == 'Jan 2024 - Jan 2026'
 
 Differences in temporal GRANULARITY are NOT errors.
 Do NOT report errors when dates overlap or represent the same academic cycle.
@@ -80,6 +84,28 @@ Do NOT report errors when dates overlap or represent the same academic cycle.
 - Company is OPTIONAL
 - Client-based descriptions are sufficient
 - Absence of Company MUST NOT be considered an error
+
+━━━━━━━━━━━━━━━━━━━━━━
+✅ RULE 6: VOLUNTEERING & COMMUNITY ACTIVITIES
+━━━━━━━━━━━━━━━━━━━━━━
+- Volunteering, community engagement, non-profit involvement, or civic activities
+  may appear EITHER in:
+  - Professional Experience
+  - Personal Interests / Hobbies
+  - Extra-curricular Activities
+
+- Presence of the SAME volunteering activity in ANY of these sections
+  MUST be considered COHERENT, regardless of placement.
+
+- Reclassification between "Interest" and "Professional / Volunteer Experience"
+  is NOT an error as long as:
+  - The core activity exists
+  - The organization or activity intent is preserved
+
+- Absence from one section is acceptable if present in another.
+
+- Volunteering activities MUST NOT be flagged as missing core records
+  solely due to section placement differences.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ❌ ONLY REPORT THESE AS ERRORS

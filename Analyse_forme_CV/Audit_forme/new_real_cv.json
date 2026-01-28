@@ -33,9 +33,9 @@
             }
         ],
         "List of personal interests": [
-            "Debating (national competitions)",
-            "Long-distance running",
-            "Economics podcasts"
+            {"title": "Debating (national competitions)", "desc": "not found"},
+            {"title": "Long-distance running", "desc": "not found"},
+            {"title": "Economics podcasts", "desc": "not found"}
         ]
     },
 
@@ -73,9 +73,9 @@
             }
         ],
         "List of personal interests": [
-            "Stock market investing",
-            "Chess",
-            "Marathon training"
+            {"title": "Stock market investing", "desc": "not found"},
+            {"title": "Chess", "desc": "not found"},
+            {"title": "Marathon training", "desc": "not found"}
         ]
     },
 
@@ -113,10 +113,8 @@
             }
         ],
         "List of personal interests": [
-            "Photography",
-            "Personal Instagram portfolio focused on lifestyle and travel photography.",
-            "Cultural Trends",
-            "Strong interest in fashion, consumer trends, and contemporary art exhibitions."
+            {"title": "Photography", "desc": "Personal Instagram portfolio focused on lifestyle and travel photography."},
+            {"title": "Cultural Trends", "desc": "Strong interest in fashion, consumer trends, and contemporary art exhibitions."}
         ]
     },
 
@@ -154,10 +152,8 @@
             }
         ],
         "List of personal interests": [
-            "Entrepreneurship",
-            "Active member of startup communities and innovation events.",
-            "Sports",
-            "Competitive sailing (regional level, 6 years)."
+            {"title": "Entrepreneurship", "desc": "Active member of startup communities and innovation events."},
+            {"title": "Sports", "desc": "Competitive sailing (regional level, 6 years)."}
         ]
     },
     "Ines": {
@@ -201,10 +197,8 @@
             }
         ],
         "List of personal interests": [
-            "Public Debate",
-            "Regular attendee of economic conferences and public policy forums.",
-            "Volunteering",
-            "Tutor for underprivileged high school students in economics."
+            {"title": "Public Debate", "desc": "Regular attendee of economic conferences and public policy forums."},
+            {"title": "Volunteering", "desc": "Tutor for underprivileged high school students in economics."}
         ]
     },
 
@@ -242,10 +236,8 @@
             }
         ],
         "List of personal interests": [
-            "Data Visualization",
-            "Personal projects focused on transforming complex data into clear insights.",
-            "Outdoor Sports",
-            "Hiking and trail running in alpine environments."
+            {"title": "Data Visualization", "desc": "Personal projects focused on transforming complex data into clear insights."},
+            {"title": "Outdoor Sports", "desc": "Hiking and trail running in alpine environments."}
         ]
     },
     "Amelie": {
@@ -282,10 +274,8 @@
             }
         ],
         "List of personal interests": [
-            "Environmental Engagement",
-            "Active participation in climate-related student initiatives.",
-            "Yoga & Mindfulness",
-            "Regular practice focused on balance and resilience."
+            {"title": "Environmental Engagement", "desc": "Active participation in climate-related student initiatives."},
+            {"title": "Yoga & Mindfulness", "desc": "Regular practice focused on balance and resilience."}
         ]
     },
 
@@ -323,10 +313,8 @@
             }
         ],
         "List of personal interests": [
-            "Industrial Innovation",
-            "Strong interest in Industry 4.0 and automation technologies.",
-            "Team Sports",
-            "Competitive basketball (regional league)."
+            {"title": "Industrial Innovation", "desc": "Strong interest in Industry 4.0 and automation technologies."},
+            {"title": "Team Sports", "desc": "Competitive basketball (regional league)."}
         ]
     },
 
@@ -357,9 +345,9 @@
             }
         ],
         "List of personal interests": [
-            "Travel : Backpacking road-trip in Southeast Asia (Solo, 1 month).",
-            "Sports : Running (Training for Paris Half-Marathon).",
-            "Tech : Tech Blogger (AI and NoCode) - 1k monthly visitors."
+            {"title": "Travel", "desc": "Backpacking road-trip in Southeast Asia (Solo, 1 month)."},
+            {"title": "Sports", "desc": "Running (Training for Paris Half-Marathon)."},
+            {"title": "Tech", "desc": "Tech Blogger (AI and NoCode) - 1k monthly visitors."}
         ]
     },
     "Camille": {
@@ -396,9 +384,10 @@
             }
         ],
         "List of personal interests": [
-            "Geopolitics : Active member of MUN (Model United Nations).",
-            "Scouting : Team Leader (3 years). Values of solidarity.",
-            "Culture : Russian literature and South American cinema."
+            {"title": "Geopolitics", "desc": "Active member of MUN (Model United Nations)."},
+            {"title": "Scouting", "desc": "Team Leader (3 years). Values of solidarity."},
+            {"title": "Culture", "desc": "Russian literature and South American cinema."}
+    
         ]
     }
 }
