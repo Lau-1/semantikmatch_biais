@@ -1,4 +1,7 @@
 Personne,Variant,CV_ID,Type Erreur,Détails
-Amelie,11,Amelie 11,Modification,"The extraction modifies the dates for the Baccalauréat degree from '2022' to '1 SEP 2021 - 1 JUN 2022', which contradicts the reference. Additionally, the field of study for the Baccalauréat is specified as 'Economics' in the extraction, which is not present in the reference."
-Camille,11,Camille 11,Omission,"The 'International Exchange' at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction."
-Ines,11,Ines 11,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
+Amelie,11,Amelie 11,Modification,The dates for the French Baccalauréat at Lycée Louis-le-Grand are inconsistent. Reference lists '2022' while Extraction lists '1 SEP 2021 - 1 JUN 2022'.
+Camille,11,Camille 11,Omission,The 'International Exchange' at McGill University is missing from the Extraction.
+Clara,19,Clara 19,Modification,The 'List of studies' section contains a modification in the dates for the Baccalauréat. Reference lists '2022' while Extraction lists '2021 - 2022'.
+Thomasg,38,Thomasg 38,Omission,The 'List of studies' in Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in Reference.
+Thomasl,38,Thomasl 38,Omission,The 'Tech' personal interest is missing from the Extraction.
+Thomasl,39,Thomasl 39,Omission,The 'Sports' and 'Tech' personal interests are missing in the Extraction.

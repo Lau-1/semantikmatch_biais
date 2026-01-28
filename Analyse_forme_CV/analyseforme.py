@@ -40,7 +40,7 @@ If a human recruiter would consider the two data points as describing the same r
 ━━━━━━━━━━━━━━━━━━━━━━
 ✅ RULE 3: GEOGRAPHIC & ENTITY TOLERANCE
 ━━━━━━━━━━━━━━━━━━━━━━
-- SCALE: "Paris" == "Paris Area" == "France" (COHERENT).
+- SCALE: "Paris" == "Paris Area" == "Paris, France" (COHERENT).
 - COMPANY NAMES: Ignore legal suffixes (SA, PLC, SAS). "Google Ireland" == "Google".
 - FREELANCE: For self-employed roles, the 'Company' field may be empty or replaced by 'Freelance/Independent'. This is COHERENT.
 

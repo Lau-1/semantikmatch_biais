@@ -84,7 +84,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The extraction modifies the dates for the Baccalauréat degree from '2022' to '1 SEP 2021 - 1 JUN 2022', which contradicts the reference. Additionally, the field of study for the Baccalauréat is specified as 'Economics' in the extraction, which is not present in the reference.",
+        "details": "The dates for the French Baccalauréat at Lycée Louis-le-Grand are inconsistent. Reference lists '2022' while Extraction lists '1 SEP 2021 - 1 JUN 2022'.",
         "reference_used": "Amelie"
     },
     {
@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'International Exchange' at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction.",
+        "details": "The 'International Exchange' at McGill University is missing from the Extraction.",
         "reference_used": "Camille"
     },
     {
@@ -785,10 +785,10 @@
     },
     {
         "cv_id": "Clara 19",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'List of studies' section contains a modification in the dates for the Baccalauréat. Reference lists '2022' while Extraction lists '2021 - 2022'.",
         "reference_used": "Clara"
     },
     {
@@ -1361,10 +1361,10 @@
     },
     {
         "cv_id": "Ines 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -2315,8 +2315,8 @@
         "cv_id": "Sarah 10",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The company name for the 'Digital Marketing Assistant (Part-time)' role is missing in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
@@ -2499,8 +2499,8 @@
         "cv_id": "Sarah 33",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The company name for the 'Digital Marketing Assistant (Part-time)' role is missing in the Extraction.",
         "reference_used": "Sarah"
     },
     {
@@ -2857,10 +2857,10 @@
     },
     {
         "cv_id": "Thomasg 38",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'List of studies' in Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in Reference.",
         "reference_used": "ThomasG"
     },
     {
@@ -3177,18 +3177,18 @@
     },
     {
         "cv_id": "Thomasl 38",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Tech' personal interest is missing from the Extraction.",
         "reference_used": "ThomasL"
     },
     {
         "cv_id": "Thomasl 39",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Sports' and 'Tech' personal interests are missing in the Extraction.",
         "reference_used": "ThomasL"
     },
     {
