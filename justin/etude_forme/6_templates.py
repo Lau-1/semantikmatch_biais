@@ -53,7 +53,17 @@ def prepare_data(candidat):
     skills_list_items = "\n".join([f"\\item \\textbf{{{escape_tex(s['title'])}}}: {escape_tex(s['desc'])}" for s in candidat['skills']])
     lang_list_items = "\n".join([f"\\item \\textbf{{{escape_tex(l['title'])}}}: {escape_tex(l['desc'])}" for l in candidat['languages']])
 
-    interests_str = ", ".join([escape_tex(i['title']) for i in candidat['interests']]) + "."
+    interests_list = []
+    for i in candidat['interests']:
+        title = escape_tex(i['title'])
+        desc = escape_tex(i.get('desc', ''))
+        if desc:
+            interests_list.append(f"\\textbf{{{title}}} ({desc})")
+        else:
+            interests_list.append(f"\\textbf{{{title}}}")
+
+    interests_str = ", ".join(interests_list) + "."
+
 
     return {
         "infos": infos,
@@ -442,12 +452,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Strategy Analyst Intern", "employer": "Roland Berger", "city": "Paris", "country": "France",
-                "desc": "Conducted market and competitor analysis, built Excel models and PowerPoint decks for senior consultants.",
+                "desc": "Conducted market and competitor analysis for industrialclients. Built Excel models and PowerPoint decks for seniorconsultants. Participated in client interviews and synthesis workshops.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "12", "ty": "2024"
             },
             {
                 "title": "Student Consultant", "employer": "emlyon Junior Conseil", "city": "Lyon", "country": "France",
-                "desc": "Delivered consulting missions for SMEs (market sizing, pricing) and led a team on a retail project.",
+                "desc": "Delivered consulting missions for SMEs (market sizing, pricing). Led a team of 4 students on a retail optimization project.",
                 "fd": "1", "fm": "9", "fy": "2023", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -493,12 +503,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Corporate Finance Intern", "employer": "Société Générale CIB", "city": "Paris", "country": "France",
-                "desc": "Assisted in financial modeling, company valuation, and prepared pitchbooks for M&A transactions.",
+                "desc": "Assisted in financial modeling and company valuation. Prepared pitchbooks and market analysis for M&A transactions. Conducted comparable companies and precedent transactions analyses.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "8", "ty": "2024"
             },
             {
                 "title": "Private Equity Analyst (Part-time)", "employer": "Student Investment Fund", "city": "Paris", "country": "France",
-                "desc": "Analyzed investment opportunities in SMEs and built LBO models.",
+                "desc": "Analyzed investment opportunities in SMEs. Built LBO models and investment memos.",
                 "fd": "1", "fm": "1", "fy": "2024", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -543,12 +553,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Marketing Intern", "employer": "L'Oréal France", "city": "Paris", "country": "France",
-                "desc": "Assisted brand managers with product launches, analyzed sales KPIs, and coordinated digital campaigns.",
+                "desc": "Assisted brand managers in the preparation and launch of new skincare products. Analyzed sales performance and campaign KPIs using Excel and internal dashboards. Coordinated with creative agencies and influencers for digital campaigns. Conducted competitive analysis and consumer trend monitoring.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "12", "ty": "2024"
             },
             {
                 "title": "Digital Marketing Assistant", "employer": "E-commerce Startup", "city": "Marseille", "country": "France",
-                "desc": "Managed social media calendars and monitored online performance metrics.",
+                "desc": "Managed social media content calendars (Instagram, TikTok). Monitored online performance metrics and engagement rates. Supported SEO optimization and newsletter campaigns.",
                 "fd": "1", "fm": "9", "fy": "2023", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -593,12 +603,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Co-founder & Operations Manager", "employer": "GreenMove (Student Startup)", "city": "Nantes", "country": "France",
-                "desc": "Co-founded a mobility startup, managed operations, partnerships, and customer acquisition (1000+ users).",
+                "desc": "Co-founded a sustainable mobility startup offering shared electric bikes for students. Managed daily operations and partnerships with local institutions. Built financial forecasts and monitored monthly cash flow. Led customer acquisition campaigns, reaching over 1,000 registered users.",
                 "fd": "1", "fm": "1", "fy": "2023", "td": "1", "tm": "1", "ty": "2026"
             },
             {
                 "title": "Business Development Intern", "employer": "Startup Incubator", "city": "Nantes", "country": "France",
-                "desc": "Supported early-stage startups in market analysis and pitch deck preparation.",
+                "desc": "Supported early-stage startups in market analysis and go-to-market strategy. Assisted entrepreneurs in preparing pitch decks for investors. Participated in mentoring sessions and demo days.",
                 "fd": "1", "fm": "6", "fy": "2023", "td": "1", "tm": "8", "ty": "2023"
             }
         ],
@@ -643,12 +653,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Policy Research Assistant", "employer": "French Economic Think Tank", "city": "Paris", "country": "France",
-                "desc": "Conducted data analysis for policy briefs on labor market reforms and public spending.",
+                "desc": "Conducted literature reviews and data analysis for policy briefs. Contributed to reports on labor market reforms and public spending efficiency. Participated in stakeholder interviews and policy workshops.",
                 "fd": "1", "fm": "9", "fy": "2024", "td": "1", "tm": "2", "ty": "2025"
             },
             {
                 "title": "Public Affairs Intern", "employer": "Ministry of Economy and Finance", "city": "Paris", "country": "France",
-                "desc": "Assisted in economic impact assessments and monitored legislative developments.",
+                "desc": "Assisted senior analysts in economic impact assessments. Prepared briefing notes and synthesis documents for internal use. Monitored legislative developments related to economic policy.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "8", "ty": "2024"
             }
         ],
@@ -693,12 +703,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Data Analyst Intern", "employer": "Retail Analytics Company", "city": "Lyon", "country": "France",
-                "desc": "Cleaned and analyzed customer datasets using Python/SQL and built dashboards.",
+                "desc": "Cleaned and analyzed large customer datasets using Python and SQL. Built dashboards to support marketing and pricing decisions. Presented insights to non-technical stakeholders.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "9", "ty": "2024"
             },
             {
                 "title": "Business Analytics Project", "employer": "Academic Team", "city": "Grenoble", "country": "France",
-                "desc": "Developed forecasting models and recommendations for inventory optimization.",
+                "desc": "Worked in a team to analyze sales performance for a retail chain. Developed forecasting models and recommendations for inventory optimization.",
                 "fd": "1", "fm": "1", "fy": "2024", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -743,12 +753,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Sustainability Consulting Intern", "employer": "EY Climate Change & Sustainability Services", "city": "Paris", "country": "France",
-                "desc": "Contributed to ESG diagnostics, carbon footprint analyses, and CSRD reporting.",
+                "desc": "Contributed to ESG diagnostics and carbon footprint analyses for corporate clients. Assisted in the preparation of sustainability reports aligned with CSRD standards. Conducted benchmarking on sustainable business practices across industries.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "12", "ty": "2024"
             },
             {
                 "title": "Project Coordinator (Part-time)", "employer": "Environmental NGO", "city": "Paris", "country": "France",
-                "desc": "Coordinated sustainability awareness projects and managed stakeholder communication.",
+                "desc": "Coordinated sustainability awareness projects with universities. Managed project timelines, budgets, and stakeholder communication. Prepared impact assessment reports.",
                 "fd": "1", "fm": "9", "fy": "2023", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -793,12 +803,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "Operations Intern", "employer": "Decathlon Logistics", "city": "Lille", "country": "France",
-                "desc": "Analyzed warehouse processes, supported lean management implementation, and built dashboards.",
+                "desc": "Analyzed warehouse processes and identified efficiency improvement areas. Supported the implementation of lean management tools. Built performance dashboards to monitor key operational indicators.",
                 "fd": "1", "fm": "6", "fy": "2024", "td": "1", "tm": "9", "ty": "2024"
             },
             {
                 "title": "Supply Chain Project", "employer": "Academic", "city": "Lille", "country": "France",
-                "desc": "Modeled supply chain flows and proposed inventory optimization strategies.",
+                "desc": "Modeled supply chain flows and demand forecasts for a retail company. Proposed inventory optimization strategies to reduce stockouts.",
                 "fd": "1", "fm": "2", "fy": "2024", "td": "1", "tm": "5", "ty": "2024"
             }
         ],
@@ -843,12 +853,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "CEO's Right Hand / Executive Intern", "employer": "'PayFast' FinTech", "city": "Paris", "country": "France",
-                "desc": "Contributed to Go-to-market strategy, automated LinkedIn prospecting (Growth Hacking), and managed social media.",
+                "desc": "Contributed to the Go-to-market strategy for the launch of a new B2B offer. Growth Hacking: Automating LinkedIn prospecting (+30 qualified leads/week). Video content creation and social media management.",
                 "fd": "1", "fm": "1", "fy": "2025", "td": "1", "tm": "6", "ty": "2025"
             },
             {
                 "title": "Freelancer / Self-Employed", "employer": "Self-Employed", "city": "Lyon", "country": "France",
-                "desc": "Designed websites for SMEs (WordPress & Shopify) and managed Facebook Ads campaigns.",
+                "desc": "Designed websites for 5 local SMEs (WordPress & Shopify). Managed Facebook Ads campaigns (Budget €2k, ROI x3). Full client relationship management: Briefing, quoting, and invoicing.",
                 "fd": "1", "fm": "1", "fy": "2024", "td": "1", "tm": "1", "ty": "2026"
             }
         ],
@@ -891,12 +901,12 @@ LISTE_CANDIDATS = [
         "jobs": [
             {
                 "title": "International Humanitarian Mission", "employer": "NGO 'Education For All'", "city": "Dakar", "country": "Senegal",
-                "desc": "Coordinated a team of volunteers, taught French, and managed camp logistics.",
+                "desc": "Coordinated a multicultural team of 5 international volunteers. Taught French and provided tutoring (primary and middle school levels). Managed camp logistics and relations with local stakeholders.",
                 "fd": "1", "fm": "6", "fy": "2025", "td": "1", "tm": "8", "ty": "2025"
             },
             {
                 "title": "Public Affairs Intern", "employer": "City Hall of Bordeaux", "city": "Bordeaux", "country": "France",
-                "desc": "Drafted synthesis notes, co-organized cultural events, and conducted legislative monitoring.",
+                "desc": "Drafted synthesis notes for elected officials and press releases. Co-organized cultural and civic events (Budget: €50k). Conducted legislative monitoring on environmental topics.",
                 "fd": "1", "fm": "1", "fy": "2024", "td": "1", "tm": "12", "ty": "2025"
             }
         ],
