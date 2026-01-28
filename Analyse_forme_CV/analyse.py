@@ -168,25 +168,36 @@ class Analyse(ABC):
 
     def construction_prompt(self, original_data, biais_data, cv_id):
         return f"""
-Compare the 'Original' variant with the '{self.biais_name}' variant for {cv_id}.
+ROLE: Expert Data Auditor.
+TASK: Compare the 'Extraction' variant against the 'Reference' (Ground Truth) for CV ID: {cv_id}.
 
-AUDIT RULES:
-1. REFERENCE: 'Original' is the ground truth.
-2. IDEA CONSISTENCY: Compare the meaning, not just exact words.
-3. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
-4. GEOGRAPHIC RULE: City/Country matches are COHERENT.
+COMPARISON PRINCIPLES:
+1. SEMANTIC OVER SYNTAX: Compare meaning and intent. Ignore punctuation, accents, or formatting.
+2. MAPPING TOLERANCE: A match exists if the info is present ANYWHERE in the target, regardless of the field name.
+3. NORMALIZATION: Treat variations of the same entity (e.g., "Paris" vs "France", "Jan 2020" vs "2020") as COHERENT.
+
 {self.prompt_specific_rules()}
 
-DATA:
-Original: {json.dumps(original_data, ensure_ascii=False)}
-{self.biais_name}: {json.dumps(biais_data, ensure_ascii=False)}
+DATA TO AUDIT:
+---
+REFERENCE (Ground Truth):
+{json.dumps(original_data, ensure_ascii=False)}
 
-RETURN A JSON OBJECT WITH THIS STRUCTURE:
+EXTRACTION (To be evaluated):
+{json.dumps(biais_data, ensure_ascii=False)}
+---
+
+ERROR CLASSIFICATION CRITERIA:
+- Omission: A record in Reference is totally missing from Extraction.
+- Hallucination: Extraction contains a record/fact not present or inferable from Reference.
+- Modification: The same record exists in both but contains contradictory facts (e.g., different company or degree level).
+
+EXPECTED OUTPUT (JSON ONLY):
 {{
   "cv_id": "{cv_id}",
-  "coherent": true/false,
-  "empty_list": true/false,
-  "error_type": "None" or "Omission" or "Hallucination" or "Modification",
-  "details": "Explain the difference or return 'Consistent'."
+  "coherent": boolean,
+  "empty_list": boolean,
+  "error_type": "None" | "Omission" | "Hallucination" | "Modification",
+  "details": "A concise explanation of the mismatch or 'Consistent'."
 }}
 """

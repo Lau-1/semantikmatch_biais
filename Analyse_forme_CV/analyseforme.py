@@ -8,126 +8,59 @@ class AnalyseExtraction(Analyse):
     def __init__(self):
         super().__init__(biais_name="Extraction")
 
+
     def prompt_specific_rules(self) -> str:
         """
-        UPDATED RULES: SEMANTIC TOLERANCE, TIME NORMALIZATION & FLEXIBLE ENTITY MODELING
+        UPDATED RULES: SEMANTIC TOLERANCE, TIME NORMALIZATION & CROSS-SECTION VALIDATION
         """
-
         return """
-    CONTEXT:
-You are an expert auditor checking data extraction.
-Compare 'Extraction' (AI Output) against 'Reference' (Ground Truth).
-
-🏆 SUPREME RULE: SEMANTIC EQUIVALENCE, INCLUSION & NORMALIZATION
-Do NOT report errors for differences in wording, formatting, field placement,
-granularity, or reasonable normalization of time, roles, or entities.
-If the core meaning, intent, and factual content are preserved, the data is COHERENT.
+━━━━━━━━━━━━━━━━━━━━━━
+🎯 AUDIT PHILOSOPHY
+━━━━━━━━━━━━━━━━━━━━━━
+Your goal is to validate factual integrity, not linguistic perfection.
+If a human recruiter would consider the two data points as describing the same reality, they are COHERENT.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 1: GEOGRAPHICAL TOLERANCE
+✅ RULE 1: TEMPORAL & DATE LOGIC (CRITICAL)
 ━━━━━━━━━━━━━━━━━━━━━━
-- Specific vs general locations are COHERENT
-- City vs metro area vs country is COHERENT
-
-━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 2: ACADEMIC DATA MERGING & ROLE FLEXIBILITY
-━━━━━━━━━━━━━━━━━━━━━━
-- Degree, Field, Program Type may overlap
-- "Bachelor" == "Bachelor in Economics" → COHERENT
-- Exchange / Erasmus / Visiting Student programs:
-  - May appear as Degree OR Field OR Description
-  - Misplacement between these fields is COHERENT
-- Expanded or reduced academic labels are COHERENT
+- ACADEMIC CYCLES: A single year (graduation) is equivalent to the full duration.
+  *Example: "2022" == "2019-2022" (COHERENT).*
+- ONGOING STATUS: "Present", "Current", "Ongoing" are equivalent to any future date or the current year.
+- GRANULARITY: "2024" == "Jan 2024" == "Summer 2024" (COHERENT).
+- OVERLAP: If date ranges overlap significantly, they are COHERENT.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 3: CROSS-FIELD INFORMATION PRESENCE
+✅ RULE 2: ACADEMIC & ROLE FLEXIBILITY
 ━━━━━━━━━━━━━━━━━━━━━━
-- Missing data in one field is acceptable if present elsewhere
-- Company, dates, degree, or institution inferred from another field → COHERENT
-
-━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 4: TEMPORAL NORMALIZATION (VERY IMPORTANT)
-━━━━━━━━━━━━━━━━━━━━━━
-The following are SEMANTICALLY EQUIVALENT and MUST be treated as COHERENT:
-
-- "2024–Present" == "2024–2026"
-- "Present", "Ongoing", "Current" == any future end date
-
-- Year-only vs range-based dates:
-  - "2022" == "2021–2022"
-  - "2022" == "2022–2023"
-  - "2021" == "2020-2021"
-  - A single year may represent the end year of an academic cycle
-
-- Academic degrees commonly span multiple years:
-  - A degree date expressed as a single year MAY be expanded to a multi-year range
-  - Examples:
-    - "French Baccalauréat – 2022"
-    - "French Baccalauréat – 2021–2022"
-    → MUST be considered COHERENT
-    - "French Baccalauréat – 2022"
-    - "French Baccalauréat – 2021 – 2022"
-    → MUST be considered COHERENT
-
-- Year-only vs season-based dates:
-  - "2025" == "Summer 2025" == "Spring 2025"
-  - "2025–2025" == any single-period date in 2025 
-  - '2024 - 2026' == 'Jan 2024 - Jan 2026'
-
-Differences in temporal GRANULARITY are NOT errors.
-Do NOT report errors when dates overlap or represent the same academic cycle.
-
+- FIELD MERGING: Degree name, Field of study, and Description often overlap.
+  *Example: Degree: "Master", Field: "Physics" is COHERENT with Degree: "Master in Physics".*
+- EQUIVALENCIES: "Bachelor" == "Licence", "Master" == "MSc" == "Diplôme d'ingénieur".
+- PLACEMENT: Exchange programs (Erasmus) or certifications can appear as a 'Degree' or 'Description'. This is NOT an error.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 5: FREELANCE & SELF-EMPLOYED ROLES
+✅ RULE 3: GEOGRAPHIC & ENTITY TOLERANCE
 ━━━━━━━━━━━━━━━━━━━━━━
-- Company is OPTIONAL
-- Client-based descriptions are sufficient
-- Absence of Company MUST NOT be considered an error
-
-━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 6: VOLUNTEERING & COMMUNITY ACTIVITIES
-━━━━━━━━━━━━━━━━━━━━━━
-- Volunteering, community engagement, non-profit involvement, or civic activities
-  may appear EITHER in:
-  - Professional Experience
-  - Personal Interests / Hobbies
-  - Extra-curricular Activities
-
-- Presence of the SAME volunteering activity in ANY of these sections
-  MUST be considered COHERENT, regardless of placement.
-
-- Reclassification between "Interest" and "Professional / Volunteer Experience"
-  is NOT an error as long as:
-  - The core activity exists
-  - The organization or activity intent is preserved
-
-- Absence from one section is acceptable if present in another.
-
-- Volunteering activities MUST NOT be flagged as missing core records
-  solely due to section placement differences.
+- SCALE: "Paris" == "Paris Area" == "France" (COHERENT).
+- COMPANY NAMES: Ignore legal suffixes (SA, PLC, SAS). "Google Ireland" == "Google".
+- FREELANCE: For self-employed roles, the 'Company' field may be empty or replaced by 'Freelance/Independent'. This is COHERENT.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-❌ ONLY REPORT THESE AS ERRORS
+✅ RULE 4: CROSS-SECTION MIGRATION (BÉNÉVOLAT)
 ━━━━━━━━━━━━━━━━━━━━━━
-Report an error ONLY if there is:
-
-- TOTAL CONTRADICTION (Bachelor vs Master)
-- WRONG ENTITY (Google vs Amazon)
-- NON-OVERLAPPING, INCOMPATIBLE DATES
-- MISSING CORE RECORD (entire experience or education absent)
+- Activities may migrate between "Professional Experience", "Extra-curricular", and "Interests".
+- If the core activity (e.g., "Volunteer at Red Cross") exists ANYWHERE in the extraction, it is COHERENT.
+- Do NOT flag as "Omission" if the data moved to a different section.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-OUTPUT FORMAT (JSON ONLY):
+❌ ERROR DEFINITIONS (ONLY REPORT THESE)
 ━━━━━━━━━━━━━━━━━━━━━━
-{
-  "coherent": boolean,
-  "error_type": string,
-  "comment": string
-}
+- OMISSION: A core block of experience or education present in Reference is totally missing in Extraction.
+- HALLUCINATION: Extraction invents a company, school, or degree not present or inferable from Reference.
+- MODIFICATION: Direct contradiction of facts.
+  *Example: "Master" vs "PhD", "Apple" vs "Microsoft", "2010" vs "2024".*
 
-        """
-
+⚠️ FINAL INSTRUCTION: In case of doubt, prioritize COHERENCE if the intent is preserved.
+"""
 
     def nettoyer_nom(self, nom_brut):
         return re.sub(r'\s+\d+$', '', nom_brut).strip()
