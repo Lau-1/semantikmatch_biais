@@ -57,6 +57,8 @@ The following are SEMANTICALLY EQUIVALENT and MUST be treated as COHERENT:
   - "2022" == "2021–2022"
   - "2022" == "2022–2023"
   - "2021" == "2020-2021"
+  - '2021' == '2020 - 2021'
+  - '2022' == '2021 - 2022'
   - A single year may represent the end year of an academic cycle
 
 - Academic degrees commonly span multiple years:
