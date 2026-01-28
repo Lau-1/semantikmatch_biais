@@ -1,7 +1,57 @@
 Personne,Variant,CV_ID,Type Erreur,Détails
-Amelie,11,Amelie 11,Modification,The dates for the French Baccalauréat at Lycée Louis-le-Grand are inconsistent. Reference lists '2022' while Extraction lists '1 SEP 2021 - 1 JUN 2022'.
-Camille,11,Camille 11,Omission,The 'International Exchange' at McGill University is missing from the Extraction.
-Clara,19,Clara 19,Modification,The 'List of studies' section contains a modification in the dates for the Baccalauréat. Reference lists '2022' while Extraction lists '2021 - 2022'.
-Thomasg,38,Thomasg 38,Omission,The 'List of studies' in Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in Reference.
+Amelie,11,Amelie 11,Modification,"The 'French Baccalauréat' in the Reference is modified to 'Baccalauréat (Economics)' in the Extraction. Additionally, 'Yoga & Mindfulness' is modified to 'Wellness'."
+Amelie,12,Amelie 12,Modification,"The Extraction lists the Baccalauréat degree as 'Baccalauréat (Economics)' with dates '1 SEP 2021 - 1 JUN 2022', whereas the Reference lists it as 'French Baccalauréat' in 'Economics & Sciences' with dates '2022'."
+Amelie,13,Amelie 13,Modification,"The degree level 'French Baccalauréat' in Reference is modified to 'Baccalauréat (Economics)' in Extraction. Additionally, the personal interest 'Yoga & Mindfulness' is modified to 'Wellness'."
+Amelie,15,Amelie 15,Modification,"The 'French Baccalauréat' in Reference is modified to 'Baccalauréat (Economics)' in Extraction, which is a contradiction in the degree level."
+Amelie,17,Amelie 17,Modification,"The extraction modifies the dates for the French Baccalauréat from '2022' to '2021 - 2022'. Additionally, the field of study for the Baccalauréat is modified from 'Economics & Sciences' to 'Economics'."
+Amelie,19,Amelie 19,Modification,"The extraction modifies the dates for the French Baccalauréat from '2022' to '2021 - 2022', which contradicts the Reference. Additionally, the interest 'Yoga & Mindfulness' is modified to 'Wellness'."
+Amelie,20,Amelie 20,Modification,The dates for the French Baccalauréat at Lycée Louis-le-Grand are modified from '2022' in Reference to '2021 - 2022' in Extraction.
+Camille,11,Camille 11,Omission,The 'International Exchange' at McGill University and the 'Culture' interest are missing in the Extraction.
+Camille,29,Camille 29,Omission,The personal interest 'Culture' with description 'Russian literature and South American cinema.' is missing from the Extraction.
+Camille,38,Camille 38,Omission,The personal interest 'Culture' with description 'Russian literature and South American cinema.' is missing in the Extraction.
+Clara,11,Clara 11,Omission,The interest 'Long-distance running' is present in Reference but missing in Extraction.
+Clara,15,Clara 15,Modification,"The dates for the 'French Baccalauréat' at 'Lycée du Parc' are inconsistent. Reference lists '2022', while Extraction lists '2021 - 2022'."
+Clara,17,Clara 17,Modification,The 'List of studies' section contains a modification in the dates for the 'Lycée du Parc' entry. Reference lists '2022' while Extraction lists '2021 - 2022'.
+Clara,18,Clara 18,Omission,The personal interest 'Economics podcasts' from the Reference is missing in the Extraction.
+Clara,19,Clara 19,Omission,The personal interest 'Long-distance running' is missing as a distinct entry in the Extraction.
+Clara,20,Clara 20,Modification,"The dates for the 'French Baccalauréat' at 'Lycée du Parc' are inconsistent. Reference lists '2022', while Extraction lists '2021 - 2022'."
+Hugo,11,Hugo 11,Omission,"The personal interest 'Chess' and 'Marathon training' are missing in the Extraction. Additionally, the interest 'Investing' in Extraction does not fully match 'Stock market investing' from Reference."
+Hugo,12,Hugo 12,Modification,"The 'List of personal interests' in the Extraction modifies the titles and descriptions compared to the Reference. 'Stock market investing' is modified to 'Investing', and 'Chess' and 'Marathon training' are combined under 'Sports'."
+Hugo,13,Hugo 13,Modification,"The personal interests section in Extraction modifies the titles and descriptions from Reference, combining 'Stock market investing' and 'Marathon training' under 'Sports', which alters the original intent."
+Hugo,15,Hugo 15,Modification,"The 'List of personal interests' in Extraction modifies the titles and descriptions from Reference. 'Stock market investing' is changed to 'Investing', and 'Chess' and 'Marathon training' are combined under 'Sports'."
+Hugo,16,Hugo 16,Omission,The personal interest 'Marathon training' is missing as a standalone entry in the Extraction.
+Hugo,17,Hugo 17,Modification,"The 'French Baccalauréat' in Reference is modified to 'Baccalauréat (Maths & Physics)' in Extraction, which changes the degree description. Additionally, 'Investing' and 'Sports' in Extraction do not match the specific interests 'Stock market investing', 'Chess', and 'Marathon training' in Reference."
+Hugo,18,Hugo 18,Omission,"The personal interest 'Stock market investing' is present in Reference but is generalized as 'Investing' in Extraction. The interest 'Marathon training' is combined with 'Chess' under 'Sports' in Extraction, which is a modification. The city for the 'Student Investment Fund' experience is 'not found' in Reference but is listed as 'Paris' in Extraction, which is a modification."
+Hugo,19,Hugo 19,Omission,"The personal interests 'Chess' and 'Marathon training' are missing as separate entries in the Extraction. They are combined under 'Sports', which does not preserve the distinct interests listed in the Reference."
+Hugo,20,Hugo 20,Modification,"The 'List of personal interests' in the Extraction modifies the titles and descriptions compared to the Reference. 'Stock market investing' is modified to 'Investing', and 'Chess' and 'Marathon training' are combined under 'Sports'."
+Ines,08,Ines 08,Omission,The volunteering experience as a 'Tutor for underprivileged high school students in economics' is present in the Reference under 'List of professional experiences' but is missing in the Extraction's 'List of professional experiences'.
+Ines,09,Ines 09,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,11,Ines 11,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is present in the Reference but missing from the professional experiences section in the Extraction.
+Ines,12,Ines 12,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,13,Ines 13,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,14,Ines 14,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is present in the Reference but missing from the professional experiences section in the Extraction.
+Ines,15,Ines 15,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,16,Ines 16,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,17,Ines 17,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is present in the Reference under professional experiences but is missing in the Extraction's professional experiences section.
+Ines,18,Ines 18,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is present in the Reference under professional experiences but is missing in the Extraction's professional experiences section.
+Ines,19,Ines 19,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
+Ines,20,Ines 20,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is present in the Reference under professional experiences but is missing in the Extraction's professional experiences list.
+Louis,11,Louis 11,Omission,The personal interest 'Outdoor Sports' with description 'Hiking and trail running in alpine environments.' is missing in the Extraction.
+Louis,12,Louis 12,Modification,"The 'Business Analytics Project' in Extraction lists 'Academic Team' as the company, whereas Reference states 'not found'. Additionally, the 'Baccalauréat' degree dates differ: Reference lists '2021', while Extraction lists '1 SEP 2020 - 1 JUN 2021'."
+Louis,13,Louis 13,Modification,Company name 'Retail Analytics Company' vs 'E Retail Analytics Company' and 'not found' vs 'E Academic Team'.
+Louis,14,Louis 14,Modification,"The 'Business Analytics Project' is listed under 'Academic Team' in Extraction, which is a modification from 'not found' in Reference. Additionally, the description for the 'Data Analyst Intern' role is less detailed in Extraction."
+Louis,20,Louis 20,Omission,The personal interest 'Outdoor Sports' with description 'Hiking and trail running in alpine environments.' is missing in the Extraction.
+Louis,21,Louis 21,Omission,The personal interest 'Data Visualization' present in Reference is missing in Extraction.
+Sarah,02,Sarah 02,Modification,"The company name for the 'Digital Marketing Assistant (Part-time)' role is missing in the Extraction, which contradicts the Reference where it is specified as 'E-commerce Startup'."
+Sarah,11,Sarah 11,Modification,The 'French Baccalauréat' in Economics & Social Sciences is modified to 'Baccalauréat (Economics)' without the Social Sciences component.
+Sarah,12,Sarah 12,Modification,"The 'French Baccalauréat' in the Reference is listed as 'Baccalauréat (Economics)' in the Extraction, which is a modification of the field of study."
+Sarah,16,Sarah 16,Modification,The dates for the French Baccalauréat at Lycée Thiers are modified from '2022' in Reference to '2021 - 2022' in Extraction.
+Sarah,19,Sarah 19,Modification,"The company name for the 'Digital Marketing Assistant' role is missing in Extraction, and the dates for the 'French Baccalauréat' are modified from '2022' to '2021 - 2022'."
+Sarah,27,Sarah 27,Omission,The 'Cultural Trends' personal interest is missing from the Extraction.
+Sarah,32,Sarah 32,Omission,The personal interest 'Cultural Trends' is missing from the Extraction.
+Thomasg,37,Thomasg 37,Omission,The French Baccalauréat from Lycée Clémenceau is missing in the Extraction.
+Thomasg,38,Thomasg 38,Omission,The 'List of studies' in the Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in the Reference.
+Thomasl,33,Thomasl 33,Omission,The personal interest 'Tech Blogger (AI and NoCode) - 1k monthly visitors.' is missing from the Extraction.
+Thomasl,37,Thomasl 37,Omission,The personal interest 'Tech Blogger (AI and NoCode) - 1k monthly visitors.' is missing from the Extraction.
 Thomasl,38,Thomasl 38,Omission,The 'Tech' personal interest is missing from the Extraction.
-Thomasl,39,Thomasl 39,Omission,The 'Sports' and 'Tech' personal interests are missing in the Extraction.
+Thomasl,39,Thomasl 39,Omission,"The 'Sports' and 'Tech' personal interests are missing from the Extraction. Additionally, the 'Freelance / Self-employed' experience is missing the company name 'Freelance / Self-employed' in the Extraction."

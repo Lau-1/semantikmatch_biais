@@ -54,10 +54,16 @@ If a human recruiter would consider the two data points as describing the same r
 ━━━━━━━━━━━━━━━━━━━━━━
 ❌ ERROR DEFINITIONS (ONLY REPORT THESE)
 ━━━━━━━━━━━━━━━━━━━━━━
-- OMISSION: A core block of experience or education present in Reference is totally missing in Extraction.
+- OMISSION: A core block of experience or education or interest present in Reference is totally missing in Extraction.
 - HALLUCINATION: Extraction invents a company, school, or degree not present or inferable from Reference.
 - MODIFICATION: Direct contradiction of facts.
   *Example: "Master" vs "PhD", "Apple" vs "Microsoft", "2010" vs "2024".*
+
+- OMISSION (STRICT):
+If ANY core element present in the Reference (experience, education, interest, volunteering)
+is completely absent from the Extraction (in any section), it MUST be reported as an OMISSION.
+No tolerance: missing even one interest, study, or work experience is an ERROR.
+
 
 ⚠️ FINAL INSTRUCTION: In case of doubt, prioritize COHERENCE if the intent is preserved.
 """
