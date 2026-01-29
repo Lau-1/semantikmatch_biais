@@ -5,9 +5,9 @@ import os
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-FICHIER_RAPPORT = "Analyse_forme_CV/Audit_forme/rapport_analyse.json"
-CSV_GLOBAL = "Analyse_forme_CV/Audit_forme/audit_personnes.csv"
-CSV_FORMATS = "Analyse_forme_CV/Audit_forme/audit_formats.csv"
+FICHIER_RAPPORT = "Etude_forme/Analyse_forme_CV/Audit_forme/rapport_analyse.json"
+CSV_GLOBAL = "Etude_forme/Analyse_forme_CV/Audit_forme/audit_personnes.csv"
+CSV_FORMATS = "Etude_forme/Analyse_forme_CV/Audit_forme/audit_formats.csv"
 
 
 def charger_json(chemin):

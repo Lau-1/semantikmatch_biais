@@ -5,11 +5,11 @@ import os
 from collections import defaultdict
 
 # ================= CONFIG =================
-BASE_RUNS = "Analyse_forme_CV/Audit_forme/Run"
+BASE_RUNS = "Etude_forme/Analyse_forme_CV/Audit_forme/Run"
 
-CSV_PERSONNES = "Analyse_forme_CV/Audit_forme/audit_personnes.csv"
-CSV_FORMATS   = "Analyse_forme_CV/Audit_forme/audit_formats.csv"
-CSV_RUNS      = "Analyse_forme_CV/Audit_forme/audit_runs.csv"
+CSV_PERSONNES = "Etude_forme/Analyse_forme_CV/Audit_forme/audit_personnes.csv"
+CSV_FORMATS   = "Etude_forme/Analyse_forme_CV/Audit_forme/audit_formats.csv"
+CSV_RUNS      = "Etude_forme/Analyse_forme_CV/Audit_forme/audit_runs.csv"
 # ==========================================
 
 

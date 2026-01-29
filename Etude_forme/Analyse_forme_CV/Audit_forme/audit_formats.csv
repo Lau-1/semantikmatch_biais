@@ -1,0 +1,15 @@
+Format_Numero,Candidat,Type_Erreur,Détails
+38,Camille 38,Modification,"The 'country or city' field for the NGO 'Education For All' experience is missing in Extraction. The 'field' for the McGill University exchange is present in Extraction but not in Reference, and the 'level_of_degree' is missing in Extraction. The 'country or city' for the University of Bordeaux is missing in Extraction. The 'Culture' interest is missing in Extraction."
+38,Thomasg 38,Omission,The 'List of studies' in Extraction is missing the entry for 'French Baccalauréat' at 'Lycée Clémenceau'.
+38,Thomasl 38,Modification,The 'Freelance / Self-employed' experience has a discrepancy in the company name and date range. The 'List of studies' includes an additional institution 'École du Web' not present in the Reference.
+11,Camille 11,Omission,"The 'International Exchange' at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction."
+11,Hugo 11,Modification,The personal interests section has discrepancies: 'Stock market investing' is modified to 'Investing' and 'Chess' and 'Marathon training' are missing or altered to 'Sports'.
+13,Ines 13,Modification,"Company names in professional experiences are slightly different, and job descriptions are less detailed in Extraction. Volunteering activity is present but lacks specific details in Extraction."
+13,Louis 13,Modification,Company name discrepancy in professional experiences and minor differences in degree titles.
+37,Thomasg 37,Omission,The 'List of studies' in Extraction is missing the entry for 'French Baccalauréat' from Lycée Clémenceau.
+37,Thomasl 37,Modification,The 'Freelance / Self-employed' experience has a date discrepancy and missing company name. The 'List of studies' has an additional university name not present in the reference.
+19,Sarah 19,Modification,"The company name for the Digital Marketing Assistant role is missing in Extraction. The degree level for the Baccalauréat is slightly different, but coherent. The field of study for the Baccalauréat is missing in Extraction."
+29,Camille 29,Modification,The 'country or city' field for the NGO 'Education For All' experience is missing in Extraction. The 'field' for the McGill University exchange is present in Extraction but not in Reference.
+32,Sarah 32,Omission,The 'Cultural Trends' personal interest is missing from the Extraction.
+33,Thomasl 33,Modification,The 'Freelance / Self-employed' experience has a date discrepancy and missing company name. The 'List of studies' has an additional university name not present in the reference.
+39,Thomasl 39,Modification,"The company name 'PayFast Fintech' in Reference is modified to 'PayFast' in Extraction. The university name 'IUT Lyon 1' in Reference is modified to 'IUT Lyon 1 / École du Web, Lyon, France' in Extraction."

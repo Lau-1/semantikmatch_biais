@@ -1,9 +1,0 @@
-Format_Numero,Candidat,Type_Erreur,Détails
-11,Camille 11,Omission,"The 'International Exchange' at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction."
-11,Hugo 11,Modification,"The 'List of personal interests' in Extraction has 'Investing' and 'Sports' which do not match the Reference's 'Stock market investing', 'Chess', and 'Marathon training'."
-11,Ines 11,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
-38,Thomasg 38,Omission,The 'List of studies' in Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in Reference.
-38,Thomasl 38,Omission,The 'Tech' personal interest is missing from the Extraction.
-18,Ines 18,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the 'List of professional experiences' in the Extraction.
-19,Sarah 19,Modification,"The company name for the 'Digital Marketing Assistant' role is missing in Extraction, and the dates for the 'French Baccalauréat' are modified from '2022' to '2021 - 2022'."
-39,Thomasl 39,Omission,The 'Sports' and 'Tech' personal interests are missing from the Extraction.
