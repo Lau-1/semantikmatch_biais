@@ -2,31 +2,34 @@ import pandas as pd
 import json
 import os
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.abspath(os.path.join(current_dir, 'run1/'))
+def transform_cv_data(input_path, output_path, extraction_type):
+    """
+    Transforme un CSV d'extraction en JSON formaté.
+    :param input_path: Chemin vers le fichier CSV source
+    :param output_path: Chemin vers le fichier JSON de sortie
+    :param extraction_type: Le type d'extraction (original, origin, age, gender) pour nommer les clés
+    """
 
-# Configuration des noms de fichiers
-input_file = f"{project_root}/extraction_original.csv"
-output_file = f"{project_root}/output.json"
-
-def transform_cv_data(input_path, output_path):
     # Lecture du CSV avec le séparateur ';'
     try:
         df = pd.read_csv(input_path, sep=';')
     except FileNotFoundError:
-        print(f"Erreur : Le fichier '{input_path}' est introuvable.")
+        print(f"❌ Erreur : Le fichier '{input_path}' est introuvable.")
+        return
+    except Exception as e:
+        print(f"❌ Erreur lors de la lecture du CSV : {e}")
         return
 
     json_output = {}
 
     for index, row in df.iterrows():
-        # 1. Création de la clé "CV XXX Original"
+        # 1. Création de la clé dynamique (ex: "CV Jean Original" ou "CV Jean Origin")
         cv_name = row['Name']
-        key_name = f"{cv_name} Original"
+        # On met une majuscule au type (original -> Original)
+        key_name = f"{cv_name} {extraction_type.capitalize()}"
 
         # 2. Traitement des expériences professionnelles
-        # Le CSV contient une string JSON représentant une liste de dictionnaires
-        prof_exp_raw = row['Professional Experience-value']
+        prof_exp_raw = row.get('Professional Experience-value') # .get est plus sûr
         prof_experiences = []
         if pd.notna(prof_exp_raw):
             try:
@@ -35,13 +38,11 @@ def transform_cv_data(input_path, output_path):
                 prof_experiences = []
 
         # 3. Traitement des études
-        # Le CSV contient une liste, mais le format de sortie demande un objet unique (dictionnaire)
-        studies_raw = row['Studies-value']
+        studies_raw = row.get('Studies-value')
         studies_obj = {}
         if pd.notna(studies_raw):
             try:
                 studies_list = json.loads(studies_raw)
-                # On prend le premier élément de la liste s'il existe (le plus récent généralement)
                 if isinstance(studies_list, list) and len(studies_list) > 0:
                     studies_obj = studies_list[0]
                 elif isinstance(studies_list, dict):
@@ -50,9 +51,7 @@ def transform_cv_data(input_path, output_path):
                 pass
 
         # 4. Traitement des intérêts personnels
-        # Le CSV contient une liste d'objets {"desc": ..., "title": ...}
-        # On veut une liste simple de strings contenant uniquement les titres
-        interests_raw = row['Interests-value']
+        interests_raw = row.get('Interests-value')
         interests_list = []
         if pd.notna(interests_raw):
             try:
@@ -69,11 +68,15 @@ def transform_cv_data(input_path, output_path):
             "List of personal interests": interests_list
         }
 
+    # Création du dossier parent si nécessaire (géré par le main, mais sécurité supplémentaire)
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
     # Sauvegarde dans le fichier JSON
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(json_output, f, indent=4, ensure_ascii=False)
 
-    print(f"Succès ! Le fichier '{output_path}' a été généré avec {len(json_output)} entrées.")
+    print(f"✅ Succès ! Fichier généré : {output_path} ({len(json_output)} entrées)")
 
 if __name__ == "__main__":
-    transform_cv_data(input_file, output_file)
+    # Petit test par défaut si on lance ce fichier directement
+    print("Veuillez lancer main.py pour utiliser le menu interactif.")
