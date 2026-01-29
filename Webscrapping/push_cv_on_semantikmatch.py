@@ -13,7 +13,7 @@ import os
 EMAIL = "stephane@semantikmatch.com"
 PASSWORD = "SemantikmatchEnsai26*"
 URL = "https://v1.semantikmatch.com/"
-DOSSIER_PARENT = '/Users/sachabeaujean/Library/CloudStorage/OneDrive-Personnel/Documents/ENSAI/Stage/Semantikmatch/format cv 2/pdf_renommes'
+DOSSIER_PARENT = '/Users/justincg/Desktop/cv'
 
 def run_batch_upload():
     if not os.path.exists(DOSSIER_PARENT):
