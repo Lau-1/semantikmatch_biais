@@ -479,6 +479,10 @@ LISTE_CANDIDATS = [
             {
                 "title": "Bachelor in Political Science", "org": "University of Bordeaux", "city": "Bordeaux", "country": "France",
                 "fd": "1", "fm": "9", "fy": "2023", "td": "1", "tm": "6", "ty": "2026"
+            },
+            {
+                "title": "International Exchange", "org": "McGill University", "city": "Montreal", "country": "Canada",
+                "fd": "", "fm": "", "fy": "", "td": "", "tm": "", "ty": ""
             }
         ],
         "skills": [
