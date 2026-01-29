@@ -15,57 +15,82 @@ class AnalyseExtraction(Analyse):
         """
         return """
 ━━━━━━━━━━━━━━━━━━━━━━
-🎯 AUDIT PHILOSOPHY
+🎯 AUDIT PHILOSOPHY (ADDITIONAL CLARIFICATION)
 ━━━━━━━━━━━━━━━━━━━━━━
-Your goal is to validate factual integrity, not linguistic perfection.
-If a human recruiter would consider the two data points as describing the same reality, they are COHERENT.
+The objective is to assess factual consistency, not structural alignment.
+If two entries describe the same real-world activity, they MUST be considered coherent,
+even if they differ in section placement or level of detail.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 1: TEMPORAL & DATE LOGIC (CRITICAL)
+✅ TEMPORAL NORMALIZATION (ADDITIONAL RULE)
 ━━━━━━━━━━━━━━━━━━━━━━
-- ACADEMIC CYCLES: A single year (graduation) is equivalent to the full duration.
-  *Example: "2022" == "2019-2022" (COHERENT).*
-- ONGOING STATUS: "Present", "Current", "Ongoing" are equivalent to any future date or the current year.
-- GRANULARITY: "2024" == "Jan 2024" == "Summer 2024" (COHERENT).
-- OVERLAP: If date ranges overlap significantly, they are COHERENT.
+Before raising any OMISSION or MODIFICATION related to dates,
+the following temporal logic MUST be applied:
+
+- A single year is equivalent to a broader date range that includes it.
+  Example:
+  "2022" == "2021–2022"
+
+- Overlapping date ranges are considered COHERENT.
+
+- A narrower range contained within a broader range is COHERENT.
+
+Date differences that respect these rules MUST NOT be flagged as errors.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 2: ACADEMIC & ROLE FLEXIBILITY
+✅ VOLUNTEERING – GLOBAL PRESENCE CHECK (ADDITIONAL RULE)
 ━━━━━━━━━━━━━━━━━━━━━━
-- FIELD MERGING: Degree name, Field of study, and Description often overlap.
-  *Example: Degree: "Master", Field: "Physics" is COHERENT with Degree: "Master in Physics".*
-- EQUIVALENCIES: "Bachelor" == "Licence", "Master" == "MSc" == "Diplôme d'ingénieur".
-- PLACEMENT: Exchange programs (Erasmus) or certifications can appear as a 'Degree' or 'Description'. This is NOT an error.
+For volunteering or tutoring activities:
+
+- Section placement MUST be ignored.
+
+- Before raising an OMISSION, the auditor MUST check whether the activity
+  exists ANYWHERE in the Extraction
+  (Professional Experience, Extra-curricular, Interests, or any other section).
+
+- If the volunteering activity exists anywhere in the Extraction,
+  it MUST be considered PRESENT and NOT an omission.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 3: GEOGRAPHIC & ENTITY TOLERANCE
+✅ FREELANCE / INDEPENDENT – COMPANY NAME TOLERANCE (ADDITIONAL RULE)
 ━━━━━━━━━━━━━━━━━━━━━━
-- SCALE: "Paris" == "Paris Area" == "Paris, France" (COHERENT).
-- COMPANY NAMES: Ignore legal suffixes (SA, PLC, SAS). "Google Ireland" == "Google".
-- FREELANCE: For self-employed roles, the 'Company' field may be empty or replaced by 'Freelance/Independent'. This is COHERENT.
+When an experience is identified as Freelance, Independent, Self-employed,
+or equivalent:
+
+- The company name MAY be missing, generic, or replaced by
+  "Freelance", "Independent", "Self-employed", or similar wording.
+
+- Differences or absence of a company name in this specific context
+  MUST NOT be considered a Modification or Omission,
+  as long as the role, domain, and activity are coherent.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-✅ RULE 4: CROSS-SECTION MIGRATION (BÉNÉVOLAT)
+🚫 NO TOLERANCE FOR CORE BLOCK OMISSIONS (ADDITIONAL RULE)
 ━━━━━━━━━━━━━━━━━━━━━━
-- Activities may migrate between "Professional Experience", "Extra-curricular", and "Interests".
-- If the core activity (e.g., "Volunteer at Red Cross") exists ANYWHERE in the extraction, it is COHERENT.
-- Do NOT flag as "Omission" if the data moved to a different section.
+Except for the volunteering exception explicitly defined above:
+
+- The absence of an Interest, a Work Experience, or a Study
+  that exists in the Reference MUST be classified as an OMISSION.
+
+- Reduced level of detail (shorter descriptions, fewer bullet points,
+  less granular responsibilities) MUST NOT be treated as an error
+  as long as the core activity exists.
+
+- However, COMPLETE absence of a core block
+  (Interest, Work Experience, or Study)
+  MUST ALWAYS be flagged as an OMISSION.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-❌ ERROR DEFINITIONS (ONLY REPORT THESE)
+⚠️ ERROR GUARDRAIL (ADDITIONAL CONSTRAINT)
 ━━━━━━━━━━━━━━━━━━━━━━
-- OMISSION: A core block of experience or education or interest present in Reference is totally missing in Extraction.
-- HALLUCINATION: Extraction invents a company, school, or degree not present or inferable from Reference.
-- MODIFICATION: Direct contradiction of facts.
-  *Example: "Master" vs "PhD", "Apple" vs "Microsoft", "2010" vs "2024".*
+An error MUST NOT be raised if the detected difference is explained by:
+- Cross-section migration
+- Temporal normalization
+- Freelance company name tolerance
+- Difference in date or description granularity
 
-- OMISSION (STRICT):
-If ANY core element present in the Reference (experience, education, interest, volunteering)
-is completely absent from the Extraction (in any section), it MUST be reported as an OMISSION.
-No tolerance: missing even one interest, study, or work experience is an ERROR.
+In case of doubt, prioritize COHERENCE if the intent and factual reality are preserved.
 
-
-⚠️ FINAL INSTRUCTION: In case of doubt, prioritize COHERENCE if the intent is preserved.
 """
 
     def nettoyer_nom(self, nom_brut):
@@ -83,7 +108,7 @@ No tolerance: missing even one interest, study, or work experience is an ERROR.
         return nom.strip()
 
     def comparer_fichiers_directs(self, path_reference, path_output, path_rapport):
-        print("--- Démarrage de l'analyse (Mode : Semantic & Inclusion) ---")
+        print("--- Démarrage de <l'analyse (Mode : Semantic & Inclusion) ---")
 
         try:
             with open(path_reference, 'r', encoding='utf-8') as f:
