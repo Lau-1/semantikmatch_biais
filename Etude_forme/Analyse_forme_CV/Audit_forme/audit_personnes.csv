@@ -1,0 +1,23 @@
+Personne,Variant,CV_ID,Type Erreur,Détails
+Amelie,11,Amelie 11,Modification,The 'Wellness' interest in Extraction lacks the description 'Regular practice focused on balance and resilience' found in Reference.
+Amelie,15,Amelie 15,Modification,"The 'List of studies' section contains a modification in the 'French Baccalauréat' entry. The field of study is 'Economics & Sciences' in the Reference but is not found in the Extraction. Additionally, the degree level is 'French Baccalauréat' in the Reference and 'Baccalauréat (Economics)' in the Extraction."
+Amelie,20,Amelie 20,Modification,"The field of study for the Baccalauréat is 'Economics & Sciences' in the Reference but 'Economics' in the Extraction. Additionally, the interest 'Yoga & Mindfulness' is modified to 'Wellness' in the Extraction."
+Camille,11,Camille 11,Omission,"The 'International Exchange' study at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction."
+Camille,29,Camille 29,Omission,The 'Culture' interest is missing from the Extraction.
+Camille,38,Camille 38,Omission,The personal interest 'Culture' is missing from the Extraction.
+Clara,11,Clara 11,Omission,The interest 'Long-distance running' is missing from the Extraction.
+Clara,13,Clara 13,Modification,"The 'Student Consultant' experience has a different location ('not found' vs 'Lyon, France'). The 'Strategy Analyst Intern' description is less detailed in the Extraction. The 'Baccalauréat' dates differ ('2022' vs '1 Sep 2021 - 1 Jun 2022')."
+Clara,15,Clara 15,Modification,"The 'country or city' for the 'Student Consultant' role at 'emlyon Junior Conseil' differs between the Reference ('not found') and Extraction ('Lyon'). The 'country or city' for the 'Bachelor in Management' degree differs between the Reference ('Lyon, France') and Extraction ('not found'). The 'dates' for the 'French Baccalauréat' differ between the Reference ('2022') and Extraction ('2021 - 2022')."
+Hugo,11,Hugo 11,Omission,The personal interest 'Chess' and 'Marathon training' are missing in the Extraction.
+Hugo,17,Hugo 17,Modification,"The personal interests section in the Extraction has been modified. 'Stock market investing' is listed as 'Investing', and 'Chess' and 'Marathon training' are grouped under 'Sports'."
+Ines,11,Ines 11,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
+Ines,13,Ines 13,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
+Louis,21,Louis 21,Omission,The 'Data Visualization' personal interest is missing from the Extraction.
+Sarah,27,Sarah 27,Omission,The personal interest 'Cultural Trends' is missing from the Extraction.
+Sarah,32,Sarah 32,Omission,The 'Cultural Trends' interest is missing from the Extraction.
+Thomasg,37,Thomasg 37,Omission,The 'French Baccalauréat' study at 'Lycée Clémenceau' is missing from the Extraction.
+Thomasg,38,Thomasg 38,Omission,The study at Lycée Clémenceau with a French Baccalauréat in Mathematics & Economics is missing from the Extraction.
+Thomasl,33,Thomasl 33,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,37,Thomasl 37,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,38,Thomasl 38,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,39,Thomasl 39,Omission,"The Extraction is missing the 'Sports' and 'Tech' personal interests, and the 'List of studies' is missing the 'Tech Blogger' interest and the 'Sports' interest."

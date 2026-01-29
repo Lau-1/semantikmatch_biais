@@ -149,6 +149,6 @@ def extraire_donnees_ordonnees(chemin_entree, chemin_sortie):
 # ▶️ Exécution
 if __name__ == "__main__":
     extraire_donnees_ordonnees(
-        'Analyse_forme_CV/Audit_forme/input.csv',
-        'Analyse_forme_CV/Audit_forme/output.json'
+        'Etude_forme/Analyse_forme_CV/Audit_forme/input.csv',
+        'Etude_forme/Analyse_forme_CV/Audit_forme/output.json'
     )
