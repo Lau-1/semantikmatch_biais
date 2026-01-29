@@ -57,7 +57,7 @@ def main():
     input_path = os.path.join(base_path, selected_run, input_filename)
 
     # Dossier de sortie : ./résultats csv_to_json/run1/
-    output_base_folder = os.path.join(base_path, "résultats csv_to_json")
+    output_base_folder = os.path.join(base_path, "resultats csv_to_json")
     output_run_folder = os.path.join(output_base_folder, selected_run)
 
     # Fichier de sortie : ex: ./résultats csv_to_json/run1/original.json
