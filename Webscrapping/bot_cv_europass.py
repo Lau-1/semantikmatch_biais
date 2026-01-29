@@ -60,12 +60,15 @@ def fill_work(driver, wait, actions, j):
     time.sleep(1.5)
     actions.send_keys(Keys.ARROW_DOWN).send_keys(Keys.ENTER).perform()
 
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[1]")).select_by_visible_text(j['fd'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[2]")).select_by_visible_text(j['fm'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[3]")).select_by_visible_text(j['fy'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[1]")).select_by_visible_text(j['td'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[2]")).select_by_visible_text(j['tm'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[3]")).select_by_visible_text(j['ty'])
+    if j.get('fy') and j['fy'].strip(): # On vérifie au moins si l'année de début existe
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[1]")).select_by_visible_text(j['fd'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[2]")).select_by_visible_text(j['fm'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[3]")).select_by_visible_text(j['fy'])
+
+    if j.get('ty') and j['ty'].strip(): # Idem pour la date de fin
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[1]")).select_by_visible_text(j['td'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[2]")).select_by_visible_text(j['tm'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[3]")).select_by_visible_text(j['ty'])
 
     eds = driver.find_elements(By.CSS_SELECTOR, ".ql-editor")
     if eds: driver.execute_script("arguments[0].innerText = arguments[1];", eds[-1], j['desc'])
@@ -105,12 +108,15 @@ def fill_edu(driver, wait, actions, e):
     time.sleep(1.5)
     actions.send_keys(Keys.ARROW_DOWN).send_keys(Keys.ENTER).perform()
 
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[1]")).select_by_visible_text(e['fd'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[2]")).select_by_visible_text(e['fm'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[3]")).select_by_visible_text(e['fy'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[1]")).select_by_visible_text(e['td'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[2]")).select_by_visible_text(e['tm'])
-    Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[3]")).select_by_visible_text(e['ty'])
+    if e.get('fy') and e['fy'].strip():
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[1]")).select_by_visible_text(e['fd'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[2]")).select_by_visible_text(e['fm'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'From')]/following::select[3]")).select_by_visible_text(e['fy'])
+
+    if e.get('ty') and e['ty'].strip():
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[1]")).select_by_visible_text(e['td'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[2]")).select_by_visible_text(e['tm'])
+        Select(driver.find_element(By.XPATH, "//label[contains(., 'To')]/following::select[3]")).select_by_visible_text(e['ty'])
 
     save = driver.find_element(By.ID, "section-add-record-save")
     driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", save)
