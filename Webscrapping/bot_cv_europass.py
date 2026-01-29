@@ -34,10 +34,15 @@ def fill_work(driver, wait, actions, j):
     for char in j['title']:
         occ.send_keys(char)
         time.sleep(0.02)
-    time.sleep(0.5)
-    occ.send_keys(Keys.TAB)
 
-    emp = driver.find_element(By.CSS_SELECTOR, "input[placeholder*='Name of the Employer']")
+    # --- CORRECTION ICI ---
+    time.sleep(1) # Laisser la liste apparaître
+    occ.send_keys(Keys.ESCAPE) # Fermer la liste de suggestions si elle est ouverte
+    time.sleep(0.5)
+    occ.send_keys(Keys.TAB) # Passer au champ suivant proprement
+    # ----------------------
+
+    emp = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "input[placeholder*='Name of the Employer']")))
     emp.click()
     emp.clear()
     emp.send_keys(j['employer'])
