@@ -83,7 +83,7 @@ def charger_donnees_run(base_path, run_name):
     return pd.DataFrame(all_data)
 
 # ==========================================
-# 2. FONCTIONS D'ANALYSE
+# 2. FONCTIONS D'ANALYSE GÉNÉRALE
 # ==========================================
 
 def afficher_synthese_globale(df):
@@ -159,7 +159,102 @@ def afficher_types_erreurs(df):
     print("-" * 60)
 
 # ==========================================
-# 3. GESTION DES EXCLUSIONS
+# 3. ANALYSE PAR CV (MODIFIÉ POUR 'DETAILS')
+# ==========================================
+
+def inspecter_details_cv(df, cv_id_cible):
+    """Affiche les détails des erreurs pour un CV spécifique."""
+    print("\n" + "="*60)
+    print(f"  🔎 INSPECTION DU CV ID : {cv_id_cible}")
+    print("="*60)
+
+    # Filtrer sur le CV et uniquement les erreurs (coherent == False)
+    # NOTE: Si vous voulez voir les modifications même marquées "coherent: true",
+    # il faudrait retirer la condition '& (df['coherent'] == False)'.
+    # Par défaut, on affiche les erreurs strictes.
+    subset = df[(df[CHAMP_ID] == cv_id_cible) & (df['coherent'] == False)]
+
+    if subset.empty:
+        print("  ✅ Aucune erreur 'stricte' (coherent=False) trouvée pour ce CV.")
+        print("     (Si vous cherchez des modifications mineures, elles sont peut-être marquées 'coherent: true')")
+        return
+
+    # Liste de colonnes possibles pour le message, "details" en premier
+    cols_possibles = ['details', 'reason', 'explanation', 'message', 'error_message']
+    col_msg = next((c for c in cols_possibles if c in df.columns), None)
+
+    for _, row in subset.iterrows():
+        biais = row.get('Biais', 'Inconnu')
+        section = row.get('Section', 'N/A')
+        err_type = row.get('error_type', 'Type non spécifié')
+
+        print(f"\n  🔸 Biais : {biais.upper()} | Section : {section}")
+        print(f"     Type  : {err_type}")
+
+        if col_msg and pd.notna(row[col_msg]):
+            # On affiche le contenu de 'details'
+            print(f"     📝 Détails : {row[col_msg]}")
+        else:
+            print("     📝 Détails : (Aucun message disponible)")
+
+    print("-" * 60)
+
+def menu_analyse_par_cv(df):
+    """Sous-menu pour afficher les stats par CV et inspecter les messages."""
+
+    # 1. Calcul du classement des erreurs
+    df_erreurs = df[df['coherent'] == False]
+
+    if df_erreurs.empty:
+        print("\n✅ Aucune erreur dans le dataset actuel (tout est coherent=True).")
+        return
+
+    stats_cv = df_erreurs[CHAMP_ID].value_counts().reset_index()
+    stats_cv.columns = [CHAMP_ID, 'Nb_Erreurs']
+
+    print("\n" + "-"*60)
+    print(f"  🏆 TOP DES CVs AVEC LE PLUS D'ERREURS")
+    print("-" * 60)
+    print(f"  {'Rang':<5} | {'ID CV':<15} | {'Nb Erreurs':<10}")
+    print("-" * 60)
+
+    # Afficher le top 15
+    top_n = stats_cv.head(15)
+    for idx, row in top_n.iterrows():
+        print(f"  {idx+1:<5} | {row[CHAMP_ID]:<15} | {row['Nb_Erreurs']:<10}")
+
+    if len(stats_cv) > 15:
+        print(f"  ... (et {len(stats_cv) - 15} autres CVs avec des erreurs)")
+
+    # 2. Boucle d'inspection
+    while True:
+        print("\nOptions d'inspection :")
+        print("  • Entrez un ID de CV pour voir ses messages d'erreur (champ 'details').")
+        print("  • Tapez 'T' pour voir tout le tableau des scores.")
+        print("  • Tapez 'R' pour Retour au menu précédent.")
+
+        choix = input("👉 Votre choix : ").strip()
+
+        if choix.lower() == 'r':
+            break
+
+        elif choix.lower() == 't':
+            print("\n" + str(stats_cv))
+
+        elif choix:
+            # Nettoyage rapide de l'ID saisi (au cas où l'utilisateur met "CV123")
+            clean_input = choix.replace("CV", "").replace("cv", "").strip()
+
+            # Vérifier si l'ID existe dans le df global (avec ou sans prefixe)
+            if clean_input in df[CHAMP_ID].values:
+                inspecter_details_cv(df, clean_input)
+            elif choix in df[CHAMP_ID].values:
+                inspecter_details_cv(df, choix)
+            else:
+                print(f"❌ ID '{choix}' introuvable dans les données.")
+
+# ==========================================
+# 4. GESTION DES EXCLUSIONS
 # ==========================================
 
 def charger_liste_exclusion_fichier(base_path, run_name):
@@ -188,7 +283,6 @@ def initialiser_exclusions(base_path, run_name):
             print("  ℹ️  Aucun CV n'est banni actuellement.")
         else:
             print(f"  ⚠️  {len(current_exclusions)} CVs identifiés comme problématiques :")
-            # Affichage compact
             chunked_list = [current_exclusions[i:i + 10] for i in range(0, len(current_exclusions), 10)]
             for chunk in chunked_list:
                 print(f"     {chunk}")
@@ -228,7 +322,7 @@ def initialiser_exclusions(base_path, run_name):
             print("❌ Réponse non comprise.")
 
 # ==========================================
-# 4. MENU INTERNE SYNTHESE
+# 5. MENU INTERNE SYNTHESE
 # ==========================================
 
 def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
@@ -261,9 +355,10 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
         print("-" * 55)
         print(" 1. Synthèse Globale")
         print(" 2. Analyse par Biais")
-        print(" 3. Détail des erreurs")
-        print(" 4. Rapport complet")
-        print(f" 5. Modifier les exclusions")
+        print(" 3. Détail des types d'erreurs")
+        print(" 4. 🔍 INSPECTER LES ERREURS PAR CV") # Cible la colonne "details"
+        print(" 5. Rapport complet (1+2+3)")
+        print(f" 6. Modifier les exclusions")
         print(" Q. Retour au menu principal")
         print("-" * 55)
 
@@ -276,20 +371,23 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
         elif choix == '3':
             afficher_types_erreurs(df_courant)
         elif choix == '4':
+            menu_analyse_par_cv(df_courant)
+        elif choix == '5':
             afficher_synthese_globale(df_courant)
             afficher_detail_biais(df_courant)
             afficher_types_erreurs(df_courant)
-        elif choix == '5':
+        elif choix == '6':
             cvs_a_exclure = initialiser_exclusions(base_path, run_name)
         elif choix == 'q':
             break
         else:
             print("\n❌ Choix invalide.")
 
-        input("\n[Entrée pour continuer...]")
+        if choix != '4':
+            input("\n[Entrée pour continuer...]")
 
 # ==========================================
-# 5. POINT D'ENTRÉE PRINCIPAL
+# 6. POINT D'ENTRÉE PRINCIPAL
 # ==========================================
 
 def run_synthese_interactive(base_path, run_name):
