@@ -168,7 +168,6 @@ def main():
     elif action == 3:
         process_analyses(selected_run)
     elif action == 4:
-        # Appel au module synthese
         synthese.run_synthese_interactive(base_path, selected_run)
 
 if __name__ == "__main__":

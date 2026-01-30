@@ -356,7 +356,7 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
         print(" 1. Synthèse Globale")
         print(" 2. Analyse par Biais")
         print(" 3. Détail des types d'erreurs")
-        print(" 4. 🔍 INSPECTER LES ERREURS PAR CV") # Cible la colonne "details"
+        print(" 4. Inspecter les erreurs par CV")
         print(" 5. Rapport complet (1+2+3)")
         print(f" 6. Modifier les exclusions")
         print(" Q. Retour au menu principal")
