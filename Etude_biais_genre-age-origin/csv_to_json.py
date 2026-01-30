@@ -29,7 +29,7 @@ def transform_cv_data(input_path, output_path, extraction_type):
         key_name = f"{cv_name} {extraction_type.capitalize()}"
 
         # 2. Traitement des expériences professionnelles
-        prof_exp_raw = row.get('Professional Experience-value') # .get est plus sûr
+        prof_exp_raw = row.get('Professional Experiences-value') # .get est plus sûr
         prof_experiences = []
         if pd.notna(prof_exp_raw):
             try:
