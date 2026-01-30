@@ -81,10 +81,10 @@
     },
     {
         "cv_id": "Amelie 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Wellness' interest in Extraction lacks the description 'Regular practice focused on balance and resilience' found in Reference.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
@@ -113,10 +113,10 @@
     },
     {
         "cv_id": "Amelie 15",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'List of studies' section contains a modification in the 'French Baccalauréat' entry. The field of study is 'Economics & Sciences' in the Reference but is not found in the Extraction. Additionally, the degree level is 'French Baccalauréat' in the Reference and 'Baccalauréat (Economics)' in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Amelie"
     },
     {
@@ -156,7 +156,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The field of study for the Baccalauréat is 'Economics & Sciences' in the Reference but 'Economics' in the Extraction. Additionally, the interest 'Yoga & Mindfulness' is modified to 'Wellness' in the Extraction.",
+        "details": "The 'List of studies' section has a modification in the dates for the 'Lycée Louis-le-Grand' entry. The Reference lists '2022' while the Extraction lists '2021 - 2022'.",
         "reference_used": "Amelie"
     },
     {
@@ -401,10 +401,10 @@
     },
     {
         "cv_id": "Camille 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'International Exchange' study at McGill University is missing from the Extraction. Additionally, the 'Culture' interest is not present in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Camille"
     },
     {
@@ -721,10 +721,10 @@
     },
     {
         "cv_id": "Clara 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The interest 'Long-distance running' is missing from the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Clara"
     },
     {
@@ -737,10 +737,10 @@
     },
     {
         "cv_id": "Clara 13",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Student Consultant' experience has a different location ('not found' vs 'Lyon, France'). The 'Strategy Analyst Intern' description is less detailed in the Extraction. The 'Baccalauréat' dates differ ('2022' vs '1 Sep 2021 - 1 Jun 2022').",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Clara"
     },
     {
@@ -753,10 +753,10 @@
     },
     {
         "cv_id": "Clara 15",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'country or city' for the 'Student Consultant' role at 'emlyon Junior Conseil' differs between the Reference ('not found') and Extraction ('Lyon'). The 'country or city' for the 'Bachelor in Management' degree differs between the Reference ('Lyon, France') and Extraction ('not found'). The 'dates' for the 'French Baccalauréat' differ between the Reference ('2022') and Extraction ('2021 - 2022').",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Clara"
     },
     {
@@ -785,10 +785,10 @@
     },
     {
         "cv_id": "Clara 19",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Modification",
+        "details": "The 'country or city' for 'emlyon Junior Conseil' and 'emlyon business school' is inconsistent between Reference and Extraction. Additionally, the 'field' for the studies at 'Lycée du Parc' is missing in Extraction.",
         "reference_used": "Clara"
     },
     {
@@ -1044,7 +1044,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The personal interest 'Chess' and 'Marathon training' are missing in the Extraction.",
+        "details": "The personal interest 'Marathon training' is missing from the Extraction.",
         "reference_used": "Hugo"
     },
     {
@@ -1089,10 +1089,10 @@
     },
     {
         "cv_id": "Hugo 17",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The personal interests section in the Extraction has been modified. 'Stock market investing' is listed as 'Investing', and 'Chess' and 'Marathon training' are grouped under 'Sports'.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Hugo"
     },
     {
@@ -1361,10 +1361,10 @@
     },
     {
         "cv_id": "Ines 11",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -1377,10 +1377,10 @@
     },
     {
         "cv_id": "Ines 13",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Ines"
     },
     {
@@ -1393,10 +1393,10 @@
     },
     {
         "cv_id": "Ines 15",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.",
         "reference_used": "Ines"
     },
     {
@@ -1745,10 +1745,10 @@
     },
     {
         "cv_id": "Louis 19",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent",
+        "error_type": "Omission",
+        "details": "The 'Business Analytics Project (Academic)' experience is missing from the Extraction.",
         "reference_used": "Louis"
     },
     {
@@ -2449,10 +2449,10 @@
     },
     {
         "cv_id": "Sarah 27",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The personal interest 'Cultural Trends' is missing from the Extraction.",
+        "error_type": "None",
+        "details": "Consistent",
         "reference_used": "Sarah"
     },
     {
@@ -2852,7 +2852,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'French Baccalauréat' study at 'Lycée Clémenceau' is missing from the Extraction.",
+        "details": "The 'French Baccalauréat' study from Lycée Clémenceau is missing in the Extraction.",
         "reference_used": "ThomasG"
     },
     {
@@ -3188,7 +3188,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The Extraction is missing the 'Sports' and 'Tech' personal interests, and the 'List of studies' is missing the 'Tech Blogger' interest and the 'Sports' interest.",
+        "details": "The 'Sports' and 'Tech' personal interests are missing from the Extraction.",
         "reference_used": "ThomasL"
     },
     {

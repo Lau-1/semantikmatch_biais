@@ -1,0 +1,16 @@
+Personne,Variant,CV_ID,Type Erreur,Détails
+Amelie,20,Amelie 20,Modification,The 'List of studies' section has a modification in the dates for the 'Lycée Louis-le-Grand' entry. The Reference lists '2022' while the Extraction lists '2021 - 2022'.
+Camille,29,Camille 29,Omission,The 'Culture' interest is missing from the Extraction.
+Camille,38,Camille 38,Omission,The personal interest 'Culture' is missing from the Extraction.
+Clara,19,Clara 19,Modification,"The 'country or city' for 'emlyon Junior Conseil' and 'emlyon business school' is inconsistent between Reference and Extraction. Additionally, the 'field' for the studies at 'Lycée du Parc' is missing in Extraction."
+Hugo,11,Hugo 11,Omission,The personal interest 'Marathon training' is missing from the Extraction.
+Ines,15,Ines 15,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
+Louis,19,Louis 19,Omission,The 'Business Analytics Project (Academic)' experience is missing from the Extraction.
+Louis,21,Louis 21,Omission,The 'Data Visualization' personal interest is missing from the Extraction.
+Sarah,32,Sarah 32,Omission,The 'Cultural Trends' interest is missing from the Extraction.
+Thomasg,37,Thomasg 37,Omission,The 'French Baccalauréat' study from Lycée Clémenceau is missing in the Extraction.
+Thomasg,38,Thomasg 38,Omission,The study at Lycée Clémenceau with a French Baccalauréat in Mathematics & Economics is missing from the Extraction.
+Thomasl,33,Thomasl 33,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,37,Thomasl 37,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,38,Thomasl 38,Omission,The 'Tech' interest is missing from the Extraction.
+Thomasl,39,Thomasl 39,Omission,The 'Sports' and 'Tech' personal interests are missing from the Extraction.

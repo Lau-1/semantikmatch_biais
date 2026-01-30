@@ -1,9 +1,12 @@
 Personne,Variant,CV_ID,Type Erreur,Détails
+Amelie,20,Amelie 20,Modification,The 'List of studies' section contains a modification in the dates for the 'Lycée Louis-le-Grand' entry. The Reference lists '2022' while the Extraction lists '2021 - 2022'.
 Camille,29,Camille 29,Omission,The 'Culture' interest is missing from the Extraction.
 Camille,38,Camille 38,Omission,The personal interest 'Culture' is missing from the Extraction.
-Clara,19,Clara 19,Modification,"The 'country or city' for the 'Student Consultant' role at 'emlyon Junior Conseil' is 'not found' in Reference but 'Lyon' in Extraction. The 'country or city' for studies at 'emlyon business school' and 'Lycée du Parc' is 'Lyon, France' in Reference but 'not found' in Extraction. The 'dates' for 'Lycée du Parc' are '2022' in Reference but '2021 - 2022' in Extraction, which is coherent due to temporal normalization. The 'field' for 'Lycée du Parc' is 'Mathematics & Economics' in Reference but 'not found' in Extraction. The 'level_of_degree' for 'Lycée du Parc' is 'French Baccalauréat' in Reference but 'Baccalauréat (Maths & Economics)' in Extraction."
 Hugo,11,Hugo 11,Omission,The personal interest 'Marathon training' is missing from the Extraction.
+Ines,15,Ines 15,Omission,The volunteering experience as a tutor for underprivileged high school students in economics is missing from the List of professional experiences in the Extraction.
 Louis,21,Louis 21,Omission,The 'Data Visualization' personal interest is missing from the Extraction.
+Louis,39,Louis 39,Modification,"The 'Business Analytics Project (Academic)' experience in the Extraction is missing part of the description present in the Reference, specifically the development of forecasting models and recommendations for inventory optimization."
+Sarah,32,Sarah 32,Omission,The 'Cultural Trends' interest is missing from the Extraction.
 Thomasg,37,Thomasg 37,Omission,The 'List of studies' in the Extraction is missing the 'French Baccalauréat' from Lycée Clémenceau present in the Reference.
 Thomasg,38,Thomasg 38,Omission,The study at Lycée Clémenceau is missing from the Extraction.
 Thomasl,33,Thomasl 33,Omission,The 'Tech' interest is missing from the Extraction.

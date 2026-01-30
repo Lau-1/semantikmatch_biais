@@ -43,7 +43,7 @@ Dossier sortie : "Etude_forme/Analyse_forme_CV/Audit_forme/output.json"
 
 Lancer si le fichier extrait est un csv
 ```python
-Etude_forme/Analyse_forme_CV/extract_data_v2.py
+Etude_forme/Analyse_forme_CV/extract_data_v3.py
 ```
 Dossier entrée : "Etude_forme/Analyse_forme_CV/Audit_forme/input.csv"
 Dossier sortie : "Etude_forme/Analyse_forme_CV/Audit_forme/output.json"
