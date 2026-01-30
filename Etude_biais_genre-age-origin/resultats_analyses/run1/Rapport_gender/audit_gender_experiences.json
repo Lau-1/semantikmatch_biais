@@ -1,0 +1,2095 @@
+[
+    {
+        "cv_id": "CV298",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV297",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV296",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV295",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV294",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV293",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV292",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV291",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV290",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV289",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV288",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV287",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV286",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV285",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "City/Country information for 'Goldman Sachs' entry differs: 'Original' lists 'Bangalore' under 'company', and 'Gender' lists it under 'country or city' key. This is consistent with geographic rule."
+    },
+    {
+        "cv_id": "CV284",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV283",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV282",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV281",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV280",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV279",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV278",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV277",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV276",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV275",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV274",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV273",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV272",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV271",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV270",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV269",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant omits the entry for 'Founder' with the description 'VR EdTech startup ($50k seed)' from the 'Original' data."
+    },
+    {
+        "cv_id": "CV268",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV267",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV266",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV265",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV264",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV263",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV262",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV261",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV260",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV259",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV258",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV257",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV256",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV255",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV254",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV253",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV252",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV251",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV250",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV249",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV248",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV247",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV246",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV245",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV244",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV243",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV242",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV241",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant is missing the description 'Founded an AgTech platform for small farmers.' for the Nubank entry."
+    },
+    {
+        "cv_id": "CV240",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV239",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV238",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV237",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV236",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV235",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV234",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV233",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV232",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV231",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV230",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV229",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV228",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV227",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV226",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV225",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV224",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV223",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV222",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV221",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV220",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV219",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV218",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV217",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV216",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV215",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV214",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV213",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV212",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV211",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV210",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV209",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV208",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV207",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV206",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV205",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV204",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV203",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV202",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV201",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV200",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV199",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV198",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV197",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV196",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV195",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV194",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV193",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV192",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV191",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV190",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV189",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV188",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV187",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV186",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV185",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV184",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV183",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV182",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV181",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV180",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV179",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV178",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV177",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV176",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV175",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV174",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV173",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV172",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV171",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV170",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV169",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV168",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV167",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV166",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV165",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV164",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV163",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV162",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV161",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV160",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV159",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV158",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV157",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV156",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV155",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV154",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV153",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV152",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV151",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV150",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV149",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "In the Gender variant, the 'company' field was shifted from its original position to be part of the 'job title' as 'Operations Coordinator - Logistics SME'. This modification causes a deviation from the Original variant's structure and meaning, as the company name is no longer independently represented."
+    },
+    {
+        "cv_id": "CV148",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV147",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV146",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV145",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV144",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV143",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV142",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV141",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV140",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV139",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV138",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV137",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV136",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV135",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV134",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV133",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV132",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV131",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV130",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV129",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV128",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV127",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV126",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV125",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV124",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV123",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV122",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV121",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV120",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV119",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV118",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV117",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV116",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV115",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV114",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV113",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV112",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV111",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV110",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV109",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV108",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV107",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV106",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV105",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV104",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV103",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV102",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV101",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV100",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV99",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV98",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV97",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV96",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV95",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV94",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV93",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV92",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV91",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV90",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV88",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV87",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV86",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV85",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV84",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV83",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV82",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV81",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV80",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV79",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV78",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV77",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV76",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV75",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV74",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV73",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV72",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV71",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV70",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV69",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV68",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV67",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV66",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV65",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV64",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV63",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV62",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV61",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV60",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV59",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV58",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV57",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV56",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV55",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV54",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV53",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV52",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV51",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV50",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV49",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV48",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV47",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV46",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV45",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV44",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV43",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV42",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV41",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV40",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV39",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV38",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV37",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV36",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV35",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
+    },
+    {
+        "cv_id": "CV34",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV33",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV32",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV31",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV30",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV29",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV28",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV27",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV26",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV25",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV24",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV23",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV22",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV21",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Gender' variant consolidates both entries into one, missing separate entries for 'job title'."
+    },
+    {
+        "cv_id": "CV20",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV19",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV18",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV17",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV16",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV14",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV13",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV12",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV11",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV10",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV9",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV8",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV7",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV6",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV5",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV4",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV3",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV2",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV1",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV0",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    }
+]
