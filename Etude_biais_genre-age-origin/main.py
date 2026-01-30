@@ -2,7 +2,6 @@ import os
 import sys
 
 # --- CONFIGURATION DU CHEMIN PYTHON ---
-# On récupère le dossier racine où se trouve main.py
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 # On définit le chemin vers le sous-dossier d'analyse pour les imports
@@ -13,6 +12,7 @@ if analyse_path not in sys.path:
 # --- IMPORTS ---
 from csv_to_json import transform_cv_data
 from jointure_json import run_jointure
+import synthese # Import du module de synthèse
 
 try:
     from analyseage import AnalyseAge
@@ -31,19 +31,37 @@ def get_available_runs(root_path):
     return runs
 
 def menu_select_run(runs):
-    """Affiche le menu de sélection de la run."""
+    """
+    Affiche le menu de sélection de la run.
+    Permet aussi de SAISIR manuellement le nom.
+    """
     print("\n--- SÉLECTION DE LA RUN ---")
     for i, run in enumerate(runs):
         print(f"{i + 1}. {run}")
 
+    # Ajout de l'option de saisie manuelle
+    print("M. Saisir le nom du dossier manuellement")
+
     while True:
+        choice = input("\nVotre choix (Numéro ou 'M') : ").strip()
+
+        # Gestion Saisie Manuelle
+        if choice.lower() == 'm':
+            manual_name = input("✍️  Entrez le nom exact du dossier run : ").strip()
+            if manual_name:
+                return manual_name
+            else:
+                print("Le nom ne peut pas être vide.")
+                continue
+
+        # Gestion Sélection Numérique
         try:
-            choice = int(input("\nChoisissez le numéro de la run : "))
-            if 1 <= choice <= len(runs):
-                return runs[choice - 1]
-            print("Choix invalide.")
+            idx = int(choice)
+            if 1 <= idx <= len(runs):
+                return runs[idx - 1]
+            print("Numéro invalide.")
         except ValueError:
-            print("Veuillez entrer un nombre.")
+            print("Entrée invalide. Tapez un numéro ou 'M'.")
 
 def process_csv_to_json(root_path, selected_run):
     """Option 1 : CSV vers JSON."""
@@ -78,20 +96,11 @@ def process_csv_to_json(root_path, selected_run):
     print(f"✅ Terminé : {output_run_folder}")
 
 def process_analyses(selected_run):
-    """
-    Option 3 : Lance les analyses.
-    Utilise des CHEMINS ABSOLUS pour éviter les erreurs "dossier n'existe pas".
-    """
+    """Option 3 : Lance les analyses."""
     print(f"\n🚀 Lancement des analyses pour : {selected_run}")
 
-    # Construction des chemins ABSOLUS basés sur l'emplacement de main.py
-    # Entrée : racine/resultats_jointure_json
     abs_input_dir = os.path.join(base_path, "resultats_jointure_json")
-
-    # Sortie : racine/resultats_analyses
     abs_output_dir = os.path.join(base_path, "resultats_analyses")
-
-    # Vérification dossier source spécifique à la run (ex: .../run1)
     run_source_check = os.path.join(abs_input_dir, selected_run)
 
     if not os.path.exists(run_source_check):
@@ -112,7 +121,6 @@ def process_analyses(selected_run):
         print(f"------------------------------------------------")
 
         try:
-            # On envoie les chemins ABSOLUS aux scripts d'analyse
             analyseur.process_runs(
                 input_root=abs_input_dir,
                 output_root=abs_output_dir,
@@ -125,38 +133,43 @@ def process_analyses(selected_run):
     print(f"📁 Résultats ici : {os.path.join(abs_output_dir, selected_run)}")
 
 def main():
-    # 1. On cherche les runs à la racine du projet
     runs = get_available_runs(base_path)
 
+    # Note : Si aucun dossier run n'est trouvé, on permet quand même l'exécution
+    # car l'utilisateur voudra peut-être saisir un nom manuellement.
     if not runs:
-        print(f"Aucun dossier 'run' trouvé dans : {base_path}")
-        return
+        print(f"ℹ️  Aucun dossier 'run*' détecté automatiquement.")
 
-    # --- MENU ---
+    # --- MENU ACTION ---
     print("\n=== MENU PRINCIPAL ===")
     print("1. Transformer CSV en JSON")
     print("2. Faire la Jointure des JSONs")
     print("3. Lancer les analyses (Age, Genre, Origine)")
+    print("4. Synthèse et Reporting")
 
     while True:
         try:
-            action = int(input("Votre choix (1, 2 ou 3) : "))
-            if action in [1, 2, 3]:
+            action = int(input("Votre choix (1, 2, 3 ou 4) : "))
+            if action in [1, 2, 3, 4]:
                 break
         except ValueError:
             pass
         print("Choix invalide.")
 
+    # --- SÉLECTION DE LA RUN ---
+    # On demande quelle run traiter, soit via la liste, soit manuellement
     selected_run = menu_select_run(runs)
 
+    # --- EXÉCUTION ---
     if action == 1:
         process_csv_to_json(base_path, selected_run)
     elif action == 2:
-        # Note: Assurez-vous que run_jointure gère bien les chemins,
-        # sinon il faudra peut-être adapter comme pour process_analyses
         run_jointure(selected_run)
     elif action == 3:
         process_analyses(selected_run)
+    elif action == 4:
+        # Appel au module synthese
+        synthese.run_synthese_interactive(base_path, selected_run)
 
 if __name__ == "__main__":
     main()
