@@ -1,0 +1,142 @@
+[
+    {
+        "cv_id": "CV297",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating missing information compared to the 'Age' variant."
+    },
+    {
+        "cv_id": "CV291",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, while the 'Age' list contains entries."
+    },
+    {
+        "cv_id": "CV280",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information compared to the 'Age' variant."
+    },
+    {
+        "cv_id": "CV271",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty but the 'Age' list contains items, indicating missing information in the 'Original'."
+    },
+    {
+        "cv_id": "CV267",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, indicating an omission in the original content."
+    },
+    {
+        "cv_id": "CV245",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Age' variant contains items, indicating missing data in the 'Original'."
+    },
+    {
+        "cv_id": "CV235",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Age' list contains entries, indicating an omission in the 'Original'."
+    },
+    {
+        "cv_id": "CV223",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty while Age variant contains items."
+    },
+    {
+        "cv_id": "CV210",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original is an empty list, indicating missing information compared to the Age variant."
+    },
+    {
+        "cv_id": "CV199",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' is an empty list, indicating missing information compared to 'Age'."
+    },
+    {
+        "cv_id": "CV182",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information compared to 'Age'."
+    },
+    {
+        "cv_id": "CV168",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty, but the 'Age' variant contains content."
+    },
+    {
+        "cv_id": "CV150",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The Original list is empty, indicating missing information compared to the Age variant."
+    },
+    {
+        "cv_id": "CV137",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information in comparison to the 'Age' variant."
+    },
+    {
+        "cv_id": "CV112",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty while Age list contains entries."
+    },
+    {
+        "cv_id": "CV104",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Age' list contains entries such as 'Public policy', 'consulting', and 'data analysis'."
+    },
+    {
+        "cv_id": "CV89",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "Original list is empty while Age list contains hobbies: 'Personal finance', 'cycling', 'financial literacy'."
+    },
+    {
+        "cv_id": "CV42",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, which constitutes an omission compared to the 'Age' variant."
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' list is empty while the 'Age' list contains items. This is an omission."
+    },
+    {
+        "cv_id": "CV1",
+        "coherent": false,
+        "empty_list": true,
+        "error_type": "Omission",
+        "details": "The 'Original' variant is an empty list, indicating missing information or data."
+    }
+]
