@@ -11,7 +11,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV280",
@@ -81,7 +81,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV150",
@@ -102,7 +102,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV104",
@@ -115,28 +115,28 @@
         "cv_id": "CV89",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data is an empty list, indicating missing information."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV42",
         "coherent": true,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, while the 'Origin' list contains data, indicating an omission in the 'Original'."
+        "error_type": "Original empty",
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV15",
         "coherent": true,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, which is an omission according to the rules."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV1",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is an empty dictionary, indicating an omission."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     }
 ]

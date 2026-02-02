@@ -32,7 +32,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV245",
@@ -67,14 +67,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV182",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV168",
@@ -95,7 +95,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV112",
@@ -115,28 +115,28 @@
         "cv_id": "CV89",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original list is empty, indicating an omission in the 'Origin' variant."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV42",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original list is empty, while Origin contains items."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV15",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is an empty list while Origin contains items, indicating an omission."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV1",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, while the 'Origin' contains items."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     }
 ]

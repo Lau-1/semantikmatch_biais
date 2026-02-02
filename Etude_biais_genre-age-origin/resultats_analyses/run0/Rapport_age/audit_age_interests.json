@@ -25,7 +25,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV267",
@@ -109,34 +109,34 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, while the 'Age' variant contains items. This is an omission."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV42",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating an omission. The 'Age' variant contains hobbies/interests such as 'Football', 'photography', 'cooking', and 'finance meetups' that are absent in 'Original'."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV15",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating missing content compared to the 'Age' list."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV1",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, while the 'Age' variant contains items."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     }
 ]

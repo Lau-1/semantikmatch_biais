@@ -11,7 +11,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV280",
@@ -36,10 +36,10 @@
     },
     {
         "cv_id": "CV245",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' in the Age variant differs from the Original. The Original specifies 'Optimization and Machine Learning', while the Age variant lists 'Industrial Economics'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV235",
@@ -115,28 +115,28 @@
         "cv_id": "CV89",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty dictionary, indicating missing information."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV42",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Consistent"
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV15",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, indicating information is missing."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV1",
         "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is an empty list, indicating an omission in the 'Age' variant."
+        "error_type": "Original empty",
+        "details": "Original is empty."
     }
 ]

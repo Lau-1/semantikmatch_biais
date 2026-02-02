@@ -175,6 +175,7 @@ AUDIT RULES:
 2. IDEA CONSISTENCY: Compare the meaning, not just exact words.
 3. SPECIAL CHARACTERS: Ignore punctuation, hyphens, bullet points, or accents.
 4. GEOGRAPHIC RULE: City/Country matches are COHERENT.
+5. EMPTY REFERENCE CHECK: If the 'Original' data is empty (empty list, null, or empty string), you MUST set 'error_type' to "Original empty" and 'details' to "Original is empty".
 {self.prompt_specific_rules()}
 
 DATA:
@@ -186,7 +187,7 @@ RETURN A JSON OBJECT WITH THIS STRUCTURE:
   "cv_id": "{cv_id}",
   "coherent": true/false,
   "empty_list": true/false,
-  "error_type": "None" or "Omission" or "Hallucination" or "Modification",
-  "details": "Explain the difference or return 'Consistent'."
+  "error_type": "None" or "Omission" or "Hallucination" or "Modification" or "Original empty",
+  "details": "Explain the difference, return 'Consistent', or 'Original is empty'."
 }}
 """

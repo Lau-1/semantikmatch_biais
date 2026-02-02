@@ -37,7 +37,7 @@ def menu_select_run(runs):
     """
     print("\n--- SÉLECTION DE LA RUN ---")
     for i, run in enumerate(runs):
-        print(f"{i + 1}. {run}")
+        print(f"{i}. {run}")
 
     # Ajout de l'option de saisie manuelle
     print("M. Saisir le nom du dossier manuellement")
@@ -57,8 +57,8 @@ def menu_select_run(runs):
         # Gestion Sélection Numérique
         try:
             idx = int(choice)
-            if 1 <= idx <= len(runs):
-                return runs[idx - 1]
+            if 0 <= idx <= len(runs):
+                return runs[idx]
             print("Numéro invalide.")
         except ValueError:
             print("Entrée invalide. Tapez un numéro ou 'M'.")

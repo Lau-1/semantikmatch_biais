@@ -99,10 +99,10 @@
     },
     {
         "cv_id": "CV112",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant modifies the 'company' and 'job title' fields in the second entry by combining them, which changes the original structure and meaning."
     },
     {
         "cv_id": "CV104",
