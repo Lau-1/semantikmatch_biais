@@ -1,5 +1,12 @@
 {
     "CV297": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Goethe University Frankfurt",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration & Finance"
+        },
         "Gender": {
             "studies": [
                 {
@@ -31,6 +38,13 @@
         }
     },
     "CV291": {
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "Robotics and Production Systems",
+            "university": "Trinity College Dublin",
+            "country or city": "not found",
+            "level_of_degree": "BEng in Mechanical and Manufacturing Engineering"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "Robotics and Production Systems",
@@ -54,6 +68,13 @@
         }
     },
     "CV280": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Yonsei University",
+            "country or city": "not found",
+            "level_of_degree": "BA in Business Administration"
+        },
         "Gender": {
             "dates": "2021 - 2024",
             "field": "not found",
@@ -77,6 +98,13 @@
         }
     },
     "CV271": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "Specialized in Environmental Economics",
+            "university": "Université Paris-Dauphine",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor en Économie et Gestion"
+        },
         "Gender": {
             "studies": [
                 {
@@ -112,6 +140,13 @@
         }
     },
     "CV267": {
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Trinity College Dublin",
+            "country or city": "not found",
+            "level_of_degree": "BEng in Mechanical Engineering"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "Manufacturing Systems",
@@ -135,6 +170,13 @@
         }
     },
     "CV245": {
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "Optimization and Machine Learning",
+            "university": "NTNU",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Industrial Economics"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "Optimization and Machine Learning",
@@ -158,6 +200,13 @@
         }
     },
     "CV235": {
+        "Original": {
+            "dates": "2019 - 2023",
+            "field": "not found",
+            "university": "IIT Madras",
+            "country or city": "not found",
+            "level_of_degree": "B.Tech in Computer Science"
+        },
         "Gender": {
             "dates": "2019 - 2023",
             "field": "Computer Science",
@@ -181,6 +230,13 @@
         }
     },
     "CV223": {
+        "Original": {
+            "dates": "2018 - 2022",
+            "field": "Game Theory and Venture Capital",
+            "university": "Waseda University",
+            "country or city": "not found",
+            "level_of_degree": "BA in Economics"
+        },
         "Gender": {
             "dates": "2018 - 2022",
             "field": "Game Theory and Venture Capital",
@@ -208,6 +264,13 @@
         }
     },
     "CV210": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "Marketing",
+            "university": "Fudan University",
+            "country or city": "not found",
+            "level_of_degree": "BA in Marketing"
+        },
         "Gender": {
             "dates": "2021 - 2024",
             "field": "not found",
@@ -235,6 +298,13 @@
         }
     },
     "CV199": {
+        "Original": {
+            "dates": "2020 - 2024",
+            "field": "Focus on Digital Media and Consumer Behavior.",
+            "university": "Keio University, Tokyo",
+            "country or city": "Tokyo",
+            "level_of_degree": "BA in Communications"
+        },
         "Gender": {
             "dates": "2020 - 2024",
             "field": "Focus on Digital Media and Consumer Behavior.",
@@ -258,6 +328,13 @@
         }
     },
     "CV182": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "Strategic Management and Corporate Governance",
+            "university": "University of Mannheim",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration"
+        },
         "Gender": {
             "dates": "2021 - 2024",
             "field": "Strategic Management and Corporate Governance",
@@ -281,6 +358,13 @@
         }
     },
     "CV168": {
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "King's College London",
+            "country or city": "not found",
+            "level_of_degree": "BA in Film and Media Studies"
+        },
         "Gender": {
             "dates": "2021 - 2024",
             "field": "not found",
@@ -304,6 +388,13 @@
         }
     },
     "CV150": {
+        "Original": {
+            "dates": "2018 - 2020",
+            "field": "not found",
+            "university": "Lycée Voltaire",
+            "country or city": "Paris",
+            "level_of_degree": "BTS Communication"
+        },
         "Gender": {
             "dates": "2018 - 2020",
             "field": "not found",
@@ -327,6 +418,13 @@
         }
     },
     "CV137": {
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Tampere University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Information Technology"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -354,6 +452,13 @@
         }
     },
     "CV112": {
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "ESPM Sao Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Advertising"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -377,6 +482,13 @@
         }
     },
     "CV104": {
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Ljubljana",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business and Organization"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -400,6 +512,7 @@
         }
     },
     "CV89": {
+        "Original": {},
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -423,6 +536,7 @@
         }
     },
     "CV42": {
+        "Original": {},
         "Gender": {
             "dates": "2022",
             "field": "Finance and Marketing specialization",
@@ -468,6 +582,7 @@
         }
     },
     "CV15": {
+        "Original": {},
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -491,6 +606,7 @@
         }
     },
     "CV1": {
+        "Original": {},
         "Gender": {
             "dates": "2015",
             "field": "not found",

@@ -2,141 +2,141 @@
     {
         "cv_id": "CV297",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The Original variant is an empty list, indicating that the Origin variant is an addition without a reference."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV291",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original variant is an empty list, indicating an omission."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV280",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating an omission of content."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV271",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Origin contains data while Original is an empty list, which is an omission case."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV267",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The Origin list contains entries while the Original list is empty, indicating missing data."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV245",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty while the 'Origin' contains content."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV235",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Origin contains entries whereas Original is empty."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV223",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Origin data is present, but Original data is missing. This is an omission."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV210",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty while the 'Origin' list contains entries."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV199",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The Original list is empty while the Origin list is not, indicating an omission of data."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV182",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, whereas the 'Origin' variant contains entries, indicating an omission from the 'Original'."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV168",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
+        "empty_list": false,
+        "error_type": "None",
         "details": "Consistent."
     },
     {
         "cv_id": "CV150",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, therefore it is an Omission."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV137",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty while the 'Origin' list contains entries, indicating missing information in the 'Original' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV112",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, which constitutes an omission compared to the 'Origin' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV104",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty while the 'Origin' contains entries, indicating missing data in the 'Original'."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Origin contains entries while Original is an empty list. Intentional geographic changes are ignored, making entries consistent in terms of other information."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV42",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, which constitutes an omission compared to the 'Origin' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV15",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, while the 'Origin' list contains entries."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV1",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, while the 'Origin' list contains entries."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     }
 ]

@@ -1,142 +1,142 @@
 [
     {
         "cv_id": "CV297",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data is an empty list, indicating missing information compared to the 'Origin' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV291",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data is an empty list, which constitutes an Omission according to audit rules."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV280",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is an empty list, an omission case. As per the audit rules, an empty Original list makes any Origin list coherent by default."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV271",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, resulting in an omission."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV267",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating missing information compared to the 'Origin' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV245",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating an omission compared to the 'Origin' variant."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV235",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
+        "empty_list": false,
+        "error_type": "None",
         "details": "Consistent"
     },
     {
         "cv_id": "CV223",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data is an empty list, indicating missing data compared to the 'Origin'."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV210",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, which is an omission compared to the 'Origin' variant."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV199",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, which is an omission case according to the rules."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV182",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list while the 'Origin' variant contains data."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV168",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating an omission."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV150",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data is an empty list, hence an omission based on the audit rules."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV137",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, indicating an omission."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV112",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating an omission in the data comparison."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV104",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, which is an omission."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, which indicates an omission."
+        "details": "The 'Original' data is an empty list, indicating missing information."
     },
     {
         "cv_id": "CV42",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Original list is empty, indicating an omission if the Origin variant contains information."
+        "details": "The 'Original' list is empty, while the 'Origin' list contains data, indicating an omission in the 'Original'."
     },
     {
         "cv_id": "CV15",
         "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The Original list is empty, leading to an Omission."
+        "details": "The 'Original' is an empty list, which is an omission according to the rules."
     },
     {
         "cv_id": "CV1",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "Original list is empty, which leads to an omission as per the audit rules."
+        "details": "Original is an empty dictionary, indicating an omission."
     }
 ]

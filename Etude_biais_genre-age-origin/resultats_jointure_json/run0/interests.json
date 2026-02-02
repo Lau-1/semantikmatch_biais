@@ -1,5 +1,10 @@
 {
     "CV297": {
+        "Original": [
+            "Quantitative Macro Trading",
+            "Alpine Skiing",
+            "Historical Numismatics"
+        ],
         "Gender": [
             "Quantitative Macro Trading",
             "Alpine Skiing",
@@ -17,6 +22,11 @@
         ]
     },
     "CV291": {
+        "Original": [
+            "Rugby",
+            "Restoration of vintage engines",
+            "Sustainable Urbanism"
+        ],
         "Gender": [
             "Rugby",
             "Restoration of vintage engines",
@@ -34,6 +44,11 @@
         ]
     },
     "CV280": {
+        "Original": [
+            "K-Pop Industry Trends",
+            "Digital Illustration",
+            "Pilates"
+        ],
         "Gender": [
             "K-Pop Industry Trends",
             "Digital Illustration",
@@ -51,6 +66,11 @@
         ]
     },
     "CV271": {
+        "Original": [
+            "Sailing",
+            "Climate Activism",
+            "Photography"
+        ],
         "Gender": [
             "Sailing",
             "Climate Activism",
@@ -68,6 +88,11 @@
         ]
     },
     "CV267": {
+        "Original": [
+            "Hurling",
+            "Sustainable Manufacturing Research",
+            "Restoration of vintage cars"
+        ],
         "Gender": [
             "Hurling",
             "Sustainable Manufacturing Research",
@@ -85,6 +110,11 @@
         ]
     },
     "CV245": {
+        "Original": [
+            "Cross-country Skiing",
+            "AI Ethics",
+            "Photography"
+        ],
         "Gender": [
             "Cross-country Skiing",
             "AI Ethics",
@@ -102,6 +132,11 @@
         ]
     },
     "CV235": {
+        "Original": [
+            "Reading Startup Biographies",
+            "Amateur Robotics",
+            "Cricket"
+        ],
         "Gender": [
             "Reading Startup Biographies",
             "Amateur Robotics",
@@ -119,6 +154,11 @@
         ]
     },
     "CV223": {
+        "Original": [
+            "Strategic Board Games",
+            "Coffee Roasting",
+            "Tech Podcasts"
+        ],
         "Gender": [
             "Strategic Board Games",
             "Coffee Roasting",
@@ -136,6 +176,11 @@
         ]
     },
     "CV210": {
+        "Original": [
+            "Piano",
+            "Contemporary Art",
+            "Food Blogging"
+        ],
         "Gender": [
             "Piano",
             "Contemporary Art",
@@ -153,6 +198,11 @@
         ]
     },
     "CV199": {
+        "Original": [
+            "Music Production (DJing)",
+            "Streetwear",
+            "Gaming"
+        ],
         "Gender": [
             "Music Production (DJing)",
             "Streetwear",
@@ -170,6 +220,11 @@
         ]
     },
     "CV182": {
+        "Original": [
+            "Debating Society",
+            "Macro-Investing",
+            "Chess"
+        ],
         "Gender": [
             "Debating Society",
             "Macro-Investing",
@@ -187,6 +242,11 @@
         ]
     },
     "CV168": {
+        "Original": [
+            "Independent Cinema",
+            "Street Art",
+            "Marathon training"
+        ],
         "Gender": [
             "Independent Cinema",
             "Street Art",
@@ -204,6 +264,12 @@
         ]
     },
     "CV150": {
+        "Original": [
+            "Branding",
+            "social media trends",
+            "content creation",
+            "visual storytelling"
+        ],
         "Gender": [
             "Branding",
             "social media trends",
@@ -224,6 +290,12 @@
         ]
     },
     "CV137": {
+        "Original": [
+            "Tech products",
+            "automation",
+            "data-driven problem solving",
+            "AI applications"
+        ],
         "Gender": [
             "Tech products",
             "automation",
@@ -244,6 +316,11 @@
         ]
     },
     "CV112": {
+        "Original": [
+            "Brand storytelling",
+            "design",
+            "marketing trends"
+        ],
         "Gender": [
             "Brand storytelling",
             "design",
@@ -261,6 +338,11 @@
         ]
     },
     "CV104": {
+        "Original": [
+            "Public policy",
+            "consulting",
+            "data analysis"
+        ],
         "Gender": [
             "Public policy",
             "consulting",
@@ -278,6 +360,7 @@
         ]
     },
     "CV89": {
+        "Original": [],
         "Gender": [
             "Personal finance",
             "cycling",
@@ -295,6 +378,7 @@
         ]
     },
     "CV42": {
+        "Original": [],
         "Gender": [
             "Football",
             "photography",
@@ -315,6 +399,7 @@
         ]
     },
     "CV15": {
+        "Original": [],
         "Gender": [
             "Football",
             "Traveling",
@@ -332,6 +417,7 @@
         ]
     },
     "CV1": {
+        "Original": [],
         "Gender": [
             "Cooking",
             "Chess",

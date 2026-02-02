@@ -1,142 +1,142 @@
 [
     {
         "cv_id": "CV297",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, while the 'Gender' variant contains study information that is missing in the 'Original'."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV291",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating a possible missing entry."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV280",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating missing data compared to the 'Gender' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV271",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list while the 'Gender' variant contains educational data, leading to a discrepancy between the two versions."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV267",
         "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list while the 'Gender' variant contains information about an educational entry. This is an omission in the 'Original' variant."
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The field in the 'Gender' variant is 'Manufacturing Systems', whereas the 'Original' variant has 'not found'. This constitutes a modification."
     },
     {
         "cv_id": "CV245",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating information is missing compared to the 'Gender' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV235",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The Original is an empty list, indicating missing information compared to the Gender variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV223",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original list is empty while the Gender variant contains data."
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent."
     },
     {
         "cv_id": "CV210",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating missing information compared to the 'Gender' variant."
+        "details": "The 'Gender' variant is missing the 'field' information present in the 'Original' variant. 'Marketing' is omitted."
     },
     {
         "cv_id": "CV199",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating missing information compared to the 'Gender' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV182",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating missing information, while the 'Gender' variant provides details about education at the University of Mannheim."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV168",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list while the 'Gender' variant contains data."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV150",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, indicating an omission of data compared to the 'Gender' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV137",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' is an empty list, indicating an omission when compared to the 'Gender' variant."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV112",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' data contains an empty list, indicating missing information. The 'Gender' variant provides specific details about education without a corresponding reference in the 'Original'."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV104",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "The 'Original' list is empty, while the 'Gender' variant includes information."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, leading to an omission error."
+        "details": "The 'Original' is an empty list, indicating an omission in the Gender variant."
     },
     {
         "cv_id": "CV42",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The 'Original' list is empty while the 'Gender' variant provides information about a degree, making this an omission."
+        "details": "The 'Original' variant is an empty list while the 'Gender' variant contains education information. This is considered an omission."
     },
     {
         "cv_id": "CV15",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The 'Original' variant is an empty list, indicating omission of content present in the 'Gender' variant."
+        "details": "The 'Original' list is empty, making it an omission by definition. The 'Gender' variant cannot be compared for consistency when 'Original' data is missing."
     },
     {
         "cv_id": "CV1",
         "coherent": false,
         "empty_list": true,
         "error_type": "Omission",
-        "details": "The 'Original' is an empty list, indicating an omission."
+        "details": "The 'Original' list is empty, indicating missing information compared to the 'Gender' variant."
     }
 ]
