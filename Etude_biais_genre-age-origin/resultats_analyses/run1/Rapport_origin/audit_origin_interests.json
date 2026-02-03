@@ -155,7 +155,7 @@
     },
     {
         "cv_id": "CV276",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -205,7 +205,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -275,7 +275,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -299,7 +299,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV255",
@@ -331,7 +331,7 @@
     },
     {
         "cv_id": "CV251",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -410,7 +410,7 @@
     {
         "cv_id": "CV240",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -546,7 +546,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV220",
@@ -592,10 +592,10 @@
     },
     {
         "cv_id": "CV214",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "Added detail to 'Competitive Coding'."
+        "details": "The addition of '(LeetCode)' in 'Competitive Coding' in the Origin variant constitutes a change in meaning and detail, which is not consistent with the Original variant."
     },
     {
         "cv_id": "CV213",
@@ -1827,14 +1827,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant includes 'coaching local youth sports teams' alongside 'Swimming', which modifies the original interest of 'Swimming'. The rest is consistent."
+        "details": "The 'Origin' variant has a modification with 'Swimming and coaching local youth sports teams' instead of just 'Swimming'."
     },
     {
         "cv_id": "CV37",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant has a modified entry: 'practicing yoga and mindfulness' instead of 'practicing yoga'."
+        "details": "The activity 'practicing yoga' was modified to 'practicing yoga and mindfulness'."
     },
     {
         "cv_id": "CV36",
@@ -2028,7 +2028,7 @@
     {
         "cv_id": "CV9",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true

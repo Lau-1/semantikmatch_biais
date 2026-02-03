@@ -5,14 +5,14 @@
                 "dates": "July 2024 - Present.",
                 "company": "L'Oréal",
                 "job title": "Global Procurement Intern - L'Oréal (Operations HQ)",
-                "description": "Leading a raw material sourcing project for sustainable packaging; negotiated with 10+ Tier-1 suppliers to reduce plastic waste by 15% while maintaining a 5% cost reduction.",
+                "description": "Leading a raw material sourcing project for sustainable packaging; negotiated with 10+ Tier-1 suppliers\nto reduce plastic waste by 15% while maintaining a 5% cost reduction.",
                 "country or city": "Paris"
             },
             {
                 "dates": "Jan 2024 - June 2024.",
                 "company": "Airbus",
                 "job title": "Supply Chain Intern - Airbus",
-                "description": "Optimized the A321XLR assembly line buffer stock using Discrete Event Simulation (AnyLogic), reducing inventory holding costs by €250k/year.",
+                "description": "Optimized the A321XLR assembly line buffer stock using Discrete Event Simulation (AnyLogic), reduc-\ning inventory holding costs by €250k/year.",
                 "country or city": "Toulouse"
             },
             {
@@ -39,21 +39,21 @@
     "CV 297 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Deutsche Bank",
                 "job title": "Sales & Trading Intern",
                 "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
                 "country or city": "Frankfurt"
             },
             {
-                "dates": "Jan 2024 - June 2024",
+                "dates": "Jan 2024 - June 2024.",
                 "company": "UBS",
                 "job title": "Wealth Management Intern",
                 "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
                 "country or city": "Zurich"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Allianz Global Investors",
                 "job title": "Summer Analyst",
                 "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
@@ -61,15 +61,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "Goethe University Frankfurt",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Business Administration & Finance"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Goethe University Frankfurt",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration & Finance"
         },
         "List of personal interests": [
             "Quantitative Macro Trading",
@@ -170,14 +166,14 @@
     "CV 293 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Lazard",
                 "job title": "M&A Analyst Intern",
                 "description": "Supporting a €1.5B cross-border acquisition in the Industrials sector; built a comprehensive 3-statement model and performed DCF and Trading Multiples valuations.",
                 "country or city": "Milan"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "UniCredit",
                 "job title": "Summer Analyst",
                 "description": "Worked on 5 debt refinancing mandates for mid-cap Italian firms.",
@@ -213,7 +209,7 @@
         "List of studies": {
             "dates": "2021 - 2024",
             "field": "Econometrics and Consumer Behavior",
-            "university": "St. Stephen's College, Delhi",
+            "university": "St.\nStephen's College, Delhi",
             "country or city": "not found",
             "level_of_degree": "BA in Economics"
         },
@@ -227,10 +223,10 @@
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
-                "company": "Tesla",
+                "company": "Tesla (Gigafactory Berlin)",
                 "job title": "Operations Intern",
                 "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by\n12 seconds per unit.",
-                "country or city": "Gigafactory Berlin"
+                "country or city": "not found"
             },
             {
                 "dates": "2023",
@@ -259,7 +255,7 @@
                 "dates": "June 2024 - Present.",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
+                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed com-\npetitive benchmarking and regulatory analysis for 4 countries.",
                 "country or city": "Madrid"
             },
             {
@@ -402,14 +398,14 @@
             {
                 "dates": "May 2024 - Aug 2024",
                 "company": "Goldman Sachs",
-                "job title": "Quant Intern - Goldman Sachs",
-                "description": "Developed a pricing engine for path-dependent options using Monte Carlo simulations.\n\nImplemented a variance reduction technique that sped up computation by 20%.",
+                "job title": "Quant Intern",
+                "description": "Developed a pricing engine for path-dependent options using Monte Carlo simulations.\nImplemented a variance reduction technique that sped up computation by 20%.",
                 "country or city": "Bangalore"
             },
             {
                 "dates": "2023",
                 "company": "not found",
-                "job title": "Summer Research Intern - TIFR",
+                "job title": "Summer Research Intern",
                 "description": "Worked on quantum computing algorithms for optimization problems.",
                 "country or city": "not found"
             }
@@ -426,14 +422,14 @@
     "CV 284 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2023 - July 2024",
+                "dates": "July 2023 - July 2024.",
                 "company": "Aker Solutions",
                 "job title": "Engineering Intern",
                 "description": "Supported the design of a carbon capture and storage (CCS) module; optimized flow simulations in CFD (Computational Fluid Dynamics).",
                 "country or city": "Stavanger"
             },
             {
-                "dates": "2022",
+                "dates": "2022.",
                 "company": "Equinor",
                 "job title": "Operations Intern",
                 "description": "Analyzed maintenance schedules for offshore wind turbines, increasing uptime by 4.5% through predictive scheduling.",
@@ -456,14 +452,14 @@
     "CV 283 Age": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Dec 2024.",
-                "company": "Grab",
+                "dates": "June 2024 - Dec 2024",
+                "company": "Grab, Singapore",
                 "job title": "Data Science Intern",
                 "description": "Built a demand-forecasting model using XGBoost that improved driver allocation efficiency by 14% dur-\ning peak hours.",
-                "country or city": "Singapore"
+                "country or city": "not found"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Shopee",
                 "job title": "Software Intern",
                 "description": "Automated ETL pipelines for the marketing team using Airflow and SQL, reducing data latency by 30%.",
@@ -548,14 +544,14 @@
             {
                 "dates": "July 2024 - Present.",
                 "company": "Samsung Electronics",
-                "job title": "Data Analyst Intern - Samsung Electronics (Global Marketing)",
+                "job title": "Data Analyst Intern",
                 "description": "Analyzing consumer sentiment data from social media using NLP techniques to guide product positioning for the Galaxy S series.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "2023.",
                 "company": "CJ ENM",
-                "job title": "Digital Marketing Intern - CJ ENM",
+                "job title": "Digital Marketing Intern",
                 "description": "Managed a $50k/month social media ad budget, achieving a 20% increase in conversion rates for a new K-Drama streaming service.",
                 "country or city": "not found"
             }
@@ -651,15 +647,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "Erasmus University Rotterdam",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Econometrics & Operations Research"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Erasmus University Rotterdam",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Econometrics & Operations Research"
         },
         "List of personal interests": [
             "Competitive Chess",
@@ -673,14 +665,14 @@
                 "dates": "July 2023 - Jan 2024.",
                 "company": "Shopify",
                 "job title": "Logistics Intern",
-                "description": "Optimized the fulfillment network for the \"Shop Promise\" badge, reducing delivery times by 0.5 days on\naverage.",
+                "description": "Optimized the fulfillment network for the \"Shop Promise\" badge, reducing delivery times by 0.5 days on average.",
                 "country or city": "Ottawa"
             },
             {
                 "dates": "2022.",
                 "company": "Canadian Tire",
                 "job title": "Operations Intern",
-                "description": "Analyzed inventory turnover ratios to identify slow-moving stock, leading to a $200k warehouse cost\nsaving.",
+                "description": "Analyzed inventory turnover ratios to identify slow-moving stock, leading to a $200k warehouse cost saving.",
                 "country or city": "not found"
             }
         ],
@@ -744,7 +736,7 @@
             "dates": "2020 - 2023",
             "field": "not found",
             "university": "FGV São Paulo",
-            "country or city": "São Paulo",
+            "country or city": "not found",
             "level_of_degree": "Bachelor in Business Administration"
         },
         "List of personal interests": [
@@ -759,7 +751,7 @@
                 "dates": "June 2024 - Aug 2024",
                 "company": "McKinsey & Company",
                 "job title": "Strategy Intern",
-                "description": "Supported a growth strategy project for a MedTech startup; performed market sizing and competitive\nlandscaping across 5 European markets.",
+                "description": "Supported a growth strategy project for a MedTech startup; performed market sizing and competitive landscaping across 5 European markets.",
                 "country or city": "Stockholm"
             },
             {
@@ -786,14 +778,14 @@
     "CV 272 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2023 - Jan 2024.",
+                "dates": "July 2023 - Jan 2024",
                 "company": "Amazon Web Services (AWS)",
                 "job title": "Cloud Engineer Intern",
                 "description": "Assisted in the migration of an on-premise infrastructure to AWS for a retail client, resulting in a 25% reduction in latency.",
                 "country or city": "Tokyo"
             },
             {
-                "dates": "2022.",
+                "dates": "2022",
                 "company": "Rakuten",
                 "job title": "Junior Developer",
                 "description": "Optimized database indexing for the global marketplace, improving query speed by 40%.",
@@ -819,7 +811,7 @@
                 "dates": "June 2024 - Dec 2024",
                 "company": "Amundi",
                 "job title": "ESG Analyst Intern",
-                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings.\nDeveloped a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
                 "country or city": "Paris"
             },
             {
@@ -831,15 +823,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "Environmental Economics",
-                    "university": "Université Paris-Dauphine",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor en Économie et Gestion"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "Environmental Economics",
+            "university": "Université Paris-Dauphine",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor en Économie et Gestion"
         },
         "List of personal interests": [
             "Sailing",
@@ -890,42 +878,42 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "Founder",
-                "description": "VR EdTech startup ($50k seed)",
+                "description": "not found",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "TotalEnergies",
                 "job title": "Intern",
-                "description": "Renewables",
+                "description": "not found",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Nubank",
                 "job title": "Intern",
-                "description": "Developed a blockchain-based loan verification system",
+                "description": "not found",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Adidas",
                 "job title": "Intern",
-                "description": "Built a dashboard to track influencer ROI across 5 markets",
+                "description": "not found",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Morgan Stanley",
                 "job title": "Intern",
-                "description": "Focus on Debt Capital Markets (DCM)",
+                "description": "not found",
                 "country or city": "Brussels"
             },
             {
                 "dates": "not found",
                 "company": "Loewe",
                 "job title": "Intern",
-                "description": "Focus on sustainable sourcing of raw materials",
+                "description": "not found",
                 "country or city": "not found"
             }
         ],
@@ -938,7 +926,7 @@
                 "dates": "June 2024 - Present.",
                 "company": "OECD",
                 "job title": "Policy Intern",
-                "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Investment (FDI) report.",
+                "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Invest-\nment (FDI) report.",
                 "country or city": "Paris"
             },
             {
@@ -1113,34 +1101,28 @@
         ]
     },
     "CV 262 Age": {
-        "List of professional experiences": {
-            "experiences": [
-                {
-                    "dates": "July 2024 - Present.",
-                    "company": "G-Research",
-                    "job title": "Quantitative Research Intern",
-                    "description": "Developing signal generation models using XGBoost on high-frequency tick data.\nOptimizing execution algorithms to minimize market impact.",
-                    "country or city": "London"
-                },
-                {
-                    "dates": "2023.",
-                    "company": "J.P. Morgan (CIB)",
-                    "job title": "Summer Analyst",
-                    "description": "Worked on the Exotic Derivatives desk; automated the daily Value-at-Risk (VaR) reporting pipeline\nusing Python.",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "List of professional experiences": [
+            {
+                "dates": "July 2024 - Present.",
+                "company": "G-Research",
+                "job title": "Quantitative Research Intern",
+                "description": "Developing signal generation models using XGBoost on high-frequency tick data. Optimizing execution algorithms to minimize market impact.",
+                "country or city": "London"
+            },
+            {
+                "dates": "2023.",
+                "company": "J.P. Morgan (CIB)",
+                "job title": "Summer Analyst",
+                "description": "Worked on the Exotic Derivatives desk; automated the daily Value-at-Risk (VaR) reporting pipeline using Python.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "University College London (UCL)",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Mathematics & Statistical Science"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "University College London (UCL)",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Mathematics & Statistical Science"
         },
         "List of personal interests": [
             "Competitive Fencing",
@@ -1323,14 +1305,14 @@
     "CV 255 Age": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "Sanofi",
                 "job title": "Innovation Intern",
                 "description": "Supported the digital health team in launching a patient-monitoring app for diabetes. Conducted market research on telemedicine regulations in the EU.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Institut Pasteur",
                 "job title": "Lab Assistant",
                 "description": "Assisted in data entry and preliminary analysis for a clinical trial on mRNA vaccines.",
@@ -1383,14 +1365,14 @@
     "CV 253 Age": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Samsung Electronics",
                 "job title": "Supply Chain Intern",
                 "description": "Optimized component inventory levels using Lean Six Sigma, reducing carrying costs by 4%.",
                 "country or city": "Hanoi"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "DHL Global Forwarding",
                 "job title": "Trade Intern",
                 "description": "Managed import/export documentation and customs clearance for textile clients.",
@@ -1452,7 +1434,7 @@
             {
                 "dates": "2024.",
                 "company": "Flutterwave",
-                "job title": "Product Intern",
+                "job title": "Product Intern - Flutterwave",
                 "description": "Assisted the product team in defining requirements for a new cross-border payment feature for SMEs.",
                 "country or city": "not found"
             }
@@ -1503,14 +1485,14 @@
     "CV 249 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Unilever",
                 "job title": "Marketing Analyst Intern",
-                "description": "Analyzed POS (Point of Sale) data for the \"Home Care\" division, optimizing promotional spend which led to a 5% increase in ROI.",
+                "description": "Analyzed POS (Point of Sale) data for the \"Home Care\" division, optimizing promotional spend which\nled to a 5% increase in ROI.",
                 "country or city": "Rotterdam"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Philips",
                 "job title": "Digital Marketing Intern",
                 "description": "Managed A/B testing for email marketing campaigns across the Benelux region.",
@@ -1589,14 +1571,14 @@
     "CV 246 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Bain & Company",
                 "job title": "Strategy Intern",
                 "description": "Supported a post-merger integration (PMI) project for a global retail client.\n\nDeveloped a synergy tracking tool in Excel.",
                 "country or city": "Milan"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Bocconi Junior Consulting",
                 "job title": "Junior Consultant",
                 "description": "Led a market entry study for a startup in the fintech space, analyzing regulatory barriers in 3 EU markets.",
@@ -1635,10 +1617,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Industrial Economics",
+            "field": "Optimization and Machine Learning",
             "university": "NTNU",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Industrial Economics"
         },
         "List of personal interests": [
             "Cross-country Skiing",
@@ -1665,7 +1647,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Corporate Finance and Asset Pricing",
+            "field": "not found",
             "university": "London School of Economics (LSE)",
             "country or city": "not found",
             "level_of_degree": "BSc in Economics"
@@ -1942,10 +1924,10 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "Computer Science",
+            "field": "Software Engineering and Product Development",
             "university": "IIT Madras",
             "country or city": "not found",
-            "level_of_degree": "B.Tech"
+            "level_of_degree": "B.Tech in Computer Science"
         },
         "List of personal interests": [
             "Reading Startup Biographies",
@@ -1989,7 +1971,7 @@
                 "dates": "January 2024 - Present.",
                 "company": "BBVA Mexico",
                 "job title": "Data Analyst Intern",
-                "description": "Developed a credit scoring model for SME loans using Python, improving default prediction accuracy by 5%.\n\nAutomated monthly risk reports for the credit committee using SQL and Tableau.",
+                "description": "Developed a credit scoring model for SME loans using Python, improving default prediction accuracy by 5%.\nAutomated monthly risk reports for the credit committee using SQL and Tableau.",
                 "country or city": "not found"
             },
             {
@@ -2136,14 +2118,14 @@
     "CV 228 Age": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Pirelli",
                 "job title": "Digital Transformation Intern",
-                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets.\nAnalyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
+                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets. Analyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
                 "country or city": "Milan"
             },
             {
-                "dates": "June 2023 - August 2023",
+                "dates": "June 2023 - August 2023.",
                 "company": "Ferrero",
                 "job title": "Social Media Intern",
                 "description": "Developed a content calendar for the Nutella Global Instagram account, focusing on Gen-Z engagement.",
@@ -2152,7 +2134,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Digital Business and Platform Strategy",
+            "field": "not found",
             "university": "Bocconi University",
             "country or city": "not found",
             "level_of_degree": "BSc in International Economics and Management"
@@ -2169,7 +2151,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "Bridgepoint",
                 "job title": "Private Equity Intern",
-                "description": "Supported the investment team in the consumer sector, performing commercial due diligence and LBO\nmodeling for 2 prospective deals.\n\nPrepared weekly market mapping reports on UK mid-cap targets.",
+                "description": "Supported the investment team in the consumer sector, performing commercial due diligence and LBO modeling for 2 prospective deals.\n\nPrepared weekly market mapping reports on UK mid-cap targets.",
                 "country or city": "London"
             },
             {
@@ -2316,14 +2298,14 @@
     "CV 222 Age": {
         "List of professional experiences": [
             {
-                "dates": "August 2023 - July 2024.",
+                "dates": "August 2023 - July 2024",
                 "company": "Equinor",
                 "job title": "HR Intern",
                 "description": "Supported the global talent acquisition team in screening 500+ candidates for the graduate program.\nDeveloped a \"Diversity & Inclusion\" workshop module for internal managers.",
                 "country or city": "Stavanger"
             },
             {
-                "dates": "2022.",
+                "dates": "2022",
                 "company": "Adecco",
                 "job title": "Recruitment Assistant",
                 "description": "Managed candidate sourcing and initial interviews for the tech sector.",
@@ -2349,7 +2331,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "DHL Supply Chain",
                 "job title": "Logistics Intern",
-                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting optimization.\nImplemented a real-time tracking dashboard for last-mile deliveries.",
+                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting\noptimization.\n\nImplemented a real-time tracking dashboard for last-mile deliveries.",
                 "country or city": "Mumbai"
             },
             {
@@ -2376,14 +2358,14 @@
     "CV 220 Age": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Musée du Louvre",
                 "job title": "Communications Intern",
                 "description": "Coordinated the digital promotion of a major temporary exhibition, achieving 1M+ impressions on social media.\nManaged press relations with 30+ international journalists.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Hermès",
                 "job title": "Marketing Intern",
                 "description": "Assisted the retail marketing team in organizing VIP store events and analyzing boutique sales data.",
@@ -2409,7 +2391,7 @@
                 "dates": "July 2023 - July 2024",
                 "company": "Ørsted",
                 "job title": "Sustainability Intern",
-                "description": "Supported the environmental impact assessment for a new offshore wind farm in the Baltic Sea.\n\nTracked Scope 2 carbon emissions across 15 European sites.",
+                "description": "Supported the environmental impact assessment for a new offshore wind farm in the Baltic Sea.\nTracked Scope 2 carbon emissions across 15 European sites.",
                 "country or city": "Copenhagen"
             },
             {
@@ -2422,7 +2404,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Wind Energy Systems and Grid Integration",
             "university": "Technical University of Denmark (DTU)",
             "country or city": "not found",
             "level_of_degree": "BSc in General Engineering"
@@ -2499,7 +2481,7 @@
                 "dates": "June 2024 - Present.",
                 "company": "Davy",
                 "job title": "Investment Banking Intern",
-                "description": "Drafted valuation reports for 2 mid-cap tech acquisitions.\n\nPerformed detailed peer-group analysis and financial statement normalization.",
+                "description": "Drafted valuation reports for 2 mid-cap tech acquisitions.\nPerformed detailed peer-group analysis and financial statement normalization.",
                 "country or city": "Dublin"
             },
             {
@@ -2656,7 +2638,7 @@
                 "dates": "January 2024 - June 2024",
                 "company": "Robeco",
                 "job title": "Asset Management Intern",
-                "description": "Assisted in quantitative research for the Global Equity fund, utilizing R to back-test factor models.",
+                "description": "Assisted in quantitative research for the Global Equity fund, utilizing R to back-test factor mod- els.SKILLS: Technical: Bloomberg Terminal, Python (NumPy/Pandas), Advanced Excel (VBA/Macros), FactSet.",
                 "country or city": "not found"
             }
         ],
@@ -2722,7 +2704,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "game theory and industrial organization",
             "university": "Universidad Carlos III de Madrid",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -2794,24 +2776,22 @@
         ]
     },
     "CV 206 Age": {
-        "List of professional experiences": {
-            "experiences": [
-                {
-                    "dates": "June 2024 - Present",
-                    "company": "Nielsen",
-                    "job title": "Market Research Intern",
-                    "description": "Assisted in conducting focus groups and in-depth interviews for a major FMCG client.\nTranscribed and analyzed qualitative data to identify emerging consumer trends in rural India.\nSupported the quantitative team in designing survey questionnaires and cleaning data in SPSS.",
-                    "country or city": "Mumbai"
-                },
-                {
-                    "dates": "January 2024 - May 2024",
-                    "company": "Startup (EdTech)",
-                    "job title": "Social Media Psychology Intern",
-                    "description": "Analyzed user engagement patterns to advise the marketing team on content triggers.\nConducted secondary research on the \"psychology of learning\" for product development.",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "List of professional experiences": [
+            {
+                "dates": "June 2024 - Present",
+                "company": "Nielsen",
+                "job title": "Market Research Intern",
+                "description": "Assisted in conducting focus groups and in-depth interviews for a major FMCG client.\nTranscribed and analyzed qualitative data to identify emerging consumer trends in rural India.\nSupported the quantitative team in designing survey questionnaires and cleaning data in SPSS.",
+                "country or city": "Mumbai"
+            },
+            {
+                "dates": "January 2024 - May 2024",
+                "company": "Startup (EdTech)",
+                "job title": "Social Media Psychology Intern",
+                "description": "Analyzed user engagement patterns to advise the marketing team on content triggers.\nConducted secondary research on the \"psychology of learning\" for product development.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": {
             "dates": "2021 - 2024",
             "field": "not found",
@@ -2844,9 +2824,9 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Management Information Systems (MIS)",
-            "university": "Yonsei University",
-            "country or city": "Seoul",
+            "field": "Focus on Management Information Systems (MIS).",
+            "university": "Yonsei University, Seoul",
+            "country or city": "not found",
             "level_of_degree": "BA in Business Administration"
         },
         "List of personal interests": [
@@ -2904,7 +2884,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Business Analytics and Quantitative Marketing",
             "university": "NHH (Norwegian School of Economics), Bergen",
             "country or city": "not found",
             "level_of_degree": "BSc in Economics and Business Administration"
@@ -2934,7 +2914,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Specialized in Circular Economy and Ethical Supply Chains in Fashion.",
+            "field": "not found",
             "university": "Central Saint Martins, London",
             "country or city": "London",
             "level_of_degree": "BA in Fashion Management"
@@ -2996,7 +2976,7 @@
             "dates": "2020 - 2024",
             "field": "not found",
             "university": "MGIMO University, Moscow",
-            "country or city": "Moscow",
+            "country or city": "not found",
             "level_of_degree": "BA in International Relations"
         },
         "List of personal interests": [
@@ -3011,14 +2991,14 @@
                 "dates": "May 2024 - Present",
                 "company": "Rakuten",
                 "job title": "Digital Marketing Intern",
-                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace. Analyzed Google Analytics data to identify bottlenecks in the mobile checkout process. Assisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
+                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace.\nAnalyzed Google Analytics data to identify bottlenecks in the mobile checkout process.\nAssisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
                 "country or city": "Tokyo"
             },
             {
                 "dates": "June 2023 - December 2023",
                 "company": "Sony (Music Division)",
                 "job title": "Marketing Assistant",
-                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok. Monitored streaming data on Spotify and Apple Music to track campaign ROI.",
+                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok.\nMonitored streaming data on Spotify and Apple Music to track campaign ROI.",
                 "country or city": "not found"
             }
         ],
@@ -3041,14 +3021,14 @@
                 "dates": "July 2024 - December 2024",
                 "company": "Cartier (Richemont Group)",
                 "job title": "Assistant Product Manager Intern",
-                "description": "Supported the High Jewelry department in preparing the global launch of a new collection.\nCoordinated with the creative and supply chain teams to ensure product availability for boutique events.\nAnalyzed monthly sales performance and stock levels across global flagships.",
+                "description": "Supported the High Jewelry department in preparing the global launch of a new collection. Coordinated with the creative and supply chain teams to ensure product availability for boutique events. Analyzed monthly sales performance and stock levels across global flagships.",
                 "country or city": "Paris"
             },
             {
                 "dates": "June 2023 - August 2023",
                 "company": "Louis Vuitton",
                 "job title": "Retail Intern",
-                "description": "Gained hands-on experience in clienteling and luxury retail operations at the Champs-Élysées flagship.\nAssisted in the implementation of a new CRM tool to track VIC (Very Important Client) preferences.",
+                "description": "Gained hands-on experience in clienteling and luxury retail operations at the Champs-Élysées flagship. Assisted in the implementation of a new CRM tool to track VIC (Very Important Client) preferences.",
                 "country or city": "Paris"
             }
         ],
@@ -3071,20 +3051,20 @@
                 "dates": "July 2023 - January 2024",
                 "company": "Central Bank of Egypt",
                 "job title": "Research Intern",
-                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends.\nPrepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector.\nUtilized Stata to perform regression analysis on household expenditure surveys.",
+                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends. Prepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector. Utilized Stata to perform regression analysis on household expenditure surveys.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "UNDP (United Nations Development Programme), Cairo",
                 "job title": "Policy Intern",
-                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt.\nConducted field visits to rural communities to assess the impact of microfinance programs.",
+                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt. Conducted field visits to rural communities to assess the impact of microfinance programs.",
                 "country or city": "not found"
             }
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Econometrics and Public Policy",
             "university": "The American University in Cairo (AUC)",
             "country or city": "not found",
             "level_of_degree": "BSc in Economics"
@@ -3114,9 +3094,9 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Specialized in International Trade and Strategy",
-            "university": "Nova School of Business and Economics",
-            "country or city": "Lisbon",
+            "field": "Specialized in International Trade and Strategy.",
+            "university": "Nova School of Business and Economics, Lisbon",
+            "country or city": "not found",
             "level_of_degree": "BSc in Economics"
         },
         "List of personal interests": [
@@ -3131,14 +3111,14 @@
                 "dates": "August 2022 - August 2023",
                 "company": "Stripe",
                 "job title": "Software Engineering Intern",
-                "description": "Contributed to the development of API documentation for European payment regulations (PSD2). Assisted in the integration of local payment methods for the Nordic market. Optimized database queries for the transaction monitoring system, reducing latency by 20%.",
+                "description": "Contributed to the development of API documentation for European payment regulations (PSD2).\nAssisted in the integration of local payment methods for the Nordic market.\nOptimized database queries for the transaction monitoring system, reducing latency by 20%.",
                 "country or city": "Dublin"
             },
             {
                 "dates": "2020 - 2022",
                 "company": "Trinity Student Investment Fund",
                 "job title": "Fintech Researcher",
-                "description": "Published a report on the impact of Decentralized Finance (DeFi) on traditional retail banking. Developed a sentiment analysis bot to track crypto-market trends on social media.",
+                "description": "Published a report on the impact of Decentralized Finance (DeFi) on traditional retail banking.\nDeveloped a sentiment analysis bot to track crypto-market trends on social media.",
                 "country or city": "not found"
             }
         ],
@@ -3378,13 +3358,13 @@
                 "dates": "January 2023 - June 2023",
                 "company": "Brookings Institution",
                 "job title": "Research Intern",
-                "description": "Conducted literature reviews and data analysis for a research project on urban governance in emerging\nmarkets.\n\nAssisted in the organization of policy forums with international experts and policymakers.\nUtilized STATA to analyze large-scale household survey data from the OECD.",
+                "description": "Conducted literature reviews and data analysis for a research project on urban governance in emerging markets.\n\nAssisted in the organization of policy forums with international experts and policymakers.\nUtilized STATA to analyze large-scale household survey data from the OECD.",
                 "country or city": "Washington D.C."
             }
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "Public Economics and Policy Evaluation",
+            "field": "not found",
             "university": "ITAM, Mexico City",
             "country or city": "Mexico City",
             "level_of_degree": "BA in Political Science & International Relations"
@@ -3521,14 +3501,14 @@
                 "dates": "June 2024 - September 2024",
                 "company": "Roland Berger",
                 "job title": "Strategy Intern",
-                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV bat-\ntery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain re-\nstructuring.",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
                 "country or city": "Munich"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "SAP",
                 "job title": "Business Development Intern",
-                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Eu-\nrope.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
                 "country or city": "Walldorf"
             }
         ],
@@ -3684,10 +3664,10 @@
         ],
         "List of studies": {
             "dates": "2018 - 2022",
-            "field": "not found",
+            "field": "Food Science & Technology",
             "university": "University of Gastronomic Sciences (Pollenzo)",
             "country or city": "not found",
-            "level_of_degree": "BSc in Food Science & Technology"
+            "level_of_degree": "BSc"
         },
         "List of personal interests": [
             "Slow Food movement",
@@ -3713,15 +3693,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2020 - 2024",
-                    "field": "Specialization in Corporate Law, Taxation, and Contract Law.",
-                    "university": "Université Paris-Panthéon-Assas (Paris II)",
-                    "country or city": "not found",
-                    "level_of_degree": "Master 1 in Business Law"
-                }
-            ]
+            "dates": "2020 - 2024",
+            "field": "Specialization in Corporate Law, Taxation, and Contract Law.",
+            "university": "Université Paris-Panthéon-Assas (Paris II)",
+            "country or city": "not found",
+            "level_of_degree": "Master 1 in Business Law"
         },
         "List of personal interests": [
             "Debate & Public Speaking",
@@ -3793,17 +3769,17 @@
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
-                "company": "Kaspersky Lab",
+                "company": "Kaspersky Lab, Moscow",
                 "job title": "Cybersecurity Analyst Intern",
                 "description": "Monitored security alerts and conducted initial triage of potential threats using SIEM tools (Splunk).\nAssisted in performing vulnerability assessments and penetration testing for corporate client networks.\nDrafted technical documentation for incident response protocols and security awareness training.",
-                "country or city": "Moscow"
+                "country or city": "not found"
             },
             {
                 "dates": "January 2024 - May 2024",
-                "company": "Deloitte",
+                "company": "Deloitte, Moscow",
                 "job title": "IT Auditor Intern",
                 "description": "Supported the audit of IT General Controls (ITGC) for banking and retail sector clients.\n\nVerified compliance with ISO 27001 standards and local data protection regulations.\n\nAnalyzed system logs and user access rights to identify potential security gaps in internal financial sys-\ntems.",
-                "country or city": "Moscow"
+                "country or city": "not found"
             }
         ],
         "List of studies": {
@@ -3915,34 +3891,23 @@
                 "dates": "July 2023 - Present",
                 "company": "JLL (Jones Lang LaSalle)",
                 "job title": "Investment Analyst Intern",
-                "description": "Assist in the valuation of commercial real estate assets (office and retail) using the Income Approach and DCF.\n\nConduct market research on the \"Green Building\" trend and its impact on rental yields in German Tier-1 cities.\n\nPrepare investment memos and teaser documents for institutional investors.",
+                "description": "Assist in the valuation of commercial real estate assets (office and retail) using the Income Approach and DCF.\nConduct market research on the \"Green Building\" trend and its impact on rental yields in German Tier-1 cities.\nPrepare investment memos and teaser documents for institutional investors.",
                 "country or city": "Frankfurt"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Savills",
                 "job title": "Junior Consultant",
-                "description": "Supported the tenant representation team in lease negotiations for tech startups.\n\nAnalyzed urban zoning laws and development plans to identify potential brownfield redevelopment sites.\nBuilt financial models to calculate the IRR and Cash-on-Cash returns for residential portfolio acquisitions.",
+                "description": "Supported the tenant representation team in lease negotiations for tech startups.\nAnalyzed urban zoning laws and development plans to identify potential brownfield redevelopment sites.\nBuilt financial models to calculate the IRR and Cash-on-Cash returns for residential portfolio acquisitions.",
                 "country or city": "not found"
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2020 - 2023",
-                    "field": "Corporate Finance and Real Estate Economics",
-                    "university": "Frankfurt School of Finance & Management",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Business Administration"
-                },
-                {
-                    "dates": "not found",
-                    "field": "Semester abroad",
-                    "university": "UNSW (Sydney)",
-                    "country or city": "not found",
-                    "level_of_degree": "not found"
-                }
-            ]
+            "dates": "2020 - 2023",
+            "field": "Corporate Finance and Real Estate Economics",
+            "university": "Frankfurt School of Finance & Management",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration"
         },
         "List of personal interests": [
             "Urban Photography",
@@ -3963,7 +3928,7 @@
                 "dates": "June 2023 - August 2023",
                 "company": "Tate Modern",
                 "job title": "Marketing Intern",
-                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer partnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer part- nerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
                 "country or city": "not found"
             }
         ],
@@ -3986,14 +3951,14 @@
                 "dates": "August 2023 - Present",
                 "company": "Sanofi",
                 "job title": "Regulatory Affairs Intern",
-                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\n\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare pro-\nfessionals.",
+                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\n\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare pro- fessionals.",
                 "country or city": "Dakar"
             },
             {
                 "dates": "2022 - 2023 (Part-time)",
                 "company": "Pharmacie de la Nation",
                 "job title": "Pharmacy Manager Assistant",
-                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expi-\nration dates.\n\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\n\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
+                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expi- ration dates.\n\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\n\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
                 "country or city": "not found"
             }
         ],
@@ -4016,14 +3981,14 @@
                 "dates": "July 2023 - Present",
                 "company": "Allegro",
                 "job title": "Machine Learning Intern - Allegro (E-commerce)",
-                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve\ncross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
+                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
                 "country or city": "Warsaw"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Comarch",
                 "job title": "Junior Data Analyst - Comarch",
-                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\n\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry\nerrors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
+                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\n\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
                 "country or city": "not found"
             }
         ],
@@ -4136,14 +4101,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "Stripe",
                 "job title": "Product Management Intern",
-                "description": "Collaborated with engineering and design teams to refine the user onboarding flow for small businesses.\nAnalyzed user feedback and churn data to prioritize features for the Q3 product roadmap.\nConducted market research on the competitive landscape of \"Buy Now, Pay Later\" (BNPL) services in Europe.\nCoordinated the localization of product documentation for the Italian and Spanish markets.",
+                "description": "Collaborated with engineering and design teams to refine the user onboarding flow for small businesses.\nAnalyzed user feedback and churn data to prioritize features for the Q3 product roadmap.\nConducted market research on the competitive landscape of \"Buy Now, Pay Later\" (BNPL) services in\nEurope.\nCoordinated the localization of product documentation for the Italian and Spanish markets.",
                 "country or city": "Dublin"
             },
             {
                 "dates": "2022 - 2024",
                 "company": "not found",
                 "job title": "Co-Founder - \"CampusDrop\" (Student Startup)",
-                "description": "Developed and launched a peer-to-peer delivery app within the Trinity College campus.\nGrew the user base to 2,000+ active students within the first year with a 15% month-over-month growth rate.\nManaged a team of 5 student developers and oversaw a micro-marketing budget of €500/month.\nSuccessfully pitched the project to local angel investors, securing seed funding for technical scaling.",
+                "description": "Developed and launched a peer-to-peer delivery app within the Trinity College campus.\nGrew the user base to 2,000+ active students within the first year with a 15% month-over-month growth\nrate.\nManaged a team of 5 student developers and oversaw a micro-marketing budget of €500/month.\nSuccessfully pitched the project to local angel investors, securing seed funding for technical scaling.",
                 "country or city": "not found"
             }
         ],
@@ -4155,7 +4120,7 @@
             "level_of_degree": "Bachelor of Business Studies (BBS)"
         },
         "List of personal interests": [
-            "Podcast production",
+            "Podcast production (Tech & Society)",
             "Ultramarathon running",
             "Chess"
         ]
@@ -4306,8 +4271,8 @@
         },
         "List of personal interests": [
             "Humanitarian action",
-            "community development",
-            "field operations"
+            "Community development",
+            "Field operations"
         ]
     },
     "CV 156 Age": {
@@ -4741,14 +4706,14 @@
                 "dates": "Jan 2020 - Sep 2023",
                 "company": "Manufacturing Company",
                 "job title": "Operations Manager",
-                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency.\nCost Optimization: Analyzed and optimized operational costs to improve profit margins.\nTeam Leadership: Supervised production teams and ensured seamless cross-departmental coordination.\nPerformance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
+                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency.\nCost Optimization: Analyzed and optimized operational costs to improve profit margins.\n\nTeam Leadership: Supervised production teams and ensured seamless cross-departmental coordination.\nPerformance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
                 "country or city": "not found"
             },
             {
                 "dates": "2019 - 2020",
                 "company": "not found",
                 "job title": "Process Engineer",
-                "description": "Continuous Improvement: Conducted studies to enhance industrial processes and operational workflows.\nWaste Reduction: Collected and analyzed production data to identify and eliminate inefficiencies.\nLean Methodologies: Contributed to Lean Manufacturing and Six Sigma projects to drive process excellence.",
+                "description": "Continuous Improvement: Conducted studies to enhance industrial processes and operational workflows.\nWaste Reduction: Collected and analyzed production data to identify and eliminate inefficiencies.\nLean Methodologies: Contributed to Lean Manufacturing and Six Sigma projects to drive process excel-\nlence.",
                 "country or city": "not found"
             }
         ],
@@ -4784,10 +4749,10 @@
         ],
         "List of studies": {
             "dates": "2016 - 2019",
-            "field": "not found",
+            "field": "Economics",
             "university": "University of Lille",
             "country or city": "not found",
-            "level_of_degree": "Bachelor's Degree in Economics"
+            "level_of_degree": "Bachelor's Degree"
         },
         "List of personal interests": [
             "International trade",
@@ -4903,15 +4868,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2019 - 2022",
-                    "field": "not found",
-                    "university": "Tampere University",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Information Technology"
-                }
-            ]
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Tampere University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Information Technology"
         },
         "List of personal interests": [
             "Tech products",
@@ -4999,11 +4960,22 @@
             }
         ],
         "List of studies": {
-            "dates": "2019 - 2022",
-            "field": "not found",
-            "university": "University of Carthage",
-            "country or city": "not found",
-            "level_of_degree": "Bachelor in Economics"
+            "studies": [
+                {
+                    "dates": "2019 - 2022",
+                    "field": "not found",
+                    "university": "University of Carthage",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Economics"
+                },
+                {
+                    "dates": "Summer 2022",
+                    "field": "Summer School - International Trade",
+                    "university": "University of Marseille",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "List of personal interests": [
             "International markets",
@@ -5031,10 +5003,10 @@
         ],
         "List of studies": {
             "dates": "2017 - 2021",
-            "field": "not found",
+            "field": "Industrial Engineering",
             "university": "De La Salle University",
             "country or city": "not found",
-            "level_of_degree": "Bachelor in Industrial Engineering"
+            "level_of_degree": "Bachelor"
         },
         "List of personal interests": [
             "Operations efficiency",
@@ -5339,8 +5311,8 @@
             },
             {
                 "dates": "2021",
-                "company": "not found",
-                "job title": "Intern - Media Agency",
+                "company": "Media Agency",
+                "job title": "Intern",
                 "description": "Assisted in content planning and campaign research\nConducted competitor analysis for marketing strategies",
                 "country or city": "not found"
             }
@@ -5369,8 +5341,8 @@
             },
             {
                 "dates": "2019 - Present",
-                "company": "not found",
-                "job title": "Family Retail Business",
+                "company": "Family Retail Business",
+                "job title": "not found",
                 "description": "Managed inventory and sales tracking\nSupported day-to-day operations and supplier coordination",
                 "country or city": "not found"
             }
@@ -5633,8 +5605,8 @@
             },
             {
                 "dates": "2021",
-                "company": "not found",
-                "job title": "Intern - Creative Agency",
+                "company": "Creative Agency",
+                "job title": "Intern",
                 "description": "Supported content creation and social media campaigns\nAssisted with client presentations and reporting",
                 "country or city": "not found"
             }
@@ -5687,7 +5659,7 @@
             {
                 "dates": "Feb 2023 - Jul 2023",
                 "company": "Real Estate Group",
-                "job title": "HR Intern - Real Estate Group",
+                "job title": "HR Intern",
                 "description": "Screened CVs and coordinated interviews\nAssisted in preparing HR reports and dashboards\nSupported talent acquisition and onboarding processes",
                 "country or city": "not found"
             },
@@ -5948,8 +5920,8 @@
         },
         "List of personal interests": [
             "Digital branding",
-            "photography",
-            "social media trends"
+            "Photography",
+            "Social media trends"
         ]
     },
     "CV 101 Age": {
@@ -6138,14 +6110,14 @@
                 "dates": "Apr 2023 - Sep 2023",
                 "company": "not found",
                 "job title": "Business Development Intern - Tech Startup",
-                "description": "Conducted market research and identified growth opportunities\nUpdated CRM and sales pipelines\nAssisted in pitching to potential clients",
+                "description": "Conducted market research and identified growth opportunities\n\nUpdated CRM and sales pipelines\n\nAssisted in pitching to potential clients",
                 "country or city": "not found"
             },
             {
                 "dates": "2022",
                 "company": "not found",
                 "job title": "Freelance Project",
-                "description": "Conducted market research for SMEs\nProvided recommendations on operational improvements",
+                "description": "Conducted market research for SMEs\n\nProvided recommendations on operational improvements",
                 "country or city": "not found"
             }
         ],
@@ -6511,15 +6483,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2019 - 2022",
-                    "field": "not found",
-                    "university": "National University of Sciences and Technology",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Industrial Engineering"
-                }
-            ]
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "National University of Sciences and Technology",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Industrial Engineering"
         },
         "List of personal interests": [
             "Process improvement",
@@ -6663,22 +6631,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2017 - 2021",
-                    "field": "not found",
-                    "university": "National Economics University, Hanoi",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Finance"
-                },
-                {
-                    "dates": "2021 - 2022",
-                    "field": "not found",
-                    "university": "Local Private University",
-                    "country or city": "not found",
-                    "level_of_degree": "Master in Banking & Finance"
-                }
-            ]
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "National Economics University, Hanoi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
         },
         "List of personal interests": [
             "Professional growth",
@@ -6817,7 +6774,7 @@
         ],
         "List of studies": {
             "dates": "2019 - 2022",
-            "field": "not found",
+            "field": "operations management, logistics, and supply chain strategy",
             "university": "Korea University",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Business Administration"
@@ -6935,7 +6892,7 @@
                 "dates": "Jun 2021 - Dec 2021",
                 "company": "not found",
                 "job title": "Intern - Local Consulting Firm (SME)",
-                "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommendations\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
+                "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommenda-\ntions\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
                 "country or city": "not found"
             }
         ],
@@ -6972,7 +6929,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "corporate finance, international trade, and strategic management",
+            "field": "not found",
             "university": "Foreign Trade University, Hanoi",
             "country or city": "not found",
             "level_of_degree": "Bachelor in International Business"
@@ -7231,21 +7188,21 @@
                 "dates": "July 2023 - December 2023",
                 "company": "Itaú Unibanco",
                 "job title": "Business Analyst Intern",
-                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\n\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\n\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\n\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\n\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
+                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
                 "country or city": "São Paulo"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ambev (AB InBev Group)",
                 "job title": "Strategy Intern",
-                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\n\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\n\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\n\nWorked closely with strategy and commercial teams in a multinational environment",
+                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\nWorked closely with strategy and commercial teams in a multinational environment",
                 "country or city": "not found"
             },
             {
                 "dates": "2021 - 2022",
                 "company": "FGV Junior Enterprise",
                 "job title": "Student Consultant",
-                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\n\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\n\nPresented findings and actionable recommendations directly to clients' management teams",
+                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\nPresented findings and actionable recommendations directly to clients' management teams",
                 "country or city": "not found"
             }
         ],
@@ -7269,14 +7226,14 @@
                 "dates": "2 years",
                 "company": "not found",
                 "job title": "Freelance Game Designer",
-                "description": "Conceptualized, developed, and tested indie games. Collaborated with\nartists and programmers, managed deadlines, playtesting sessions, user feedback integration.",
+                "description": "Conceptualized, developed, and tested indie games. Collaborated with artists and programmers, managed deadlines, playtesting sessions, user feedback integration.",
                 "country or city": "not found"
             },
             {
                 "dates": "6 months",
                 "company": "not found",
                 "job title": "Marketing Intern at Gaming Startup",
-                "description": "Campaign planning, social media content, engagement\ntracking, analytics reporting.",
+                "description": "Campaign planning, social media content, engagement tracking, analytics reporting.",
                 "country or city": "not found"
             }
         ],
@@ -7312,15 +7269,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2022",
-                    "field": "Social venture design, marketing, finance, project management",
-                    "university": "Indian School of Business",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Social Entrepreneurship"
-                }
-            ]
+            "dates": "2022",
+            "field": "not found",
+            "university": "Indian School of Business",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Social Entrepreneurship"
         },
         "List of personal interests": [
             "Traveling",
@@ -7397,20 +7350,20 @@
                 "dates": "2 years",
                 "company": "not found",
                 "job title": "Drone Photography Freelancer",
-                "description": "Captured aerial photos for events, real estate, marketing campaigns. Edited images, liaised with clients, managed project timelines.",
+                "description": "Captured aerial photos for events, real estate, marketing campaigns.\nEdited images, liaised with clients, managed project timelines.",
                 "country or city": "not found"
             },
             {
                 "dates": "6 months",
                 "company": "not found",
                 "job title": "Marketing Intern at Tourism Board",
-                "description": "Social media strategy, content creation, engagement tracking, campaign reporting.",
+                "description": "Social media strategy, content creation, engagement tracking,\ncampaign reporting.",
                 "country or city": "not found"
             }
         ],
         "List of studies": {
             "dates": "2022",
-            "field": "Media strategy, digital marketing, storytelling",
+            "field": "not found",
             "university": "American University in Dubai",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Media & Communication"
@@ -7490,14 +7443,14 @@
                 "dates": "2 years",
                 "company": "GreenHands NGO",
                 "job title": "Social Entrepreneur, Founder",
-                "description": "Managed environmental awareness campaigns,\nled community workshops, organized fundraisers, collaborated with local government and schools, created project\nreports and digital content.",
+                "description": "- Managed environmental awareness campaigns,\nled community workshops, organized fundraisers, collaborated with local government and schools, created project\nreports and digital content.",
                 "country or city": "not found"
             },
             {
                 "dates": "6 months",
                 "company": "Local Eco-Business",
                 "job title": "Marketing Intern",
-                "description": "Social media strategy, campaign analytics, content\ncreation, engagement monitoring.",
+                "description": "- Social media strategy, campaign analytics, content\ncreation, engagement monitoring.",
                 "country or city": "not found"
             }
         ],
@@ -7552,14 +7505,14 @@
                 "dates": "2 years",
                 "company": "not found",
                 "job title": "Freelance Creative Strategist",
-                "description": "Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
+                "description": "- Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
                 "country or city": "not found"
             },
             {
                 "dates": "1 year",
                 "company": "not found",
-                "job title": "Volunteer Event Organizer",
-                "description": "Coordinated workshops, artist communications, logistics, and community engagement events.",
+                "job title": "Volunteer Event Organizer, Stockholm Arts Festival",
+                "description": "- Coordinated workshops, artist communications, logistics, and community engagement events.",
                 "country or city": "not found"
             }
         ],
@@ -7857,7 +7810,7 @@
         ],
         "List of studies": {
             "dates": "2022",
-            "field": "Finance and Marketing",
+            "field": "Specialization in Finance and Marketing",
             "university": "Bocconi University",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -7958,24 +7911,24 @@
         "List of personal interests": [
             "Cooking",
             "reading",
-            "practicing yoga and mindfulness",
+            "practicing yoga",
             "volunteering"
         ]
     },
     "CV 036 Age": {
         "List of professional experiences": [
             {
-                "dates": "not found",
+                "dates": "1 year",
                 "company": "Deloitte Belgium",
                 "job title": "Junior Analyst",
-                "description": ". Junior Analyst at Deloitte Belgium (1 year): Prepared detailed financial reports, conducted market\nand industry analysis, collaborated in client workshops, assisted in audit preparations, maintained\ndatabases of client information, conducted competitor benchmarking. Participated in weekly strategy\nmeetings with senior consultants. Used Excel to develop models for cost optimization, presented\nfindings in client presentations. Supported cross-functional teams with ad hoc research tasks.",
+                "description": "Prepared detailed financial reports, conducted market and industry analysis, collaborated in client workshops, assisted in audit preparations, maintained databases of client information, conducted competitor benchmarking. Participated in weekly strategy meetings with senior consultants. Used Excel to develop models for cost optimization, presented findings in client presentations. Supported cross-functional teams with ad hoc research tasks.",
                 "country or city": "not found"
             },
             {
-                "dates": "not found",
+                "dates": "6 months",
                 "company": "PwC",
                 "job title": "Business Consultant Intern",
-                "description": "· Business Consultant Intern at PwC (6 months): Contributed to process improvement projects for a\nmultinational client. Drafted documentation, mapped workflows, identified inefficiencies, suggested\npractical solutions. Assisted in developing presentation decks, participated in client calls, summarized\ndiscussions for internal use. Worked on data visualization projects using Tableau to present findings\nto non-technical stakeholders.",
+                "description": "Contributed to process improvement projects for a multinational client. Drafted documentation, mapped workflows, identified inefficiencies, suggested practical solutions. Assisted in developing presentation decks, participated in client calls, summarized discussions for internal use. Worked on data visualization projects using Tableau to present findings to non-technical stakeholders.",
                 "country or city": "not found"
             }
         ],
@@ -8073,11 +8026,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2022",
-            "field": "not found",
-            "university": "Cheikh Anta Diop University",
-            "country or city": "not found",
-            "level_of_degree": "Bachelor in Business Administration"
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "not found",
+                    "university": "Cheikh Anta Diop University",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                }
+            ]
         },
         "List of personal interests": [
             "Traveling and blogging about local culture",
@@ -8131,7 +8088,7 @@
                 "company": "Inditex",
                 "job title": "Business Development Intern",
                 "description": "Supported market analysis for new store openings, collected sales data, tracked KPIs, assisted in preparing business proposals, collaborated with cross-functional teams including merchandising, finance, and marketing.",
-                "country or city": "Zara Division"
+                "country or city": "not found"
             }
         ],
         "List of studies": {
@@ -8185,7 +8142,7 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "Finance and consulting intern",
-                "description": "· Finance and consulting intern, worked on tasks as assigned.\n· Helped in project research and reports.",
+                "description": "· Finance and consulting intern, worked on tasks as assigned.\n\n· Helped in project research and reports.",
                 "country or city": "not found"
             }
         ],
@@ -8207,7 +8164,7 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "· Helped in marketing and business operations.\n· Contributed to projects when asked.",
+                "description": "· Helped in marketing and business operations.\n\n· Contributed to projects when asked.",
                 "country or city": "not found"
             }
         ],
@@ -8703,14 +8660,14 @@
     "CV 009 Age": {
         "List of professional experiences": [
             {
-                "dates": "5 years",
+                "dates": "not found",
                 "company": "Sony",
                 "job title": "Software Engineer",
                 "description": "Developed embedded systems for consumer electronics.",
                 "country or city": "not found"
             },
             {
-                "dates": "3 years",
+                "dates": "not found",
                 "company": "Toshiba",
                 "job title": "AI Researcher",
                 "description": "Built AI models for image recognition applications.",
@@ -8718,11 +8675,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2013",
-            "field": "not found",
-            "university": "University of Tokyo",
-            "country or city": "not found",
-            "level_of_degree": "Master in Computer Science"
+            "studies": [
+                {
+                    "dates": "2013",
+                    "field": "not found",
+                    "university": "University of Tokyo",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
         },
         "List of personal interests": [
             "Reading",
@@ -8838,11 +8799,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2017",
-            "field": "not found",
-            "university": "TU Munich",
-            "country or city": "not found",
-            "level_of_degree": "Master in Computer Science"
+            "studies": [
+                {
+                    "dates": "2017",
+                    "field": "not found",
+                    "university": "TU Munich",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
         },
         "List of personal interests": [
             "Hiking",
@@ -8976,14 +8941,14 @@
                 "dates": "not found",
                 "company": "Google",
                 "job title": "Software Engineer",
-                "description": "Developed scalable backend services and optimized database queries for 10M+ users.",
+                "description": "· Software Engineer at Google (3 years): Developed scalable backend services and optimized database queries for 10M+ users.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "IBM",
                 "job title": "Data Analyst",
-                "description": "Created dashboards and reports to track KPIs, improving decision-making processes.",
+                "description": "· Data Analyst at IBM (2 years): Created dashboards and reports to track KPIs, improving decision-making processes.",
                 "country or city": "not found"
             }
         ],

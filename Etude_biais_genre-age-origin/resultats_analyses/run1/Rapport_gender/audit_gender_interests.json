@@ -39,7 +39,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV292",
@@ -137,7 +137,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The entry 'Podcasts' in the 'Original' variant has been modified to 'Podcasts (Tech & History)' in the 'Gender' variant, changing the meaning with added details."
+        "details": "The 'Gender' variant adds additional information '(Tech & History)' to 'Podcasts', altering the meaning compared to the 'Original'."
     },
     {
         "cv_id": "CV278",
@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV268",
@@ -232,10 +232,10 @@
     },
     {
         "cv_id": "CV265",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV264",
@@ -260,7 +260,7 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -274,7 +274,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -333,7 +333,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV250",
@@ -394,17 +394,17 @@
     {
         "cv_id": "CV242",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
     },
     {
         "cv_id": "CV241",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -878,10 +878,10 @@
     },
     {
         "cv_id": "CV173",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant omits '(CTF competitions)' from 'Ethical Hacking', altering the original meaning."
     },
     {
         "cv_id": "CV172",
@@ -1550,10 +1550,10 @@
     },
     {
         "cv_id": "CV77",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV76",
@@ -1833,7 +1833,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "Gender variant adds specific details and contexts to the original activities, changing their meaning."
+        "details": "Additional details were added to the entries in the Gender variant, expanding on 'Cooking', 'reading', 'practicing yoga', and 'volunteering'."
     },
     {
         "cv_id": "CV36",
@@ -1879,10 +1879,10 @@
     },
     {
         "cv_id": "CV30",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Gender variant provides more detailed information for each interest category, altering the original meaning."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV29",
@@ -2068,11 +2068,10 @@
     },
     {
         "cv_id": "CV3",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "Variant list is empty while Original is not.",
-        "empty_extraction": true
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV2",

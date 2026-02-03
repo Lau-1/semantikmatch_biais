@@ -138,7 +138,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant has added '(Tech & History)' to 'Podcasts', changing the meaning from the 'Original'."
+        "details": "The 'Age' variant added 'Tech & History' to 'Podcasts', altering the original context."
     },
     {
         "cv_id": "CV278",
@@ -156,10 +156,10 @@
     },
     {
         "cv_id": "CV276",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV275",
@@ -236,7 +236,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV264",
@@ -264,7 +264,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -296,10 +296,10 @@
     },
     {
         "cv_id": "CV256",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV255",
@@ -352,10 +352,10 @@
     },
     {
         "cv_id": "CV248",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is empty."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV247",
@@ -401,10 +401,10 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -878,10 +878,10 @@
     },
     {
         "cv_id": "CV173",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant is missing '(CTF competitions)' from 'Ethical Hacking', modifying the original meaning."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV172",
@@ -955,10 +955,10 @@
     },
     {
         "cv_id": "CV162",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Age' variant adds '(Tech & Society)' to 'Podcast production', which modifies the original content."
     },
     {
         "cv_id": "CV161",
@@ -1823,17 +1823,17 @@
     },
     {
         "cv_id": "CV38",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Addition in 'Age': 'coaching local youth sports teams' is not present in 'Original'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV37",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant slightly modified 'practicing yoga' to 'practicing yoga and mindfulness', changing the activity described."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV36",

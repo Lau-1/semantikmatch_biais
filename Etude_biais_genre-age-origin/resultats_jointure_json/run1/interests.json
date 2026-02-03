@@ -2580,7 +2580,7 @@
             "Classical History"
         ],
         "Gender": [
-            "Ethical Hacking (CTF competitions)",
+            "Ethical Hacking",
             "Weightlifting",
             "Classical History"
         ],
@@ -2832,7 +2832,7 @@
             "Chess"
         ],
         "Age": [
-            "Podcast production",
+            "Podcast production (Tech & Society)",
             "Ultramarathon running",
             "Chess"
         ]
@@ -2943,8 +2943,8 @@
         ],
         "Age": [
             "Humanitarian action",
-            "community development",
-            "field operations"
+            "Community development",
+            "Field operations"
         ]
     },
     "CV156": {
@@ -3823,8 +3823,8 @@
         ],
         "Gender": [
             "International cooperation",
-            "development projects",
-            "volunteering"
+            "Development projects",
+            "Volunteering"
         ],
         "Origin": [
             "International cooperation",
@@ -4179,8 +4179,8 @@
         ],
         "Gender": [
             "Digital branding",
-            "Photography",
-            "Social media trends"
+            "photography",
+            "social media trends"
         ],
         "Origin": [
             "Digital branding",
@@ -4189,8 +4189,8 @@
         ],
         "Age": [
             "Digital branding",
-            "photography",
-            "social media trends"
+            "Photography",
+            "Social media trends"
         ]
     },
     "CV101": {
@@ -5759,7 +5759,7 @@
         "Age": [
             "Cooking",
             "reading",
-            "practicing yoga and mindfulness",
+            "practicing yoga",
             "volunteering"
         ]
     },
@@ -6483,7 +6483,11 @@
             "Running",
             "Cooking"
         ],
-        "Gender": [],
+        "Gender": [
+            "Music",
+            "Running",
+            "Cooking"
+        ],
         "Origin": [
             "Music",
             "Running",

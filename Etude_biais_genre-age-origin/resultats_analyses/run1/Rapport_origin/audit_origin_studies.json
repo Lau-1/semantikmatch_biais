@@ -4,7 +4,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Origin' variant is missing the second study entry from the 'Original' data: an exchange at Georgia Institute of Technology."
+        "details": "The Origin variant contains only one study entry, while the Original variant contains two. The second entry in the Original (Exchange at Georgia Institute of Technology) is missing in the Origin."
     },
     {
         "cv_id": "CV297",
@@ -204,7 +204,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -263,7 +263,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV260",
@@ -403,7 +403,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -718,7 +718,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Origin' data has omitted the second study entry from the 'Original' data, namely the 'Exchange program' at 'Copenhagen Business School (CBS)'."
+        "details": "The 'Origin' variant is missing the 'Exchange program' study. Only one study from the 'Original' is present in 'Origin', leading to an omission."
     },
     {
         "cv_id": "CV195",
@@ -844,7 +844,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent. Geographic information differences are ignored due to the Origin variant rule."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV177",
@@ -1845,7 +1845,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The Origin variant contains only one study entry, whereas the Original variant contains two. The second study entry from the Original variant is missing in the Origin variant."
+        "details": "The 'Origin' variant contains only one entry from the 'Original' variant which has two entries. The 'Summer School' entry is missing."
     },
     {
         "cv_id": "CV34",
@@ -1999,7 +1999,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "One entry from the Original has been omitted in the Origin variant."
+        "details": "Original contains two study entries, while Origin has only one study entry."
     },
     {
         "cv_id": "CV12",
@@ -2024,10 +2024,10 @@
     },
     {
         "cv_id": "CV9",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'Origin' variant lacks the 'studies' key and its associated information compared to the 'Original'."
     },
     {
         "cv_id": "CV8",
@@ -2054,8 +2054,8 @@
         "cv_id": "CV5",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Original' data contains a nested structure for 'studies', while the 'Origin' data has a flat structure. The 'Original' has a list of studies, but the 'Origin' does not."
+        "error_type": "Omission",
+        "details": "The 'Origin' variant is missing the 'studies' list structure present in the 'Original' variant."
     },
     {
         "cv_id": "CV4",

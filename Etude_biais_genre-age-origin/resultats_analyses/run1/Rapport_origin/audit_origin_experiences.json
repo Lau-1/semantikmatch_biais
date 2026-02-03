@@ -92,10 +92,10 @@
     },
     {
         "cv_id": "CV285",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'company' for the second entry is 'TIFR' in 'Original' but 'not found' in 'Origin'. Additionally, 'Bangalore' in 'country or city' field of the first entry in 'Origin' can be ignored due to the Origin variant rule (geography)."
     },
     {
         "cv_id": "CV284",
@@ -207,7 +207,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Origin' variant misses descriptions found in the 'Original': 'VR EdTech startup ($50k seed)', 'Renewables', 'Developed a blockchain-based loan verification system', 'Built a dashboard to track influencer ROI across 5 markets', 'Focus on Debt Capital Markets (DCM)', and 'Focus on sustainable sourcing of raw materials'."
+        "details": "Descriptions are present in the Original but missing in the Origin for entries where there is substantive information: 'Founder' (VR EdTech startup ($50k seed)), 'Intern' at TotalEnergies (Renewables), 'Intern' at Nubank (Developed a blockchain-based loan verification system), 'Intern' at Adidas (Built a dashboard to track influencer ROI across 5 markets), and 'Intern' at Loewe (Focus on sustainable sourcing of raw materials). The Origin lacks these descriptions, leading to omissions."
     },
     {
         "cv_id": "CV268",
@@ -333,7 +333,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV250",
@@ -764,10 +764,10 @@
     },
     {
         "cv_id": "CV189",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "There is a minor modification in the description for KPMG India position where 'tax' is misspelled as 'tar'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV188",
@@ -1135,10 +1135,10 @@
     },
     {
         "cv_id": "CV136",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "In the Origin variant, for the second job entry, the company 'Consulting Firm' was shifted from 'company' to be part of 'job title'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV135",
@@ -2087,9 +2087,9 @@
     },
     {
         "cv_id": "CV0",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'dates' field is missing in 'Origin' for both entries."
     }
 ]
