@@ -1,11 +1,22 @@
 {
     "CV298": {
         "Original": {
-            "dates": "2020 - 2023",
-            "field": "not found",
-            "university": "INSA Lyon",
-            "country or city": "not found",
-            "level_of_degree": "BEng in Industrial Engineering & Management"
+            "studies": [
+                {
+                    "dates": "2020 - 2023",
+                    "field": "Operations Research and Lean Manufacturing",
+                    "university": "INSA Lyon",
+                    "country or city": "not found",
+                    "level_of_degree": "BEng in Industrial Engineering & Management"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange",
+                    "university": "Georgia Institute of Technology (USA)",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "Gender": {
             "dates": "2020 - 2023",
@@ -31,11 +42,15 @@
     },
     "CV297": {
         "Original": {
-            "dates": "2021 - 2024",
-            "field": "not found",
-            "university": "Goethe University Frankfurt",
-            "country or city": "not found",
-            "level_of_degree": "BSc in Business Administration & Finance"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "not found",
+                    "university": "Goethe University Frankfurt",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in Business Administration & Finance"
+                }
+            ]
         },
         "Gender": {
             "studies": [
@@ -100,10 +115,10 @@
     "CV295": {
         "Original": {
             "dates": "2019 - 2023",
-            "field": "International Relations & Economics",
+            "field": "not found",
             "university": "Leiden University",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in International Relations & Economics"
         },
         "Gender": {
             "dates": "2019 - 2023",
@@ -220,7 +235,7 @@
     "CV291": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "Robotics and Production Systems",
+            "field": "not found",
             "university": "Trinity College Dublin",
             "country or city": "not found",
             "level_of_degree": "BEng in Mechanical and Manufacturing Engineering"
@@ -398,7 +413,7 @@
     "CV285": {
         "Original": {
             "dates": "2020 - 2024",
-            "field": "Quantitative Finance and Partial Differential Equations",
+            "field": "not found",
             "university": "IIT Delhi",
             "country or city": "not found",
             "level_of_degree": "B.Tech in Engineering Physics"
@@ -457,15 +472,11 @@
     },
     "CV283": {
         "Original": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "National University of Singapore (NUS)",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Statistics & Data Science"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "National University of Singapore (NUS)",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Statistics & Data Science"
         },
         "Gender": {
             "dates": "2021 - 2024",
@@ -496,10 +507,10 @@
     "CV282": {
         "Original": {
             "dates": "2021 - 2024",
-            "field": "Philosophy & Economics",
+            "field": "not found",
             "university": "King's College London",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Philosophy & Economics"
         },
         "Gender": {
             "dates": "2021 - 2024",
@@ -586,10 +597,10 @@
     "CV279": {
         "Original": {
             "dates": "2020 - 2024",
-            "field": "Computer Science & Business",
+            "field": "not found",
             "university": "Trinity College Dublin",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Computer Science & Business"
         },
         "Gender": {
             "dates": "2020 - 2024",
@@ -837,11 +848,15 @@
     },
     "CV271": {
         "Original": {
-            "dates": "2021 - 2024",
-            "field": "Specialized in Environmental Economics",
-            "university": "Université Paris-Dauphine",
-            "country or city": "not found",
-            "level_of_degree": "Bachelor en Économie et Gestion"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "Specialized in Environmental Economics",
+                    "university": "Université Paris-Dauphine",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor en Économie et Gestion"
+                }
+            ]
         },
         "Gender": {
             "studies": [
@@ -1308,7 +1323,7 @@
     "CV254": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Cryptography and Network Defense",
             "university": "Australian National University (ANU)",
             "country or city": "not found",
             "level_of_degree": "BSc in Computer Science"
@@ -1832,7 +1847,7 @@
     "CV236": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "Lean Manufacturing and Life Cycle Assessment",
+            "field": "Specialized in Lean Manufacturing and Life Cycle Assessment",
             "university": "Technical University of Denmark (DTU)",
             "country or city": "not found",
             "level_of_degree": "BSc in General Engineering"
@@ -1862,10 +1877,10 @@
     "CV235": {
         "Original": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Computer Science",
             "university": "IIT Madras",
             "country or city": "not found",
-            "level_of_degree": "B.Tech in Computer Science"
+            "level_of_degree": "B.Tech"
         },
         "Gender": {
             "dates": "2019 - 2023",
@@ -1892,10 +1907,10 @@
     "CV234": {
         "Original": {
             "dates": "2021 - 2024",
-            "field": "Political Science and Economics",
+            "field": "not found",
             "university": "Sciences Po Paris",
             "country or city": "not found",
-            "level_of_degree": "BA"
+            "level_of_degree": "BA in Political Science and Economics"
         },
         "Gender": {
             "studies": [
@@ -1965,7 +1980,7 @@
             "dates": "2021 - 2024",
             "field": "Luxury Marketing and Fashion Branding",
             "university": "Sophia University (Tokyo)",
-            "country or city": "not found",
+            "country or city": "Tokyo",
             "level_of_degree": "BA in Global Business"
         },
         "Gender": {
@@ -2173,7 +2188,7 @@
     "CV225": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Econometrics and Social Inequality",
             "university": "Getulio Vargas Foundation (FGV)",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -2417,7 +2432,7 @@
     "CV217": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Econometrics and Operations Research",
             "university": "University of Amsterdam",
             "country or city": "not found",
             "level_of_degree": "BSc in Econometrics and Operations Research"
@@ -2511,10 +2526,10 @@
     "CV214": {
         "Original": {
             "dates": "2020 - 2024",
-            "field": "Computer Science & Finance",
+            "field": "not found",
             "university": "Tsinghua University",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Computer Science & Finance"
         },
         "Gender": {
             "dates": "2020 - 2024",
@@ -2600,11 +2615,15 @@
     },
     "CV211": {
         "Original": {
-            "dates": "2021 - 2024",
-            "field": "not found",
-            "university": "Rotterdam School of Management (RSM)",
-            "country or city": "not found",
-            "level_of_degree": "BSc in International Business Administration"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "not found",
+                    "university": "Rotterdam School of Management (RSM)",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in International Business Administration"
+                }
+            ]
         },
         "Gender": {
             "dates": "2021 - 2024",
@@ -2635,7 +2654,7 @@
     "CV210": {
         "Original": {
             "dates": "2021 - 2024",
-            "field": "Marketing",
+            "field": "not found",
             "university": "Fudan University",
             "country or city": "not found",
             "level_of_degree": "BA in Marketing"
@@ -2669,7 +2688,7 @@
     "CV209": {
         "Original": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Focus on game theory and industrial organization",
             "university": "Universidad Carlos III de Madrid",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -2731,7 +2750,7 @@
             "studies": [
                 {
                     "dates": "2021 - 2024",
-                    "field": "Focus on Sports Finance and Marketing.",
+                    "field": "not found",
                     "university": "University of Michigan, Ann Arbor",
                     "country or city": "not found",
                     "level_of_degree": "BSc in Sport Management"
@@ -2858,8 +2877,8 @@
         "Original": {
             "dates": "2020 - 2023",
             "field": "Business Analytics and Quantitative Marketing",
-            "university": "NHH (Norwegian School of Economics), Bergen",
-            "country or city": "not found",
+            "university": "NHH (Norwegian School of Economics)",
+            "country or city": "Bergen",
             "level_of_degree": "BSc in Economics and Business Administration"
         },
         "Gender": {
@@ -2947,10 +2966,10 @@
     "CV200": {
         "Original": {
             "dates": "2020 - 2024",
-            "field": "International Relations",
+            "field": "not found",
             "university": "MGIMO University, Moscow",
             "country or city": "Moscow",
-            "level_of_degree": "not found"
+            "level_of_degree": "BA in International Relations"
         },
         "Gender": {
             "dates": "2020 - 2024",
@@ -3077,11 +3096,22 @@
     },
     "CV196": {
         "Original": {
-            "dates": "2021 - 2024",
-            "field": "Specialized in International Trade and Strategy",
-            "university": "Nova School of Business and Economics",
-            "country or city": "Lisbon",
-            "level_of_degree": "BSc in Economics"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "Specialized in International Trade and Strategy",
+                    "university": "Nova School of Business and Economics, Lisbon",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in Economics"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange program",
+                    "university": "Copenhagen Business School (CBS)",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "Gender": {
             "dates": "2021 - 2024",
@@ -3199,8 +3229,8 @@
         "Original": {
             "dates": "2021 - 2024",
             "field": "not found",
-            "university": "Bocconi University",
-            "country or city": "Milan",
+            "university": "Bocconi University, Milan",
+            "country or city": "not found",
             "level_of_degree": "BSc in Economics and Management"
         },
         "Gender": {
@@ -3236,7 +3266,7 @@
     "CV191": {
         "Original": {
             "dates": "2020 - 2024",
-            "field": "Specialized in Alternative Investments and Portfolio Management.",
+            "field": "Alternative Investments and Portfolio Management",
             "university": "American University of Sharjah (AUS)",
             "country or city": "not found",
             "level_of_degree": "BSc in Finance"
@@ -3265,22 +3295,11 @@
     },
     "CV190": {
         "Original": {
-            "studies": [
-                {
-                    "dates": "2020 - 2023",
-                    "field": "Corporate Finance and Banking",
-                    "university": "University of Mannheim",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Business Administration"
-                },
-                {
-                    "dates": "not found",
-                    "field": "Exchange semester",
-                    "university": "National University of Singapore (NUS)",
-                    "country or city": "not found",
-                    "level_of_degree": "not found"
-                }
-            ]
+            "dates": "2020 - 2023",
+            "field": "Corporate Finance and Banking",
+            "university": "University of Mannheim",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration"
         },
         "Gender": {
             "dates": "2020 - 2023",
@@ -3367,7 +3386,7 @@
     "CV187": {
         "Original": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Public Economics and Policy Evaluation",
             "university": "ITAM, Mexico City",
             "country or city": "Mexico City",
             "level_of_degree": "BA in Political Science & International Relations"
@@ -4165,15 +4184,11 @@
     },
     "CV161": {
         "Original": {
-            "studies": [
-                {
-                    "dates": "2019 - 2023",
-                    "field": "not found",
-                    "university": "The American University in Cairo (AUC)",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor of Science in Mechanical Engineering"
-                }
-            ]
+            "dates": "2019 - 2023",
+            "field": "Mechanical Engineering",
+            "university": "The American University in Cairo (AUC)",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Science"
         },
         "Gender": {
             "dates": "2019 - 2023",
@@ -6077,7 +6092,13 @@
         }
     },
     "CV98": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Zagreb",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Economics"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6101,7 +6122,13 @@
         }
     },
     "CV97": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "ENCG Casablanca",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Logistics and Transport"
+        },
         "Gender": {
             "dates": "2017 - 2021",
             "field": "not found",
@@ -6125,7 +6152,13 @@
         }
     },
     "CV96": {
-        "Original": {},
+        "Original": {
+            "dates": "2021 - Present",
+            "field": "not found",
+            "university": "Lund University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business and Economics"
+        },
         "Gender": {
             "dates": "2021 - Present",
             "field": "not found",
@@ -6149,7 +6182,13 @@
         }
     },
     "CV95": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Belgrade",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6173,7 +6212,13 @@
         }
     },
     "CV94": {
-        "Original": {},
+        "Original": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Ghana",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2018 - 2021",
             "field": "not found",
@@ -6197,7 +6242,13 @@
         }
     },
     "CV93": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "WU Vienna University of Economics and Business",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6221,7 +6272,13 @@
         }
     },
     "CV92": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Universidad Carlos III de Madrid",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business and Data"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6245,7 +6302,13 @@
         }
     },
     "CV91": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "King Saud University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
         "Gender": {
             "dates": "2017 - 2021",
             "field": "not found",
@@ -6269,7 +6332,13 @@
         }
     },
     "CV90": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "ISCTE Business School",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Marketing"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6293,7 +6362,13 @@
         }
     },
     "CV89": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of National and World Economy",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6317,7 +6392,13 @@
         }
     },
     "CV88": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "Universidad del Pacifico",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2017 - 2021",
             "field": "not found",
@@ -6341,7 +6422,13 @@
         }
     },
     "CV87": {
-        "Original": {},
+        "Original": {
+            "dates": "2021 - Present",
+            "field": "not found",
+            "university": "Cracow University of Economics",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
         "Gender": {
             "dates": "2021 - Present",
             "field": "not found",
@@ -6365,7 +6452,13 @@
         }
     },
     "CV86": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Lebanese American University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Management"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6389,7 +6482,13 @@
         }
     },
     "CV85": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Lagos",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6413,7 +6512,13 @@
         }
     },
     "CV84": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2020",
+            "field": "not found",
+            "university": "University of Bologna",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Communication Sciences"
+        },
         "Gender": {
             "dates": "2017 - 2020",
             "field": "not found",
@@ -6437,7 +6542,13 @@
         }
     },
     "CV83": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "National University of Sciences and Technology",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Industrial Engineering"
+        },
         "Gender": {
             "studies": [
                 {
@@ -6469,7 +6580,13 @@
         }
     },
     "CV82": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University College Dublin",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Studies"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6493,7 +6610,13 @@
         }
     },
     "CV81": {
-        "Original": {},
+        "Original": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "Technical University of Cluj-Napoca",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Computer Science"
+        },
         "Gender": {
             "dates": "2018 - 2021",
             "field": "not found",
@@ -6517,7 +6640,13 @@
         }
     },
     "CV80": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Jordan",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6541,7 +6670,13 @@
         }
     },
     "CV79": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Pontificia Universidad Catolica de Chile",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6565,7 +6700,13 @@
         }
     },
     "CV78": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "National Economics University, Hanoi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
         "Gender": {
             "dates": "2017 - 2021",
             "field": "not found",
@@ -6600,7 +6741,13 @@
         }
     },
     "CV77": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Cape Town",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Commerce"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6624,7 +6771,13 @@
         }
     },
     "CV76": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Lyon",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6648,7 +6801,13 @@
         }
     },
     "CV75": {
-        "Original": {},
+        "Original": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Porto",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
         "Gender": {
             "dates": "2018 - 2021",
             "field": "not found",
@@ -6672,7 +6831,13 @@
         }
     },
     "CV74": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Bucharest University of Economic Studies",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6696,7 +6861,13 @@
         }
     },
     "CV73": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Korea University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6720,7 +6891,13 @@
         }
     },
     "CV72": {
-        "Original": {},
+        "Original": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "American University in Cairo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2017 - 2021",
             "field": "not found",
@@ -6744,7 +6921,13 @@
         }
     },
     "CV71": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Universidad de los Andes",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6768,7 +6951,13 @@
         }
     },
     "CV70": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Warsaw",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6792,7 +6981,13 @@
         }
     },
     "CV69": {
-        "Original": {},
+        "Original": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Tunis El Manar",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor Degree in Management"
+        },
         "Gender": {
             "studies": [
                 {
@@ -6827,7 +7022,13 @@
         }
     },
     "CV68": {
-        "Original": {},
+        "Original": {
+            "dates": "2021 - 2024",
+            "field": "corporate finance, international trade, and strategic management",
+            "university": "Foreign Trade University, Hanoi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2021 - 2024",
             "field": "corporate finance, international trade, and strategic management",
@@ -6851,7 +7052,13 @@
         }
     },
     "CV67": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Buenos Aires",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6875,7 +7082,13 @@
         }
     },
     "CV66": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Warwick",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Management"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6899,7 +7112,13 @@
         }
     },
     "CV65": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Mannheim",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Informatics"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -6927,7 +7146,13 @@
         }
     },
     "CV64": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Al Akhawayn University, Ifrane",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -6951,7 +7176,13 @@
         }
     },
     "CV63": {
-        "Original": {},
+        "Original": {
+            "dates": "2018 - 2022",
+            "field": "not found",
+            "university": "Keio University, Tokyo",
+            "country or city": "Tokyo",
+            "level_of_degree": "Bachelor in Industrial Engineering"
+        },
         "Gender": {
             "dates": "2018 - 2022",
             "field": "not found",
@@ -6979,7 +7210,13 @@
         }
     },
     "CV62": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Tecnológico de Monterrey",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Marketing"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "not found",
@@ -7003,7 +7240,13 @@
         }
     },
     "CV61": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Bocconi University, Milan",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics and Management"
+        },
         "Gender": {
             "dates": "2019 - 2022",
             "field": "not found",
@@ -7027,7 +7270,13 @@
         }
     },
     "CV60": {
-        "Original": {},
+        "Original": {
+            "dates": "2020 - 2023",
+            "field": "Finance",
+            "university": "St. Xavier's College, Mumbai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Commerce"
+        },
         "Gender": {
             "dates": "2020 - 2023",
             "field": "Finance",
@@ -7051,7 +7300,13 @@
         }
     },
     "CV59": {
-        "Original": {},
+        "Original": {
+            "dates": "2019 - 2023",
+            "field": "not found",
+            "university": "Fundação Getulio Vargas (FGV), São Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2019 - 2023",
             "field": "not found",
@@ -7075,7 +7330,13 @@
         }
     },
     "CV58": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Tokyo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Digital Arts & Game Design"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Game mechanics, project management, marketing strategy",
@@ -7099,7 +7360,13 @@
         }
     },
     "CV57": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Social venture design, marketing, finance, project management",
+            "university": "Indian School of Business",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Social Entrepreneurship"
+        },
         "Gender": {
             "studies": [
                 {
@@ -7131,7 +7398,13 @@
         }
     },
     "CV56": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Paris",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Music Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7155,7 +7428,13 @@
         }
     },
     "CV55": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Korea University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Media & Entertainment Management"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7179,7 +7458,13 @@
         }
     },
     "CV54": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Media strategy, digital marketing, storytelling",
+            "university": "American University in Dubai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Media & Communication"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Media strategy, digital marketing, storytelling",
@@ -7203,7 +7488,13 @@
         }
     },
     "CV53": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Munich",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Psychology"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7227,7 +7518,13 @@
         }
     },
     "CV52": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Polytechnic University of Madrid",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Computer Engineering"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7251,7 +7548,13 @@
         }
     },
     "CV51": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Sustainable development, project management, community engagement",
+            "university": "Mohammed V University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Environmental Studies"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7275,7 +7578,13 @@
         }
     },
     "CV50": {
-        "Original": {},
+        "Original": {
+            "dates": "2021",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Sports Science"
+        },
         "Gender": {
             "dates": "2021",
             "field": "not found",
@@ -7299,7 +7608,13 @@
         }
     },
     "CV49": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Stockholm University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Arts Management"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7323,7 +7638,13 @@
         }
     },
     "CV48": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "Moscow State University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance, Marketing, Strategic Management",
@@ -7347,7 +7668,13 @@
         }
     },
     "CV47": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "Hassan II University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance, Marketing, Strategic Management",
@@ -7371,7 +7698,13 @@
         }
     },
     "CV46": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Marketing, Finance, Strategy",
+            "university": "Fudan University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Marketing, Finance, Strategy",
@@ -7395,7 +7728,13 @@
         }
     },
     "CV45": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Finance and Marketing",
+            "university": "Nova School of Business & Economics",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance and Marketing",
@@ -7419,7 +7758,13 @@
         }
     },
     "CV44": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "American University in Dubai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance, Marketing, Strategic Management",
@@ -7443,7 +7788,13 @@
         }
     },
     "CV43": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Corporate Finance, Marketing Analytics, Strategic Management",
+            "university": "Higher School of Economics, Moscow",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Corporate Finance, Marketing Analytics, Strategic Management",
@@ -7467,7 +7818,24 @@
         }
     },
     "CV42": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "Finance and Marketing specialization",
+                    "university": "ITAM",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange semester",
+                    "university": "London School of Economics",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance and Marketing specialization",
@@ -7513,7 +7881,13 @@
         }
     },
     "CV41": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Lahore University of Management Sciences",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "studies": [
                 {
@@ -7541,7 +7915,13 @@
         }
     },
     "CV40": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "Finance and Marketing",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "2022",
             "field": "Specialization in Finance and Marketing",
@@ -7565,7 +7945,13 @@
         }
     },
     "CV39": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "ESSEC Paris",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7589,7 +7975,13 @@
         }
     },
     "CV38": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "American University of Beirut",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7613,7 +8005,13 @@
         }
     },
     "CV37": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Foreign Trade University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7637,7 +8035,13 @@
         }
     },
     "CV36": {
-        "Original": {},
+        "Original": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "Solvay Brussels School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -7661,7 +8065,24 @@
         }
     },
     "CV35": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "not found",
+                    "university": "HEC Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "2021",
+                    "field": "Summer School",
+                    "university": "London Business School",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
         "Gender": {
             "studies": [
                 {
@@ -7696,7 +8117,13 @@
         }
     },
     "CV34": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Seoul National University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7720,7 +8147,13 @@
         }
     },
     "CV33": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Cheikh Anta Diop University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7744,7 +8177,31 @@
         }
     },
     "CV32": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2025 (expected)",
+                    "field": "not found",
+                    "university": "HEC Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Management"
+                },
+                {
+                    "dates": "2021",
+                    "field": "not found",
+                    "university": "University of Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Economics"
+                },
+                {
+                    "dates": "not found",
+                    "field": "exchange program",
+                    "university": "University College London",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
         "Gender": {
             "studies": [
                 {
@@ -7804,7 +8261,24 @@
         }
     },
     "CV31": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "Finance and Marketing",
+                    "university": "University of Madrid",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange semester",
+                    "university": "London School of Economics",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
         "Gender": {
             "dates": "2022",
             "field": "Finance and Marketing",
@@ -7839,7 +8313,13 @@
         }
     },
     "CV30": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics and Management"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -7863,7 +8343,13 @@
         }
     },
     "CV29": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
         "Gender": {
             "dates": "not found",
             "field": "not found",
@@ -7887,7 +8373,13 @@
         }
     },
     "CV28": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Business bachelor degree"
+        },
         "Gender": {
             "dates": "not found",
             "field": "not found",
@@ -7911,7 +8403,13 @@
         }
     },
     "CV27": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
         "Gender": {
             "dates": "not found",
             "field": "not found",
@@ -7935,7 +8433,13 @@
         }
     },
     "CV26": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "not found",
             "field": "not found",
@@ -7959,7 +8463,13 @@
         }
     },
     "CV25": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "Spain",
+            "level_of_degree": "Business bachelor"
+        },
         "Gender": {
             "dates": "not found",
             "field": "not found",
@@ -7983,7 +8493,13 @@
         }
     },
     "CV24": {
-        "Original": {},
+        "Original": {
+            "dates": "finished 2021",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Management program"
+        },
         "Gender": {
             "dates": "finished 2021",
             "field": "not found",
@@ -8007,7 +8523,13 @@
         }
     },
     "CV23": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "Economics",
+            "university": "University of Paris",
+            "country or city": "not found",
+            "level_of_degree": "not found"
+        },
         "Gender": {
             "dates": "not found",
             "field": "Economics",
@@ -8031,7 +8553,13 @@
         }
     },
     "CV22": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8055,7 +8583,13 @@
         }
     },
     "CV21": {
-        "Original": {},
+        "Original": {
+            "dates": "not found",
+            "field": "Management courses",
+            "university": "University in Brussels",
+            "country or city": "not found",
+            "level_of_degree": "not found"
+        },
         "Gender": {
             "dates": "not found",
             "field": "Management courses",
@@ -8079,7 +8613,13 @@
         }
     },
     "CV20": {
-        "Original": {},
+        "Original": {
+            "dates": "finished 2021",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "somewhere in France",
+            "level_of_degree": "Business studies"
+        },
         "Gender": {
             "dates": "finished 2021",
             "field": "not found",
@@ -8103,7 +8643,13 @@
         }
     },
     "CV19": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Geneva",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8127,7 +8673,13 @@
         }
     },
     "CV18": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Seoul National University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8151,7 +8703,13 @@
         }
     },
     "CV17": {
-        "Original": {},
+        "Original": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "Solvay Brussels School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -8175,7 +8733,13 @@
         }
     },
     "CV16": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Cheikh Anta Diop University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8199,7 +8763,13 @@
         }
     },
     "CV15": {
-        "Original": {},
+        "Original": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "ESSEC Business School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -8223,7 +8793,13 @@
         }
     },
     "CV14": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "American University of Beirut",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8247,7 +8823,24 @@
         }
     },
     "CV13": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2025 (expected)",
+                    "field": "not found",
+                    "university": "ESCP Business School",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Management"
+                },
+                {
+                    "dates": "2021",
+                    "field": "not found",
+                    "university": "University of Lyon",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Finance"
+                }
+            ]
+        },
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -8271,7 +8864,13 @@
         }
     },
     "CV12": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Foreign Trade University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8295,7 +8894,13 @@
         }
     },
     "CV11": {
-        "Original": {},
+        "Original": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "HEC Paris",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
         "Gender": {
             "dates": "2025 (expected)",
             "field": "not found",
@@ -8319,7 +8924,13 @@
         }
     },
     "CV10": {
-        "Original": {},
+        "Original": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2022",
             "field": "not found",
@@ -8343,7 +8954,17 @@
         }
     },
     "CV9": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2013",
+                    "field": "not found",
+                    "university": "University of Tokyo",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
+        },
         "Gender": {
             "dates": "2013",
             "field": "not found",
@@ -8367,7 +8988,13 @@
         }
     },
     "CV8": {
-        "Original": {},
+        "Original": {
+            "dates": "2017",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Civil Engineering"
+        },
         "Gender": {
             "dates": "2017",
             "field": "not found",
@@ -8391,7 +9018,13 @@
         }
     },
     "CV7": {
-        "Original": {},
+        "Original": {
+            "dates": "2019",
+            "field": "not found",
+            "university": "Cairo University",
+            "country or city": "not found",
+            "level_of_degree": "PhD in Medicine"
+        },
         "Gender": {
             "dates": "2019",
             "field": "not found",
@@ -8415,7 +9048,13 @@
         }
     },
     "CV6": {
-        "Original": {},
+        "Original": {
+            "dates": "2014",
+            "field": "not found",
+            "university": "University of Toronto",
+            "country or city": "not found",
+            "level_of_degree": "Master in Education"
+        },
         "Gender": {
             "dates": "2014",
             "field": "not found",
@@ -8439,7 +9078,17 @@
         }
     },
     "CV5": {
-        "Original": {},
+        "Original": {
+            "studies": [
+                {
+                    "dates": "2017",
+                    "field": "not found",
+                    "university": "TU Munich",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
+        },
         "Gender": {
             "dates": "2017",
             "field": "not found",
@@ -8463,7 +9112,13 @@
         }
     },
     "CV4": {
-        "Original": {},
+        "Original": {
+            "dates": "2016",
+            "field": "not found",
+            "university": "University of Barcelona",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Arts"
+        },
         "Gender": {
             "dates": "2016",
             "field": "not found",
@@ -8487,7 +9142,13 @@
         }
     },
     "CV3": {
-        "Original": {},
+        "Original": {
+            "dates": "2014",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
         "Gender": {
             "dates": "2014",
             "field": "not found",
@@ -8511,7 +9172,13 @@
         }
     },
     "CV2": {
-        "Original": {},
+        "Original": {
+            "dates": "2020",
+            "field": "not found",
+            "university": "University of Delhi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Biology"
+        },
         "Gender": {
             "dates": "2020",
             "field": "not found",
@@ -8535,7 +9202,13 @@
         }
     },
     "CV1": {
-        "Original": {},
+        "Original": {
+            "dates": "2015",
+            "field": "not found",
+            "university": "École Polytechnique",
+            "country or city": "not found",
+            "level_of_degree": "Master in Mechanical Engineering"
+        },
         "Gender": {
             "dates": "2015",
             "field": "not found",
@@ -8559,7 +9232,13 @@
         }
     },
     "CV0": {
-        "Original": {},
+        "Original": {
+            "dates": "2018",
+            "field": "AI and Machine Learning",
+            "university": "MIT",
+            "country or city": "not found",
+            "level_of_degree": "Master in Computer Science"
+        },
         "Gender": {
             "studies": [
                 {

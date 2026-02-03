@@ -24,11 +24,22 @@
             }
         ],
         "List of studies": {
-            "dates": "2020 - 2023",
-            "field": "not found",
-            "university": "INSA Lyon",
-            "country or city": "not found",
-            "level_of_degree": "BEng in Industrial Engineering & Management"
+            "studies": [
+                {
+                    "dates": "2020 - 2023",
+                    "field": "Operations Research and Lean Manufacturing",
+                    "university": "INSA Lyon",
+                    "country or city": "not found",
+                    "level_of_degree": "BEng in Industrial Engineering & Management"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange",
+                    "university": "Georgia Institute of Technology (USA)",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "List of personal interests": [
             "Vertical Farming Research",
@@ -61,11 +72,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2021 - 2024",
-            "field": "not found",
-            "university": "Goethe University Frankfurt",
-            "country or city": "not found",
-            "level_of_degree": "BSc in Business Administration & Finance"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "not found",
+                    "university": "Goethe University Frankfurt",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in Business Administration & Finance"
+                }
+            ]
         },
         "List of personal interests": [
             "Quantitative Macro Trading",
@@ -76,14 +91,14 @@
     "CV 296 Original": {
         "List of professional experiences": [
             {
-                "dates": "2022 - Present.",
-                "company": "\"VerdePay\" (Green fintech startup)",
+                "dates": "2022 - Present",
+                "company": "VerdePay",
                 "job title": "Co-founder",
                 "description": "Developed a micro-loan platform for small-scale sustainable farmers in Brazil; secured $50k in seed funding and scaled to 500 active users.",
                 "country or city": "not found"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Natura & Co",
                 "job title": "Impact Intern",
                 "description": "Analyzed the social ROI (SROI) of the brand's Amazonian bio-diversity preservation programs.",
@@ -107,10 +122,10 @@
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
-                "company": "International Energy Agency (IEA)",
+                "company": "International Energy Agency (IEA), Paris",
                 "job title": "Energy Analyst Intern",
                 "description": "Compiled data for the 2025 \"World Energy Outlook\" report; focused on the transition from coal to natural gas in Southeast Asia.",
-                "country or city": "Paris"
+                "country or city": "not found"
             },
             {
                 "dates": "2023",
@@ -122,10 +137,10 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "International Relations & Economics",
+            "field": "not found",
             "university": "Leiden University",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in International Relations & Economics"
         },
         "List of personal interests": [
             "Chess",
@@ -238,7 +253,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Robotics and Production Systems",
+            "field": "not found",
             "university": "Trinity College Dublin",
             "country or city": "not found",
             "level_of_degree": "BEng in Mechanical and Manufacturing Engineering"
@@ -252,14 +267,14 @@
     "CV 290 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed com- petitive benchmarking and regulatory analysis for 4 countries.",
+                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed com-\npetitive benchmarking and regulatory analysis for 4 countries.",
                 "country or city": "Madrid"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Spanish Ministry of Foreign Affairs",
                 "job title": "Summer Intern",
                 "description": "Drafted briefing notes for the EU Presidency meetings.",
@@ -418,7 +433,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Quantitative Finance and Partial Differential Equations",
+            "field": "not found",
             "university": "IIT Delhi",
             "country or city": "not found",
             "level_of_degree": "B.Tech in Engineering Physics"
@@ -477,15 +492,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "National University of Singapore (NUS)",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Statistics & Data Science"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "National University of Singapore (NUS)",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Statistics & Data Science"
         },
         "List of personal interests": [
             "Competitive Gaming (League of Legends)",
@@ -512,10 +523,10 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Philosophy & Economics",
+            "field": "not found",
             "university": "King's College London",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Philosophy & Economics"
         },
         "List of personal interests": [
             "Historical Fencing",
@@ -589,7 +600,7 @@
                 "dates": "June 2024 - Present",
                 "company": "Accenture",
                 "job title": "Digital Strategy Intern",
-                "description": "Assisting a Tier-1 retail bank in migrating its legacy mainframe to a cloud-native architecture.\nFacilitated 10+ stakeholder workshops to define user requirements.",
+                "description": "Assisting a Tier-1 retail bank in migrating its legacy mainframe to a cloud-native architecture. Facilitated 10+ stakeholder workshops to define user requirements.",
                 "country or city": "Dublin"
             },
             {
@@ -602,10 +613,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Computer Science & Business",
+            "field": "not found",
             "university": "Trinity College Dublin",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Computer Science & Business"
         },
         "List of personal interests": [
             "Rugby",
@@ -841,11 +852,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2021 - 2024",
-            "field": "Specialized in Environmental Economics",
-            "university": "Université Paris-Dauphine",
-            "country or city": "not found",
-            "level_of_degree": "Bachelor en Économie et Gestion"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "Specialized in Environmental Economics",
+                    "university": "Université Paris-Dauphine",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor en Économie et Gestion"
+                }
+            ]
         },
         "List of personal interests": [
             "Sailing",
@@ -903,7 +918,7 @@
                 "dates": "not found",
                 "company": "TotalEnergies",
                 "job title": "Intern",
-                "description": "Research on Solar PV efficiency in West Africa",
+                "description": "Renewables",
                 "country or city": "not found"
             },
             {
@@ -941,14 +956,14 @@
     "CV 268 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
-                "company": "OECD, Paris",
+                "dates": "June 2024 - Present.",
+                "company": "OECD",
                 "job title": "Policy Intern",
                 "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Investment (FDI) report.",
-                "country or city": "not found"
+                "country or city": "Paris"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Italian Ministry of Foreign Affairs",
                 "job title": "Summer Intern",
                 "description": "Supported the G7 summit coordination team in Rome.",
@@ -1338,14 +1353,14 @@
     "CV 255 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Sanofi",
                 "job title": "Innovation Intern",
                 "description": "Supported the digital health team in launching a patient-monitoring app for diabetes.\nConducted market research on telemedicine regulations in the EU.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Institut Pasteur",
                 "job title": "Lab Assistant",
                 "description": "Assisted in data entry and preliminary analysis for a clinical trial on mRNA vaccines.",
@@ -1368,14 +1383,14 @@
     "CV 254 Original": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "CrowdStrike",
                 "job title": "Cybersecurity Intern",
                 "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples.\nConducted vulnerability scans using Nessus for corporate clients.",
                 "country or city": "Sydney"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "PwC",
                 "job title": "IT Audit Intern",
                 "description": "Verified ISO 27001 compliance for a regional bank, identifying 3 critical security gaps.",
@@ -1384,7 +1399,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Cryptography and Network Defense",
             "university": "Australian National University (ANU)",
             "country or city": "not found",
             "level_of_degree": "BSc in Computer Science"
@@ -1927,7 +1942,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Lean Manufacturing and Life Cycle Assessment",
+            "field": "Specialized in Lean Manufacturing and Life Cycle Assessment",
             "university": "Technical University of Denmark (DTU)",
             "country or city": "not found",
             "level_of_degree": "BSc in General Engineering"
@@ -1957,10 +1972,10 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Computer Science",
             "university": "IIT Madras",
             "country or city": "not found",
-            "level_of_degree": "B.Tech in Computer Science"
+            "level_of_degree": "B.Tech"
         },
         "List of personal interests": [
             "Reading Startup Biographies",
@@ -1987,10 +2002,10 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Political Science and Economics",
+            "field": "not found",
             "university": "Sciences Po Paris",
             "country or city": "not found",
-            "level_of_degree": "BA"
+            "level_of_degree": "BA in Political Science and Economics"
         },
         "List of personal interests": [
             "Debating",
@@ -2049,7 +2064,7 @@
             "dates": "2021 - 2024",
             "field": "Luxury Marketing and Fashion Branding",
             "university": "Sophia University (Tokyo)",
-            "country or city": "not found",
+            "country or city": "Tokyo",
             "level_of_degree": "BA in Global Business"
         },
         "List of personal interests": [
@@ -2241,14 +2256,14 @@
     "CV 225 Original": {
         "List of professional experiences": [
             {
-                "dates": "January 2024 - Present",
+                "dates": "January 2024 - Present.",
                 "company": "Central Bank of Brazil",
                 "job title": "Research Analyst",
                 "description": "Assisted in the preparation of the quarterly inflation report, utilizing STATA for time-series analysis.",
                 "country or city": "not found"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "UN Development Programme (UNDP)",
                 "job title": "Policy Intern",
                 "description": "Conducted field research on the impact of micro-credit programs in Northeast Brazil.",
@@ -2257,7 +2272,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Econometrics and Social Inequality",
             "university": "Getulio Vargas Foundation (FGV)",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -2274,7 +2289,7 @@
                 "dates": "July 2024 - Present",
                 "company": "Bulgari",
                 "job title": "CRM Intern",
-                "description": "Managed the database for HNW (High-Net-Worth) clients, segmenting data to personalize direct marketing campaigns.\nAnalyzed boutique performance metrics for the EMEA region.",
+                "description": "Managed the database for HNW (High-Net-Worth) clients, segmenting data to personalize direct marketing campaigns.\n\nAnalyzed boutique performance metrics for the EMEA region.",
                 "country or city": "Rome"
             },
             {
@@ -2497,7 +2512,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Econometrics and Operations Research",
             "university": "University of Amsterdam",
             "country or city": "not found",
             "level_of_degree": "BSc in Econometrics and Operations Research"
@@ -2514,7 +2529,7 @@
                 "dates": "June 2024 - Present",
                 "company": "Davy",
                 "job title": "Investment Banking Intern",
-                "description": "Drafted valuation reports for 2 mid-cap tech acquisitions.\n\nPerformed detailed peer-group analysis and financial statement normalization.",
+                "description": "Drafted valuation reports for 2 mid-cap tech acquisitions.\nPerformed detailed peer-group analysis and financial statement normalization.",
                 "country or city": "Dublin"
             },
             {
@@ -2587,10 +2602,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Computer Science & Finance",
+            "field": "not found",
             "university": "Tsinghua University",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Computer Science & Finance"
         },
         "List of personal interests": [
             "Robotics",
@@ -2632,10 +2647,10 @@
         "List of professional experiences": [
             {
                 "dates": "June 2024 - December 2024",
-                "company": "KPMG",
+                "company": "KPMG, Paris",
                 "job title": "Audit Intern",
-                "description": "Participated in the statutory audit of 4 major retail clients.\nVerified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
-                "country or city": "Paris"
+                "description": "Participated in the statutory audit of 4 major retail clients.\n\nVerified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
+                "country or city": "not found"
             },
             {
                 "dates": "January 2024 - May 2024",
@@ -2676,11 +2691,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2021 - 2024",
-            "field": "not found",
-            "university": "Rotterdam School of Management (RSM)",
-            "country or city": "not found",
-            "level_of_degree": "BSc in International Business Administration"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "not found",
+                    "university": "Rotterdam School of Management (RSM)",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in International Business Administration"
+                }
+            ]
         },
         "List of personal interests": [
             "Competitive Rowing",
@@ -2707,7 +2726,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Marketing",
+            "field": "not found",
             "university": "Fudan University",
             "country or city": "not found",
             "level_of_degree": "BA in Marketing"
@@ -2737,7 +2756,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Focus on game theory and industrial organization",
             "university": "Universidad Carlos III de Madrid",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Economics"
@@ -2799,7 +2818,7 @@
             "studies": [
                 {
                     "dates": "2021 - 2024",
-                    "field": "Focus on Sports Finance and Marketing.",
+                    "field": "not found",
                     "university": "University of Michigan, Ann Arbor",
                     "country or city": "not found",
                     "level_of_degree": "BSc in Sport Management"
@@ -2848,14 +2867,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "Coupang",
                 "job title": "E-commerce Intern",
-                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow. Conducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in conversion. Analyzed competitor pricing and promotions using web scraping tools.",
+                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow.\nConducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in conversion.\nAnalyzed competitor pricing and promotions using web scraping tools.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "June 2023 - December 2023",
                 "company": "Amorepacific",
                 "job title": "Digital Marketing Assistant",
-                "description": "Supported the global marketing team in launching a skincare brand on Amazon US. Managed PPC (Pay-Per-Click) campaigns and keyword optimization.",
+                "description": "Supported the global marketing team in launching a skincare brand on Amazon US.\nManaged PPC (Pay-Per-Click) campaigns and keyword optimization.",
                 "country or city": "not found"
             }
         ],
@@ -2922,8 +2941,8 @@
         "List of studies": {
             "dates": "2020 - 2023",
             "field": "Business Analytics and Quantitative Marketing",
-            "university": "NHH (Norwegian School of Economics), Bergen",
-            "country or city": "not found",
+            "university": "NHH (Norwegian School of Economics)",
+            "country or city": "Bergen",
             "level_of_degree": "BSc in Economics and Business Administration"
         },
         "List of personal interests": [
@@ -2966,10 +2985,10 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
-                "company": "Ogilvy & Mather",
+                "company": "Ogilvy & Mather, São Paulo",
                 "job title": "Creative Intern",
                 "description": "Collaborated on the creative strategy for major national brands in the beverage and retail sectors. Developed visual concepts and storyboards for digital ad campaigns. Participated in \"Design Thinking\" workshops to solve branding challenges for clients.",
-                "country or city": "São Paulo"
+                "country or city": "not found"
             },
             {
                 "dates": "2022 - 2023",
@@ -3011,10 +3030,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "International Relations",
+            "field": "not found",
             "university": "MGIMO University, Moscow",
             "country or city": "Moscow",
-            "level_of_degree": "not found"
+            "level_of_degree": "BA in International Relations"
         },
         "List of personal interests": [
             "Ballet",
@@ -3088,14 +3107,14 @@
                 "dates": "July 2023 - January 2024",
                 "company": "Central Bank of Egypt",
                 "job title": "Research Intern",
-                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends.\nPrepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector.\nUtilized Stata to perform regression analysis on household expenditure surveys.",
+                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends. Prepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector. Utilized Stata to perform regression analysis on household expenditure surveys.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "UNDP (United Nations Development Programme), Cairo",
                 "job title": "Policy Intern",
-                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt.\nConducted field visits to rural communities to assess the impact of microfinance programs.",
+                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt. Conducted field visits to rural communities to assess the impact of microfinance programs.",
                 "country or city": "not found"
             }
         ],
@@ -3130,11 +3149,22 @@
             }
         ],
         "List of studies": {
-            "dates": "2021 - 2024",
-            "field": "Specialized in International Trade and Strategy",
-            "university": "Nova School of Business and Economics",
-            "country or city": "Lisbon",
-            "level_of_degree": "BSc in Economics"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "Specialized in International Trade and Strategy",
+                    "university": "Nova School of Business and Economics, Lisbon",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in Economics"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange program",
+                    "university": "Copenhagen Business School (CBS)",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "List of personal interests": [
             "Surfing",
@@ -3148,14 +3178,14 @@
                 "dates": "August 2022 - August 2023",
                 "company": "Stripe",
                 "job title": "Software Engineering Intern",
-                "description": "Contributed to the development of API documentation for European payment regulations (PSD2).\nAssisted in the integration of local payment methods for the Nordic market.\nOptimized database queries for the transaction monitoring system, reducing latency by 20%.",
+                "description": "Contributed to the development of API documentation for European payment regulations (PSD2). Assisted in the integration of local payment methods for the Nordic market. Optimized database queries for the transaction monitoring system, reducing latency by 20%.",
                 "country or city": "Dublin"
             },
             {
                 "dates": "2020 - 2022",
                 "company": "Trinity Student Investment Fund",
                 "job title": "Fintech Researcher",
-                "description": "Published a report on the impact of Decentralized Finance (DeFi) on traditional retail banking.\nDeveloped a sentiment analysis bot to track crypto-market trends on social media.",
+                "description": "Published a report on the impact of Decentralized Finance (DeFi) on traditional retail banking. Developed a sentiment analysis bot to track crypto-market trends on social media.",
                 "country or city": "not found"
             }
         ],
@@ -3252,8 +3282,8 @@
         "List of studies": {
             "dates": "2021 - 2024",
             "field": "not found",
-            "university": "Bocconi University",
-            "country or city": "Milan",
+            "university": "Bocconi University, Milan",
+            "country or city": "not found",
             "level_of_degree": "BSc in Economics and Management"
         },
         "List of personal interests": [
@@ -3281,7 +3311,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Specialized in Alternative Investments and Portfolio Management.",
+            "field": "Alternative Investments and Portfolio Management",
             "university": "American University of Sharjah (AUS)",
             "country or city": "not found",
             "level_of_degree": "BSc in Finance"
@@ -3310,22 +3340,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2020 - 2023",
-                    "field": "Corporate Finance and Banking",
-                    "university": "University of Mannheim",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Business Administration"
-                },
-                {
-                    "dates": "not found",
-                    "field": "Exchange semester",
-                    "university": "National University of Singapore (NUS)",
-                    "country or city": "not found",
-                    "level_of_degree": "not found"
-                }
-            ]
+            "dates": "2020 - 2023",
+            "field": "Corporate Finance and Banking",
+            "university": "University of Mannheim",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Business Administration"
         },
         "List of personal interests": [
             "European Politics",
@@ -3412,7 +3431,7 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Public Economics and Policy Evaluation",
             "university": "ITAM, Mexico City",
             "country or city": "Mexico City",
             "level_of_degree": "BA in Political Science & International Relations"
@@ -3639,14 +3658,14 @@
                 "dates": "June 2024 - September 2024",
                 "company": "DBS Bank, Singapore",
                 "job title": "Blockchain Research Intern",
-                "description": "Researched use cases for Central Bank Digital Currencies (CBDCs) in cross-border settlements. Assisted in the testing of a private Ethereum-based network for trade finance automation. Drafted a white paper on the impact of DeFi (Decentralized Finance) on traditional retail banking.",
+                "description": "Researched use cases for Central Bank Digital Currencies (CBDCs) in cross-border settlements.\nAssisted in the testing of a private Ethereum-based network for trade finance automation.\n\nDrafted a white paper on the impact of DeFi (Decentralized Finance) on traditional retail banking.",
                 "country or city": "not found"
             },
             {
                 "dates": "May 2023 - August 2023",
                 "company": "Grab Financial Group",
                 "job title": "Analyst Intern",
-                "description": "Analyzed transaction data to identify patterns of fraudulent behavior in the \"GrabPay\" ecosystem. Assisted in the optimization of the \"Micro-Investment\" product user journey, improving retention by 5%. Built SQL queries to monitor the performance of loyalty programs across different merchant categories.",
+                "description": "Analyzed transaction data to identify patterns of fraudulent behavior in the \"GrabPay\" ecosystem.\nAssisted in the optimization of the \"Micro-Investment\" product user journey, improving retention by\n5%.\n\nBuilt SQL queries to monitor the performance of loyalty programs across different merchant categories.",
                 "country or city": "not found"
             }
         ],
@@ -3669,14 +3688,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "AFL (Australian Football League)",
                 "job title": "Commercial Intern",
-                "description": "Supported the sponsorship team in managing relations with major corporate partners (Toyota, Telstra).\nAssisted in the activation of match-day fan engagement zones, increasing app downloads by 15% during\nthe finals.\n\nAnalyzed viewership and attendance data to prepare reports for the commercial director.",
+                "description": "Supported the sponsorship team in managing relations with major corporate partners (Toyota, Telstra). Assisted in the activation of match-day fan engagement zones, increasing app downloads by 15% during the finals. Analyzed viewership and attendance data to prepare reports for the commercial director.",
                 "country or city": "Melbourne"
             },
             {
                 "dates": "January 2024 - April 2024",
                 "company": "Fox Sports Australia",
                 "job title": "Marketing Assistant",
-                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions.\nAssisted in the production of television promos and digital ad campaigns.\n\nMonitored sports media trends and competitor broadcast rights acquisitions.",
+                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions. Assisted in the production of television promos and digital ad campaigns. Monitored sports media trends and competitor broadcast rights acquisitions.",
                 "country or city": "not found"
             }
         ],
@@ -3789,14 +3808,14 @@
                 "dates": "July 2023 - Present",
                 "company": "Samsung C&T (Fashion Division)",
                 "job title": "Merchandising Intern",
-                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates.\nManaged sample coordination between global suppliers and local showrooms for the SS24 collection.\nAssisted in price architecture analysis, comparing local luxury market positioning with international benchmarks.",
+                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates. Managed sample coordination between global suppliers and local showrooms for the SS24 collection. Assisted in price architecture analysis, comparing local luxury market positioning with international benchmarks.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Dior (LVMH Korea)",
                 "job title": "Public Relations Intern",
-                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots.\nAssisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and press kits.\nMonitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
+                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots. Assisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and press kits. Monitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
                 "country or city": "not found"
             }
         ],
@@ -3838,7 +3857,7 @@
             "level_of_degree": "BSc in Information Technology"
         },
         "List of personal interests": [
-            "Ethical Hacking",
+            "Ethical Hacking (CTF competitions)",
             "Weightlifting",
             "Classical History"
         ]
@@ -3847,7 +3866,7 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
-                "company": "TETO Brasil",
+                "company": "TETO Brasil (NGO)",
                 "job title": "Program Coordinator",
                 "description": "Lead a team of 40+ volunteers in the construction of emergency housing for marginalized communities.\nManage relationships with corporate sponsors, securing over R$100k in funding through impact reports.\nCoordinate data collection in informal settlements to assess community needs and evaluate project im-\npact.",
                 "country or city": "not found"
@@ -3999,14 +4018,14 @@
                 "dates": "August 2023 - Present",
                 "company": "Sanofi",
                 "job title": "Regulatory Affairs Intern",
-                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\n\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare professionals.",
+                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare professionals.",
                 "country or city": "Dakar"
             },
             {
                 "dates": "2022 - 2023 (Part-time)",
                 "company": "Pharmacie de la Nation",
                 "job title": "Pharmacy Manager Assistant",
-                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expiration dates.\n\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\n\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
+                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expiration dates.\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
                 "country or city": "not found"
             }
         ],
@@ -4027,7 +4046,7 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
-                "company": "Allegro",
+                "company": "Allegro (E-commerce)",
                 "job title": "Machine Learning Intern",
                 "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
                 "country or city": "Warsaw"
@@ -4179,27 +4198,23 @@
                 "dates": "July 2023 - December 2023",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Sustainability Consultant Intern",
-                "description": "Supported a decarbonization roadmap for a major African mining company, focusing on Scope 1 and 2 emissions. Conducted benchmarks on green hydrogen technologies and their financial feasibility in the MENA region. Assisted in the design of a circular economy framework for a consumer goods client, aiming to reduce plastic waste by 30%. Prepared executive-level slides for weekly steering committees and stakeholder engagement workshops.",
+                "description": "Supported a decarbonization roadmap for a major African mining company, focusing on Scope 1 and 2 emissions.\nConducted benchmarks on green hydrogen technologies and their financial feasibility in the MENA region.\nAssisted in the design of a circular economy framework for a consumer goods client, aiming to reduce plastic waste by 30%.\nPrepared executive-level slides for weekly steering committees and stakeholder engagement workshops.",
                 "country or city": "Casablanca"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Siemens Gamesa (Renewable Energy)",
                 "job title": "Operations Intern",
-                "description": "Assisted in the logistics planning for wind turbine components across three major wind farm sites. Analyzed operational downtime data to identify recurring technical failures, improving maintenance scheduling efficiency. Collaborated with the EHS (Environment, Health, and Safety) team to ensure compliance with international safety standards.",
+                "description": "Assisted in the logistics planning for wind turbine components across three major wind farm sites.\nAnalyzed operational downtime data to identify recurring technical failures, improving maintenance scheduling efficiency.\nCollaborated with the EHS (Environment, Health, and Safety) team to ensure compliance with international safety standards.",
                 "country or city": "not found"
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2019 - 2023",
-                    "field": "not found",
-                    "university": "The American University in Cairo (AUC)",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor of Science in Mechanical Engineering"
-                }
-            ]
+            "dates": "2019 - 2023",
+            "field": "Mechanical Engineering",
+            "university": "The American University in Cairo (AUC)",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Science"
         },
         "List of personal interests": [
             "Professional Squash player",
@@ -4273,14 +4288,14 @@
                 "dates": "June 2024 - September 2024",
                 "company": "UniCredit",
                 "job title": "Investment Banking Summer Analyst",
-                "description": "Supported the M&A team in the TMT sector, assisting in the preparation of pitch books and teaser documents.\nPerformed company valuations using Multiples and Discounted Cash Flow (DCF) methods.\nConducted industry research and benchmarking to identify potential acquisition targets for corporate clients.\nMaintained data rooms and coordinated the due diligence process for two mid-market transactions.",
+                "description": "Supported the M&A team in the TMT sector, assisting in the preparation of pitch books and teaser documents.\n\nPerformed company valuations using Multiples and Discounted Cash Flow (DCF) methods.\n\nConducted industry research and benchmarking to identify potential acquisition targets for corporate clients.\n\nMaintained data rooms and coordinated the due diligence process for two mid-market transactions.",
                 "country or city": "Milan"
             },
             {
                 "dates": "January 2024 - April 2024",
                 "company": "PwC",
                 "job title": "Audit Intern",
-                "description": "Assisted in the statutory audit of financial statements for industrial clients under IFRS and local GAAP.\nTested internal controls and performed substantive testing on balance sheet accounts (accounts receivable, inventory).\nUtilized Alteryx and Excel to automate the reconciliation of large datasets, reducing manual entry time by 15%.",
+                "description": "Assisted in the statutory audit of financial statements for industrial clients under IFRS and local GAAP.\nTested internal controls and performed substantive testing on balance sheet accounts (accounts receivable, inventory).\n\nUtilized Alteryx and Excel to automate the reconciliation of large datasets, reducing manual entry time by 15%.",
                 "country or city": "Rome"
             }
         ],
@@ -4333,7 +4348,7 @@
                 "dates": "Jan 2019 - Sep 2023",
                 "company": "International NGO",
                 "job title": "Project Coordinator",
-                "description": "Coordinated international projects, including scheduling, stakeholder communication, and resource allocation\nPrepared donor reports and progress presentations for funding agencies\nEnsured compliance with international guidelines and project goals\nSupervised project assistants and volunteers, providing training and mentorship",
+                "description": "Coordinated international projects, including scheduling, stakeholder communication, and resource allocation\n\nPrepared donor reports and progress presentations for funding agencies\n\nEnsured compliance with international guidelines and project goals\n\nSupervised project assistants and volunteers, providing training and mentorship",
                 "country or city": "not found"
             },
             {
@@ -4697,14 +4712,14 @@
                 "dates": "Jan 2016 - Sep 2023",
                 "company": "FMCG Group",
                 "job title": "Regional Sales Manager",
-                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\n\nCoordinated with marketing and logistics teams for product launches",
+                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\nCoordinated with marketing and logistics teams for product launches",
                 "country or city": "not found"
             },
             {
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Executive",
-                "description": "Prospected and acquired B2B clients\n\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
+                "description": "Prospected and acquired B2B clients\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
                 "country or city": "not found"
             }
         ],
@@ -4758,14 +4773,14 @@
                 "dates": "Jan 2020 - Sep 2023",
                 "company": "Manufacturing Company",
                 "job title": "Operations Manager",
-                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency. Cost Optimization: Analyzed and optimized operational costs to improve profit margins. Team Leadership: Supervised production teams and ensured seamless cross-departmental coordination. Performance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
+                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency.\nCost Optimization: Analyzed and optimized operational costs to improve profit margins.\nTeam Leadership: Supervised production teams and ensured seamless cross-departmental coordination.\nPerformance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
                 "country or city": "not found"
             },
             {
                 "dates": "2019 - 2020",
                 "company": "not found",
                 "job title": "Process Engineer",
-                "description": "Continuous Improvement: Conducted studies to enhance industrial processes and operational workflows. Waste Reduction: Collected and analyzed production data to identify and eliminate inefficiencies. Lean Methodologies: Contributed to Lean Manufacturing and Six Sigma projects to drive process excellence.",
+                "description": "Continuous Improvement: Conducted studies to enhance industrial processes and operational workflows.\nWaste Reduction: Collected and analyzed production data to identify and eliminate inefficiencies.\nLean Methodologies: Contributed to Lean Manufacturing and Six Sigma projects to drive process excellence.",
                 "country or city": "not found"
             }
         ],
@@ -4818,7 +4833,7 @@
                 "dates": "Mar 2021 - Aug 2023",
                 "company": "SME",
                 "job title": "Accounting Officer",
-                "description": "Managed monthly closing processes and tracked budgets\nPrepared financial statements and reconciliations\nAssisted management with financial reporting and compliance",
+                "description": "Managed monthly closing processes and tracked budgets\n\nPrepared financial statements and reconciliations\nAssisted management with financial reporting and compliance",
                 "country or city": "not found"
             },
             {
@@ -4898,8 +4913,8 @@
         },
         "List of personal interests": [
             "Corporate finance",
-            "financial planning",
-            "self-development"
+            "Financial planning",
+            "Self-development"
         ]
     },
     "CV 137 Original": {
@@ -5181,7 +5196,7 @@
                 "dates": "Feb 2023 - Aug 2023",
                 "company": "Telecom Company",
                 "job title": "Business Intelligence Assistant",
-                "description": "Built KPI dashboards and monitored operational performance\n\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
+                "description": "Built KPI dashboards and monitored operational performance\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
                 "country or city": "not found"
             },
             {
@@ -5407,7 +5422,7 @@
                 "dates": "Mar 2022 - Sep 2023",
                 "company": "Manufacturing Company",
                 "job title": "Financial Reporting Officer",
-                "description": "Prepared monthly financial reports and budget variance analysis\n\nAssisted in auditing processes and internal control review\nDeveloped Excel dashboards to track financial KPIs",
+                "description": "Prepared monthly financial reports and budget variance analysis\nAssisted in auditing processes and internal control review\nDeveloped Excel dashboards to track financial KPIs",
                 "country or city": "not found"
             },
             {
@@ -5976,8 +5991,8 @@
             },
             {
                 "dates": "2021",
-                "company": "not found",
-                "job title": "Research Assistant - University Project",
+                "company": "University Project",
+                "job title": "Research Assistant",
                 "description": "Cleaned and processed survey data for research",
                 "country or city": "not found"
             }
@@ -6072,8 +6087,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Zagreb",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Economics"
+        },
+        "List of personal interests": [
+            "Corporate finance",
+            "learning languages",
+            "investment trends"
+        ]
     },
     "CV 097 Original": {
         "List of professional experiences": [
@@ -6092,8 +6117,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "ENCG Casablanca",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Logistics and Transport"
+        },
+        "List of personal interests": [
+            "Operations efficiency",
+            "fitness",
+            "logistics innovation"
+        ]
     },
     "CV 096 Original": {
         "List of professional experiences": [
@@ -6112,8 +6147,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2021 - Present",
+            "field": "not found",
+            "university": "Lund University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business and Economics"
+        },
+        "List of personal interests": [
+            "Sustainability",
+            "yoga",
+            "corporate responsibility"
+        ]
     },
     "CV 095 Original": {
         "List of professional experiences": [
@@ -6132,8 +6177,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Belgrade",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
+        "List of personal interests": [
+            "Startups",
+            "networking",
+            "innovation"
+        ]
     },
     "CV 094 Original": {
         "List of professional experiences": [
@@ -6152,8 +6207,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Ghana",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Social impact",
+            "project management",
+            "community engagement"
+        ]
     },
     "CV 093 Original": {
         "List of professional experiences": [
@@ -6172,8 +6237,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "WU Vienna University of Economics and Business",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Business strategy",
+            "hiking",
+            "industry research"
+        ]
     },
     "CV 092 Original": {
         "List of professional experiences": [
@@ -6192,8 +6267,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Universidad Carlos III de Madrid",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business and Data"
+        },
+        "List of personal interests": [
+            "Data visualization",
+            "running",
+            "analytics competitions"
+        ]
     },
     "CV 091 Original": {
         "List of professional experiences": [
@@ -6212,8 +6297,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "King Saud University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
+        "List of personal interests": [
+            "International trade",
+            "travel",
+            "supply chain optimization"
+        ]
     },
     "CV 090 Original": {
         "List of professional experiences": [
@@ -6232,8 +6327,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "ISCTE Business School",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Marketing"
+        },
+        "List of personal interests": [
+            "Content creation",
+            "branding",
+            "digital campaigns"
+        ]
     },
     "CV 089 Original": {
         "List of professional experiences": [
@@ -6252,8 +6357,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of National and World Economy",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Personal finance",
+            "cycling",
+            "financial literacy"
+        ]
     },
     "CV 088 Original": {
         "List of professional experiences": [
@@ -6272,8 +6387,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "Universidad del Pacifico",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Corporate finance",
+            "sustainability",
+            "investment strategies"
+        ]
     },
     "CV 087 Original": {
         "List of professional experiences": [
@@ -6292,8 +6417,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2021 - Present",
+            "field": "not found",
+            "university": "Cracow University of Economics",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
+        "List of personal interests": [
+            "Business strategy",
+            "fitness",
+            "retail trends"
+        ]
     },
     "CV 086 Original": {
         "List of professional experiences": [
@@ -6312,8 +6447,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Lebanese American University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Management"
+        },
+        "List of personal interests": [
+            "Geopolitics",
+            "languages",
+            "international business"
+        ]
     },
     "CV 085 Original": {
         "List of professional experiences": [
@@ -6332,8 +6477,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Lagos",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Startups",
+            "social impact",
+            "youth development"
+        ]
     },
     "CV 084 Original": {
         "List of professional experiences": [
@@ -6352,8 +6507,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2020",
+            "field": "not found",
+            "university": "University of Bologna",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Communication Sciences"
+        },
+        "List of personal interests": [
+            "Photography",
+            "travel branding",
+            "social media trends",
+            "creative writing"
+        ]
     },
     "CV 083 Original": {
         "List of professional experiences": [
@@ -6372,8 +6538,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "National University of Sciences and Technology",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Industrial Engineering"
+        },
+        "List of personal interests": [
+            "Process improvement",
+            "sports",
+            "industrial innovation",
+            "robotics"
+        ]
     },
     "CV 082 Original": {
         "List of professional experiences": [
@@ -6385,8 +6562,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University College Dublin",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Studies"
+        },
+        "List of personal interests": [
+            "Case competitions",
+            "debating",
+            "strategy analysis",
+            "mentoring"
+        ]
     },
     "CV 081 Original": {
         "List of professional experiences": [
@@ -6405,8 +6593,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "Technical University of Cluj-Napoca",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Computer Science"
+        },
+        "List of personal interests": [
+            "Data projects",
+            "automation",
+            "business intelligence",
+            "tech innovation"
+        ]
     },
     "CV 080 Original": {
         "List of professional experiences": [
@@ -6425,8 +6624,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Jordan",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
+        "List of personal interests": [
+            "Women entrepreneurship",
+            "financial literacy",
+            "reading",
+            "investment trends"
+        ]
     },
     "CV 079 Original": {
         "List of professional experiences": [
@@ -6445,8 +6655,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Pontificia Universidad Catolica de Chile",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Travel",
+            "economics podcasts",
+            "international trade",
+            "entrepreneurship"
+        ]
     },
     "CV 078 Original": {
         "List of professional experiences": [
@@ -6465,8 +6686,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "National Economics University, Hanoi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
+        "List of personal interests": [
+            "Professional growth",
+            "finance books",
+            "investment strategies"
+        ]
     },
     "CV 077 Original": {
         "List of professional experiences": [
@@ -6478,7 +6709,13 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Cape Town",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Commerce"
+        },
         "List of personal interests": []
     },
     "CV 076 Original": {
@@ -6498,8 +6735,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Lyon",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Data visualization",
+            "hiking",
+            "analytics competitions",
+            "business trends"
+        ]
     },
     "CV 075 Original": {
         "List of professional experiences": [
@@ -6518,8 +6766,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Porto",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
+        "List of personal interests": [
+            "Entrepreneurship",
+            "mentoring",
+            "innovation trends",
+            "public policy"
+        ]
     },
     "CV 074 Original": {
         "List of professional experiences": [
@@ -6538,8 +6797,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Bucharest University of Economic Studies",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Psychology",
+            "volunteering",
+            "reading",
+            "leadership development"
+        ]
     },
     "CV 073 Original": {
         "List of professional experiences": [
@@ -6558,8 +6828,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Korea University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Running",
+            "process optimization",
+            "logistics innovation",
+            "podcasts"
+        ]
     },
     "CV 072 Original": {
         "List of professional experiences": [
@@ -6578,8 +6859,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "American University in Cairo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Startups",
+            "networking events",
+            "yoga",
+            "innovation trends"
+        ]
     },
     "CV 071 Original": {
         "List of professional experiences": [
@@ -6598,8 +6890,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Universidad de los Andes",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Content creation",
+            "photography",
+            "social media trends",
+            "marketing strategy"
+        ]
     },
     "CV 070 Original": {
         "List of professional experiences": [
@@ -6618,8 +6921,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Warsaw",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Personal finance",
+            "pilates",
+            "budgeting",
+            "investment strategies"
+        ]
     },
     "CV 069 Original": {
         "List of professional experiences": [
@@ -6638,8 +6952,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018 - 2021",
+            "field": "not found",
+            "university": "University of Tunis El Manar",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor Degree in Management"
+        },
+        "List of personal interests": [
+            "Travel",
+            "football",
+            "online courses",
+            "entrepreneurship insights"
+        ]
     },
     "CV 068 Original": {
         "List of professional experiences": [
@@ -6658,8 +6983,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2021 - 2024",
+            "field": "corporate finance, international trade, and strategic management",
+            "university": "Foreign Trade University, Hanoi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Professional development",
+            "public speaking",
+            "mentoring",
+            "international business trends"
+        ]
     },
     "CV 067 Original": {
         "List of professional experiences": [
@@ -6678,8 +7014,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Buenos Aires",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Entrepreneurship",
+            "podcasts",
+            "fintech innovation"
+        ]
     },
     "CV 066 Original": {
         "List of professional experiences": [
@@ -6698,8 +7044,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "University of Warwick",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Management"
+        },
+        "List of personal interests": [
+            "Case competitions",
+            "sustainability strategy",
+            "Pilates"
+        ]
     },
     "CV 065 Original": {
         "List of professional experiences": [
@@ -6711,8 +7067,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "University of Mannheim",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Informatics"
+        },
+        "List of personal interests": [
+            "Data science competitions",
+            "cycling",
+            "technology trends"
+        ]
     },
     "CV 064 Original": {
         "List of professional experiences": [
@@ -6731,8 +7097,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Al Akhawayn University, Ifrane",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Management"
+        },
+        "List of personal interests": [
+            "International relations",
+            "volunteering",
+            "travel"
+        ]
     },
     "CV 063 Original": {
         "List of professional experiences": [
@@ -6740,19 +7116,29 @@
                 "dates": "April 2022 - March 2023",
                 "company": "Toyota Motor Corporation",
                 "job title": "Operations Planning Analyst",
-                "description": "Supported production planning and demand forecasting activities\n\nAssisted in capacity planning and coordination between production units\nContributed to lean manufacturing and continuous improvement",
+                "description": "Supported production planning and demand forecasting activities\nAssisted in capacity planning and coordination between production units\nContributed to lean manufacturing and continuous improvement",
                 "country or city": "not found"
             },
             {
                 "dates": "August 2021 - February 2022",
                 "company": "Mitsui & Co.",
                 "job title": "Logistics Intern",
-                "description": "Analyzed international shipping routes and logistics cost structures\nSupported coordination with logistics partners and internal teams\n\nContributed to reporting on transportation efficiency and cost optimization",
+                "description": "Analyzed international shipping routes and logistics cost structures\nSupported coordination with logistics partners and internal teams\nContributed to reporting on transportation efficiency and cost optimization",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018 - 2022",
+            "field": "not found",
+            "university": "Keio University, Tokyo",
+            "country or city": "Tokyo",
+            "level_of_degree": "Bachelor in Industrial Engineering"
+        },
+        "List of personal interests": [
+            "Martial arts",
+            "process optimization",
+            "productivity systems"
+        ]
     },
     "CV 062 Original": {
         "List of professional experiences": [
@@ -6771,8 +7157,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "not found",
+            "university": "Tecnológico de Monterrey",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Marketing"
+        },
+        "List of personal interests": [
+            "Photography",
+            "fashion marketing",
+            "content creation"
+        ]
     },
     "CV 061 Original": {
         "List of professional experiences": [
@@ -6791,8 +7187,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2022",
+            "field": "not found",
+            "university": "Bocconi University, Milan",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics and Management"
+        },
+        "List of personal interests": [
+            "Cycling",
+            "geopolitics",
+            "luxury industry trends"
+        ]
     },
     "CV 060 Original": {
         "List of professional experiences": [
@@ -6818,17 +7224,28 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020 - 2023",
+            "field": "Finance",
+            "university": "St. Xavier's College, Mumbai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor of Commerce"
+        },
+        "List of personal interests": [
+            "Stock markets",
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
+        ]
     },
     "CV 059 Original": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
-                "company": "Itaú Unibanco",
+                "company": "Itaú Unibanco, São Paulo",
                 "job title": "Business Analyst Intern",
                 "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
-                "country or city": "São Paulo"
+                "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
@@ -6845,8 +7262,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019 - 2023",
+            "field": "not found",
+            "university": "Fundação Getulio Vargas (FGV), São Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Football",
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
+        ]
     },
     "CV 058 Original": {
         "List of professional experiences": [
@@ -6865,8 +7293,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Tokyo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Digital Arts & Game Design"
+        },
+        "List of personal interests": [
+            "Gaming",
+            "coding",
+            "anime",
+            "travel"
+        ]
     },
     "CV 057 Original": {
         "List of professional experiences": [
@@ -6885,8 +7324,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Social venture design, marketing, finance, project management",
+            "university": "Indian School of Business",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Social Entrepreneurship"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "volunteering",
+            "blogging",
+            "photography"
+        ]
     },
     "CV 056 Original": {
         "List of professional experiences": [
@@ -6905,8 +7355,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Paris",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Music Business"
+        },
+        "List of personal interests": [
+            "Music production",
+            "DJing",
+            "travel",
+            "photography"
+        ]
     },
     "CV 055 Original": {
         "List of professional experiences": [
@@ -6925,8 +7386,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Korea University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Media & Entertainment Management"
+        },
+        "List of personal interests": [
+            "Gaming",
+            "streaming",
+            "content creation",
+            "photography"
+        ]
     },
     "CV 054 Original": {
         "List of professional experiences": [
@@ -6945,8 +7417,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Media strategy, digital marketing, storytelling",
+            "university": "American University in Dubai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Media & Communication"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "drone flying",
+            "video editing",
+            "music"
+        ]
     },
     "CV 053 Original": {
         "List of professional experiences": [
@@ -6965,8 +7448,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Munich",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Psychology"
+        },
+        "List of personal interests": [
+            "Reading psychology books",
+            "chess",
+            "travel",
+            "creative writing"
+        ]
     },
     "CV 052 Original": {
         "List of professional experiences": [
@@ -6985,8 +7479,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Polytechnic University of Madrid",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Computer Engineering"
+        },
+        "List of personal interests": [
+            "Gaming",
+            "travel",
+            "coding side projects",
+            "volunteering"
+        ]
     },
     "CV 051 Original": {
         "List of professional experiences": [
@@ -7005,8 +7510,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Sustainable development, project management, community engagement",
+            "university": "Mohammed V University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Environmental Studies"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "sustainable cooking",
+            "hiking",
+            "photography"
+        ]
     },
     "CV 050 Original": {
         "List of professional experiences": [
@@ -7025,8 +7541,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2021",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Sports Science"
+        },
+        "List of personal interests": [
+            "Football",
+            "coaching",
+            "music",
+            "reading sports literature"
+        ]
     },
     "CV 049 Original": {
         "List of professional experiences": [
@@ -7040,13 +7567,24 @@
             {
                 "dates": "1 year",
                 "company": "not found",
-                "job title": "Volunteer Event Organizer",
+                "job title": "Volunteer Event Organizer, Stockholm Arts Festival",
                 "description": "Coordinated workshops, artist communications, logistics, and community engagement events.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Stockholm University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Arts Management"
+        },
+        "List of personal interests": [
+            "Painting",
+            "photography",
+            "hiking",
+            "volunteer coaching"
+        ]
     },
     "CV 048 Original": {
         "List of professional experiences": [
@@ -7065,8 +7603,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "Moscow State University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "chess",
+            "volunteering"
+        ]
     },
     "CV 047 Original": {
         "List of professional experiences": [
@@ -7085,8 +7634,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "Hassan II University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "travel",
+            "reading",
+            "volunteering"
+        ]
     },
     "CV 046 Original": {
         "List of professional experiences": [
@@ -7105,8 +7665,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Marketing, Finance, Strategy",
+            "university": "Fudan University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "cooking",
+            "photography",
+            "esports"
+        ]
     },
     "CV 045 Original": {
         "List of professional experiences": [
@@ -7125,8 +7696,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Finance and Marketing",
+            "university": "Nova School of Business & Economics",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "photography",
+            "football",
+            "volunteering"
+        ]
     },
     "CV 044 Original": {
         "List of professional experiences": [
@@ -7145,8 +7727,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Finance, Marketing, Strategic Management",
+            "university": "American University in Dubai",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "sports",
+            "reading",
+            "volunteering"
+        ]
     },
     "CV 043 Original": {
         "List of professional experiences": [
@@ -7165,8 +7758,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Corporate Finance, Marketing Analytics, Strategic Management",
+            "university": "Higher School of Economics, Moscow",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "chess",
+            "volunteering"
+        ]
     },
     "CV 042 Original": {
         "List of professional experiences": [
@@ -7185,8 +7789,30 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "Finance and Marketing specialization",
+                    "university": "ITAM",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange semester",
+                    "university": "London School of Economics",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Football",
+            "photography",
+            "cooking",
+            "finance meetups"
+        ]
     },
     "CV 041 Original": {
         "List of professional experiences": [
@@ -7205,8 +7831,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Lahore University of Management Sciences",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "reading strategy books",
+            "yoga",
+            "volunteering"
+        ]
     },
     "CV 040 Original": {
         "List of professional experiences": [
@@ -7225,8 +7862,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "Finance and Marketing",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Football",
+            "photography",
+            "cooking",
+            "finance networking"
+        ]
     },
     "CV 039 Original": {
         "List of professional experiences": [
@@ -7245,8 +7893,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "ESSEC Paris",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Travel",
+            "cooking",
+            "photography",
+            "volunteering"
+        ]
     },
     "CV 038 Original": {
         "List of professional experiences": [
@@ -7265,8 +7924,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "American University of Beirut",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Swimming",
+            "reading historical and business biographies",
+            "traveling for cultural immersion",
+            "organizing charity events and workshops for women entrepreneurs"
+        ]
     },
     "CV 037 Original": {
         "List of professional experiences": [
@@ -7285,8 +7955,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Foreign Trade University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "reading",
+            "practicing yoga",
+            "volunteering"
+        ]
     },
     "CV 036 Original": {
         "List of professional experiences": [
@@ -7305,8 +7986,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "Solvay Brussels School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
+        "List of personal interests": [
+            "Competitive cycling",
+            "photography",
+            "organizing local charity events",
+            "reading economic journals"
+        ]
     },
     "CV 035 Original": {
         "List of professional experiences": [
@@ -7325,8 +8017,30 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "not found",
+                    "university": "HEC Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "2021",
+                    "field": "Summer School",
+                    "university": "London Business School",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Traveling to explore local markets and cultural events",
+            "food blogging and photography",
+            "volunteering at community workshops teaching digital literacy and entrepreneurship",
+            "practicing yoga and meditation"
+        ]
     },
     "CV 034 Original": {
         "List of professional experiences": [
@@ -7345,8 +8059,19 @@
                 "country or city": "Seoul"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Seoul National University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Traveling to understand international markets",
+            "cooking and food photography",
+            "reading business and strategy literature",
+            "mentoring students in marketing"
+        ]
     },
     "CV 033 Original": {
         "List of professional experiences": [
@@ -7365,8 +8090,19 @@
                 "country or city": "Dakar"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Cheikh Anta Diop University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Traveling and blogging about local culture",
+            "cooking and experimenting with new recipes",
+            "volunteering in educational initiatives",
+            "painting and arts and crafts"
+        ]
     },
     "CV 032 Original": {
         "List of professional experiences": [
@@ -7385,8 +8121,37 @@
                 "country or city": "Paris"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2025 (expected)",
+                    "field": "not found",
+                    "university": "HEC Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Management"
+                },
+                {
+                    "dates": "2021",
+                    "field": "not found",
+                    "university": "University of Paris",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Economics"
+                },
+                {
+                    "dates": "not found",
+                    "field": "exchange program",
+                    "university": "University College London",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Basketball",
+            "photography of cityscapes",
+            "traveling for cultural experiences",
+            "mentoring junior students"
+        ]
     },
     "CV 031 Original": {
         "List of professional experiences": [
@@ -7405,8 +8170,30 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2022",
+                    "field": "Finance and Marketing",
+                    "university": "University of Madrid",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Business Administration"
+                },
+                {
+                    "dates": "not found",
+                    "field": "Exchange semester",
+                    "university": "London School of Economics",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Football",
+            "photography and photo editing",
+            "cooking traditional Spanish recipes",
+            "attending finance networking events"
+        ]
     },
     "CV 030 Original": {
         "List of professional experiences": [
@@ -7425,8 +8212,19 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics and Management"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "volunteering",
+            "yoga and meditation"
+        ]
     },
     "CV 029 Original": {
         "List of professional experiences": [
@@ -7434,12 +8232,28 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "Finance and consulting intern",
-                "description": "· Finance and consulting intern, worked on tasks as assigned.\n\n· Helped in project research and reports.",
+                "description": "worked on tasks as assigned.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped in project research and reports.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
+        "List of personal interests": [
+            "Skiing",
+            "Reading"
+        ]
     },
     "CV 028 Original": {
         "List of professional experiences": [
@@ -7451,8 +8265,17 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Business bachelor degree"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Cooking"
+        ]
     },
     "CV 027 Original": {
         "List of professional experiences": [
@@ -7460,12 +8283,21 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in finance and consulting roles, did some analysis.\nAssisted teams with general tasks.",
+                "description": "Worked in finance and consulting roles, did some analysis. Assisted teams with general tasks.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
+        },
+        "List of personal interests": [
+            "Skiing",
+            "Reading"
+        ]
     },
     "CV 026 Original": {
         "List of professional experiences": [
@@ -7477,8 +8309,17 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 025 Original": {
         "List of professional experiences": [
@@ -7486,12 +8327,21 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in finance and marketing roles, various short-term tasks.\nSupported team with reports and meetings.",
+                "description": "Worked in finance and marketing roles, various short-term tasks. Supported team with reports and meetings.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "Spain",
+            "level_of_degree": "Business bachelor"
+        },
+        "List of personal interests": [
+            "Football",
+            "Music"
+        ]
     },
     "CV 024 Original": {
         "List of professional experiences": [
@@ -7499,12 +8349,28 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "Intern",
-                "description": "Interned at different companies, helped with tasks and reports.\nAssisted with events and presentations.",
+                "description": "Interned at different companies, helped with tasks and reports.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Assistant",
+                "description": "Assisted with events and presentations.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "finished 2021",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Management program"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Art"
+        ]
     },
     "CV 023 Original": {
         "List of professional experiences": [
@@ -7523,8 +8389,17 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "Economics",
+            "university": "University of Paris",
+            "country or city": "not found",
+            "level_of_degree": "not found"
+        },
+        "List of personal interests": [
+            "Tennis",
+            "Reading"
+        ]
     },
     "CV 022 Original": {
         "List of professional experiences": [
@@ -7532,19 +8407,21 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Business support in a small team, handled tasks as assigned.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "not found",
-                "company": "not found",
-                "job title": "not found",
-                "description": "Helped with social media content and documentation.",
+                "description": "Business support in a small team, handled tasks as assigned.\nHelped with social media content and documentation.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "reading"
+        ]
     },
     "CV 021 Original": {
         "List of professional experiences": [
@@ -7563,8 +8440,17 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "not found",
+            "field": "Management courses",
+            "university": "University in Brussels",
+            "country or city": "not found",
+            "level_of_degree": "not found"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Gaming"
+        ]
     },
     "CV 020 Original": {
         "List of professional experiences": [
@@ -7572,12 +8458,29 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in marketing and sales for various small projects in Paris.\nAssisted in some reporting and customer follow-up tasks at a local firm.",
+                "description": "Worked in marketing and sales for various small projects in Paris.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Assisted in some reporting and customer follow-up tasks at a local firm.",
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "finished 2021",
+            "field": "not found",
+            "university": "not found",
+            "country or city": "somewhere in France",
+            "level_of_degree": "Business studies"
+        },
+        "List of personal interests": [
+            "Reading",
+            "walking",
+            "random sports"
+        ]
     },
     "CV 019 Original": {
         "List of professional experiences": [
@@ -7596,8 +8499,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "University of Geneva",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Finance"
+        },
+        "List of personal interests": [
+            "Skiing",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 018 Original": {
         "List of professional experiences": [
@@ -7616,8 +8529,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Seoul National University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Reading",
+            "Traveling",
+            "Cooking"
+        ]
     },
     "CV 017 Original": {
         "List of professional experiences": [
@@ -7636,8 +8559,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "Solvay Brussels School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
+        "List of personal interests": [
+            "Cycling",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 016 Original": {
         "List of professional experiences": [
@@ -7656,8 +8589,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Cheikh Anta Diop University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ]
     },
     "CV 015 Original": {
         "List of professional experiences": [
@@ -7676,8 +8619,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "ESSEC Business School",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
+        "List of personal interests": [
+            "Football",
+            "Traveling",
+            "Photography"
+        ]
     },
     "CV 014 Original": {
         "List of professional experiences": [
@@ -7696,8 +8649,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "American University of Beirut",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Swimming",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 013 Original": {
         "List of professional experiences": [
@@ -7716,8 +8679,29 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2025 (expected)",
+                    "field": "not found",
+                    "university": "ESCP Business School",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Management"
+                },
+                {
+                    "dates": "2021",
+                    "field": "not found",
+                    "university": "University of Lyon",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Finance"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Tennis",
+            "Traveling",
+            "Photography"
+        ]
     },
     "CV 012 Original": {
         "List of professional experiences": [
@@ -7736,8 +8720,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Foreign Trade University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in International Business"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 011 Original": {
         "List of professional experiences": [
@@ -7756,8 +8750,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2025 (expected)",
+            "field": "not found",
+            "university": "HEC Paris",
+            "country or city": "not found",
+            "level_of_degree": "Master in Management"
+        },
+        "List of personal interests": [
+            "Basketball",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 010 Original": {
         "List of professional experiences": [
@@ -7776,8 +8780,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2022",
+            "field": "not found",
+            "university": "Bocconi University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Blogging",
+            "Cooking"
+        ]
     },
     "CV 009 Original": {
         "List of professional experiences": [
@@ -7796,8 +8810,22 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2013",
+                    "field": "not found",
+                    "university": "University of Tokyo",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Reading",
+            "Gaming",
+            "Traveling"
+        ]
     },
     "CV 008 Original": {
         "List of professional experiences": [
@@ -7816,8 +8844,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2017",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Civil Engineering"
+        },
+        "List of personal interests": [
+            "Hiking",
+            "Music",
+            "Swimming"
+        ]
     },
     "CV 007 Original": {
         "List of professional experiences": [
@@ -7836,8 +8874,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2019",
+            "field": "not found",
+            "university": "Cairo University",
+            "country or city": "not found",
+            "level_of_degree": "PhD in Medicine"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Chess",
+            "Reading"
+        ]
     },
     "CV 006 Original": {
         "List of professional experiences": [
@@ -7856,8 +8904,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2014",
+            "field": "not found",
+            "university": "University of Toronto",
+            "country or city": "not found",
+            "level_of_degree": "Master in Education"
+        },
+        "List of personal interests": [
+            "Reading",
+            "Swimming",
+            "Traveling"
+        ]
     },
     "CV 005 Original": {
         "List of professional experiences": [
@@ -7876,8 +8934,22 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "studies": [
+                {
+                    "dates": "2017",
+                    "field": "not found",
+                    "university": "TU Munich",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                }
+            ]
+        },
+        "List of personal interests": [
+            "Hiking",
+            "Chess",
+            "Photography"
+        ]
     },
     "CV 004 Original": {
         "List of professional experiences": [
@@ -7896,8 +8968,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2016",
+            "field": "not found",
+            "university": "University of Barcelona",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Arts"
+        },
+        "List of personal interests": [
+            "Painting",
+            "Photography",
+            "Traveling"
+        ]
     },
     "CV 003 Original": {
         "List of professional experiences": [
@@ -7916,8 +8998,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2014",
+            "field": "not found",
+            "university": "University of SÃo Paulo",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Business Administration"
+        },
+        "List of personal interests": [
+            "Music",
+            "Running",
+            "Cooking"
+        ]
     },
     "CV 002 Original": {
         "List of professional experiences": [
@@ -7936,8 +9028,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2020",
+            "field": "not found",
+            "university": "University of Delhi",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Biology"
+        },
+        "List of personal interests": [
+            "Traveling",
+            "Reading",
+            "Gardening"
+        ]
     },
     "CV 001 Original": {
         "List of professional experiences": [
@@ -7956,8 +9058,18 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2015",
+            "field": "not found",
+            "university": "École Polytechnique",
+            "country or city": "not found",
+            "level_of_degree": "Master in Mechanical Engineering"
+        },
+        "List of personal interests": [
+            "Cooking",
+            "Chess",
+            "Sailing"
+        ]
     },
     "CV 000 Original": {
         "List of professional experiences": [
@@ -7976,7 +9088,17 @@
                 "country or city": "not found"
             }
         ],
-        "List of studies": {},
-        "List of personal interests": []
+        "List of studies": {
+            "dates": "2018",
+            "field": "AI and Machine Learning",
+            "university": "MIT",
+            "country or city": "not found",
+            "level_of_degree": "Master in Computer Science"
+        },
+        "List of personal interests": [
+            "Hiking",
+            "Photography",
+            "Painting"
+        ]
     }
 }

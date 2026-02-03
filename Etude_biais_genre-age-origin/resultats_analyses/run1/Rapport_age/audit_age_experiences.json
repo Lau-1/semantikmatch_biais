@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The description for the entry at TotalEnergies was changed from 'Research on Solar PV efficiency in West Africa' to 'Renewables', altering the meaning of the original content."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV268",
@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "In the Nubank entry, the description in the 'Age' variant is shortened to just 'Strategy', omitting 'Founded an AgTech platform for small farmers', which affects the content."
+        "details": "In the entry for Nubank, the 'description' in the 'Age' variant was changed from 'Founded an AgTech platform for small farmers.' to 'Strategy'."
     },
     {
         "cv_id": "CV240",
@@ -544,7 +544,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV220",
@@ -1566,7 +1566,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'company' field for the second entry originally contains 'not found', but in the Age variant, it is listed as 'Student Startup'. Additionally, the job title originally includes '- Student Startup (failed)', while the Age variant omits the parenthetical indication of failure. These changes affect the consistency of the information."
+        "details": "The 'Age' variant has modified the company name from 'not found' to 'Student Startup'. The job title was also modified from 'Co-founder - Student Startup (failed)' to 'Co-founder'. These changes affect the overall meaning and content."
     },
     {
         "cv_id": "CV74",
