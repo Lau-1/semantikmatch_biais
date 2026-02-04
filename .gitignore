@@ -58,15 +58,6 @@ CV_Origin/
 CV_Age/
 
 
-
-############################
-# 🧠 Résultats d'analyse LLM
-############################
-
-rapports/
-rapports_age/
-rapports_origin/
-
 ############################
 # 🔄 Fichiers générés automatiquement
 ############################
