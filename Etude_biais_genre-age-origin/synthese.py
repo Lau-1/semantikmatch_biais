@@ -159,7 +159,7 @@ def afficher_types_erreurs(df):
     print("-" * 60)
 
 # ==========================================
-# 3. ANALYSE PAR CV
+# 3. ANALYSE PAR CV & PAR ERREUR
 # ==========================================
 
 def inspecter_details_cv(df, cv_id_cible):
@@ -193,6 +193,47 @@ def inspecter_details_cv(df, cv_id_cible):
             print("     📝 Détails : (Aucun message disponible)")
 
     print("-" * 60)
+
+def lister_toutes_les_erreurs(df):
+    """
+    Affiche la liste séquentielle de toutes les erreurs trouvées,
+    avec une pagination pour ne pas surcharger la console.
+    """
+    df_erreurs = df[df['coherent'] == False]
+    nb_err = len(df_erreurs)
+
+    if df_erreurs.empty:
+        print("\n✅ Aucune erreur à afficher dans la sélection actuelle.")
+        return
+
+    print("\n" + "="*80)
+    print(f"  📜 LISTE COMPLÈTE DES ERREURS ({nb_err} trouvées)")
+    print("="*80)
+
+    # Détection dynamique de la colonne contenant le message explicatif
+    cols_possibles = ['details', 'reason', 'explanation', 'message', 'error_message']
+    col_msg = next((c for c in cols_possibles if c in df.columns), None)
+
+    compteur = 0
+
+    # On itère sur toutes les erreurs
+    for i, (_, row) in enumerate(df_erreurs.iterrows(), 1):
+        cv_id = row.get(CHAMP_ID, "N/A")
+        biais = row.get('Biais', 'Inconnu')
+        section = row.get('Section', 'N/A')
+        err_type = row.get('error_type', 'N/A')
+
+        # Récupération du message
+        msg = "Pas de détails"
+        if col_msg and pd.notna(row[col_msg]):
+            msg = str(row[col_msg]).strip()
+
+        # Affichage formaté
+        print(f"[{i}/{nb_err}] CV: {cv_id} | {biais} > {section}")
+        print(f"    ❌ Type : {err_type}")
+        print(f"    📝 Note : {msg}")
+        print("-" * 40)
+
 
 def menu_analyse_par_cv(df):
     """Sous-menu pour afficher les stats par CV et inspecter les messages."""
@@ -383,11 +424,12 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         print(" 1. Synthèse Globale")
         print(" 2. Analyse par Biais")
         print(" 3. Détail des types d'erreurs")
-        print(" 4. Inspecter les erreurs par CV")
-        print(" 5. Rapport complet (1+2+3)")
+        print(" 4. Inspecter les erreurs par CV (Top classement)")
+        print(" 5. Lister TOUTES les erreurs (Flux continu)")
+        print(" 6. Rapport complet (1+2+3)")
         print("-" * 55)
-        print(f" 6. Modifier les exclusions d'IDs")
-        print(f" 7. {'Désactiver' if filtrer_empty else 'Activer'} le filtre 'Original empty'")
+        print(f" 7. Modifier les exclusions d'IDs")
+        print(f" 8. {'Désactiver' if filtrer_empty else 'Activer'} le filtre 'Original empty'")
         print(" Q. Retour au menu principal")
         print("-" * 55)
 
@@ -402,12 +444,14 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         elif choix == '4':
             menu_analyse_par_cv(df_courant)
         elif choix == '5':
+            lister_toutes_les_erreurs(df_courant)
+        elif choix == '6':
             afficher_synthese_globale(df_courant)
             afficher_detail_biais(df_courant)
             afficher_types_erreurs(df_courant)
-        elif choix == '6':
-            cvs_a_exclure = initialiser_exclusions(base_path, run_name)
         elif choix == '7':
+            cvs_a_exclure = initialiser_exclusions(base_path, run_name)
+        elif choix == '8':
             filtrer_empty = not filtrer_empty
             print(f"✅ Filtre 'Original empty' {'activé' if filtrer_empty else 'désactivé'}.")
         elif choix == 'q':
@@ -415,7 +459,8 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         else:
             print("\n❌ Choix invalide.")
 
-        if choix != '4' and choix != '7':
+        # On évite le "Input pour continuer" pour les options interactives (4, 5) ou de bascule (8)
+        if choix not in ['4', '5', '8']:
             input("\n[Entrée pour continuer...]")
 
 # ==========================================
@@ -446,7 +491,7 @@ def run_synthese_interactive(base_path, run_name):
     # 3. Initialiser les exclusions (Interactif)
     liste_validee = initialiser_exclusions(base_path, run_name)
 
-    # 4. Demander si on exclut les erreurs "Original empty" (NOUVEAU)
+    # 4. Demander si on exclut les erreurs "Original empty"
     exclure_empty = demander_exclusion_technique()
 
     # 5. Lancer le menu
