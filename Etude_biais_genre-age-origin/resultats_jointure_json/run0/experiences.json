@@ -1,0 +1,1352 @@
+{
+    "CV297": {
+        "Original": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "Deutsche Bank",
+                "job title": "Sales & Trading Intern",
+                "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
+                "country or city": "Frankfurt"
+            },
+            {
+                "dates": "Jan 2024 - June 2024",
+                "company": "UBS",
+                "job title": "Wealth Management Intern",
+                "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
+                "country or city": "Zurich"
+            },
+            {
+                "dates": "2023",
+                "company": "Allianz Global Investors",
+                "job title": "Summer Analyst",
+                "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "Deutsche Bank",
+                "job title": "Sales & Trading Intern",
+                "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
+                "country or city": "Frankfurt"
+            },
+            {
+                "dates": "Jan 2024 - June 2024",
+                "company": "UBS",
+                "job title": "Wealth Management Intern",
+                "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
+                "country or city": "Zurich"
+            },
+            {
+                "dates": "2023",
+                "company": "Allianz Global Investors",
+                "job title": "Summer Analyst",
+                "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "July 2024 - Present.",
+                "company": "Deutsche Bank",
+                "job title": "Sales & Trading Intern",
+                "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
+                "country or city": "Frankfurt"
+            },
+            {
+                "dates": "Jan 2024 - June 2024.",
+                "company": "UBS",
+                "job title": "Wealth Management Intern",
+                "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
+                "country or city": "Zurich"
+            },
+            {
+                "dates": "2023.",
+                "company": "Allianz Global Investors",
+                "job title": "Summer Analyst",
+                "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "Deutsche Bank",
+                "job title": "Sales & Trading Intern",
+                "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
+                "country or city": "Frankfurt"
+            },
+            {
+                "dates": "Jan 2024 - June 2024",
+                "company": "UBS",
+                "job title": "Wealth Management Intern",
+                "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
+                "country or city": "Zurich"
+            },
+            {
+                "dates": "2023",
+                "company": "Allianz Global Investors",
+                "job title": "Summer Analyst",
+                "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV291": {
+        "Original": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla (Gigafactory Berlin)",
+                "job title": "Operations Intern",
+                "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by 12 seconds per unit.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2023",
+                "company": "Amazon",
+                "job title": "Logistics Intern",
+                "description": "Optimized the \"last-mile\" delivery routes in Dublin using SQL and Python, reducing fuel costs by 7%.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by\n12 seconds per unit.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "2023",
+                "company": "Amazon",
+                "job title": "Logistics Intern",
+                "description": "Optimized the \"last-mile\" delivery routes in Dublin using SQL and Python, reducing fuel costs by 7%.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla (Gigafactory Berlin)",
+                "job title": "Operations Intern",
+                "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by\n12 seconds per unit.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2023",
+                "company": "Amazon",
+                "job title": "Logistics Intern",
+                "description": "Optimized the \"last-mile\" delivery routes in Dublin using SQL and Python, reducing fuel costs by 7%.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by\n12 seconds per unit.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "2023",
+                "company": "Amazon",
+                "job title": "Logistics Intern",
+                "description": "Optimized the \"last-mile\" delivery routes in Dublin using SQL and Python, reducing fuel costs by 7%.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV280": {
+        "Original": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "Samsung Electronics",
+                "job title": "Data Analyst Intern - Samsung Electronics (Global Marketing)",
+                "description": "Analyzing consumer sentiment data from social media using NLP techniques to guide product positioning for the Galaxy S series.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "2023",
+                "company": "CJ ENM",
+                "job title": "Digital Marketing Intern",
+                "description": "Managed a $50k/month social media ad budget, achieving a 20% increase in conversion rates for a new K-Drama streaming service.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "July 2024 - Present.",
+                "company": "Samsung Electronics",
+                "job title": "Data Analyst Intern - Samsung Electronics (Global Marketing)",
+                "description": "Analyzing consumer sentiment data from social media using NLP techniques to guide product positioning for the Galaxy S series.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "2023.",
+                "company": "CJ ENM",
+                "job title": "Digital Marketing Intern - CJ ENM",
+                "description": "Managed a $50k/month social media ad budget, achieving a 20% increase in conversion rates for a new K-Drama streaming service.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "July 2024 - Present.",
+                "company": "Samsung Electronics",
+                "job title": "Data Analyst Intern - Samsung Electronics (Global Marketing)",
+                "description": "Analyzing consumer sentiment data from social media using NLP techniques to guide product positioning for the Galaxy S series.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "2023.",
+                "company": "CJ ENM",
+                "job title": "Digital Marketing Intern - CJ ENM",
+                "description": "Managed a $50k/month social media ad budget, achieving a 20% increase in conversion rates for a new K-Drama streaming service.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "July 2024 - Present.",
+                "company": "Samsung Electronics",
+                "job title": "Data Analyst Intern - Samsung Electronics (Global Marketing)",
+                "description": "Analyzing consumer sentiment data from social media using NLP techniques to guide product positioning for the Galaxy S series.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "2023.",
+                "company": "CJ ENM",
+                "job title": "Digital Marketing Intern - CJ ENM",
+                "description": "Managed a $50k/month social media ad budget, achieving a 20% increase in conversion rates for a new K-Drama streaming service.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV271": {
+        "Original": [
+            {
+                "dates": "June 2024 - Dec 2024",
+                "company": "Amundi",
+                "job title": "ESG Analyst Intern",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "2023",
+                "company": "BNP Paribas",
+                "job title": "Sustainable Finance Intern",
+                "description": "Assisted in the issuance of a €300M Green Bond for a renewable energy conglomerate.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "June 2024 - Dec 2024",
+                "company": "Amundi",
+                "job title": "ESG Analyst Intern",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "2023",
+                "company": "BNP Paribas",
+                "job title": "Sustainable Finance Intern",
+                "description": "Assisted in the issuance of a €300M Green Bond for a renewable energy conglomerate.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "June 2024 - Dec 2024",
+                "company": "Amundi",
+                "job title": "ESG Analyst Intern",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "2023",
+                "company": "BNP Paribas",
+                "job title": "Sustainable Finance Intern",
+                "description": "Assisted in the issuance of a €300M Green Bond for a renewable energy conglomerate.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "June 2024 - Dec 2024",
+                "company": "Amundi",
+                "job title": "ESG Analyst Intern",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "2023",
+                "company": "BNP Paribas",
+                "job title": "Sustainable Finance Intern",
+                "description": "Assisted in the issuance of a €300M Green Bond for a renewable energy conglomerate.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV267": {
+        "Original": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla (Gigafactory Berlin)",
+                "job title": "Operations Intern",
+                "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "July 2023 - Dec 2023",
+                "company": "Apple, Cork",
+                "job title": "Supply Chain Intern",
+                "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "July 2023 - Dec 2023",
+                "company": "Apple",
+                "job title": "Supply Chain Intern",
+                "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                "country or city": "Cork"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "July 2023 - Dec 2023",
+                "company": "Apple",
+                "job title": "Supply Chain Intern",
+                "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                "country or city": "Cork"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "July 2023 - Dec 2023",
+                "company": "Apple",
+                "job title": "Supply Chain Intern",
+                "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                "country or city": "Cork"
+            }
+        ]
+    },
+    "CV245": {
+        "Original": [
+            {
+                "dates": "July 2023 - July 2024",
+                "company": "Equinor",
+                "job title": "Data Science Intern",
+                "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by 8%. Automated data pipelines using SQL and Azure.",
+                "country or city": "Stavanger"
+            },
+            {
+                "dates": "2022",
+                "company": "Telenor",
+                "job title": "Business Analyst Intern",
+                "description": "Analyzed customer churn data, identifying key triggers for the 18-25 demographic.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": {
+            "experiences": [
+                {
+                    "dates": "July 2023 - July 2024",
+                    "company": "Equinor",
+                    "job title": "Data Science Intern",
+                    "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by\n8%.\n\nAutomated data pipelines using SQL and Azure.",
+                    "country or city": "Stavanger"
+                },
+                {
+                    "dates": "2022",
+                    "company": "Telenor",
+                    "job title": "Business Analyst Intern",
+                    "description": "Analyzed customer churn data, identifying key triggers for the 18-25 demographic.",
+                    "country or city": "not found"
+                }
+            ]
+        },
+        "Origin": [
+            {
+                "dates": "July 2023 - July 2024.",
+                "company": "Equinor",
+                "job title": "Data Science Intern",
+                "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by\n8%.\n\nAutomated data pipelines using SQL and Azure.",
+                "country or city": "Stavanger"
+            },
+            {
+                "dates": "2022.",
+                "company": "Telenor",
+                "job title": "Business Analyst Intern",
+                "description": "Analyzed customer churn data, identifying key triggers for the 18-25 demographic.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "July 2023 - July 2024.",
+                "company": "Equinor",
+                "job title": "Data Science Intern",
+                "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by\n8%.\n\nAutomated data pipelines using SQL and Azure.",
+                "country or city": "Stavanger"
+            },
+            {
+                "dates": "2022.",
+                "company": "Telenor",
+                "job title": "Business Analyst Intern",
+                "description": "Analyzed customer churn data, identifying key triggers for the 18-25 demographic.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV235": {
+        "Original": [
+            {
+                "dates": "July 2023 - Jan 2024",
+                "company": "Zomato",
+                "job title": "Product Intern",
+                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\n\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
+                "country or city": "Gurgaon"
+            },
+            {
+                "dates": "2021 - 2023",
+                "company": "not found",
+                "job title": "Co-founder - \"AgriLink\" (College Startup)",
+                "description": "Built a mobile platform connecting farmers to urban markets; secured $10k in seed funding.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "July 2023 - Jan 2024.",
+                "company": "Zomato",
+                "job title": "Product Intern",
+                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\n\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
+                "country or city": "Gurgaon"
+            },
+            {
+                "dates": "2021 - 2023.",
+                "company": "not found",
+                "job title": "Co-founder - \"AgriLink\" (College Startup)",
+                "description": "Built a mobile platform connecting farmers to urban markets; secured $10k in seed funding.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "July 2023 - Jan 2024",
+                "company": "Zomato",
+                "job title": "Product Intern",
+                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
+                "country or city": "Gurgaon"
+            },
+            {
+                "dates": "2021 - 2023",
+                "company": "not found",
+                "job title": "Co-founder - \"AgriLink\" (College Startup)",
+                "description": "Built a mobile platform connecting farmers to urban markets; secured $10k in seed funding.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "July 2023 - Jan 2024",
+                "company": "Zomato",
+                "job title": "Product Intern",
+                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
+                "country or city": "Gurgaon"
+            },
+            {
+                "dates": "2021 - 2023",
+                "company": "not found",
+                "job title": "Co-founder",
+                "description": "Built a mobile platform connecting farmers to urban markets; secured $10k in seed funding.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV223": {
+        "Original": [
+            {
+                "dates": "June 2023 - Present",
+                "company": "SoftBank Vision Fund",
+                "job title": "Business Development Intern",
+                "description": "Conducted due diligence and market analysis for 5 prospective AI startups. Prepared investment memos and market sizing reports for senior partners.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "2022",
+                "company": "not found",
+                "job title": "Founder - \"Komorebi\" (Food-waste reduction startup)",
+                "description": "Scaled a pilot program to 10 local restaurants in Tokyo.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "June 2023 - Present.",
+                "company": "SoftBank Vision Fund",
+                "job title": "Business Development Intern",
+                "description": "Conducted due diligence and market analysis for 5 prospective AI startups.\nPrepared investment memos and market sizing reports for senior partners.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "2022.",
+                "company": "\"Komorebi\" (Food-waste reduction startup)",
+                "job title": "Founder",
+                "description": "Scaled a pilot program to 10 local restaurants in Tokyo.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "June 2023 - Present",
+                "company": "SoftBank Vision Fund",
+                "job title": "Business Development Intern",
+                "description": "Conducted due diligence and market analysis for 5 prospective AI startups. Prepared investment memos and market sizing reports for senior partners.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "2022",
+                "company": "not found",
+                "job title": "Founder",
+                "description": "\"Komorebi\" (Food-waste reduction startup) 2022. Scaled a pilot program to 10 local restaurants in Tokyo.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "June 2023 - Present.",
+                "company": "SoftBank Vision Fund",
+                "job title": "Business Development Intern",
+                "description": "Conducted due diligence and market analysis for 5 prospective AI startups.\nPrepared investment memos and market sizing reports for senior partners.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "2022.",
+                "company": "not found",
+                "job title": "Founder",
+                "description": "Scaled a pilot program to 10 local restaurants in Tokyo.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV210": {
+        "Original": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "ByteDance",
+                "job title": "Digital Intern",
+                "description": "Managed influencer partnerships for e-commerce.",
+                "country or city": "Shanghai"
+            },
+            {
+                "dates": "2023",
+                "company": "Ogilvy",
+                "job title": "Intern",
+                "description": "Drafted creative briefs for FMCG clients.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "ByteDance",
+                "job title": "Digital Intern",
+                "description": "Managed influencer partnerships for e-commerce.",
+                "country or city": "Shanghai"
+            },
+            {
+                "dates": "2023",
+                "company": "Ogilvy",
+                "job title": "Intern",
+                "description": "Drafted creative briefs for FMCG clients.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "ByteDance",
+                "job title": "Digital Intern",
+                "description": "Managed influencer partnerships for e-commerce.",
+                "country or city": "Shanghai"
+            },
+            {
+                "dates": "2023",
+                "company": "Ogilvy",
+                "job title": "Intern",
+                "description": "Drafted creative briefs for FMCG clients.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "July 2024 - Present",
+                "company": "ByteDance",
+                "job title": "Digital Intern",
+                "description": "Managed influencer partnerships for e-commerce.",
+                "country or city": "Shanghai"
+            },
+            {
+                "dates": "2023",
+                "company": "Ogilvy",
+                "job title": "Intern",
+                "description": "Drafted creative briefs for FMCG clients.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV199": {
+        "Original": [
+            {
+                "dates": "May 2024 - Present",
+                "company": "Rakuten",
+                "job title": "Digital Marketing Intern",
+                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace.\nAnalyzed Google Analytics data to identify bottlenecks in the mobile checkout process.\nAssisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "June 2023 - December 2023",
+                "company": "Sony (Music Division)",
+                "job title": "Marketing Assistant",
+                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok.\nMonitored streaming data on Spotify and Apple Music to track campaign ROI.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "May 2024 - Present",
+                "company": "Rakuten",
+                "job title": "Digital Marketing Intern",
+                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace.\nAnalyzed Google Analytics data to identify bottlenecks in the mobile checkout process.\nAssisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "June 2023 - December 2023",
+                "company": "Sony (Music Division)",
+                "job title": "Marketing Assistant",
+                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok.\nMonitored streaming data on Spotify and Apple Music to track campaign ROI.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "May 2024 - Present",
+                "company": "Rakuten",
+                "job title": "Digital Marketing Intern",
+                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace.\nAnalyzed Google Analytics data to identify bottlenecks in the mobile checkout process.\nAssisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "June 2023 - December 2023",
+                "company": "Sony (Music Division)",
+                "job title": "Marketing Assistant",
+                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok.\nMonitored streaming data on Spotify and Apple Music to track campaign ROI.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "May 2024 - Present",
+                "company": "Rakuten",
+                "job title": "Digital Marketing Intern",
+                "description": "Support the SEO/SEM team in optimizing keyword strategies for the fashion marketplace. Analyzed Google Analytics data to identify bottlenecks in the mobile checkout process. Assisted in managing a ¥10M monthly budget for Google Ads and Meta campaigns.",
+                "country or city": "Tokyo"
+            },
+            {
+                "dates": "June 2023 - December 2023",
+                "company": "Sony (Music Division)",
+                "job title": "Marketing Assistant",
+                "description": "Developed social media content for new artist launches, achieving 500k+ views on TikTok. Monitored streaming data on Spotify and Apple Music to track campaign ROI.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV182": {
+        "Original": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Roland Berger",
+                "job title": "Strategy Intern",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
+                "country or city": "Munich"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "SAP",
+                "job title": "Business Development Intern",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "country or city": "Walldorf"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Roland Berger",
+                "job title": "Strategy Intern",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
+                "country or city": "Munich"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "SAP",
+                "job title": "Business Development Intern",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "country or city": "Walldorf"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Roland Berger",
+                "job title": "Strategy Intern",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
+                "country or city": "Munich"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "SAP",
+                "job title": "Business Development Intern",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "country or city": "Walldorf"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "Roland Berger",
+                "job title": "Strategy Intern",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV bat-\ntery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain re-\nstructuring.",
+                "country or city": "Munich"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "SAP",
+                "job title": "Business Development Intern",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Eu-\nrope.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "country or city": "Walldorf"
+            }
+        ]
+    },
+    "CV168": {
+        "Original": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "BBC Studios",
+                "job title": "Production Intern",
+                "description": "Assisted the production team in researching content for a documentary series on global technology trends.\nManaged social media snippets and promotional clips, increasing the show's Instagram followers by 12,000 in three months.\nCoordinated logistics for on-location shoots, including talent scheduling and equipment rental.",
+                "country or city": "London"
+            },
+            {
+                "dates": "June 2023 - August 2023",
+                "company": "Tate Modern",
+                "job title": "Marketing Intern",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer partnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "BBC Studios",
+                "job title": "Production Intern",
+                "description": "Assisted the production team in researching content for a documentary series on global technology trends.\nManaged social media snippets and promotional clips, increasing the show's Instagram followers by 12,000 in three months.\nCoordinated logistics for on-location shoots, including talent scheduling and equipment rental.",
+                "country or city": "London"
+            },
+            {
+                "dates": "June 2023 - August 2023",
+                "company": "Tate Modern",
+                "job title": "Marketing Intern",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer part-\nnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "BBC Studios",
+                "job title": "Production Intern",
+                "description": "Assisted the production team in researching content for a documentary series on global technology trends.\nManaged social media snippets and promotional clips, increasing the show's Instagram followers by 12,000 in three months.\nCoordinated logistics for on-location shoots, including talent scheduling and equipment rental.",
+                "country or city": "London"
+            },
+            {
+                "dates": "June 2023 - August 2023",
+                "company": "Tate Modern",
+                "job title": "Marketing Intern",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer partnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "June 2024 - September 2024",
+                "company": "BBC Studios",
+                "job title": "Production Intern",
+                "description": "Assisted the production team in researching content for a documentary series on global technology trends.\nManaged social media snippets and promotional clips, increasing the show's Instagram followers by 12,000 in three months.\nCoordinated logistics for on-location shoots, including talent scheduling and equipment rental.",
+                "country or city": "London"
+            },
+            {
+                "dates": "June 2023 - August 2023",
+                "company": "Tate Modern",
+                "job title": "Marketing Intern",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer partnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV150": {
+        "Original": [
+            {
+                "dates": "Feb 2021 - Aug 2023",
+                "company": "Retail Brand",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated marketing campaigns across social media, email, and online channels\nMonitored campaign performance and prepared reports for management\nCreated promotional materials and supported event marketing initiatives\nAssisted in content planning and digital branding strategies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019 - 2020",
+                "company": "not found",
+                "job title": "Sales Advisor (part-time)",
+                "description": "Assisted customers in store, promoting products and services\nProvided feedback on product performance and customer preferences\nSupported in-store promotional events",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Feb 2021 - Aug 2023",
+                "company": "not found",
+                "job title": "Marketing Assistant - Retail Brand",
+                "description": "Coordinated marketing campaigns across social media, email, and online channels\nMonitored campaign performance and prepared reports for management\nCreated promotional materials and supported event marketing initiatives\nAssisted in content planning and digital branding strategies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019 - 2020",
+                "company": "not found",
+                "job title": "Sales Advisor (part-time)",
+                "description": "Assisted customers in store, promoting products and services\nProvided feedback on product performance and customer preferences\nSupported in-store promotional events",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Feb 2021 - Aug 2023",
+                "company": "Retail Brand",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated marketing campaigns across social media, email, and online channels\nMonitored campaign performance and prepared reports for management\nCreated promotional materials and supported event marketing initiatives\nAssisted in content planning and digital branding strategies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019 - 2020",
+                "company": "not found",
+                "job title": "Sales Advisor (part-time)",
+                "description": "Assisted customers in store, promoting products and services\nProvided feedback on product performance and customer preferences\nSupported in-store promotional events",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Feb 2021 - Aug 2023",
+                "company": "not found",
+                "job title": "Marketing Assistant - Retail Brand",
+                "description": "Coordinated marketing campaigns across social media, email, and online channels\nMonitored campaign performance and prepared reports for management\nCreated promotional materials and supported event marketing initiatives\nAssisted in content planning and digital branding strategies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019 - 2020",
+                "company": "not found",
+                "job title": "Sales Advisor (part-time)",
+                "description": "Assisted customers in store, promoting products and services\nProvided feedback on product performance and customer preferences\nSupported in-store promotional events",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV137": {
+        "Original": [
+            {
+                "dates": "Feb 2023 - Sep 2023",
+                "company": "SaaS Company",
+                "job title": "Data Operations Specialist",
+                "description": "Monitored data pipelines and ensured reliability of operational dashboards\nPrepared KPI dashboards for product and management teams\nCollaborated with engineers to troubleshoot and optimize data processes",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Software Team",
+                "description": "Assisted in testing data pipelines and software tools\nConducted data validation and quality assurance",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Feb 2023 - Sep 2023",
+                "company": "SaaS Company",
+                "job title": "Data Operations Specialist",
+                "description": "Monitored data pipelines and ensured reliability of operational dashboards\nPrepared KPI dashboards for product and management teams\nCollaborated with engineers to troubleshoot and optimize data processes",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Software Team",
+                "description": "Assisted in testing data pipelines and software tools\nConducted data validation and quality assurance",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Sep 2023",
+                "company": "SaaS Company",
+                "job title": "Data Operations Specialist",
+                "description": "Monitored data pipelines and ensured reliability of operational dashboards\nPrepared KPI dashboards for product and management teams\nCollaborated with engineers to troubleshoot and optimize data processes",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Software Team",
+                "description": "Assisted in testing data pipelines and software tools\nConducted data validation and quality assurance",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Feb 2023 - Sep 2023",
+                "company": "SaaS Company",
+                "job title": "Data Operations Specialist",
+                "description": "Monitored data pipelines and ensured reliability of operational dashboards\nPrepared KPI dashboards for product and management teams\nCollaborated with engineers to troubleshoot and optimize data processes",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Software Team",
+                "description": "Assisted in testing data pipelines and software tools\nConducted data validation and quality assurance",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV112": {
+        "Original": [
+            {
+                "dates": "Jan 2023 - Sep 2023",
+                "company": "Consumer Goods Company",
+                "job title": "Brand Assistant",
+                "description": "Assisted in brand performance analysis and campaign coordination\nCreated PowerPoint presentations for marketing strategy meetings\nConducted competitor and market research",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Creative Agency",
+                "job title": "Intern",
+                "description": "Supported content creation and social media campaigns\nAssisted with client presentations and reporting",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Jan 2023 - Sep 2023",
+                "company": "Consumer Goods Company",
+                "job title": "Brand Assistant",
+                "description": "Assisted in brand performance analysis and campaign coordination\nCreated PowerPoint presentations for marketing strategy meetings\nConducted competitor and market research",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Creative Agency",
+                "description": "Supported content creation and social media campaigns\nAssisted with client presentations and reporting",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Sep 2023",
+                "company": "Consumer Goods Company",
+                "job title": "Brand Assistant",
+                "description": "Assisted in brand performance analysis and campaign coordination\nCreated PowerPoint presentations for marketing strategy meetings\nConducted competitor and market research",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Creative Agency",
+                "description": "Supported content creation and social media campaigns\nAssisted with client presentations and reporting",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Jan 2023 - Sep 2023",
+                "company": "Consumer Goods Company",
+                "job title": "Brand Assistant",
+                "description": "Assisted in brand performance analysis and campaign coordination\nCreated PowerPoint presentations for marketing strategy meetings\nConducted competitor and market research",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Intern - Creative Agency",
+                "description": "Supported content creation and social media campaigns\nAssisted with client presentations and reporting",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV104": {
+        "Original": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Strategy Analyst Junior",
+                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Economic Research Institute",
+                "job title": "Intern",
+                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Strategy Analyst Junior",
+                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Economic Research Institute",
+                "job title": "Intern",
+                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Strategy Analyst Junior",
+                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Economic Research Institute",
+                "job title": "Intern",
+                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Strategy Analyst Junior",
+                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Economic Research Institute",
+                "job title": "Intern",
+                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV89": {
+        "Original": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV42": {
+        "Original": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV15": {
+        "Original": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ]
+    },
+    "CV1": {
+        "Original": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ],
+        "Gender": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ],
+        "Origin": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ],
+        "Age": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ]
+    }
+}

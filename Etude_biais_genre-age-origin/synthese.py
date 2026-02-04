@@ -83,7 +83,7 @@ def charger_donnees_run(base_path, run_name):
     return pd.DataFrame(all_data)
 
 # ==========================================
-# 2. FONCTIONS D'ANALYSE
+# 2. FONCTIONS D'ANALYSE GÉNÉRALE
 # ==========================================
 
 def afficher_synthese_globale(df):
@@ -159,7 +159,91 @@ def afficher_types_erreurs(df):
     print("-" * 60)
 
 # ==========================================
-# 3. GESTION DES EXCLUSIONS
+# 3. ANALYSE PAR CV
+# ==========================================
+
+def inspecter_details_cv(df, cv_id_cible):
+    """Affiche les détails des erreurs pour un CV spécifique."""
+    print("\n" + "="*60)
+    print(f"  🔎 INSPECTION DU CV ID : {cv_id_cible}")
+    print("="*60)
+
+    # Filtrer sur le CV et uniquement les erreurs (coherent == False)
+    subset = df[(df[CHAMP_ID] == cv_id_cible) & (df['coherent'] == False)]
+
+    if subset.empty:
+        print("  ✅ Aucune erreur 'stricte' (coherent=False) trouvée pour ce CV.")
+        print("     (Si vous cherchez des modifications mineures, elles sont peut-être marquées 'coherent: true')")
+        return
+
+    cols_possibles = ['details', 'reason', 'explanation', 'message', 'error_message']
+    col_msg = next((c for c in cols_possibles if c in df.columns), None)
+
+    for _, row in subset.iterrows():
+        biais = row.get('Biais', 'Inconnu')
+        section = row.get('Section', 'N/A')
+        err_type = row.get('error_type', 'Type non spécifié')
+
+        print(f"\n  🔸 Biais : {biais.upper()} | Section : {section}")
+        print(f"     Type  : {err_type}")
+
+        if col_msg and pd.notna(row[col_msg]):
+            print(f"     📝 Détails : {row[col_msg]}")
+        else:
+            print("     📝 Détails : (Aucun message disponible)")
+
+    print("-" * 60)
+
+def menu_analyse_par_cv(df):
+    """Sous-menu pour afficher les stats par CV et inspecter les messages."""
+
+    df_erreurs = df[df['coherent'] == False]
+
+    if df_erreurs.empty:
+        print("\n✅ Aucune erreur dans le dataset actuel (tout est coherent=True).")
+        return
+
+    stats_cv = df_erreurs[CHAMP_ID].value_counts().reset_index()
+    stats_cv.columns = [CHAMP_ID, 'Nb_Erreurs']
+
+    print("\n" + "-"*60)
+    print(f"  🏆 TOP DES CVs AVEC LE PLUS D'ERREURS")
+    print("-" * 60)
+    print(f"  {'Rang':<5} | {'ID CV':<15} | {'Nb Erreurs':<10}")
+    print("-" * 60)
+
+    top_n = stats_cv.head(15)
+    for idx, row in top_n.iterrows():
+        print(f"  {idx+1:<5} | {row[CHAMP_ID]:<15} | {row['Nb_Erreurs']:<10}")
+
+    if len(stats_cv) > 15:
+        print(f"  ... (et {len(stats_cv) - 15} autres CVs avec des erreurs)")
+
+    while True:
+        print("\nOptions d'inspection :")
+        print("  • Entrez un ID de CV pour voir ses messages d'erreur.")
+        print("  • Tapez 'T' pour voir tout le tableau des scores.")
+        print("  • Tapez 'R' pour Retour au menu précédent.")
+
+        choix = input("👉 Votre choix : ").strip()
+
+        if choix.lower() == 'r':
+            break
+
+        elif choix.lower() == 't':
+            print("\n" + str(stats_cv))
+
+        elif choix:
+            clean_input = choix.replace("CV", "").replace("cv", "").strip()
+            if clean_input in df[CHAMP_ID].values:
+                inspecter_details_cv(df, clean_input)
+            elif choix in df[CHAMP_ID].values:
+                inspecter_details_cv(df, choix)
+            else:
+                print(f"❌ ID '{choix}' introuvable dans les données.")
+
+# ==========================================
+# 4. GESTION DES EXCLUSIONS & FILTRES
 # ==========================================
 
 def charger_liste_exclusion_fichier(base_path, run_name):
@@ -188,17 +272,14 @@ def initialiser_exclusions(base_path, run_name):
             print("  ℹ️  Aucun CV n'est banni actuellement.")
         else:
             print(f"  ⚠️  {len(current_exclusions)} CVs identifiés comme problématiques :")
-            # Affichage compact
             chunked_list = [current_exclusions[i:i + 10] for i in range(0, len(current_exclusions), 10)]
             for chunk in chunked_list:
                 print(f"     {chunk}")
 
         print("-" * 60)
-        print("Ces CVs seront RETIRÉS de toutes les statistiques suivantes.")
         rep = input("👉 Validez-vous cette liste ? (o/n) : ").lower().strip()
 
         if rep == 'o' or rep == 'y':
-            print("✅ Liste validée.")
             return current_exclusions
 
         elif rep == 'n':
@@ -207,7 +288,6 @@ def initialiser_exclusions(base_path, run_name):
             print("  2. Retirer des IDs")
             print("  3. Tout effacer")
             print("  4. Recharger fichier")
-
             sub_choix = input("  👉 Votre choix : ").strip()
 
             if sub_choix == '1':
@@ -227,43 +307,87 @@ def initialiser_exclusions(base_path, run_name):
         else:
             print("❌ Réponse non comprise.")
 
+def demander_exclusion_technique():
+    """Demande à l'utilisateur s'il veut filtrer les erreurs 'Original empty'."""
+    print("\n" + "?"*60)
+    print("  🛠  FILTRE TECHNIQUE")
+    print("?"*60)
+    print("  Certaines erreurs sont marquées 'Original empty' (champ vide à la source).")
+    print("  Cela indique souvent un problème d'extraction plutôt qu'un biais.")
+    print("-" * 60)
+    rep = input("👉 Souhaitez-vous exclure ces erreurs techniques des stats ? (o/n) : ").lower().strip()
+    return rep in ['o', 'y', 'oui', 'yes']
+
 # ==========================================
-# 4. MENU INTERNE SYNTHESE
+# 5. MENU INTERNE SYNTHESE
 # ==========================================
 
-def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
+def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_empty_active):
+    """
+    Args:
+        df_brut: DataFrame complet
+        base_path: chemin racine
+        run_name: nom du run
+        liste_exclusions_validee: liste des IDs bannis
+        filtre_empty_active: booléen (True = on enlève les 'Original empty')
+    """
     cvs_a_exclure = liste_exclusions_validee
+    filtrer_empty = filtre_empty_active
 
     while True:
-        # === FILTRAGE ===
-        if cvs_a_exclure:
-            if CHAMP_ID in df_brut.columns:
-                df_courant = df_brut[~df_brut[CHAMP_ID].isin(cvs_a_exclure)]
+        # === 1. FILTRAGE ID ===
+        if CHAMP_ID in df_brut.columns:
+            if cvs_a_exclure:
+                df_courant = df_brut[~df_brut[CHAMP_ID].isin(cvs_a_exclure)].copy()
             else:
-                print(f"\n❌ ERREUR CRITIQUE : La colonne '{CHAMP_ID}' n'existe pas !")
-                df_courant = df_brut
+                df_courant = df_brut.copy()
         else:
-            df_courant = df_brut
+            print(f"\n❌ ERREUR CRITIQUE : La colonne '{CHAMP_ID}' n'existe pas !")
+            df_courant = df_brut.copy()
 
+        nb_apres_id = len(df_courant)
+
+        # === 2. FILTRAGE 'Original empty' ===
+        nb_empty_removed = 0
+        if filtrer_empty:
+            if 'error_type' in df_courant.columns:
+                nb_before = len(df_courant)
+                df_courant = df_courant[df_courant['error_type'] != "Original empty"]
+                nb_empty_removed = nb_before - len(df_courant)
+
+        # === STATS FILTRES ===
         nb_brut = len(df_brut)
         nb_net = len(df_courant)
-        nb_exclus = nb_brut - nb_net
+        nb_exclus_id = nb_brut - nb_apres_id if nb_brut > 0 else 0
 
+        # === AFFICHAGE HEADER MENU ===
         print("\n" + "="*55)
         print(f"      MENU SYNTHÈSE : {run_name.upper()}")
         print("="*55)
-        if nb_exclus > 0:
-            print(f"  ⚠️  FILTRE ACTIF : {nb_exclus} comparaisons supprimées")
-            print(f"  📉  Reste : {nb_net} (sur {nb_brut})")
-        else:
-            print(f"  ✅  Données complètes : {nb_brut} comparaisons")
 
+        # Info Filtre ID
+        if nb_exclus_id > 0:
+            print(f"  🚫  Filtre IDs      : {nb_exclus_id} exclus")
+        else:
+            print(f"  ✅  Filtre IDs      : Inactif (Tous les CVs inclus)")
+
+        # Info Filtre Empty
+        statut_empty = "ACTIVÉ" if filtrer_empty else "DÉSACTIVÉ"
+        if filtrer_empty and nb_empty_removed > 0:
+            print(f"  🛠  Filtre Empty    : {statut_empty} ({nb_empty_removed} 'Original empty' retirés)")
+        else:
+            print(f"  🛠  Filtre Empty    : {statut_empty}")
+
+        print(f"  📉  Reste à analyser: {nb_net} comparaisons")
         print("-" * 55)
         print(" 1. Synthèse Globale")
         print(" 2. Analyse par Biais")
-        print(" 3. Détail des erreurs")
-        print(" 4. Rapport complet")
-        print(f" 5. Modifier les exclusions")
+        print(" 3. Détail des types d'erreurs")
+        print(" 4. Inspecter les erreurs par CV")
+        print(" 5. Rapport complet (1+2+3)")
+        print("-" * 55)
+        print(f" 6. Modifier les exclusions d'IDs")
+        print(f" 7. {'Désactiver' if filtrer_empty else 'Activer'} le filtre 'Original empty'")
         print(" Q. Retour au menu principal")
         print("-" * 55)
 
@@ -276,20 +400,26 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee):
         elif choix == '3':
             afficher_types_erreurs(df_courant)
         elif choix == '4':
+            menu_analyse_par_cv(df_courant)
+        elif choix == '5':
             afficher_synthese_globale(df_courant)
             afficher_detail_biais(df_courant)
             afficher_types_erreurs(df_courant)
-        elif choix == '5':
+        elif choix == '6':
             cvs_a_exclure = initialiser_exclusions(base_path, run_name)
+        elif choix == '7':
+            filtrer_empty = not filtrer_empty
+            print(f"✅ Filtre 'Original empty' {'activé' if filtrer_empty else 'désactivé'}.")
         elif choix == 'q':
             break
         else:
             print("\n❌ Choix invalide.")
 
-        input("\n[Entrée pour continuer...]")
+        if choix != '4' and choix != '7':
+            input("\n[Entrée pour continuer...]")
 
 # ==========================================
-# 5. POINT D'ENTRÉE PRINCIPAL
+# 6. POINT D'ENTRÉE PRINCIPAL
 # ==========================================
 
 def run_synthese_interactive(base_path, run_name):
@@ -316,5 +446,8 @@ def run_synthese_interactive(base_path, run_name):
     # 3. Initialiser les exclusions (Interactif)
     liste_validee = initialiser_exclusions(base_path, run_name)
 
-    # 4. Lancer le menu
-    menu_interne(df_resultats, base_path, run_name, liste_validee)
+    # 4. Demander si on exclut les erreurs "Original empty" (NOUVEAU)
+    exclure_empty = demander_exclusion_technique()
+
+    # 5. Lancer le menu
+    menu_interne(df_resultats, base_path, run_name, liste_validee, exclure_empty)

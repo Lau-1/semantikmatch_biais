@@ -1,0 +1,142 @@
+[
+    {
+        "cv_id": "CV297",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV291",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV280",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV271",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV267",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV245",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV235",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV223",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV210",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV199",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV182",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV168",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV150",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV137",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV112",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Modification",
+        "details": "The 'Gender' variant modifies the 'company' and 'job title' fields in the second entry by combining them, which changes the original structure and meaning."
+    },
+    {
+        "cv_id": "CV104",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV89",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV42",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV15",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    },
+    {
+        "cv_id": "CV1",
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
+    }
+]

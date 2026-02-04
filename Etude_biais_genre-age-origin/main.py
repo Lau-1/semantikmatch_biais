@@ -37,7 +37,7 @@ def menu_select_run(runs):
     """
     print("\n--- SÉLECTION DE LA RUN ---")
     for i, run in enumerate(runs):
-        print(f"{i + 1}. {run}")
+        print(f"{i}. {run}")
 
     # Ajout de l'option de saisie manuelle
     print("M. Saisir le nom du dossier manuellement")
@@ -57,8 +57,8 @@ def menu_select_run(runs):
         # Gestion Sélection Numérique
         try:
             idx = int(choice)
-            if 1 <= idx <= len(runs):
-                return runs[idx - 1]
+            if 0 <= idx < len(runs): # Correction : idx doit être < len(runs)
+                return runs[idx]
             print("Numéro invalide.")
         except ValueError:
             print("Entrée invalide. Tapez un numéro ou 'M'.")
@@ -133,43 +133,61 @@ def process_analyses(selected_run):
     print(f"📁 Résultats ici : {os.path.join(abs_output_dir, selected_run)}")
 
 def main():
-    runs = get_available_runs(base_path)
-
-    # Note : Si aucun dossier run n'est trouvé, on permet quand même l'exécution
-    # car l'utilisateur voudra peut-être saisir un nom manuellement.
-    if not runs:
-        print(f"ℹ️  Aucun dossier 'run*' détecté automatiquement.")
-
-    # --- MENU ACTION ---
-    print("\n=== MENU PRINCIPAL ===")
-    print("1. Transformer CSV en JSON")
-    print("2. Faire la Jointure des JSONs")
-    print("3. Lancer les analyses (Age, Genre, Origine)")
-    print("4. Synthèse et Reporting")
-
     while True:
+        # On rafraichit la liste des runs à chaque retour au menu
+        # au cas où un dossier aurait été ajouté entre temps
+        runs = get_available_runs(base_path)
+
+        if not runs:
+            print(f"\nℹ️  Aucun dossier 'run*' détecté automatiquement.")
+
+        # --- MENU ACTION ---
+        print("\n" + "="*30)
+        print("      MENU PRINCIPAL      ")
+        print("="*30)
+        print("1. Transformer CSV en JSON")
+        print("2. Faire la Jointure des JSONs")
+        print("3. Lancer les analyses (Age, Genre, Origine)")
+        print("4. Synthèse et Reporting")
+        print("5. Quitter") # Nouvelle option
+        print("-" * 30)
+
+        choice_str = input("Votre choix (1-5) : ").strip()
+
+        # Gestion de la sortie
+        if choice_str == '5':
+            print("Au revoir ! 👋")
+            break
+
+        # Validation de l'entrée
+        if choice_str not in ['1', '2', '3', '4']:
+            print("❌ Choix invalide. Veuillez réessayer.")
+            continue
+
+        action = int(choice_str)
+
+        # --- SÉLECTION DE LA RUN ---
+        # On demande quelle run traiter
+        selected_run = menu_select_run(runs)
+
+        # --- EXÉCUTION ---
         try:
-            action = int(input("Votre choix (1, 2, 3 ou 4) : "))
-            if action in [1, 2, 3, 4]:
-                break
-        except ValueError:
-            pass
-        print("Choix invalide.")
+            if action == 1:
+                process_csv_to_json(base_path, selected_run)
+            elif action == 2:
+                run_jointure(selected_run)
+            elif action == 3:
+                process_analyses(selected_run)
+            elif action == 4:
+                synthese.run_synthese_interactive(base_path, selected_run)
 
-    # --- SÉLECTION DE LA RUN ---
-    # On demande quelle run traiter, soit via la liste, soit manuellement
-    selected_run = menu_select_run(runs)
+            # --- PAUSE AVANT RETOUR AU MENU ---
+            # Cela permet de lire les messages de succès/erreur avant que le menu ne réapparaisse
+            input("\n✅ Action terminée. Appuyez sur Entrée pour revenir au menu...")
 
-    # --- EXÉCUTION ---
-    if action == 1:
-        process_csv_to_json(base_path, selected_run)
-    elif action == 2:
-        run_jointure(selected_run)
-    elif action == 3:
-        process_analyses(selected_run)
-    elif action == 4:
-        # Appel au module synthese
-        synthese.run_synthese_interactive(base_path, selected_run)
+        except Exception as e:
+            print(f"\n❌ Une erreur inattendue est survenue : {e}")
+            input("Appuyez sur Entrée pour revenir au menu...")
 
 if __name__ == "__main__":
     main()

@@ -151,11 +151,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2021 - 2024",
-            "field": "not found",
-            "university": "Goethe University Frankfurt",
-            "country or city": "not found",
-            "level_of_degree": "BSc in Business Administration & Finance"
+            "studies": [
+                {
+                    "dates": "2021 - 2024",
+                    "field": "not found",
+                    "university": "Goethe University Frankfurt",
+                    "country or city": "not found",
+                    "level_of_degree": "BSc in Business Administration & Finance"
+                }
+            ]
         },
         "List of personal interests": [
             "Quantitative Macro Trading",
@@ -272,7 +276,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "not found",
+            "field": "Corporate Valuation",
             "university": "Bocconi University",
             "country or city": "not found",
             "level_of_degree": "BSc in International Economics and Finance"
@@ -789,7 +793,7 @@
             "field": "Supply Chain Management",
             "university": "University of British Columbia (UBC)",
             "country or city": "not found",
-            "level_of_degree": "BCom in Supply Chain Management"
+            "level_of_degree": "BCom"
         },
         "List of personal interests": []
     },
@@ -898,10 +902,10 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "not found",
+            "field": "Information Science",
             "university": "University of Tokyo",
             "country or city": "not found",
-            "level_of_degree": "BEng in Information Science"
+            "level_of_degree": "BEng"
         },
         "List of personal interests": [
             "Robotics",
@@ -927,15 +931,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "Specialized in Environmental Economics",
-                    "university": "Université Paris-Dauphine",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor en Économie et Gestion"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "Environmental Economics",
+            "university": "Université Paris-Dauphine",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor en Économie et Gestion"
         },
         "List of personal interests": [
             "Sailing",
@@ -962,7 +962,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Actuarial Science",
+            "field": "not found",
             "university": "University of Lagos",
             "country or city": "not found",
             "level_of_degree": "BSc in Actuarial Science"
@@ -1077,7 +1077,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Focus on Manufacturing Systems",
+            "field": "Manufacturing Systems",
             "university": "Trinity College Dublin",
             "country or city": "not found",
             "level_of_degree": "BEng in Mechanical Engineering"
@@ -1366,10 +1366,10 @@
         ],
         "List of studies": {
             "dates": "2019 - 2022",
-            "field": "Bio-based Economy",
+            "field": "Environmental Sciences",
             "university": "Wageningen University",
             "country or city": "not found",
-            "level_of_degree": "BSc in Environmental Sciences"
+            "level_of_degree": "BSc"
         },
         "List of personal interests": [
             "Circular Design",
@@ -1490,7 +1490,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Cryptography and Network Defense",
+            "field": "not found",
             "university": "Australian National University (ANU)",
             "country or city": "not found",
             "level_of_degree": "BSc in Computer Science"
@@ -1909,10 +1909,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "not found",
+            "field": "Energy and Environment",
             "university": "KTH Royal Institute of Technology",
             "country or city": "not found",
-            "level_of_degree": "BSc in Energy and Environment"
+            "level_of_degree": "BSc"
         },
         "List of personal interests": []
     },
@@ -2025,7 +2025,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Lean Manufacturing and Life Cycle Assessment",
+            "field": "Specialized in Lean Manufacturing and Life Cycle Assessment",
             "university": "Technical University of Denmark (DTU)",
             "country or city": "not found",
             "level_of_degree": "BSc in General Engineering"
@@ -2235,7 +2235,7 @@
         ],
         "List of studies": {
             "dates": "2019 - 2022",
-            "field": "not found",
+            "field": "Energy Systems and Circular Economy",
             "university": "KTH Royal Institute of Technology",
             "country or city": "not found",
             "level_of_degree": "BSc in Industrial Engineering and Management"
@@ -2265,7 +2265,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Digital Business and Platform Strategy",
+            "field": "not found",
             "university": "Bocconi University",
             "country or city": "not found",
             "level_of_degree": "BSc in International Economics and Management"
@@ -2539,10 +2539,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "General Engineering",
+            "field": "Wind Energy Systems and Grid Integration",
             "university": "Technical University of Denmark (DTU)",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in General Engineering"
         },
         "List of personal interests": [
             "Cycling",
@@ -2628,15 +2628,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "Derivative Securities and International Investment",
-                    "university": "University College Cork (UCC)",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Finance"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "Derivative Securities and International Investment",
+            "university": "University College Cork (UCC)",
+            "country or city": "not found",
+            "level_of_degree": "BSc in Finance"
         },
         "List of personal interests": [
             "Gaelic Football",
@@ -2693,10 +2689,10 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Computer Science & Finance",
+            "field": "not found",
             "university": "Tsinghua University",
             "country or city": "not found",
-            "level_of_degree": "BSc"
+            "level_of_degree": "BSc in Computer Science & Finance"
         },
         "List of personal interests": [
             "Robotics",
@@ -2782,15 +2778,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "Rotterdam School of Management (RSM)",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in International Business Administration"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Rotterdam School of Management (RSM)",
+            "country or city": "not found",
+            "level_of_degree": "BSc in International Business Administration"
         },
         "List of personal interests": [
             "Competitive Rowing",
@@ -2816,15 +2808,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "Fudan University",
-                    "country or city": "not found",
-                    "level_of_degree": "BA in Marketing"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Fudan University",
+            "country or city": "not found",
+            "level_of_degree": "BA in Marketing"
         },
         "List of personal interests": [
             "Piano",
@@ -2911,7 +2899,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "Focus on Sports Finance and Marketing.",
+            "field": "Sport Management",
             "university": "University of Michigan, Ann Arbor",
             "country or city": "not found",
             "level_of_degree": "BSc in Sport Management"
@@ -2940,15 +2928,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "University of Delhi",
-                    "country or city": "not found",
-                    "level_of_degree": "BA in Psychology"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "University of Delhi",
+            "country or city": "not found",
+            "level_of_degree": "BA in Psychology"
         },
         "List of personal interests": [
             "Painting",
@@ -3035,7 +3019,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2023",
-            "field": "Business Analytics and Quantitative Marketing",
+            "field": "not found",
             "university": "NHH (Norwegian School of Economics), Bergen",
             "country or city": "not found",
             "level_of_degree": "BSc in Economics and Business Administration"
@@ -3095,7 +3079,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Design Thinking and User Experience",
+            "field": "not found",
             "university": "University of São Paulo (USP)",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Design and Visual Communications"
@@ -3155,7 +3139,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "not found",
+            "field": "Digital Media and Consumer Behavior",
             "university": "Keio University, Tokyo",
             "country or city": "not found",
             "level_of_degree": "BA in Communications"
@@ -3184,22 +3168,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2020 - 2024",
-                    "field": "Specialized in Luxury Brand Marketing.",
-                    "university": "EDHEC Business School, Nice/Lille",
-                    "country or city": "not found",
-                    "level_of_degree": "BBA in International Management"
-                },
-                {
-                    "dates": "not found",
-                    "field": "Semester abroad",
-                    "university": "Fudan University, Shanghai",
-                    "country or city": "not found",
-                    "level_of_degree": "not found"
-                }
-            ]
+            "dates": "2020 - 2024",
+            "field": "Luxury Brand Marketing",
+            "university": "EDHEC Business School, Nice/Lille",
+            "country or city": "not found",
+            "level_of_degree": "BBA in International Management"
         },
         "List of personal interests": [
             "Fashion History",
@@ -3256,7 +3229,7 @@
         ],
         "List of studies": {
             "dates": "2021 - 2024",
-            "field": "International Trade and Strategy",
+            "field": "not found",
             "university": "Nova School of Business and Economics",
             "country or city": "Lisbon",
             "level_of_degree": "BSc in Economics"
@@ -3346,7 +3319,7 @@
         ],
         "List of studies": {
             "dates": "2019 - 2023",
-            "field": "Probability Theory and Statistics",
+            "field": "not found",
             "university": "Eötvös Loránd University (ELTE), Budapest",
             "country or city": "not found",
             "level_of_degree": "BSc in Mathematics"
@@ -3375,15 +3348,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2021 - 2024",
-                    "field": "not found",
-                    "university": "Bocconi University, Milan",
-                    "country or city": "not found",
-                    "level_of_degree": "BSc in Economics and Management"
-                }
-            ]
+            "dates": "2021 - 2024",
+            "field": "not found",
+            "university": "Bocconi University",
+            "country or city": "Milan",
+            "level_of_degree": "BSc in Economics and Management"
         },
         "List of personal interests": [
             "Formula 1",
@@ -3889,11 +3858,15 @@
             }
         ],
         "List of studies": {
-            "dates": "2020 - 2024",
-            "field": "Petroleum and Sustainable Energy Resources",
-            "university": "Khalifa University",
-            "country or city": "Abu Dhabi",
-            "level_of_degree": "BSc in Chemical Engineering"
+            "studies": [
+                {
+                    "dates": "2020 - 2024",
+                    "field": "Petroleum and Sustainable Energy Resources",
+                    "university": "Khalifa University",
+                    "country or city": "Abu Dhabi",
+                    "level_of_degree": "BSc in Chemical Engineering"
+                }
+            ]
         },
         "List of personal interests": [
             "Equestrianism",
@@ -4040,7 +4013,7 @@
         ],
         "List of studies": {
             "dates": "2020 - 2024",
-            "field": "Industrial-Organizational (I-O) Psychology and Behavioral Economics",
+            "field": "Industrial-Organizational (I-O) Psychology and Behavioral Economics.",
             "university": "IE University, Madrid",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Psychology"
@@ -4401,8 +4374,8 @@
         "List of studies": {
             "dates": "2021 - 2024",
             "field": "not found",
-            "university": "Bocconi University, Milan",
-            "country or city": "not found",
+            "university": "Bocconi University",
+            "country or city": "Milan",
             "level_of_degree": "Bachelor in Economics and Management"
         },
         "List of personal interests": [
@@ -4702,10 +4675,10 @@
         ],
         "List of studies": {
             "dates": "2016 - 2019",
-            "field": "Logistics",
+            "field": "not found",
             "university": "University of Zilina",
             "country or city": "not found",
-            "level_of_degree": "Bachelor"
+            "level_of_degree": "Bachelor in Logistics"
         },
         "List of personal interests": [
             "Operations optimization",
@@ -5067,15 +5040,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2017 - 2021",
-                    "field": "not found",
-                    "university": "Bogazici University",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Economics"
-                }
-            ]
+            "dates": "2017 - 2021",
+            "field": "not found",
+            "university": "Bogazici University",
+            "country or city": "not found",
+            "level_of_degree": "Bachelor in Economics"
         },
         "List of personal interests": [
             "Energy markets",
@@ -6970,11 +6939,22 @@
             ]
         },
         "List of studies": {
-            "dates": "2018 - 2021",
-            "field": "not found",
-            "university": "University of Tunis El Manar",
-            "country or city": "not found",
-            "level_of_degree": "Bachelor Degree in Management"
+            "studies": [
+                {
+                    "dates": "2018 - 2021",
+                    "field": "not found",
+                    "university": "University of Tunis El Manar",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor Degree in Management"
+                },
+                {
+                    "dates": "Summer 2022 (6 weeks)",
+                    "field": "Summer School in Business Analytics",
+                    "university": "University of Barcelona",
+                    "country or city": "not found",
+                    "level_of_degree": "not found"
+                }
+            ]
         },
         "List of personal interests": [
             "Travel",
@@ -7149,15 +7129,11 @@
             }
         ],
         "List of studies": {
-            "studies": [
-                {
-                    "dates": "2018 - 2022",
-                    "field": "not found",
-                    "university": "Keio University, Tokyo",
-                    "country or city": "not found",
-                    "level_of_degree": "Bachelor in Industrial Engineering"
-                }
-            ]
+            "dates": "2018 - 2022",
+            "field": "not found",
+            "university": "Keio University, Tokyo",
+            "country or city": "Tokyo",
+            "level_of_degree": "Bachelor in Industrial Engineering"
         },
         "List of personal interests": [
             "Martial arts",
@@ -7508,7 +7484,7 @@
         ],
         "List of studies": {
             "dates": "2022",
-            "field": "not found",
+            "field": "Software development, project management, data structures",
             "university": "Polytechnic University of Madrid",
             "country or city": "not found",
             "level_of_degree": "Bachelor in Computer Engineering"
@@ -8148,7 +8124,7 @@
                 },
                 {
                     "dates": "2021",
-                    "field": "not found",
+                    "field": "Corporate Finance and Marketing",
                     "university": "University of Paris",
                     "country or city": "not found",
                     "level_of_degree": "Bachelor in Economics"
@@ -8364,10 +8340,10 @@
         ],
         "List of studies": {
             "dates": "finished 2021",
-            "field": "Management program",
+            "field": "not found",
             "university": "not found",
             "country or city": "not found",
-            "level_of_degree": "not found"
+            "level_of_degree": "Management program"
         },
         "List of personal interests": [
             "Traveling",
@@ -8512,7 +8488,7 @@
         ],
         "List of studies": {
             "dates": "2022",
-            "field": "International Business",
+            "field": "not found",
             "university": "Seoul National University",
             "country or city": "not found",
             "level_of_degree": "Bachelor in International Business"
@@ -8601,11 +8577,22 @@
             }
         ],
         "List of studies": {
-            "dates": "2025 (expected)",
-            "field": "not found",
-            "university": "ESSEC Business School",
-            "country or city": "not found",
-            "level_of_degree": "Master in Management"
+            "studies": [
+                {
+                    "dates": "2025 (expected)",
+                    "field": "not found",
+                    "university": "ESSEC Business School",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Management"
+                },
+                {
+                    "dates": "2021",
+                    "field": "not found",
+                    "university": "University of Madrid",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Economics"
+                }
+            ]
         },
         "List of personal interests": [
             "Football",
@@ -9047,11 +9034,22 @@
             }
         ],
         "List of studies": {
-            "dates": "2018",
-            "field": "AI and Machine Learning",
-            "university": "MIT",
-            "country or city": "not found",
-            "level_of_degree": "Master in Computer Science"
+            "studies": [
+                {
+                    "dates": "2018",
+                    "field": "AI and Machine Learning",
+                    "university": "MIT",
+                    "country or city": "not found",
+                    "level_of_degree": "Master in Computer Science"
+                },
+                {
+                    "dates": "2016",
+                    "field": "software engineering principles",
+                    "university": "Stanford",
+                    "country or city": "not found",
+                    "level_of_degree": "Bachelor in Computer Science"
+                }
+            ]
         },
         "List of personal interests": [
             "Hiking",
