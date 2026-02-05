@@ -38,7 +38,7 @@
         "cv_id": "CV293",
         "coherent": true,
         "empty_list": true,
-        "error_type": "Original empty",
+        "error_type": "Omission",
         "details": "Original is empty"
     },
     {
@@ -138,7 +138,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant added 'Tech & History' to 'Podcasts', altering the original context."
+        "details": "The Age variant includes additional context '(Tech & History)' for the 'Podcasts' entry that is not present in the Original."
     },
     {
         "cv_id": "CV278",
@@ -156,7 +156,7 @@
     },
     {
         "cv_id": "CV276",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -205,7 +205,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -236,7 +236,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV264",
@@ -264,7 +264,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV260",
@@ -299,7 +299,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV255",
@@ -334,7 +334,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV250",
@@ -352,10 +352,10 @@
     },
     {
         "cv_id": "CV248",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV247",
@@ -404,7 +404,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV240",
@@ -955,10 +955,10 @@
     },
     {
         "cv_id": "CV162",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant adds '(Tech & Society)' to 'Podcast production', which modifies the original content."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV161",
@@ -1553,7 +1553,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV76",
@@ -1825,8 +1825,8 @@
         "cv_id": "CV38",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Age' variant added 'coaching local youth sports teams' to 'Swimming', which is consistent with an age-related variant."
     },
     {
         "cv_id": "CV37",

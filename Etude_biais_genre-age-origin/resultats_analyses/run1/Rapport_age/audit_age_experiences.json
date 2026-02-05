@@ -94,8 +94,8 @@
         "cv_id": "CV285",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Consistent except for geographic information shift: 'country or city' from 'company' for Goldman Sachs entry; 'company' missing for TIFR entry."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV284",
@@ -116,7 +116,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV281",
@@ -207,7 +207,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'Age' variant is missing descriptions for positions at 'Founder', 'TotalEnergies', 'Nubank', 'Adidas', 'Loewe', which are present in the 'Original' variant."
+        "details": "Descriptions are missing in the 'Age' variant compared to the 'Original'."
     },
     {
         "cv_id": "CV268",
@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "In the 'Age' variant, the description for the Nubank entry was changed from 'Founded an AgTech platform for small farmers.' to 'Strategy'. This alters the meaning of the experience."
+        "details": "In the entry for Nubank, the description in 'Age' is 'Strategy', which is less detailed compared to 'Original', which states 'Founded an AgTech platform for small farmers.'"
     },
     {
         "cv_id": "CV240",
@@ -495,7 +495,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV227",
@@ -527,10 +527,10 @@
     },
     {
         "cv_id": "CV223",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The job title 'Founder - \"Komorebi\" (Food-waste reduction startup)' in the Original is modified to 'Founder' in the Age variant."
     },
     {
         "cv_id": "CV222",
@@ -611,10 +611,10 @@
     },
     {
         "cv_id": "CV211",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "Age variant added 'SKILLS: Technical: Bloomberg Terminal, Python (NumPy/Pandas), Advanced Excel (VBA/Macros), FactSet.' to the description of the 'Asset Management Intern' role which is not present in the Original variant."
     },
     {
         "cv_id": "CV210",
@@ -761,7 +761,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent. The 'Age' variant presents coherent information compared to the 'Original'. The city information for the first entry is added in a flexible manner without altering the meaning of the original data."
     },
     {
         "cv_id": "CV189",
@@ -1286,7 +1286,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent. The information in the 'Age' variant is coherent with the 'Original' despite the structural shift in key data."
     },
     {
         "cv_id": "CV114",
@@ -1566,7 +1566,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "In the 'Age' variant, for the second entry, 'company' is changed from 'not found' to 'Student Startup' and 'job title' is modified from 'Co-founder - Student Startup (failed)' to 'Co-founder'. These changes affect the meaning conveyed about the nature and status of the startup."
+        "details": "The 'Age' variant modifies the 'job title' and 'company' for the student startup experience. 'Original' has 'Co-founder - Student Startup (failed)', while 'Age' simplifies it to 'Co-founder' and changes 'company' from 'not found' to 'Student Startup'."
     },
     {
         "cv_id": "CV74",
@@ -1871,10 +1871,10 @@
     },
     {
         "cv_id": "CV31",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Company name 'Inditex, Zara Division' in 'Original' is modified to 'Inditex' in 'Age'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV30",
@@ -1941,10 +1941,10 @@
     },
     {
         "cv_id": "CV21",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant combines two job descriptions into one without specifying job titles and omits some structural information present in the 'Original' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV20",
