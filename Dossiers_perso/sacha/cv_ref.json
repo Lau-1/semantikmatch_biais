@@ -1873,8 +1873,8 @@
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Sep 2023",
-                "company": "SME",
-                "job title": "Business Analyst",
+                "company": "not found",
+                "job title": "Business Analyst - SME",
                 "description": "Conducted cost analysis and prepared monthly business reports\nAssisted management in operational decision-making\nSupported strategic initiatives to improve company efficiency",
                 "country or city": "not found"
             },
@@ -2176,8 +2176,8 @@
             },
             {
                 "dates": "2019",
-                "company": "Advertising Agency",
-                "job title": "Intern",
+                "company": "not found",
+                "job title": "Intern - Advertising Agency",
                 "description": "Assisted in content creation for clients\nSupported social media planning and digital campaign tracking",
                 "country or city": "not found"
             }
@@ -2528,7 +2528,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "corporate finance, international trade, and strategic management",
                 "university": "Foreign Trade University, Hanoi",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in International Business"
@@ -2764,7 +2764,7 @@
         "List of studies": [
             {
                 "dates": "2022",
-                "field": "",
+                "field": "Finance, Marketing, Strategic Management",
                 "university": "Moscow State University",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Economics"
@@ -2950,10 +2950,10 @@
             }
         ],
         "List of personal interests": [
-            "Cooking and experimenting with fusion cuisine recipes",
-            "reading business strategy books and case studies",
-            "practicing yoga and mindfulness",
-            "volunteering at local literacy and entrepreneurship programs"
+            "Cooking",
+            "reading",
+            "practicing yoga",
+            "volunteering"
         ]
     },
     "CV 033 Original": {
@@ -3035,14 +3035,7 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Helped in marketing and business operations.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "not found",
-                "company": "not found",
-                "job title": "not found",
-                "description": "Contributed to projects when asked.",
+                "description": "Helped in marketing and business operations.\nContributed to projects when asked.",
                 "country or city": "not found"
             }
         ],
@@ -3096,14 +3089,14 @@
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "not found",
+                "job title": "Interned in finance",
                 "description": "Interned in finance for a few months, helped prepare reports.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "not found",
+                "job title": "Consulting tasks observer",
                 "description": "Observed consulting tasks, contributed occasionally.",
                 "country or city": "not found"
             }
