@@ -8,17 +8,17 @@
     },
     {
         "cv_id": "CV297",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant is missing 'studies' key and its associated structured information."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV296",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant includes a specific field 'Social Entrepreneurship and Microfinance' which is not found in the 'Original'. The rest of the information matches."
+        "details": "The 'Age' variant specifies 'Social Entrepreneurship and Microfinance' in the 'field', whereas the 'Original' does not have a field specified. This constitutes a modification."
     },
     {
         "cv_id": "CV295",
@@ -96,7 +96,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "Field of study differs: 'not found' (Original) vs 'Quantitative Finance and Partial Differential Equations' (Age)."
+        "details": "The 'field' in 'Age' is 'Quantitative Finance and Partial Differential Equations', differing from 'Original' where 'field' is 'not found'."
     },
     {
         "cv_id": "CV284",
@@ -261,10 +261,10 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -278,7 +278,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV258",
@@ -345,10 +345,10 @@
     },
     {
         "cv_id": "CV249",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' in the 'Age' variant contains 'Digital Media and Persuasive Communication', which is missing in the 'Original'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV248",
@@ -404,7 +404,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -438,15 +438,15 @@
         "cv_id": "CV236",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant lacks the 'field' information: 'Specialized in Lean Manufacturing and Life Cycle Assessment'."
+        "error_type": "Modification",
+        "details": "The 'field' information 'Specialized in Lean Manufacturing and Life Cycle Assessment' is missing in the 'Age' variant."
     },
     {
         "cv_id": "CV235",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The field in 'Age' has been modified to 'Software Engineering and Product Development', while it is 'not found' in 'Original'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV234",
@@ -702,10 +702,10 @@
     },
     {
         "cv_id": "CV198",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant is missing an entry for the semester abroad at Fudan University, Shanghai."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV197",
@@ -905,10 +905,10 @@
     },
     {
         "cv_id": "CV169",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Age' variant omits the 'Sydney' location for the semester abroad entry, which is present in the 'Original' variant. This inconsistency indicates a Modification as the geographic detail is altered."
     },
     {
         "cv_id": "CV168",
@@ -1710,10 +1710,10 @@
     },
     {
         "cv_id": "CV54",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'field' information 'Media strategy, digital marketing, storytelling' from the 'Original' variant is missing in the 'Age' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV53",
@@ -1808,10 +1808,10 @@
     },
     {
         "cv_id": "CV40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant omits the Exchange semester at the London School of Economics present in the 'Original' data."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",
@@ -1843,10 +1843,10 @@
     },
     {
         "cv_id": "CV35",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant omitted the studies entry about Summer School at London Business School from the 'Original' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV34",
@@ -1864,10 +1864,10 @@
     },
     {
         "cv_id": "CV32",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant contains only one study entry, while the 'Original' has three entries. Two studies from 'Original' are omitted in the 'Age' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV31",
