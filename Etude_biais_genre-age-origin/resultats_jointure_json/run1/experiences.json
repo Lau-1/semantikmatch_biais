@@ -600,24 +600,26 @@
                 "country or city": "not found"
             }
         ],
-        "Gender": {
-            "experiences": [
-                {
-                    "dates": "June 2024 - Present",
-                    "company": "Boston Consulting Group (BCG), Madrid",
-                    "job title": "Strategy Intern",
-                    "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "2023",
-                    "company": "Spanish Ministry of Foreign Affairs",
-                    "job title": "Summer Intern",
-                    "description": "Drafted briefing notes for the EU Presidency meetings.",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Gender": [
+            {
+                "experiences": [
+                    {
+                        "dates": "June 2024 - Present",
+                        "company": "Boston Consulting Group (BCG), Madrid",
+                        "job title": "Strategy Intern",
+                        "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "2023",
+                        "company": "Spanish Ministry of Foreign Affairs",
+                        "job title": "Summer Intern",
+                        "description": "Drafted briefing notes for the EU Presidency meetings.",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Origin": [
             {
                 "dates": "June 2024 - Present.",
@@ -2260,24 +2262,26 @@
                 "country or city": "not found"
             }
         ],
-        "Gender": {
-            "experiences": [
-                {
-                    "dates": "Jan 2024 - July 2024",
-                    "company": "Tesla",
-                    "job title": "Operations Intern",
-                    "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
-                    "country or city": "Gigafactory Berlin"
-                },
-                {
-                    "dates": "July 2023 - Dec 2023",
-                    "company": "Apple",
-                    "job title": "Supply Chain Intern",
-                    "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
-                    "country or city": "Cork"
-                }
-            ]
-        },
+        "Gender": [
+            {
+                "experiences": [
+                    {
+                        "dates": "Jan 2024 - July 2024",
+                        "company": "Tesla",
+                        "job title": "Operations Intern",
+                        "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                        "country or city": "Gigafactory Berlin"
+                    },
+                    {
+                        "dates": "July 2023 - Dec 2023",
+                        "company": "Apple",
+                        "job title": "Supply Chain Intern",
+                        "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                        "country or city": "Cork"
+                    }
+                ]
+            }
+        ],
         "Origin": [
             {
                 "dates": "Jan 2024 - July 2024",
@@ -9137,24 +9141,26 @@
                 "country or city": "not found"
             }
         ],
-        "Gender": {
-            "experiences": [
-                {
-                    "dates": "July 2023 - Present",
-                    "company": "Allegro",
-                    "job title": "Machine Learning Intern",
-                    "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve\ncross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
-                    "country or city": "Warsaw"
-                },
-                {
-                    "dates": "January 2023 - June 2023",
-                    "company": "Comarch",
-                    "job title": "Junior Data Analyst",
-                    "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry\nerrors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Gender": [
+            {
+                "experiences": [
+                    {
+                        "dates": "July 2023 - Present",
+                        "company": "Allegro",
+                        "job title": "Machine Learning Intern",
+                        "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve\ncross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
+                        "country or city": "Warsaw"
+                    },
+                    {
+                        "dates": "January 2023 - June 2023",
+                        "company": "Comarch",
+                        "job title": "Junior Data Analyst",
+                        "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry\nerrors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Origin": [
             {
                 "dates": "July 2023 - Present",
@@ -10673,24 +10679,26 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": {
-            "experiences": [
-                {
-                    "dates": "Jan 2019 - Sep 2023",
-                    "company": "E-commerce Company",
-                    "job title": "Senior Data Analyst",
-                    "description": "Advanced Analytics: Designed and implemented advanced analytical models to optimize sales and op-\nerations.\n\nStrategic Reporting: Developed and maintained automated dashboards to support executive-level strate-\ngic decision-making.\n\nLeadership & Mentoring: Mentored and trained junior analysts in Python, SQL, and Power BI best\npractices.\n\nCustomer Intelligence: Performed predictive modeling on customer behavior to drive revenue growth\nand reduce churn rates.",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "2016 - 2018",
-                    "company": "not found",
-                    "job title": "Data Analyst",
-                    "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\n\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making\naccuracy.\n\nCollaborative",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Origin": [
+            {
+                "experiences": [
+                    {
+                        "dates": "Jan 2019 - Sep 2023",
+                        "company": "E-commerce Company",
+                        "job title": "Senior Data Analyst",
+                        "description": "Advanced Analytics: Designed and implemented advanced analytical models to optimize sales and op-\nerations.\n\nStrategic Reporting: Developed and maintained automated dashboards to support executive-level strate-\ngic decision-making.\n\nLeadership & Mentoring: Mentored and trained junior analysts in Python, SQL, and Power BI best\npractices.\n\nCustomer Intelligence: Performed predictive modeling on customer behavior to drive revenue growth\nand reduce churn rates.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "2016 - 2018",
+                        "company": "not found",
+                        "job title": "Data Analyst",
+                        "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\n\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making\naccuracy.\n\nCollaborative",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2019 - Sep 2023",
@@ -13347,24 +13355,26 @@
                 "country or city": "not found"
             }
         ],
-        "Gender": {
-            "experiences": [
-                {
-                    "dates": "Feb 2023 - Present",
-                    "company": "FMCG Company",
-                    "job title": "Data Reporting Analyst",
-                    "description": "Consolidated sales data from multiple regions for management reporting\nPrepared monthly dashboards and performance KPIs\nSupported data-driven decision-making across marketing and sales teams",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "2021",
-                    "company": "not found",
-                    "job title": "Research Assistant - University Project",
-                    "description": "Cleaned and processed survey data for research",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Gender": [
+            {
+                "experiences": [
+                    {
+                        "dates": "Feb 2023 - Present",
+                        "company": "FMCG Company",
+                        "job title": "Data Reporting Analyst",
+                        "description": "Consolidated sales data from multiple regions for management reporting\nPrepared monthly dashboards and performance KPIs\nSupported data-driven decision-making across marketing and sales teams",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "2021",
+                        "company": "not found",
+                        "job title": "Research Assistant - University Project",
+                        "description": "Cleaned and processed survey data for research",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Origin": [
             {
                 "dates": "Feb 2023 - Present",
@@ -15421,24 +15431,26 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": {
-            "experiences": [
-                {
-                    "dates": "Jan 2022 - Sep 2023",
-                    "company": "Orange Tunisia",
-                    "job title": "Junior Sales Assistant",
-                    "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "Jun 2021 - Dec 2021",
-                    "company": "not found",
-                    "job title": "Intern - Local Consulting Firm (SME)",
-                    "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommendations\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Origin": [
+            {
+                "experiences": [
+                    {
+                        "dates": "Jan 2022 - Sep 2023",
+                        "company": "Orange Tunisia",
+                        "job title": "Junior Sales Assistant",
+                        "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "Jun 2021 - Dec 2021",
+                        "company": "not found",
+                        "job title": "Intern - Local Consulting Firm (SME)",
+                        "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommendations\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -16243,24 +16255,26 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": {
-            "experiences": [
-                {
-                    "dates": "1.5 years",
-                    "company": "not found",
-                    "job title": "Social Impact Consultant",
-                    "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "6 months",
-                    "company": "not found",
-                    "job title": "Marketing Intern at Startup",
-                    "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
-                    "country or city": "not found"
-                }
-            ]
-        },
+        "Origin": [
+            {
+                "experiences": [
+                    {
+                        "dates": "1.5 years",
+                        "company": "not found",
+                        "job title": "Social Impact Consultant",
+                        "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "6 months",
+                        "company": "not found",
+                        "job title": "Marketing Intern at Startup",
+                        "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Age": [
             {
                 "dates": "1.5 years",
@@ -17119,24 +17133,26 @@
                 "country or city": "not found"
             }
         ],
-        "Age": {
-            "experiences": [
-                {
-                    "dates": "6 months",
-                    "company": "Emirates NBD",
-                    "job title": "Finance Intern",
-                    "description": "Assisted in investment research, financial reporting, KPI dashboards, client presentations.",
-                    "country or city": "not found"
-                },
-                {
-                    "dates": "6 months",
-                    "company": "Du Telecom",
-                    "job title": "Business Development Intern",
-                    "description": "Supported market research, product launch planning, sales reporting, team coordination.",
-                    "country or city": "not found"
-                }
-            ]
-        }
+        "Age": [
+            {
+                "experiences": [
+                    {
+                        "dates": "6 months",
+                        "company": "Emirates NBD",
+                        "job title": "Finance Intern",
+                        "description": "Assisted in investment research, financial reporting, KPI dashboards, client presentations.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "6 months",
+                        "company": "Du Telecom",
+                        "job title": "Business Development Intern",
+                        "description": "Supported market research, product launch planning, sales reporting, team coordination.",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ]
     },
     "CV43": {
         "Original": [

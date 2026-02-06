@@ -92,10 +92,10 @@
     },
     {
         "cv_id": "CV285",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'company' for the second entry is 'TIFR' in 'Original' but 'not found' in 'Origin'. Additionally, 'Bangalore' in 'country or city' field of the first entry in 'Origin' can be ignored due to the Origin variant rule (geography)."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV284",
@@ -207,7 +207,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "Descriptions are present in the Original but missing in the Origin for entries where there is substantive information: 'Founder' (VR EdTech startup ($50k seed)), 'Intern' at TotalEnergies (Renewables), 'Intern' at Nubank (Developed a blockchain-based loan verification system), 'Intern' at Adidas (Built a dashboard to track influencer ROI across 5 markets), and 'Intern' at Loewe (Focus on sustainable sourcing of raw materials). The Origin lacks these descriptions, leading to omissions."
+        "details": "The 'Origin' variant omits descriptions for multiple entries compared to the 'Original'. Specifically, the 'Origin' lacks the details about the 'VR EdTech startup ($50k seed)' for the position 'Founder', 'Renewables' for 'TotalEnergies', 'Developed a blockchain-based loan verification system' for 'Nubank', 'Built a dashboard to track influencer ROI across 5 markets' for 'Adidas', 'Focus on Debt Capital Markets (DCM)' for 'Morgan Stanley', and 'Focus on sustainable sourcing of raw materials' for 'Loewe'."
     },
     {
         "cv_id": "CV268",
@@ -2087,9 +2087,9 @@
     },
     {
         "cv_id": "CV0",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'dates' field is missing in 'Origin' for both entries."
+        "error_type": "None",
+        "details": "Consistent"
     }
 ]

@@ -12,7 +12,8 @@ def transform_cv_data(input_path, output_path, extraction_type):
 
     # Lecture du CSV avec le séparateur ';'
     try:
-        df = pd.read_csv(input_path, sep=';')
+        # On force le type string pour éviter que pandas interprète mal certaines colonnes
+        df = pd.read_csv(input_path, sep=';', dtype=str)
     except FileNotFoundError:
         print(f"❌ Erreur : Le fichier '{input_path}' est introuvable.")
         return
@@ -24,52 +25,77 @@ def transform_cv_data(input_path, output_path, extraction_type):
 
     for index, row in df.iterrows():
         # 1. Création de la clé dynamique (ex: "CV Jean Original" ou "CV Jean Origin")
-        cv_name = row['Name']
+        cv_name = row.get('Name', f"CV_{index}")
+        if pd.isna(cv_name):
+            cv_name = f"CV_{index}"
+
         # On met une majuscule au type (original -> Original)
         key_name = f"{cv_name} {extraction_type.capitalize()}"
 
-        # 2. Traitement des expériences professionnelles
-        prof_exp_raw = row.get('Professional Experiences-value') # .get est plus sûr
+        # --- 2. Traitement des expériences professionnelles ---
+        prof_exp_raw = row.get('Professional Experiences-value')
         prof_experiences = []
-        if pd.notna(prof_exp_raw):
-            try:
-                prof_experiences = json.loads(prof_exp_raw)
-            except json.JSONDecodeError:
-                prof_experiences = []
 
-        # 3. Traitement des études
-        studies_raw = row.get('Studies-value')
-        studies_obj = {}
-        if pd.notna(studies_raw):
+        if pd.notna(prof_exp_raw) and prof_exp_raw != "null":
             try:
-                studies_list = json.loads(studies_raw)
-                if isinstance(studies_list, list) and len(studies_list) > 0:
-                    studies_obj = studies_list[0]
-                elif isinstance(studies_list, dict):
-                    studies_obj = studies_list
+                data = json.loads(prof_exp_raw)
+                if isinstance(data, list):
+                    prof_experiences = data
+                elif isinstance(data, dict):
+                    prof_experiences = [data]
+            except json.JSONDecodeError:
+                pass # On laisse la liste vide en cas d'erreur
+
+        # --- 3. Traitement des études (CORRECTION MAJEURE) ---
+        studies_raw = row.get('Studies-value')
+        studies_list_final = [] # On veut une liste d'objets au final
+
+        if pd.notna(studies_raw) and studies_raw != "null" and studies_raw != "[]":
+            try:
+                studies_data = json.loads(studies_raw)
+
+                # Cas 1 : C'est directement une liste [{"dates":...}, {"dates":...}]
+                if isinstance(studies_data, list):
+                    studies_list_final = studies_data
+
+                # Cas 2 : C'est un dictionnaire (ex: {"studies": [...]})
+                elif isinstance(studies_data, dict):
+                    # Sous-cas A : Contient la clé "studies" qui est une liste
+                    if "studies" in studies_data and isinstance(studies_data["studies"], list):
+                        studies_list_final = studies_data["studies"]
+                    # Sous-cas B : C'est un objet étude unique sans clé parente
+                    else:
+                        studies_list_final = [studies_data]
+
             except json.JSONDecodeError:
                 pass
 
-        # 4. Traitement des intérêts personnels
+        # --- 4. Traitement des intérêts personnels ---
         interests_raw = row.get('Interests-value')
         interests_list = []
-        if pd.notna(interests_raw):
+
+        if pd.notna(interests_raw) and interests_raw != "null":
             try:
                 interests_data = json.loads(interests_raw)
                 if isinstance(interests_data, list):
-                    interests_list = [item.get('title') for item in interests_data if item.get('title')]
+                    # On ne garde que le titre pour faire une liste simple de strings
+                    interests_list = [
+                        item.get('title') for item in interests_data
+                        if isinstance(item, dict) and item.get('title')
+                    ]
             except json.JSONDecodeError:
                 pass
 
         # Construction de l'objet final pour ce CV
         json_output[key_name] = {
             "List of professional experiences": prof_experiences,
-            "List of studies": studies_obj,
+            "List of studies": studies_list_final,
             "List of personal interests": interests_list
         }
 
-    # Création du dossier parent si nécessaire (géré par le main, mais sécurité supplémentaire)
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    # Création du dossier parent si nécessaire
+    if os.path.dirname(output_path):
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     # Sauvegarde dans le fichier JSON
     with open(output_path, 'w', encoding='utf-8') as f:

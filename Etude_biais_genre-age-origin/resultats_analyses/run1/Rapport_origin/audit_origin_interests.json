@@ -163,7 +163,7 @@
     {
         "cv_id": "CV275",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -264,7 +264,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV260",
@@ -275,10 +275,10 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV258",
@@ -299,7 +299,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV255",
@@ -546,7 +546,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV220",
@@ -595,7 +595,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The addition of '(LeetCode)' in 'Competitive Coding' in the Origin variant constitutes a change in meaning and detail, which is not consistent with the Original variant."
+        "details": "The term 'Competitive Coding' in 'Original' is modified to include '(LeetCode)' in 'Origin'."
     },
     {
         "cv_id": "CV213",
@@ -1827,14 +1827,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant has a modification with 'Swimming and coaching local youth sports teams' instead of just 'Swimming'."
+        "details": "The 'Origin' variant includes 'coaching local youth sports teams' in the 'Swimming' entry, which changes the meaning compared to the 'Original' that only mentions 'Swimming'."
     },
     {
         "cv_id": "CV37",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The activity 'practicing yoga' was modified to 'practicing yoga and mindfulness'."
+        "details": "The entry 'practicing yoga' was modified to 'practicing yoga and mindfulness'."
     },
     {
         "cv_id": "CV36",
@@ -2028,7 +2028,7 @@
     {
         "cv_id": "CV9",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
