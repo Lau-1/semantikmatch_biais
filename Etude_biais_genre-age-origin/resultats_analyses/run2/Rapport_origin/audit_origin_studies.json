@@ -15,10 +15,10 @@
     },
     {
         "cv_id": "CV296",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' in Origin is 'Social Entrepreneurship and Microfinance', whereas it is 'not found' in Original. This indicates an inconsistency in the data as it is not accounted for by geographical differences or structural flexibility."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV295",
@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV268",
@@ -260,10 +260,10 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -274,7 +274,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -1691,7 +1691,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV56",
@@ -1852,7 +1852,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",

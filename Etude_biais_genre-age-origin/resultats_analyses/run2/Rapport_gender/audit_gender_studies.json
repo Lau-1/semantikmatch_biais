@@ -1,10 +1,10 @@
 [
     {
         "cv_id": "CV298",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant includes additional information in the 'field' key for the first entry, i.e., 'Operations Research and Lean Manufacturing' instead of 'not found'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV297",
@@ -64,17 +64,17 @@
     },
     {
         "cv_id": "CV289",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'field' is missing in the 'Gender' variant but present in the 'Original'."
     },
     {
         "cv_id": "CV288",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The field differs between the two variants. The 'Original' mentions 'Energy Systems and Circular Economy', whereas the 'Gender' variant only specifies 'Industrial Engineering'."
+        "details": "The field in the 'Original' variant includes 'Energy Systems and Circular Economy', whereas the 'Gender' variant only mentions 'Industrial Engineering'. This is a significant change in the academic focus and cannot be ignored under the gender variant rule."
     },
     {
         "cv_id": "CV287",
@@ -95,7 +95,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' in the 'Gender' variant is 'Quantitative Finance and Partial Differential Equations', which differs from 'not found' in the 'Original'."
+        "details": "The field of study in the 'Gender' variant is different from the 'Original' variant. Original has 'not found' while Gender has 'Quantitative Finance and Partial Differential Equations'."
     },
     {
         "cv_id": "CV284",
@@ -169,10 +169,10 @@
     },
     {
         "cv_id": "CV274",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'field' information 'Consumer Behavior and Data Mining' is missing in the Gender variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV273",
@@ -183,10 +183,10 @@
     },
     {
         "cv_id": "CV272",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant includes 'Distributed Systems and Cloud Architecture' for the 'field' key, whereas the 'Original' variant has 'not found'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV271",
@@ -218,10 +218,10 @@
     },
     {
         "cv_id": "CV267",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' value changed from 'not found' in the Original to 'Manufacturing Systems' in the Gender variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV266",
@@ -263,7 +263,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -302,17 +302,17 @@
     },
     {
         "cv_id": "CV255",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Modification",
-        "details": "The field of study in the 'Gender' variant is specified as 'Biotechnology and Medical Devices' while in the 'Original' variant it is marked as 'not found'."
-    },
-    {
-        "cv_id": "CV254",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent"
+    },
+    {
+        "cv_id": "CV254",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'field' data is missing in the Gender variant."
     },
     {
         "cv_id": "CV253",
@@ -344,10 +344,10 @@
     },
     {
         "cv_id": "CV249",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' has been modified from 'not found' in the Original to 'Digital Media and Persuasive Communication' in the Gender variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV248",
@@ -403,7 +403,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV240",
@@ -417,14 +417,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The field of study has changed from 'Psychology & Sociology' in the Original to 'Industrial Psychology' in the Gender variant, altering the original meaning."
+        "details": "The field of study changed from 'Psychology & Sociology' to 'Industrial Psychology'."
     },
     {
         "cv_id": "CV238",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'Gender' variant is missing the 'Specialized in Data Mining and Artificial Intelligence' in the 'field'."
     },
     {
         "cv_id": "CV237",
@@ -456,17 +456,17 @@
     },
     {
         "cv_id": "CV233",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'country or city' information in the 'Gender' variant is 'not found', whereas in the 'Original' variant, it is 'Mexico City'."
     },
     {
         "cv_id": "CV232",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Gender' variant has 'country or city' as 'not found' which differs from the 'Original' variant's 'Tokyo'."
     },
     {
         "cv_id": "CV231",
@@ -480,7 +480,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant modifies the 'field' from 'not found' to 'Public Health Policy and Epidemiology'."
+        "details": "The 'field' in Gender contains 'Public Health Policy and Epidemiology', while Original has 'not found'. This is a change in content, not just a shift in structure."
     },
     {
         "cv_id": "CV229",
@@ -624,10 +624,10 @@
     },
     {
         "cv_id": "CV209",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The field 'game theory and industrial organization' from the Original is missing in the Gender variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV208",
@@ -638,10 +638,10 @@
     },
     {
         "cv_id": "CV207",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' in the Gender variant is 'Focus on Sports Finance and Marketing.' instead of 'Sport Management' as in the Original."
     },
     {
         "cv_id": "CV206",
@@ -659,10 +659,10 @@
     },
     {
         "cv_id": "CV204",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' in the Gender variant is 'Corporate Reputation and Crisis Management' whereas the 'Original' has 'not found'."
     },
     {
         "cv_id": "CV203",
@@ -680,10 +680,10 @@
     },
     {
         "cv_id": "CV201",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' information is missing in the Gender variant while it is present in the Original."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV200",
@@ -752,8 +752,8 @@
         "cv_id": "CV191",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The field 'Specialized in Alternative Investments and Portfolio Management.' is missing in the 'Gender' variant."
+        "error_type": "Modification",
+        "details": "The 'field' value in the Gender variant is 'not found', whereas it should be 'Alternative Investments and Portfolio Management' as per the Original variant."
     },
     {
         "cv_id": "CV190",
@@ -778,10 +778,10 @@
     },
     {
         "cv_id": "CV187",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' in the Gender variant is 'not found' whereas the Original specifies 'Public Economics and Policy Evaluation'."
     },
     {
         "cv_id": "CV186",
@@ -841,10 +841,10 @@
     },
     {
         "cv_id": "CV178",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "In the 'Gender' variant, the 'country or city' value is 'not found', while in the 'Original' it is 'Melbourne'. This change affects geographic consistency."
     },
     {
         "cv_id": "CV177",
@@ -890,10 +890,10 @@
     },
     {
         "cv_id": "CV171",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' in the Gender variant is 'not found', while in the Original it is 'Management Information Systems (MIS)'."
     },
     {
         "cv_id": "CV170",
@@ -974,10 +974,10 @@
     },
     {
         "cv_id": "CV159",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'country or city' for Waseda University entry is different. Original specifies 'Tokyo' while Gender specifies 'not found'."
     },
     {
         "cv_id": "CV158",
@@ -1614,7 +1614,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' in the Gender variant is modified from 'not found' to 'corporate finance, international trade, and strategic management'."
+        "details": "The 'field' in 'Gender' includes specific areas: 'corporate finance, international trade, and strategic management', which is not consistent with the 'Original' where the field is noted as 'not found'."
     },
     {
         "cv_id": "CV67",
@@ -1691,7 +1691,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'field' information is present in the 'Original' but missing in the 'Gender' variant."
+        "details": "The 'field' entry in the Gender variant is marked as 'not found' compared to the Original variant which contains 'Social venture design, marketing, finance, project management'."
     },
     {
         "cv_id": "CV56",
@@ -1733,7 +1733,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Omission",
-        "details": "The 'field' information 'Sustainable development, project management, community engagement' in the Original is missing in the Gender variant."
+        "details": "The field 'Sustainable development, project management, community engagement' is missing in the 'Gender' variant."
     },
     {
         "cv_id": "CV50",
@@ -1807,10 +1807,10 @@
     },
     {
         "cv_id": "CV40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant mentions 'Specialization in Finance and Marketing', while the 'Original' mentions 'Finance and Marketing'. This changes the scope of the field, which is a modification."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",
