@@ -1,9 +1,105 @@
 {
-    "CV 298 Gender": {
+    "CV 104 Origin": {
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Strategy Analyst Junior",
+                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Economic Research Institute",
+                "job title": "Intern",
+                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2019 - 2022",
+                "field": "not found",
+                "university": "University of Ljubljana",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Business and Organization"
+            }
+        ],
+        "List of personal interests": [
+            "Public policy",
+            "consulting",
+            "data analysis"
+        ]
+    },
+    "CV 105 Origin": {
+        "List of professional experiences": [
+            {
+                "dates": "Summer 2023",
+                "company": "not found",
+                "job title": "Student Intern - FMCG Distributor",
+                "description": "Tracked sales performance and assisted in inventory management\nGenerated weekly reports on distribution and stock levels",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020 - Present",
+                "company": "not found",
+                "job title": "Family Business Support",
+                "description": "Handled basic accounting tasks and financial record-keeping\nCoordinated supplier interactions and inventory updates",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2021 - Present",
+                "field": "not found",
+                "university": "North South University",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Business Administration"
+            }
+        ],
+        "List of personal interests": [
+            "Entrepreneurship",
+            "learning",
+            "small business management"
+        ]
+    },
+    "CV 106 Origin": {
+        "List of professional experiences": [
+            {
+                "dates": "Apr 2022 - Sep 2023",
+                "company": "not found",
+                "job title": "Supply Chain Planner - Automotive Supplier",
+                "description": "Prepared demand forecasts and coordinated inventory levels with suppliers\nDeveloped Excel dashboards to track supply chain KPIs\nCollaborated with production and procurement teams to optimize material flow",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Intern - Warehouse Operations",
+                "description": "Assisted in stock organization and warehouse layout planning\nImplemented stock optimization techniques to reduce overstocking\nMonitored inventory levels and assisted in monthly audits",
+                "country or city": "not found"
+            }
+        ],
+        "List of studies": [
+            {
+                "dates": "2018 - 2021",
+                "field": "not found",
+                "university": "University of Applied Sciences Bremen",
+                "country or city": "not found",
+                "level_of_degree": "Bachelor in Logistics Management"
+            }
+        ],
+        "List of personal interests": [
+            "Process optimization",
+            "yoga",
+            "logistics trends"
+        ]
+    },
+    "CV 298 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
-                "company": "L'Oréal",
+                "company": "L'Oréal (Operations HQ)",
                 "job title": "Global Procurement Intern",
                 "description": "Leading a raw material sourcing project for sustainable packaging; negotiated with 10+ Tier-1 suppliers to reduce plastic waste by 15% while maintaining a 5% cost reduction.",
                 "country or city": "Paris"
@@ -45,24 +141,24 @@
             "NGO Volunteering"
         ]
     },
-    "CV 297 Gender": {
+    "CV 297 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Deutsche Bank",
                 "job title": "Sales & Trading Intern",
                 "description": "Assisting the Equity Derivatives desk; developed a Python tool to automate the Greeks' calculation for a portfolio of €500M, reducing reporting latency by 15 minutes.",
                 "country or city": "Frankfurt"
             },
             {
-                "dates": "Jan 2024 - June 2024",
+                "dates": "Jan 2024 - June 2024.",
                 "company": "UBS",
                 "job title": "Wealth Management Intern",
                 "description": "Performed portfolio rebalancing for Ultra-High-Net-Worth (UHNW) clients; conducted ESG integration analysis for a new €100M sustainable mandate.",
                 "country or city": "Zurich"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Allianz Global Investors",
                 "job title": "Summer Analyst",
                 "description": "Back-tested 5 multi-asset strategies using R, identifying a 2% alpha increase in the fixed-income segment.",
@@ -84,17 +180,17 @@
             "Historical Numismatics"
         ]
     },
-    "CV 296 Gender": {
+    "CV 296 Origin": {
         "List of professional experiences": [
             {
-                "dates": "2022 - Present.",
-                "company": "\"VerdePay\" (Green fintech startup)",
+                "dates": "2022 - Present",
+                "company": "VerdePay",
                 "job title": "Co-founder",
                 "description": "Developed a micro-loan platform for small-scale sustainable farmers in Brazil; secured $50k in seed funding and scaled to 500 active users.",
                 "country or city": "not found"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Natura & Co",
                 "job title": "Impact Intern",
                 "description": "Analyzed the social ROI (SROI) of the brand's Amazonian bio-diversity preservation programs.",
@@ -104,7 +200,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Social Entrepreneurship and Microfinance",
                 "university": "FGV São Paulo",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Business Administration"
@@ -116,7 +212,7 @@
             "Community Mentorship"
         ]
     },
-    "CV 295 Gender": {
+    "CV 295 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
@@ -136,10 +232,10 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "International Relations & Economics",
                 "university": "Leiden University",
                 "country or city": "not found",
-                "level_of_degree": "BSc in International Relations & Economics"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -148,17 +244,17 @@
             "High-altitude Hiking"
         ]
     },
-    "CV 294 Gender": {
+    "CV 294 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Hermès (HQ)",
                 "job title": "PR & Communications Intern",
                 "description": "Coordinating the \"Le Monde d'Hermès\" international magazine distribution; managing press relations with 30+ editors across the EMEA region.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Chanel",
                 "job title": "Retail Intern",
                 "description": "Assisted the boutique manager in VIP clienteling and showroom inventory management.",
@@ -180,17 +276,17 @@
             "Contemporary Art History"
         ]
     },
-    "CV 293 Gender": {
+    "CV 293 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Lazard",
                 "job title": "M&A Analyst Intern",
                 "description": "Supporting a €1.5B cross-border acquisition in the Industrials sector; built a comprehensive 3-statement model and performed DCF and Trading Multiples valuations.",
                 "country or city": "Milan"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "UniCredit",
                 "job title": "Summer Analyst",
                 "description": "Worked on 5 debt refinancing mandates for mid-cap Italian firms.",
@@ -200,7 +296,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Corporate Valuation",
                 "university": "Bocconi University",
                 "country or city": "not found",
                 "level_of_degree": "BSc in International Economics and Finance"
@@ -208,7 +304,7 @@
         ],
         "List of personal interests": []
     },
-    "CV 292 Gender": {
+    "CV 292 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -229,7 +325,7 @@
             {
                 "dates": "2021 - 2024",
                 "field": "Econometrics and Consumer Behavior",
-                "university": "St.\nStephen's College, Delhi",
+                "university": "St. Stephen's College, Delhi",
                 "country or city": "not found",
                 "level_of_degree": "BA in Economics"
             }
@@ -240,14 +336,14 @@
             "Fintech Policy"
         ]
     },
-    "CV 291 Gender": {
+    "CV 291 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
-                "company": "Tesla",
+                "company": "Tesla (Gigafactory Berlin)",
                 "job title": "Operations Intern",
                 "description": "Redesigned the robotic arm calibration sequence on the Model Y assembly line, reducing cycle time by\n12 seconds per unit.",
-                "country or city": "Gigafactory Berlin"
+                "country or city": "not found"
             },
             {
                 "dates": "2023",
@@ -272,25 +368,21 @@
             "Sustainable Urbanism"
         ]
     },
-    "CV 290 Gender": {
+    "CV 290 Origin": {
         "List of professional experiences": [
             {
-                "experiences": [
-                    {
-                        "dates": "June 2024 - Present",
-                        "company": "Boston Consulting Group (BCG), Madrid",
-                        "job title": "Strategy Intern",
-                        "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
-                        "country or city": "not found"
-                    },
-                    {
-                        "dates": "2023",
-                        "company": "Spanish Ministry of Foreign Affairs",
-                        "job title": "Summer Intern",
-                        "description": "Drafted briefing notes for the EU Presidency meetings.",
-                        "country or city": "not found"
-                    }
-                ]
+                "dates": "June 2024 - Present.",
+                "company": "Boston Consulting Group (BCG)",
+                "job title": "Strategy Intern",
+                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
+                "country or city": "Madrid"
+            },
+            {
+                "dates": "2023.",
+                "company": "Spanish Ministry of Foreign Affairs",
+                "job title": "Summer Intern",
+                "description": "Drafted briefing notes for the EU Presidency meetings.",
+                "country or city": "not found"
             }
         ],
         "List of studies": [
@@ -315,17 +407,17 @@
             "Documentary Filmmaking"
         ]
     },
-    "CV 289 Gender": {
+    "CV 289 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2023 - July 2024.",
+                "dates": "July 2023 - July 2024",
                 "company": "Deloitte Tohmatsu",
                 "job title": "AI Consultant Intern",
                 "description": "Led a Proof of Concept (PoC) for a retail client using Generative AI to automate customer service inquiries, achieving an 85% intent recognition accuracy.",
                 "country or city": "Tokyo"
             },
             {
-                "dates": "2022.",
+                "dates": "2022",
                 "company": "Rakuten",
                 "job title": "Data Analyst Intern",
                 "description": "Optimized the search ranking algorithm for the \"Travel\" division, resulting in a 5% increase in conversion rate (CVR).",
@@ -335,7 +427,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "Artificial Intelligence and Operations Research",
                 "university": "Waseda University",
                 "country or city": "not found",
                 "level_of_degree": "BEng in Computer Science"
@@ -347,7 +439,7 @@
             "Tech Hardware Architecture"
         ]
     },
-    "CV 288 Gender": {
+    "CV 288 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -379,7 +471,7 @@
             "Marathon Running"
         ]
     },
-    "CV 287 Gender": {
+    "CV 287 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present",
@@ -411,7 +503,7 @@
             "Classical Cello"
         ]
     },
-    "CV 286 Gender": {
+    "CV 286 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -422,8 +514,8 @@
             },
             {
                 "dates": "2023.",
-                "company": "Credit Suisse (IBCM)",
-                "job title": "Intern",
+                "company": "Credit Suisse",
+                "job title": "Intern - Credit Suisse (IBCM)",
                 "description": "Worked on a $1.5B IPO in the Swiss tech sector; managed the data room and investor presentation\nmaterials.",
                 "country or city": "not found"
             }
@@ -443,7 +535,7 @@
             "Watchmaking"
         ]
     },
-    "CV 285 Gender": {
+    "CV 285 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - Aug 2024",
@@ -463,19 +555,19 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Quantitative Finance and Partial Differential Equations",
+                "field": "not found",
                 "university": "IIT Delhi",
                 "country or city": "not found",
                 "level_of_degree": "B.Tech in Engineering Physics"
             }
         ],
         "List of personal interests": [
-            "Carnatic Music (Vocalist)",
+            "Carnatic Music",
             "Chess",
             "Astro-photography"
         ]
     },
-    "CV 284 Gender": {
+    "CV 284 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - July 2024",
@@ -507,17 +599,17 @@
             "Ice Hockey"
         ]
     },
-    "CV 283 Gender": {
+    "CV 283 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Dec 2024",
-                "company": "Grab, Singapore",
+                "dates": "June 2024 - Dec 2024.",
+                "company": "Grab",
                 "job title": "Data Science Intern",
-                "description": "Built a demand-forecasting model using XGBoost that improved driver allocation efficiency by 14% dur-\ning peak hours.",
-                "country or city": "not found"
+                "description": "Built a demand-forecasting model using XGBoost that improved driver allocation efficiency by 14% during peak hours.",
+                "country or city": "Singapore"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Shopee",
                 "job title": "Software Intern",
                 "description": "Automated ETL pipelines for the marketing team using Airflow and SQL, reducing data latency by 30%.",
@@ -527,7 +619,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Statistics & Data Science",
                 "university": "National University of Singapore (NUS)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Statistics & Data Science"
@@ -539,13 +631,13 @@
             "Urban Planning"
         ]
     },
-    "CV 282 Gender": {
+    "CV 282 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
                 "company": "Roland Berger",
                 "job title": "Strategy Intern",
-                "description": "Assisting in a restructuring plan for a major aerospace company; identified €12M in overhead cost re-\nductions.\n\nDeveloped a market-entry model for hydrogen-powered regional jets.",
+                "description": "Assisting in a restructuring plan for a major aerospace company; identified €12M in overhead cost reductions.\n\nDeveloped a market-entry model for hydrogen-powered regional jets.",
                 "country or city": "Paris"
             },
             {
@@ -571,7 +663,7 @@
             "Marathon Running"
         ]
     },
-    "CV 281 Gender": {
+    "CV 281 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
@@ -603,7 +695,7 @@
             "Traveling"
         ]
     },
-    "CV 280 Gender": {
+    "CV 280 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -635,7 +727,7 @@
             "Pilates"
         ]
     },
-    "CV 279 Gender": {
+    "CV 279 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -655,19 +747,19 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Computer Science & Business",
+                "field": "not found",
                 "university": "Trinity College Dublin",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Computer Science & Business"
             }
         ],
         "List of personal interests": [
             "Rugby",
             "Blockchain Research",
-            "Podcasts (Tech & History)"
+            "Podcasts"
         ]
     },
-    "CV 278 Gender": {
+    "CV 278 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - June 2024",
@@ -699,7 +791,7 @@
             "Oenology"
         ]
     },
-    "CV 277 Gender": {
+    "CV 277 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -719,10 +811,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Econometrics & Operations Research",
                 "university": "Erasmus University Rotterdam",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Econometrics & Operations Research"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -731,7 +823,7 @@
             "Mathematical Puzzles"
         ]
     },
-    "CV 276 Gender": {
+    "CV 276 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -757,13 +849,9 @@
                 "level_of_degree": "BCom"
             }
         ],
-        "List of personal interests": [
-            "Ice Hockey",
-            "Sustainable Logistics",
-            "Photography"
-        ]
+        "List of personal interests": []
     },
-    "CV 275 Gender": {
+    "CV 275 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -774,7 +862,7 @@
             },
             {
                 "dates": "2023",
-                "company": "McKinsey",
+                "company": "Mckinsey",
                 "job title": "Diversity & Inclusion Intern",
                 "description": "Assisted in drafting the \"Diversity Wins\" regional report for Eastern Europe.",
                 "country or city": "not found"
@@ -789,19 +877,15 @@
                 "level_of_degree": "BA in Psychology"
             }
         ],
-        "List of personal interests": [
-            "Classical Ballet",
-            "Travel Blogging",
-            "Mental Health Advocacy"
-        ]
+        "List of personal interests": []
     },
-    "CV 274 Gender": {
+    "CV 274 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
                 "company": "Nubank",
                 "job title": "Growth Intern",
-                "description": "Designed and executed A/B tests for the \"Rewards\" feature, increasing conversion rate by 18% over 3\nmonths.",
+                "description": "Designed and executed A/B tests for the \"Rewards\" feature, increasing conversion rate by 18% over 3 months.",
                 "country or city": "São Paulo"
             },
             {
@@ -827,7 +911,7 @@
             "Behavioral Economics"
         ]
     },
-    "CV 273 Gender": {
+    "CV 273 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Aug 2024",
@@ -866,7 +950,7 @@
             "Modern Art"
         ]
     },
-    "CV 272 Gender": {
+    "CV 272 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -886,7 +970,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "Distributed Systems and Cloud Architecture",
+                "field": "not found",
                 "university": "University of Tokyo",
                 "country or city": "not found",
                 "level_of_degree": "BEng in Information Science"
@@ -898,7 +982,7 @@
             "Tech Podcasts"
         ]
     },
-    "CV 271 Gender": {
+    "CV 271 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Dec 2024",
@@ -930,7 +1014,7 @@
             "Photography"
         ]
     },
-    "CV 270 Gender": {
+    "CV 270 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -962,7 +1046,7 @@
             "Coding Mentorship"
         ]
     },
-    "CV 269 Gender": {
+    "CV 269 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -1017,17 +1101,17 @@
         "List of studies": [],
         "List of personal interests": []
     },
-    "CV 268 Gender": {
+    "CV 268 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "OECD",
                 "job title": "Policy Intern",
-                "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Invest-\nment (FDI) report.",
+                "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Investment (FDI) report.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Italian Ministry of Foreign Affairs",
                 "job title": "Summer Intern",
                 "description": "Supported the G7 summit coordination team in Rome.",
@@ -1049,25 +1133,21 @@
             "Fencing"
         ]
     },
-    "CV 267 Gender": {
+    "CV 267 Origin": {
         "List of professional experiences": [
             {
-                "experiences": [
-                    {
-                        "dates": "Jan 2024 - July 2024",
-                        "company": "Tesla",
-                        "job title": "Operations Intern",
-                        "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
-                        "country or city": "Gigafactory Berlin"
-                    },
-                    {
-                        "dates": "July 2023 - Dec 2023",
-                        "company": "Apple",
-                        "job title": "Supply Chain Intern",
-                        "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
-                        "country or city": "Cork"
-                    }
-                ]
+                "dates": "Jan 2024 - July 2024",
+                "company": "Tesla",
+                "job title": "Operations Intern",
+                "description": "Optimized the battery pack assembly line using Lean Six Sigma; reduced cycle time per unit by 18 seconds.",
+                "country or city": "Gigafactory Berlin"
+            },
+            {
+                "dates": "July 2023 - Dec 2023",
+                "company": "Apple",
+                "job title": "Supply Chain Intern",
+                "description": "Managed inventory risk assessment for European retail stores during the iPhone 15 launch.",
+                "country or city": "Cork"
             }
         ],
         "List of studies": [
@@ -1085,17 +1165,17 @@
             "Restoration of vintage cars"
         ]
     },
-    "CV 266 Gender": {
+    "CV 266 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Louis Vuitton (HQ)",
                 "job title": "Marketing Intern",
-                "description": "Managing the 2025 Cruise Collection launch for the leather goods category.\nCoordinating with 15+ regional marketing heads.",
+                "description": "Managing the 2025 Cruise Collection launch for the leather goods category.\n\nCoordinating with 15+ regional marketing heads.",
                 "country or city": "Paris"
             },
             {
-                "dates": "Jan 2024 - June 2024",
+                "dates": "Jan 2024 - June 2024.",
                 "company": "Hermès",
                 "job title": "Retail Operations Intern",
                 "description": "Analyzed boutique traffic and VIC (Very Important Client) purchasing patterns during the Ginza store renovation.",
@@ -1117,13 +1197,13 @@
             "Oenology"
         ]
     },
-    "CV 265 Gender": {
+    "CV 265 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - Aug 2024",
                 "company": "Google",
                 "job title": "Product Management Intern",
-                "description": "Led the \"User Retention\" initiative for Google Pay in Tier-2 Indian cities; increased monthly active users by 12% via gamification features.",
+                "description": "Led the \"User Retention\" initiative for Google Pay in Tier-2 Indian cities; increased monthly active users\nby 12% via gamification features.",
                 "country or city": "Bangalore"
             },
             {
@@ -1137,15 +1217,19 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Computer Science",
+                "field": "not found",
                 "university": "BITS Pilani",
                 "country or city": "not found",
-                "level_of_degree": "B.Tech"
+                "level_of_degree": "B.Tech in Computer Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Kathak Dance",
+            "Tech Policy Blogging",
+            "Squash"
+        ]
     },
-    "CV 264 Gender": {
+    "CV 264 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Sept 2024",
@@ -1184,7 +1268,7 @@
             "Classical Piano"
         ]
     },
-    "CV 263 Gender": {
+    "CV 263 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Dec 2024",
@@ -1204,10 +1288,10 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "not found",
+                "field": "Statistics & Computer Science",
                 "university": "Seoul National University",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Statistics & Computer Science"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -1216,20 +1300,20 @@
             "Digital Illustration"
         ]
     },
-    "CV 262 Gender": {
+    "CV 262 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
                 "company": "G-Research",
                 "job title": "Quantitative Research Intern",
-                "description": "Developing signal generation models using XGBoost on high-frequency tick data.\nOptimizing execution algorithms to minimize market impact.",
+                "description": "Developing signal generation models using XGBoost on high-frequency tick data. Optimizing execution algorithms to minimize market impact.",
                 "country or city": "London"
             },
             {
                 "dates": "2023.",
-                "company": "J.P.\n\nMorgan (CIB)",
+                "company": "J.P. Morgan (CIB)",
                 "job title": "Summer Analyst",
-                "description": "Worked on the Exotic Derivatives desk; automated the daily Value-at-Risk (VaR) reporting pipeline\nusing Python.",
+                "description": "Worked on the Exotic Derivatives desk; automated the daily Value-at-Risk (VaR) reporting pipeline using Python.",
                 "country or city": "not found"
             }
         ],
@@ -1248,7 +1332,7 @@
             "Alpine Mountaineering"
         ]
     },
-    "CV 261 Gender": {
+    "CV 261 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -1275,14 +1359,14 @@
                 "dates": "not found",
                 "company": "Xero",
                 "job title": "Intern",
-                "description": "Product",
+                "description": "Product.",
                 "country or city": "not found"
             }
         ],
         "List of studies": [],
         "List of personal interests": []
     },
-    "CV 260 Gender": {
+    "CV 260 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -1314,7 +1398,7 @@
             "Electronic Music"
         ]
     },
-    "CV 259 Gender": {
+    "CV 259 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -1355,17 +1439,17 @@
         "List of studies": [],
         "List of personal interests": []
     },
-    "CV 258 Gender": {
+    "CV 258 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2023 - Present",
+                "dates": "June 2023 - Present.",
                 "company": "Heineken",
                 "job title": "Sustainability Intern",
                 "description": "Led a project to reduce water consumption in 3 breweries by 10% through a new recycling loop.\nConducted LCA (Life Cycle Assessment) for new sustainable packaging.",
                 "country or city": "Amsterdam"
             },
             {
-                "dates": "2022",
+                "dates": "2022.",
                 "company": "Arcadis",
                 "job title": "Junior Consultant",
                 "description": "Assisted in carbon footprint calculations for urban infrastructure projects.",
@@ -1375,10 +1459,10 @@
         "List of studies": [
             {
                 "dates": "2019 - 2022",
-                "field": "Bio-based Economy",
+                "field": "Environmental Sciences",
                 "university": "Wageningen University",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Environmental Sciences"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -1387,7 +1471,7 @@
             "Gastronomy"
         ]
     },
-    "CV 257 Gender": {
+    "CV 257 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2024 - Present.",
@@ -1398,7 +1482,7 @@
             },
             {
                 "dates": "2023.",
-                "company": "McKinsey",
+                "company": "Mckinsey",
                 "job title": "Finance Intern",
                 "description": "Performed financial due diligence for a tech-sector merger in Eastern Europe.",
                 "country or city": "not found"
@@ -1407,10 +1491,10 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Mathematics and Economics",
+                "field": "Stochastic Processes",
                 "university": "HSE University",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Mathematics and Economics"
             }
         ],
         "List of personal interests": [
@@ -1419,7 +1503,7 @@
             "Travel"
         ]
     },
-    "CV 256 Gender": {
+    "CV 256 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Sept 2024",
@@ -1445,9 +1529,13 @@
                 "level_of_degree": "BSc"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Autonomous Vehicles",
+            "Chess",
+            "Mountain Biking"
+        ]
     },
-    "CV 255 Gender": {
+    "CV 255 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -1479,17 +1567,17 @@
             "Volunteering"
         ]
     },
-    "CV 254 Gender": {
+    "CV 254 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "CrowdStrike",
                 "job title": "Cybersecurity Intern",
                 "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples.\nConducted vulnerability scans using Nessus for corporate clients.",
                 "country or city": "Sydney"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "PwC",
                 "job title": "IT Audit Intern",
                 "description": "Verified ISO 27001 compliance for a regional bank, identifying 3 critical security gaps.",
@@ -1499,7 +1587,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Cryptography and Network Defense",
                 "university": "Australian National University (ANU)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Computer Science"
@@ -1511,7 +1599,7 @@
             "Robotics"
         ]
     },
-    "CV 253 Gender": {
+    "CV 253 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -1543,7 +1631,7 @@
             "Badminton"
         ]
     },
-    "CV 252 Gender": {
+    "CV 252 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -1563,10 +1651,10 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Sports Science & Management",
+                "field": "not found",
                 "university": "University of Vienna",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Sports Science & Management"
             }
         ],
         "List of personal interests": [
@@ -1575,7 +1663,7 @@
             "Sports Psychology"
         ]
     },
-    "CV 251 Gender": {
+    "CV 251 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2022 - Present.",
@@ -1603,7 +1691,7 @@
         ],
         "List of personal interests": []
     },
-    "CV 250 Gender": {
+    "CV 250 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -1635,17 +1723,17 @@
             "Tailoring"
         ]
     },
-    "CV 249 Gender": {
+    "CV 249 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present",
+                "dates": "July 2024 - Present.",
                 "company": "Unilever",
                 "job title": "Marketing Analyst Intern",
-                "description": "Analyzed POS (Point of Sale) data for the \"Home Care\" division, optimizing promotional spend which led to a 5% increase in ROI.",
+                "description": "Analyzed POS (Point of Sale) data for the \"Home Care\" division, optimizing promotional spend which\nled to a 5% increase in ROI.",
                 "country or city": "Rotterdam"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Philips",
                 "job title": "Digital Marketing Intern",
                 "description": "Managed A/B testing for email marketing campaigns across the Benelux region.",
@@ -1667,13 +1755,13 @@
             "Sustainability"
         ]
     },
-    "CV 248 Gender": {
+    "CV 248 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Dec 2024",
                 "company": "BNP Paribas Global Markets",
                 "job title": "Quantitative Analyst Intern",
-                "description": "Developed pricing tools for equity derivatives using C++ and Python.\n\nBack-tested hedging strategies for exotic options.",
+                "description": "Developed pricing tools for equity derivatives using C++ and Python.\nBack-tested hedging strategies for exotic options.",
                 "country or city": "not found"
             },
             {
@@ -1695,7 +1783,7 @@
         ],
         "List of personal interests": []
     },
-    "CV 247 Gender": {
+    "CV 247 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -1727,7 +1815,7 @@
             "Social Entrepreneurship"
         ]
     },
-    "CV 246 Gender": {
+    "CV 246 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -1747,7 +1835,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Competitive Strategy",
+                "field": "not found",
                 "university": "Bocconi University",
                 "country or city": "not found",
                 "level_of_degree": "BSc in International Management"
@@ -1759,13 +1847,13 @@
             "Macroeconomics"
         ]
     },
-    "CV 245 Gender": {
+    "CV 245 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - July 2024.",
                 "company": "Equinor",
                 "job title": "Data Science Intern",
-                "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by\n8%.\nAutomated data pipelines using SQL and Azure.",
+                "description": "Developed a predictive maintenance model for offshore turbines using Python, reducing downtime by\n8%.\n\nAutomated data pipelines using SQL and Azure.",
                 "country or city": "Stavanger"
             },
             {
@@ -1779,10 +1867,10 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Industrial Economics",
+                "field": "Optimization and Machine Learning",
                 "university": "NTNU",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Industrial Economics"
             }
         ],
         "List of personal interests": [
@@ -1791,13 +1879,13 @@
             "Photography"
         ]
     },
-    "CV 244 Gender": {
+    "CV 244 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Sept 2024",
                 "company": "Blackstone",
                 "job title": "Private Equity Summer Analyst",
-                "description": "Performed LBO modeling and sensitivity analysis for a £1.2B real estate portfolio acquisition.\nConducted commercial due diligence on 3 target companies in the logistics sector.",
+                "description": "Performed LBO modeling and sensitivity analysis for a £1.2B real estate portfolio acquisition.\n\nConducted commercial due diligence on 3 target companies in the logistics sector.",
                 "country or city": "London"
             },
             {
@@ -1823,7 +1911,7 @@
             "Modern History"
         ]
     },
-    "CV 243 Gender": {
+    "CV 243 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -1843,10 +1931,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Computer Science & Finance",
                 "university": "Imperial College London",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Computer Science & Finance"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -1855,7 +1943,7 @@
             "Tech Podcasts"
         ]
     },
-    "CV 242 Gender": {
+    "CV 242 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - August 2024",
@@ -1883,7 +1971,7 @@
         ],
         "List of personal interests": []
     },
-    "CV 241 Gender": {
+    "CV 241 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -1910,7 +1998,7 @@
                 "dates": "not found",
                 "company": "Nubank",
                 "job title": "Intern (Strategy)",
-                "description": "not found",
+                "description": "Founded an AgTech platform for small farmers.",
                 "country or city": "not found"
             },
             {
@@ -1924,7 +2012,7 @@
         "List of studies": [],
         "List of personal interests": []
     },
-    "CV 240 Gender": {
+    "CV 240 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - July 2024",
@@ -1944,15 +2032,15 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Energy and Environment",
+                "field": "not found",
                 "university": "KTH Royal Institute of Technology",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Energy and Environment"
             }
         ],
         "List of personal interests": []
     },
-    "CV 239 Gender": {
+    "CV 239 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -1972,10 +2060,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Industrial Psychology",
+                "field": "Psychology & Sociology",
                 "university": "University of Delhi",
                 "country or city": "not found",
-                "level_of_degree": "BA in Psychology & Sociology"
+                "level_of_degree": "BA"
             }
         ],
         "List of personal interests": [
@@ -1984,7 +2072,7 @@
             "Reading"
         ]
     },
-    "CV 238 Gender": {
+    "CV 238 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2024 - Present",
@@ -2016,7 +2104,7 @@
             "Latin Jazz"
         ]
     },
-    "CV 237 Gender": {
+    "CV 237 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -2048,7 +2136,7 @@
             "Fashion Photography"
         ]
     },
-    "CV 236 Gender": {
+    "CV 236 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - January 2024",
@@ -2068,7 +2156,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Lean Manufacturing and Life Cycle Assessment",
+                "field": "Specialized in Lean Manufacturing and Life Cycle Assessment",
                 "university": "Technical University of Denmark (DTU)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in General Engineering"
@@ -2080,17 +2168,17 @@
             "DIY Furniture Building"
         ]
     },
-    "CV 235 Gender": {
+    "CV 235 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2023 - Jan 2024.",
+                "dates": "July 2023 - Jan 2024",
                 "company": "Zomato",
                 "job title": "Product Intern",
-                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\n\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
+                "description": "Defined user stories and roadmaps for a new \"Subscription\" feature.\nConducted 20+ user interviews to identify pain points in the delivery app interface.",
                 "country or city": "Gurgaon"
             },
             {
-                "dates": "2021 - 2023.",
+                "dates": "2021 - 2023",
                 "company": "not found",
                 "job title": "Co-founder - \"AgriLink\" (College Startup)",
                 "description": "Built a mobile platform connecting farmers to urban markets; secured $10k in seed funding.",
@@ -2100,7 +2188,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "Software Engineering and Product Development",
                 "university": "IIT Madras",
                 "country or city": "not found",
                 "level_of_degree": "B.Tech in Computer Science"
@@ -2112,7 +2200,7 @@
             "Cricket"
         ]
     },
-    "CV 234 Gender": {
+    "CV 234 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
@@ -2123,7 +2211,7 @@
             },
             {
                 "dates": "January 2024 - May 2024.",
-                "company": "Sanofi (HQ)",
+                "company": "Sanofi",
                 "job title": "Public Affairs Intern",
                 "description": "Drafted briefing notes on European health policy trends for the senior leadership team.",
                 "country or city": "not found"
@@ -2151,13 +2239,13 @@
             "Alpine Hiking"
         ]
     },
-    "CV 233 Gender": {
+    "CV 233 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2024 - Present.",
                 "company": "BBVA Mexico",
                 "job title": "Data Analyst Intern",
-                "description": "Developed a credit scoring model for SME loans using Python, improving default prediction accuracy by 5%.\nAutomated monthly risk reports for the credit committee using SQL and Tableau.",
+                "description": "Developed a credit scoring model for SME loans using Python, improving default prediction accuracy by 5%.\n\nAutomated monthly risk reports for the credit committee using SQL and Tableau.",
                 "country or city": "not found"
             },
             {
@@ -2171,7 +2259,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "Actuarial Science and Predictive Modeling",
+                "field": "not found",
                 "university": "ITAM (Mexico City)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Applied Mathematics"
@@ -2183,7 +2271,7 @@
             "Latin Jazz"
         ]
     },
-    "CV 232 Gender": {
+    "CV 232 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -2215,7 +2303,7 @@
             "Contemporary Fashion Photography"
         ]
     },
-    "CV 231 Gender": {
+    "CV 231 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -2247,17 +2335,17 @@
             "Cycling"
         ]
     },
-    "CV 230 Gender": {
+    "CV 230 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "World Health Organization (WHO)",
                 "job title": "Policy Intern",
                 "description": "Supported the monitoring of maternal health programs in Sub-Saharan Africa.\n\nCompiled data for the annual Global Health Report.",
                 "country or city": "Geneva"
             },
             {
-                "dates": "June 2023 - August 2023",
+                "dates": "June 2023 - August 2023.",
                 "company": "Institut Pasteur",
                 "job title": "Research Intern",
                 "description": "Assisted in data collection and analysis for a study on malaria transmission patterns in rural communities.",
@@ -2267,7 +2355,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Public Health Policy and Epidemiology",
+                "field": "not found",
                 "university": "McGill University",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Biomedical Sciences"
@@ -2279,7 +2367,7 @@
             "Tennis"
         ]
     },
-    "CV 229 Gender": {
+    "CV 229 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2023 - Present",
@@ -2311,13 +2399,13 @@
             "Woodworking"
         ]
     },
-    "CV 228 Gender": {
+    "CV 228 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
                 "company": "Pirelli",
                 "job title": "Digital Transformation Intern",
-                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets.\nAnalyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
+                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets. Analyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
                 "country or city": "Milan"
             },
             {
@@ -2331,7 +2419,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Digital Business and Platform Strategy",
                 "university": "Bocconi University",
                 "country or city": "not found",
                 "level_of_degree": "BSc in International Economics and Management"
@@ -2343,7 +2431,7 @@
             "Sustainable Gastronomy"
         ]
     },
-    "CV 227 Gender": {
+    "CV 227 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -2375,7 +2463,7 @@
             "Mountaineering"
         ]
     },
-    "CV 226 Gender": {
+    "CV 226 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -2407,7 +2495,7 @@
             "Photography"
         ]
     },
-    "CV 225 Gender": {
+    "CV 225 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2024 - Present.",
@@ -2439,7 +2527,7 @@
             "Urban Gardening"
         ]
     },
-    "CV 224 Gender": {
+    "CV 224 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present.",
@@ -2471,27 +2559,27 @@
             "Mediterranean Gastronomy"
         ]
     },
-    "CV 223 Gender": {
+    "CV 223 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2023 - Present",
                 "company": "SoftBank Vision Fund",
                 "job title": "Business Development Intern",
-                "description": "Conducted due diligence and market analysis for 5 prospective AI startups.\nPrepared investment memos and market sizing reports for senior partners.",
+                "description": "Conducted due diligence and market analysis for 5 prospective AI startups. Prepared investment memos and market sizing reports for senior partners.",
                 "country or city": "Tokyo"
             },
             {
                 "dates": "2022",
                 "company": "not found",
                 "job title": "Founder",
-                "description": "Scaled a pilot program to 10 local restaurants in Tokyo.",
+                "description": "\"Komorebi\" (Food-waste reduction startup) 2022. Scaled a pilot program to 10 local restaurants in Tokyo.",
                 "country or city": "not found"
             }
         ],
         "List of studies": [
             {
                 "dates": "2018 - 2022",
-                "field": "Game Theory and Venture Capital",
+                "field": "not found",
                 "university": "Waseda University",
                 "country or city": "not found",
                 "level_of_degree": "BA in Economics"
@@ -2503,17 +2591,17 @@
             "Tech Podcasts"
         ]
     },
-    "CV 222 Gender": {
+    "CV 222 Origin": {
         "List of professional experiences": [
             {
-                "dates": "August 2023 - July 2024",
+                "dates": "August 2023 - July 2024.",
                 "company": "Equinor",
                 "job title": "HR Intern",
                 "description": "Supported the global talent acquisition team in screening 500+ candidates for the graduate program.\nDeveloped a \"Diversity & Inclusion\" workshop module for internal managers.",
                 "country or city": "Stavanger"
             },
             {
-                "dates": "2022",
+                "dates": "2022.",
                 "company": "Adecco",
                 "job title": "Recruitment Assistant",
                 "description": "Managed candidate sourcing and initial interviews for the tech sector.",
@@ -2535,7 +2623,7 @@
             "Photography"
         ]
     },
-    "CV 221 Gender": {
+    "CV 221 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -2567,13 +2655,13 @@
             "Astronomy"
         ]
     },
-    "CV 220 Gender": {
+    "CV 220 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
-                "company": "Musée du Louvre",
+                "company": "Musée du Louvre, Paris",
                 "job title": "Communications Intern",
-                "description": "Coordinated the digital promotion of a major temporary exhibition, achieving 1M+ impressions on social\nmedia.\n\nManaged press relations with 30+ international journalists.",
+                "description": "Coordinated the digital promotion of a major temporary exhibition, achieving 1M+ impressions on social\nmedia.\nManaged press relations with 30+ international journalists.",
                 "country or city": "Paris"
             },
             {
@@ -2599,13 +2687,13 @@
             "Cooking"
         ]
     },
-    "CV 219 Gender": {
+    "CV 219 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - July 2024",
                 "company": "Ørsted",
                 "job title": "Sustainability Intern",
-                "description": "Supported the environmental impact assessment for a new offshore wind farm in the Baltic Sea.\nTracked Scope 2 carbon emissions across 15 European sites.",
+                "description": "Supported the environmental impact assessment for a new offshore wind farm in the Baltic Sea.\n\nTracked Scope 2 carbon emissions across 15 European sites.",
                 "country or city": "Copenhagen"
             },
             {
@@ -2631,11 +2719,11 @@
             "High-altitude Trekking"
         ]
     },
-    "CV 218 Gender": {
+    "CV 218 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present.",
-                "company": "PwC Nigeria",
+                "company": "PwC Nigeria (Advisory)",
                 "job title": "Strategy Intern",
                 "description": "Supported a market-entry study for a fintech client expanding into West Africa.\n\nDeveloped a financial feasibility model for a solar energy infrastructure project.",
                 "country or city": "not found"
@@ -2663,7 +2751,7 @@
             "Afro-pop Dance"
         ]
     },
-    "CV 217 Gender": {
+    "CV 217 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -2695,17 +2783,17 @@
             "Modern History"
         ]
     },
-    "CV 216 Gender": {
+    "CV 216 Origin": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Davy",
                 "job title": "Investment Banking Intern",
                 "description": "Drafted valuation reports for 2 mid-cap tech acquisitions.\n\nPerformed detailed peer-group analysis and financial statement normalization.",
                 "country or city": "Dublin"
             },
             {
-                "dates": "January 2024 - May 2024",
+                "dates": "January 2024 - May 2024.",
                 "company": "Goodbody",
                 "job title": "Equity Research Intern",
                 "description": "Covered the Irish pharmaceutical sector, building dynamic earnings models for 5 listed companies.",
@@ -2727,13 +2815,13 @@
             "Irish Traditional Violin"
         ]
     },
-    "CV 215 Gender": {
+    "CV 215 Origin": {
         "List of professional experiences": [
             {
                 "dates": "August 2023 - August 2024",
                 "company": "Telefónica Tech",
                 "job title": "Cybersecurity Analyst Intern",
-                "description": "Monitored security alerts using SIEM tools (Splunk).\n\nAssisted in 10+ vulnerability assessments and penetration tests for corporate clients.\n\nDrafted incident response protocols according to ISO 27001 standards.",
+                "description": "Monitored security alerts using SIEM tools (Splunk).\nAssisted in 10+ vulnerability assessments and penetration tests for corporate clients.\nDrafted incident response protocols according to ISO 27001 standards.",
                 "country or city": "Madrid"
             },
             {
@@ -2759,7 +2847,7 @@
             "Electronic Music"
         ]
     },
-    "CV 214 Gender": {
+    "CV 214 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -2788,10 +2876,10 @@
         "List of personal interests": [
             "Robotics",
             "Science Fiction",
-            "Competitive Coding"
+            "Competitive Coding (LeetCode)"
         ]
     },
-    "CV 213 Gender": {
+    "CV 213 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Jan 2024",
@@ -2823,7 +2911,7 @@
             "Marathon Running"
         ]
     },
-    "CV 212 Gender": {
+    "CV 212 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - December 2024",
@@ -2855,17 +2943,17 @@
             "Gastronomy"
         ]
     },
-    "CV 211 Gender": {
+    "CV 211 Origin": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - December 2024.",
+                "dates": "July 2024 - December 2024",
                 "company": "ING Bank",
                 "job title": "M&A Intern",
                 "description": "Supported the TMT sector team in preparing 3 confidential information memorandums (CIM) and 5 industry teasers.\n\nPerformed complex company valuations using Trading Multiples and Transaction Multiples.",
                 "country or city": "Amsterdam"
             },
             {
-                "dates": "January 2024 - June 2024.",
+                "dates": "January 2024 - June 2024",
                 "company": "Robeco",
                 "job title": "Asset Management Intern",
                 "description": "Assisted in quantitative research for the Global Equity fund, utilizing R to back-test factor models.",
@@ -2887,7 +2975,7 @@
             "Quantitative Trading"
         ]
     },
-    "CV 210 Gender": {
+    "CV 210 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present",
@@ -2919,7 +3007,7 @@
             "Food Blogging"
         ]
     },
-    "CV 209 Gender": {
+    "CV 209 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2023 - Dec 2023",
@@ -2951,7 +3039,7 @@
             "Travel"
         ]
     },
-    "CV 208 Gender": {
+    "CV 208 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present",
@@ -2983,7 +3071,7 @@
             "Photography"
         ]
     },
-    "CV 207 Gender": {
+    "CV 207 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -3015,20 +3103,20 @@
             "Traveling"
         ]
     },
-    "CV 206 Gender": {
+    "CV 206 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
                 "company": "Nielsen",
                 "job title": "Market Research Intern",
-                "description": "Assisted in conducting focus groups and in-depth interviews for a major FMCG client.\nTranscribed and analyzed qualitative data to identify emerging consumer trends in rural India.\nSupported the quantitative team in designing survey questionnaires and cleaning data in SPSS.",
+                "description": "Assisted in conducting focus groups and in-depth interviews for a major FMCG client. Transcribed and analyzed qualitative data to identify emerging consumer trends in rural India. Supported the quantitative team in designing survey questionnaires and cleaning data in SPSS.",
                 "country or city": "Mumbai"
             },
             {
                 "dates": "January 2024 - May 2024",
-                "company": "Startup (EdTech)",
+                "company": "not found",
                 "job title": "Social Media Psychology Intern",
-                "description": "Analyzed user engagement patterns to advise the marketing team on content triggers.\nConducted secondary research on the \"psychology of learning\" for product development.",
+                "description": "Analyzed user engagement patterns to advise the marketing team on content triggers. Conducted secondary research on the \"psychology of learning\" for product development.",
                 "country or city": "not found"
             }
         ],
@@ -3047,13 +3135,13 @@
             "Reading"
         ]
     },
-    "CV 205 Gender": {
+    "CV 205 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
                 "company": "Coupang",
                 "job title": "E-commerce Intern",
-                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow.\nConducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in conversion.\nAnalyzed competitor pricing and promotions using web scraping tools.",
+                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow.\nConducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in\nconversion.\n\nAnalyzed competitor pricing and promotions using web scraping tools.",
                 "country or city": "Seoul"
             },
             {
@@ -3079,7 +3167,7 @@
             "Urban exploration"
         ]
     },
-    "CV 204 Gender": {
+    "CV 204 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -3111,7 +3199,7 @@
             "Political Podcasts"
         ]
     },
-    "CV 203 Gender": {
+    "CV 203 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
@@ -3131,9 +3219,9 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Business Analytics and Quantitative Marketing",
-                "university": "NHH (Norwegian School of Economics)",
-                "country or city": "Bergen",
+                "field": "not found",
+                "university": "NHH (Norwegian School of Economics), Bergen",
+                "country or city": "not found",
                 "level_of_degree": "BSc in Economics and Business Administration"
             }
         ],
@@ -3143,7 +3231,7 @@
             "Jazz Saxophone"
         ]
     },
-    "CV 202 Gender": {
+    "CV 202 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -3175,7 +3263,7 @@
             "Pilates"
         ]
     },
-    "CV 201 Gender": {
+    "CV 201 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
@@ -3207,7 +3295,7 @@
             "Skateboarding"
         ]
     },
-    "CV 200 Gender": {
+    "CV 200 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - January 2024",
@@ -3229,7 +3317,7 @@
                 "dates": "2020 - 2024",
                 "field": "not found",
                 "university": "MGIMO University, Moscow",
-                "country or city": "Moscow",
+                "country or city": "not found",
                 "level_of_degree": "BA in International Relations"
             }
         ],
@@ -3239,7 +3327,7 @@
             "Skincare Chemistry"
         ]
     },
-    "CV 199 Gender": {
+    "CV 199 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - Present",
@@ -3259,9 +3347,9 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Focus on Digital Media and Consumer Behavior.",
+                "field": "not found",
                 "university": "Keio University, Tokyo",
-                "country or city": "Tokyo",
+                "country or city": "not found",
                 "level_of_degree": "BA in Communications"
             }
         ],
@@ -3271,7 +3359,7 @@
             "Gaming"
         ]
     },
-    "CV 198 Gender": {
+    "CV 198 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - December 2024",
@@ -3310,21 +3398,21 @@
             "Photography"
         ]
     },
-    "CV 197 Gender": {
+    "CV 197 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - January 2024",
                 "company": "Central Bank of Egypt",
                 "job title": "Research Intern",
-                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends.\nPrepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector.\nUtilized Stata to perform regression analysis on household expenditure surveys.",
+                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends. Prepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector. Utilized Stata to perform regression analysis on household expenditure surveys.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "UNDP (United Nations Development Programme), Cairo",
                 "job title": "Policy Intern",
-                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt.\nConducted field visits to rural communities to assess the impact of microfinance programs.",
-                "country or city": "not found"
+                "description": "\"Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt. Conducted field visits to rural communities to assess the impact of microfinance programs.\"",
+                "country or city": "Cairo"
             }
         ],
         "List of studies": [
@@ -3342,7 +3430,7 @@
             "Travel"
         ]
     },
-    "CV 196 Gender": {
+    "CV 196 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - August 2024",
@@ -3363,8 +3451,8 @@
             {
                 "dates": "2021 - 2024",
                 "field": "International Trade and Strategy",
-                "university": "Nova School of Business and Economics, Lisbon",
-                "country or city": "not found",
+                "university": "Nova School of Business and Economics",
+                "country or city": "Lisbon",
                 "level_of_degree": "BSc in Economics"
             },
             {
@@ -3381,7 +3469,7 @@
             "Modern Art"
         ]
     },
-    "CV 195 Gender": {
+    "CV 195 Origin": {
         "List of professional experiences": [
             {
                 "dates": "August 2022 - August 2023",
@@ -3393,7 +3481,7 @@
             {
                 "dates": "2020 - 2022",
                 "company": "Trinity Student Investment Fund",
-                "job title": "Fintech Researcher",
+                "job title": "Fintech Researcher - Trinity Student Investment Fund",
                 "description": "Published a report on the impact of Decentralized Finance (DeFi) on traditional retail banking.\nDeveloped a sentiment analysis bot to track crypto-market trends on social media.",
                 "country or city": "not found"
             }
@@ -3413,7 +3501,7 @@
             "Podcast production"
         ]
     },
-    "CV 194 Gender": {
+    "CV 194 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -3434,8 +3522,8 @@
             {
                 "dates": "2020 - 2024",
                 "field": "not found",
-                "university": "Peking University",
-                "country or city": "Beijing",
+                "university": "Peking University, Beijing",
+                "country or city": "not found",
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
@@ -3445,20 +3533,20 @@
             "Macro-economics"
         ]
     },
-    "CV 193 Gender": {
+    "CV 193 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - January 2024",
                 "company": "Morgan Stanley",
                 "job title": "Risk Analyst Intern",
-                "description": "Assisted the Market Risk team in calculating Value-at-Risk (VaR) for equity portfolios. Developed back-testing scripts in R to validate risk models against historical data. Participated in stress-testing exercises according to Basel III regulations.",
+                "description": "Assisted the Market Risk team in calculating Value-at-Risk (VaR) for equity portfolios.\nDeveloped back-testing scripts in R to validate risk models against historical data.\nParticipated in stress-testing exercises according to Basel III regulations.",
                 "country or city": "Budapest"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "OTP Bank",
                 "job title": "Data Analyst Intern",
-                "description": "Analyzed credit scoring data to identify key predictors of default for retail loans. Utilized SQL to clean and merge large datasets from disparate banking systems.",
+                "description": "Analyzed credit scoring data to identify key predictors of default for retail loans.\nUtilized SQL to clean and merge large datasets from disparate banking systems.",
                 "country or city": "not found"
             }
         ],
@@ -3477,7 +3565,7 @@
             "Hiking"
         ]
     },
-    "CV 192 Gender": {
+    "CV 192 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - Present",
@@ -3509,7 +3597,7 @@
             "Sailing"
         ]
     },
-    "CV 191 Gender": {
+    "CV 191 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -3541,27 +3629,27 @@
             "Sustainable Finance"
         ]
     },
-    "CV 190 Gender": {
+    "CV 190 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2023 - October 2023",
                 "company": "Lazard, Frankfurt",
                 "job title": "M&A Summer Analyst",
-                "description": "Prepared valuation models (DCF, Trading Multiples, Transaction Multiples) for a €500M chemicals deal.\nBuilt comprehensive industry teasers and confidential information memorandums (CIM).\nManaged the virtual data room (VDR) during the due diligence phase of a sell-side mandate.",
+                "description": "Prepared valuation models (DCF, Trading Multiples, Transaction Multiples) for a €500M chemicals deal. Built comprehensive industry teasers and confidential information memorandums (CIM). Managed the virtual data room (VDR) during the due diligence phase of a sell-side mandate.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - May 2023",
                 "company": "Commerzbank AG",
                 "job title": "Investment Banking Intern",
-                "description": "Supported the Debt Capital Markets (DCM) team in preparing pitch books for corporate bond issuances.\nConducted credit analysis on mid-cap German \"Mittelstand\" companies.",
+                "description": "Supported the Debt Capital Markets (DCM) team in preparing pitch books for corporate bond issuances. Conducted credit analysis on mid-cap German \"Mittelstand\" companies.",
                 "country or city": "not found"
             }
         ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Corporate Finance and Banking",
+                "field": "not found",
                 "university": "University of Mannheim",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Business Administration"
@@ -3580,7 +3668,7 @@
             "Classical Guitar"
         ]
     },
-    "CV 189 Gender": {
+    "CV 189 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - December 2024",
@@ -3593,7 +3681,7 @@
                 "dates": "January 2024 - May 2024",
                 "company": "KPMG India",
                 "job title": "Taxation Intern",
-                "description": "Assisted in the preparation of corporate tax returns and GST filings for multinational clients.\nResearched recent rulings on Transfer Pricing to support tax litigation cases.",
+                "description": "Assisted in the preparation of corporate tax returns and GST filings for multinational clients.\nResearched recent rulings on Transfer Pricing to support tar litigation cases.",
                 "country or city": "not found"
             }
         ],
@@ -3612,7 +3700,7 @@
             "Cricket"
         ]
     },
-    "CV 188 Gender": {
+    "CV 188 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2024 - December 2024",
@@ -3644,7 +3732,7 @@
             "Rowing"
         ]
     },
-    "CV 187 Gender": {
+    "CV 187 Origin": {
         "List of professional experiences": [
             {
                 "dates": "August 2023 - Present",
@@ -3666,7 +3754,7 @@
                 "dates": "2019 - 2023",
                 "field": "Public Economics and Policy Evaluation",
                 "university": "ITAM, Mexico City",
-                "country or city": "Mexico City",
+                "country or city": "not found",
                 "level_of_degree": "BA in Political Science & International Relations"
             }
         ],
@@ -3676,7 +3764,7 @@
             "Chess"
         ]
     },
-    "CV 186 Gender": {
+    "CV 186 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -3708,7 +3796,7 @@
             "Badminton"
         ]
     },
-    "CV 185 Gender": {
+    "CV 185 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -3740,7 +3828,7 @@
             "Stock Market Analysis"
         ]
     },
-    "CV 184 Gender": {
+    "CV 184 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
@@ -3772,13 +3860,13 @@
             "Jazz Music"
         ]
     },
-    "CV 183 Gender": {
+    "CV 183 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
                 "company": "SEWA (Self Employed Women's Association)",
                 "job title": "Project Lead",
-                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and\ne-commerce.\n\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\nNegotiated partnerships with national retail chains to create new distribution channels.",
+                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and e-commerce.\n\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\nNegotiated partnerships with national retail chains to create new distribution channels.",
                 "country or city": "not found"
             },
             {
@@ -3804,20 +3892,20 @@
             "Yoga"
         ]
     },
-    "CV 182 Gender": {
+    "CV 182 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
                 "company": "Roland Berger",
                 "job title": "Strategy Intern",
-                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
+                "description": "Supported a performance improvement program for a Tier-1 automotive supplier.\n\nConducted primary research and interviews to map the competitive landscape of the European EV battery market.\n\nDeveloped complex financial models in Excel to estimate potential cost savings from supply chain restructuring.",
                 "country or city": "Munich"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "SAP",
                 "job title": "Business Development Intern",
-                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
+                "description": "Assisted the Cloud Strategy team in identifying growth opportunities in the SME sector in Eastern Europe.\n\nPrepared executive-level presentations for quarterly business reviews with regional directors.\nAnalyzed churn rates and customer lifetime value (CLV) for SaaS products.",
                 "country or city": "Walldorf"
             }
         ],
@@ -3836,7 +3924,7 @@
             "Chess"
         ]
     },
-    "CV 181 Gender": {
+    "CV 181 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -3868,7 +3956,7 @@
             "Modern Architecture"
         ]
     },
-    "CV 180 Gender": {
+    "CV 180 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -3900,7 +3988,7 @@
             "Digital Mapping"
         ]
     },
-    "CV 179 Gender": {
+    "CV 179 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -3913,14 +4001,14 @@
                 "dates": "May 2023 - August 2023",
                 "company": "Grab Financial Group",
                 "job title": "Analyst Intern",
-                "description": "Analyzed transaction data to identify patterns of fraudulent behavior in the \"GrabPay\" ecosystem.\nAssisted in the optimization of the \"Micro-Investment\" product user journey, improving retention by\n5%.\n\nBuilt SQL queries to monitor the performance of loyalty programs across different merchant categories.",
+                "description": "Analyzed transaction data to identify patterns of fraudulent behavior in the \"GrabPay\" ecosystem.\nAssisted in the optimization of the \"Micro-Investment\" product user journey, improving retention by\n5%.\nBuilt SQL queries to monitor the performance of loyalty programs across different merchant categories.",
                 "country or city": "not found"
             }
         ],
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "not found",
+                "field": "Finance and Business Analytics",
                 "university": "National University of Singapore (NUS)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Finance and Business Analytics"
@@ -3932,7 +4020,7 @@
             "AI Ethics"
         ]
     },
-    "CV 178 Gender": {
+    "CV 178 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -3945,7 +4033,7 @@
                 "dates": "January 2024 - April 2024",
                 "company": "Fox Sports Australia",
                 "job title": "Marketing Assistant",
-                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions.\nAssisted in the production of television promos and digital ad campaigns.\n\nMonitored sports media trends and competitor broadcast rights acquisitions.",
+                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions.\n\nAssisted in the production of television promos and digital ad campaigns.\n\nMonitored sports media trends and competitor broadcast rights acquisitions.",
                 "country or city": "not found"
             }
         ],
@@ -3964,7 +4052,7 @@
             "Sports Data Analytics"
         ]
     },
-    "CV 177 Gender": {
+    "CV 177 Origin": {
         "List of professional experiences": [
             {
                 "dates": "September 2023 - Present",
@@ -3996,7 +4084,7 @@
             "Amateur Winemaking"
         ]
     },
-    "CV 176 Gender": {
+    "CV 176 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -4016,7 +4104,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Corporate Law, Taxation, and Contract Law",
+                "field": "Specialization in Corporate Law, Taxation, and Contract Law.",
                 "university": "Université Paris-Panthéon-Assas (Paris II)",
                 "country or city": "not found",
                 "level_of_degree": "Master 1 in Business Law"
@@ -4028,7 +4116,7 @@
             "Alpine Skiing"
         ]
     },
-    "CV 175 Gender": {
+    "CV 175 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -4041,7 +4129,7 @@
                 "dates": "June 2023 - August 2023",
                 "company": "Masdar City",
                 "job title": "Energy Research Intern",
-                "description": "Conducted feasibility studies for a pilot hydrogen refueling station in Abu Dhabi.\nAnalyzed data from solar PV installations to optimize energy yield and maintenance cycles.\nPrepared technical briefs for government stakeholders regarding the UAE's \"Net Zero by 2050\" strategy.",
+                "description": "Conducted feasibility studies for a pilot hydrogen refueling station in Abu Dhabi.\n\nAnalyzed data from solar PV installations to optimize energy yield and maintenance cycles.\nPrepared technical briefs for government stakeholders regarding the UAE's \"Net Zero by 2050\" strategy.",
                 "country or city": "not found"
             }
         ],
@@ -4060,20 +4148,20 @@
             "Robotics"
         ]
     },
-    "CV 174 Gender": {
+    "CV 174 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
                 "company": "Samsung C&T (Fashion Division)",
                 "job title": "Merchandising Intern",
-                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates.\nManaged sample coordination between global suppliers and local showrooms for the SS24 collection.\nAssisted in price architecture analysis, comparing local luxury market positioning with international benchmarks.",
+                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates.\nManaged sample coordination between global suppliers and local showrooms for the SS24 collection.\n\nAssisted in price architecture analysis, comparing local luxury market positioning with international\nbenchmarks.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Dior (LVMH Korea)",
                 "job title": "Public Relations Intern",
-                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots.\nAssisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and press kits.\nMonitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
+                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots.\nAssisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and\npress kits.\n\nMonitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
                 "country or city": "not found"
             }
         ],
@@ -4092,21 +4180,21 @@
             "Sustainable Fashion blogging"
         ]
     },
-    "CV 173 Gender": {
+    "CV 173 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
-                "company": "Kaspersky Lab, Moscow",
+                "company": "Kaspersky Lab",
                 "job title": "Cybersecurity Analyst Intern",
                 "description": "Monitored security alerts and conducted initial triage of potential threats using SIEM tools (Splunk).\nAssisted in performing vulnerability assessments and penetration testing for corporate client networks.\nDrafted technical documentation for incident response protocols and security awareness training.",
-                "country or city": "not found"
+                "country or city": "Moscow"
             },
             {
                 "dates": "January 2024 - May 2024",
-                "company": "Deloitte, Moscow",
+                "company": "Deloitte",
                 "job title": "IT Auditor Intern",
                 "description": "Supported the audit of IT General Controls (ITGC) for banking and retail sector clients.\n\nVerified compliance with ISO 27001 standards and local data protection regulations.\n\nAnalyzed system logs and user access rights to identify potential security gaps in internal financial sys-\ntems.",
-                "country or city": "not found"
+                "country or city": "Moscow"
             }
         ],
         "List of studies": [
@@ -4124,7 +4212,7 @@
             "Classical History"
         ]
     },
-    "CV 172 Gender": {
+    "CV 172 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
@@ -4156,7 +4244,7 @@
             "Latin American politics"
         ]
     },
-    "CV 171 Gender": {
+    "CV 171 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -4188,7 +4276,7 @@
             "High-altitude Hiking"
         ]
     },
-    "CV 170 Gender": {
+    "CV 170 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Present",
@@ -4209,7 +4297,7 @@
             {
                 "dates": "2020 - 2024",
                 "field": "Industrial-Organizational (I-O) Psychology and Behavioral Economics",
-                "university": "IE University, Madrid",
+                "university": "IE University",
                 "country or city": "Madrid",
                 "level_of_degree": "Bachelor in Psychology"
             }
@@ -4220,20 +4308,20 @@
             "Mental Health Advocacy"
         ]
     },
-    "CV 169 Gender": {
+    "CV 169 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
                 "company": "JLL (Jones Lang LaSalle)",
                 "job title": "Investment Analyst Intern",
-                "description": "Assist in the valuation of commercial real estate assets (office and retail) using the Income Approach\nand DCF.\n\nConduct market research on the \"Green Building\" trend and its impact on rental yields in German Tier-1\ncities.\n\nPrepare investment memos and teaser documents for institutional investors.",
+                "description": "Assist in the valuation of commercial real estate assets (office and retail) using the Income Approach and DCF.\nConduct market research on the \"Green Building\" trend and its impact on rental yields in German Tier-1 cities.\nPrepare investment memos and teaser documents for institutional investors.",
                 "country or city": "Frankfurt"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Savills",
                 "job title": "Junior Consultant",
-                "description": "Supported the tenant representation team in lease negotiations for tech startups.\n\nAnalyzed urban zoning laws and development plans to identify potential brownfield redevelopment sites.\nBuilt financial models to calculate the IRR and Cash-on-Cash returns for residential portfolio acquisi-\ntions.",
+                "description": "Supported the tenant representation team in lease negotiations for tech startups.\nAnalyzed urban zoning laws and development plans to identify potential brownfield redevelopment sites.\nBuilt financial models to calculate the IRR and Cash-on-Cash returns for residential portfolio acquisitions.",
                 "country or city": "not found"
             }
         ],
@@ -4249,7 +4337,7 @@
                 "dates": "not found",
                 "field": "Semester abroad",
                 "university": "UNSW (Sydney)",
-                "country or city": "Sydney",
+                "country or city": "not found",
                 "level_of_degree": "not found"
             }
         ],
@@ -4259,7 +4347,7 @@
             "Sustainable Urbanism"
         ]
     },
-    "CV 168 Gender": {
+    "CV 168 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -4272,7 +4360,7 @@
                 "dates": "June 2023 - August 2023",
                 "company": "Tate Modern",
                 "job title": "Marketing Intern",
-                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer part-\nnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
+                "description": "Supported the promotion of a major exhibition, focusing on youth engagement through influencer partnerships.\nAnalyzed visitor demographics and feedback data to help tailor future membership campaigns.\nDrafted copy for weekly newsletters sent to over 100k subscribers.",
                 "country or city": "not found"
             }
         ],
@@ -4291,7 +4379,7 @@
             "Marathon training"
         ]
     },
-    "CV 167 Gender": {
+    "CV 167 Origin": {
         "List of professional experiences": [
             {
                 "dates": "August 2023 - Present",
@@ -4323,25 +4411,21 @@
             "Urban gardening"
         ]
     },
-    "CV 166 Gender": {
+    "CV 166 Origin": {
         "List of professional experiences": [
             {
-                "experiences": [
-                    {
-                        "dates": "July 2023 - Present",
-                        "company": "Allegro",
-                        "job title": "Machine Learning Intern",
-                        "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve\ncross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
-                        "country or city": "Warsaw"
-                    },
-                    {
-                        "dates": "January 2023 - June 2023",
-                        "company": "Comarch",
-                        "job title": "Junior Data Analyst",
-                        "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry\nerrors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
-                        "country or city": "not found"
-                    }
-                ]
+                "dates": "July 2023 - Present",
+                "company": "Allegro",
+                "job title": "Machine Learning Intern - Allegro (E-commerce)",
+                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
+                "country or city": "Warsaw"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Comarch",
+                "job title": "Junior Data Analyst - Comarch",
+                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\n\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
+                "country or city": "not found"
             }
         ],
         "List of studies": [
@@ -4359,20 +4443,20 @@
             "Amateur Astronomy"
         ]
     },
-    "CV 165 Gender": {
+    "CV 165 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2024 - June 2024",
                 "company": "Four Seasons Hotel George V, Paris",
                 "job title": "Guest Relations Intern",
-                "description": "Assisted the Front Office Manager in coordinating the arrival experience for VIP and UHNW (Ultra-High-Net-Worth) clients.\nManaged personalized guest requests, ensuring a 98% satisfaction rate according to internal quality audits.\nCollaborated with the marketing team to enhance the \"loyalty recognition\" program for frequent travelers.",
+                "description": "Assisted the Front Office Manager in coordinating the arrival experience for VIP and UHNW (Ultra-High-Net-Worth) clients.\n\nManaged personalized guest requests, ensuring a 98% satisfaction rate according to internal quality audits.\n\nCollaborated with the marketing team to enhance the \"loyalty recognition\" program for frequent travelers.",
                 "country or city": "not found"
             },
             {
                 "dates": "June 2022 - December 2022",
                 "company": "The Ritz-Carlton, Tokyo",
                 "job title": "Food & Beverage Intern",
-                "description": "Rotated through fine dining and banquet operations, learning the Japanese philosophy of Omotenashi (selfless hospitality).\nAssisted in inventory management and cost control for the beverage department, reducing waste by 10%.\nSupervised a team of 5 junior staff during high-capacity gala events.",
+                "description": "Rotated through fine dining and banquet operations, learning the Japanese philosophy of Omotenashi (selfless hospitality).\n\nAssisted in inventory management and cost control for the beverage department, reducing waste by 10%.\nSupervised a team of 5 junior staff during high-capacity gala events.",
                 "country or city": "not found"
             }
         ],
@@ -4391,7 +4475,7 @@
             "Architecture"
         ]
     },
-    "CV 164 Gender": {
+    "CV 164 Origin": {
         "List of professional experiences": [
             {
                 "dates": "August 2022 - Present",
@@ -4430,7 +4514,7 @@
             "Mountain biking"
         ]
     },
-    "CV 163 Gender": {
+    "CV 163 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - January 2024",
@@ -4462,20 +4546,20 @@
             "Amateur Cooking"
         ]
     },
-    "CV 162 Gender": {
+    "CV 162 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
                 "company": "Stripe",
                 "job title": "Product Management Intern",
-                "description": "Collaborated with engineering and design teams to refine the user onboarding flow for small businesses.\nAnalyzed user feedback and churn data to prioritize features for the Q3 product roadmap.\n\nConducted market research on the competitive landscape of \"Buy Now, Pay Later\" (BNPL) services in\nEurope.\n\nCoordinated the localization of product documentation for the Italian and Spanish markets.",
+                "description": "Collaborated with engineering and design teams to refine the user onboarding flow for small businesses.\nAnalyzed user feedback and churn data to prioritize features for the Q3 product roadmap.\nConducted market research on the competitive landscape of \"Buy Now, Pay Later\" (BNPL) services in\nEurope.\nCoordinated the localization of product documentation for the Italian and Spanish markets.",
                 "country or city": "Dublin"
             },
             {
                 "dates": "2022 - 2024",
                 "company": "not found",
                 "job title": "Co-Founder - \"CampusDrop\" (Student Startup)",
-                "description": "Developed and launched a peer-to-peer delivery app within the Trinity College campus.\nGrew the user base to 2,000+ active students within the first year with a 15% month-over-month growth\nrate.\n\nManaged a team of 5 student developers and oversaw a micro-marketing budget of €500/month.\nSuccessfully pitched the project to local angel investors, securing seed funding for technical scaling.",
+                "description": "Developed and launched a peer-to-peer delivery app within the Trinity College campus.\nGrew the user base to 2,000+ active students within the first year with a 15% month-over-month growth\nrate.\nManaged a team of 5 student developers and oversaw a micro-marketing budget of €500/month.\nSuccessfully pitched the project to local angel investors, securing seed funding for technical scaling.",
                 "country or city": "not found"
             }
         ],
@@ -4494,7 +4578,7 @@
             "Chess"
         ]
     },
-    "CV 161 Gender": {
+    "CV 161 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
@@ -4514,10 +4598,10 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "Mechanical Engineering",
                 "university": "The American University in Cairo (AUC)",
                 "country or city": "not found",
-                "level_of_degree": "Bachelor of Science in Mechanical Engineering"
+                "level_of_degree": "Bachelor of Science"
             }
         ],
         "List of personal interests": [
@@ -4526,7 +4610,7 @@
             "Scuba Diving"
         ]
     },
-    "CV 160 Gender": {
+    "CV 160 Origin": {
         "List of professional experiences": [
             {
                 "dates": "May 2024 - August 2024",
@@ -4558,7 +4642,7 @@
             "Jazz Piano"
         ]
     },
-    "CV 159 Gender": {
+    "CV 159 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
@@ -4597,7 +4681,7 @@
             "Kendo"
         ]
     },
-    "CV 158 Gender": {
+    "CV 158 Origin": {
         "List of professional experiences": [
             {
                 "dates": "June 2024 - September 2024",
@@ -4629,7 +4713,7 @@
             "Wine Tasting"
         ]
     },
-    "CV 157 Gender": {
+    "CV 157 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2014 - Sep 2023",
@@ -4661,7 +4745,7 @@
             "field operations"
         ]
     },
-    "CV 156 Gender": {
+    "CV 156 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2019 - Sep 2023",
@@ -4693,7 +4777,7 @@
             "cross-cultural communication"
         ]
     },
-    "CV 155 Gender": {
+    "CV 155 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2018 - Sep 2023",
@@ -4726,7 +4810,7 @@
             "mentorship"
         ]
     },
-    "CV 154 Gender": {
+    "CV 154 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2021 - Aug 2023",
@@ -4758,7 +4842,7 @@
             "volunteer work"
         ]
     },
-    "CV 153 Gender": {
+    "CV 153 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2017 - Sep 2023",
@@ -4790,7 +4874,7 @@
             "networking"
         ]
     },
-    "CV 152 Gender": {
+    "CV 152 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2018 - Sep 2023",
@@ -4822,7 +4906,7 @@
             "financial literacy"
         ]
     },
-    "CV 151 Gender": {
+    "CV 151 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2016 - Sep 2023",
@@ -4835,7 +4919,7 @@
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Assistant",
-                "description": "Processed domestic and international sales orders\n\nAssisted in customer service and coordination with logistics teams",
+                "description": "Processed domestic and international sales orders\nAssisted in customer service and coordination with logistics teams",
                 "country or city": "not found"
             }
         ],
@@ -4854,12 +4938,12 @@
             "cross-cultural business"
         ]
     },
-    "CV 150 Gender": {
+    "CV 150 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2021 - Aug 2023",
-                "company": "not found",
-                "job title": "Marketing Assistant - Retail Brand",
+                "company": "Retail Brand",
+                "job title": "Marketing Assistant",
                 "description": "Coordinated marketing campaigns across social media, email, and online channels\nMonitored campaign performance and prepared reports for management\nCreated promotional materials and supported event marketing initiatives\nAssisted in content planning and digital branding strategies",
                 "country or city": "not found"
             },
@@ -4887,7 +4971,7 @@
             "visual storytelling"
         ]
     },
-    "CV 149 Gender": {
+    "CV 149 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
@@ -4919,7 +5003,7 @@
             "sports"
         ]
     },
-    "CV 148 Gender": {
+    "CV 148 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
@@ -4952,7 +5036,7 @@
             "cycling"
         ]
     },
-    "CV 147 Gender": {
+    "CV 147 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2018 - Sep 2023",
@@ -4985,27 +5069,27 @@
             "cross-cultural business"
         ]
     },
-    "CV 146 Gender": {
+    "CV 146 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
-                "company": "Industrial Group",
-                "job title": "Financial Controller",
-                "description": "Monitored budgets and controlled operational costs\n\nConsolidated monthly and quarterly financial statements for management reporting\n\nAnalyzed financial deviations and provided recommendations for profitability improvement\n\nCollaborated with operational departments to optimize business performance",
+                "company": "not found",
+                "job title": "Financial Controller - Industrial Group",
+                "description": "Monitored budgets and controlled operational costs\nConsolidated monthly and quarterly financial statements for management reporting\nAnalyzed financial deviations and provided recommendations for profitability improvement\nCollaborated with operational departments to optimize business performance",
                 "country or city": "not found"
             },
             {
                 "dates": "2019 - 2020",
                 "company": "not found",
                 "job title": "Junior Auditor",
-                "description": "Conducted internal and external financial audits\n\nPrepared audit reports and verified client and supplier accounts",
+                "description": "Conducted internal and external financial audits\nPrepared audit reports and verified client and supplier accounts",
                 "country or city": "not found"
             }
         ],
         "List of studies": [
             {
                 "dates": "2016 - 2019",
-                "field": "corporate finance, accounting, and management control",
+                "field": "not found",
                 "university": "KU Leuven",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Business Economics"
@@ -5017,7 +5101,7 @@
             "process improvement"
         ]
     },
-    "CV 145 Gender": {
+    "CV 145 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
@@ -5049,20 +5133,20 @@
             "creative design"
         ]
     },
-    "CV 144 Gender": {
+    "CV 144 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2016 - Sep 2023",
                 "company": "FMCG Group",
                 "job title": "Regional Sales Manager",
-                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\n\nCoordinated with marketing and logistics teams for product launches",
+                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\nCoordinated with marketing and logistics teams for product launches",
                 "country or city": "not found"
             },
             {
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Executive",
-                "description": "Prospected and acquired B2B clients\n\nManaged client contracts and maintained long-term relationships\n\nPrepared sales reports and conducted performance analysis",
+                "description": "Prospected and acquired B2B clients\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
                 "country or city": "not found"
             }
         ],
@@ -5081,21 +5165,25 @@
             "mentoring"
         ]
     },
-    "CV 143 Gender": {
+    "CV 143 Origin": {
         "List of professional experiences": [
             {
-                "dates": "Jan 2019 - Sep 2023",
-                "company": "E-commerce Company",
-                "job title": "Senior Data Analyst",
-                "description": "Advanced Analytics: Designed and implemented advanced analytical models to optimize sales and op-\nerations.\n\nStrategic Reporting: Developed and maintained automated dashboards to support executive-level strate-\ngic decision-making.\n\nLeadership & Mentoring: Mentored and trained junior analysts in Python, SQL, and Power BI best\npractices.\n\nCustomer Intelligence: Performed predictive modeling on customer behavior to drive revenue growth\nand reduce churn rates.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "2016 - 2018",
-                "company": "not found",
-                "job title": "Data Analyst",
-                "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\n\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making\naccuracy.\n\nCollaborative",
-                "country or city": "not found"
+                "experiences": [
+                    {
+                        "dates": "Jan 2019 - Sep 2023",
+                        "company": "E-commerce Company",
+                        "job title": "Senior Data Analyst",
+                        "description": "Advanced Analytics: Designed and implemented advanced analytical models to optimize sales and op-\nerations.\n\nStrategic Reporting: Developed and maintained automated dashboards to support executive-level strate-\ngic decision-making.\n\nLeadership & Mentoring: Mentored and trained junior analysts in Python, SQL, and Power BI best\npractices.\n\nCustomer Intelligence: Performed predictive modeling on customer behavior to drive revenue growth\nand reduce churn rates.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "2016 - 2018",
+                        "company": "not found",
+                        "job title": "Data Analyst",
+                        "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\n\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making\naccuracy.\n\nCollaborative",
+                        "country or city": "not found"
+                    }
+                ]
             }
         ],
         "List of studies": [
@@ -5121,13 +5209,13 @@
             "artificial intelligence"
         ]
     },
-    "CV 142 Gender": {
+    "CV 142 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
                 "company": "Manufacturing Company",
                 "job title": "Operations Manager",
-                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency.\nCost Optimization: Analyzed and optimized operational costs to improve profit margins.\nTeam Leadership: Supervised production teams and ensured seamless cross-departmental coordination.\nPerformance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
+                "description": "Production Planning: Directed production scheduling and monitoring to maximize operational efficiency.\nCost Optimization: Analyzed and optimized operational costs to improve profit margins.\n\nTeam Leadership: Supervised production teams and ensured seamless cross-departmental coordination.\nPerformance Metrics: Implemented KPIs to track performance, quality, and delivery lead times.",
                 "country or city": "not found"
             },
             {
@@ -5149,11 +5237,11 @@
         ],
         "List of personal interests": [
             "Operational excellence",
-            "strategic leadership",
-            "industrial innovation"
+            "Strategic leadership",
+            "Industrial innovation"
         ]
     },
-    "CV 141 Gender": {
+    "CV 141 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
@@ -5173,17 +5261,17 @@
         "List of studies": [
             {
                 "dates": "2016 - 2019",
-                "field": "not found",
+                "field": "Economics",
                 "university": "University of Lille",
                 "country or city": "not found",
-                "level_of_degree": "Bachelor's Degree in Economics"
+                "level_of_degree": "Bachelor's Degree"
             },
             {
                 "dates": "2014 - 2016",
-                "field": "not found",
+                "field": "Marketing Techniques",
                 "university": "IUT de Roubaix",
                 "country or city": "not found",
-                "level_of_degree": "BUT (Technical Degree) in Marketing Techniques"
+                "level_of_degree": "BUT (Technical Degree)"
             }
         ],
         "List of personal interests": [
@@ -5192,7 +5280,7 @@
             "business development"
         ]
     },
-    "CV 140 Gender": {
+    "CV 140 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2021 - Aug 2023",
@@ -5231,19 +5319,19 @@
             "financial literacy"
         ]
     },
-    "CV 139 Gender": {
+    "CV 139 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2021 - Sep 2023",
                 "company": "Retail Group",
-                "job title": "Business Analyst - Retail Group",
+                "job title": "Business Analyst",
                 "description": "Analyzed sales performance and trends across retail locations\nPrepared management reports for operational decision-making\nSupported project initiatives to optimize sales processes",
                 "country or city": "not found"
             },
             {
                 "dates": "2018 - 2020",
                 "company": "Supermarket",
-                "job title": "Assistant Manager - Supermarket",
+                "job title": "Assistant Manager",
                 "description": "Coordinated team schedules and daily operations\nManaged inventory, reporting, and operational KPIs\nTrained new employees and improved staff efficiency",
                 "country or city": "not found"
             }
@@ -5270,7 +5358,7 @@
             "running"
         ]
     },
-    "CV 138 Gender": {
+    "CV 138 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -5298,11 +5386,11 @@
         ],
         "List of personal interests": [
             "Corporate finance",
-            "financial planning",
-            "self-development"
+            "Financial planning",
+            "Self-development"
         ]
     },
-    "CV 137 Gender": {
+    "CV 137 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Sep 2023",
@@ -5335,7 +5423,7 @@
             "AI applications"
         ]
     },
-    "CV 136 Gender": {
+    "CV 136 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -5346,8 +5434,8 @@
             },
             {
                 "dates": "2020",
-                "company": "Consulting Firm",
-                "job title": "Intern",
+                "company": "not found",
+                "job title": "Intern - Consulting Firm",
                 "description": "Performed competitive analysis and industry benchmarking\nAssisted in developing client recommendations and presentations",
                 "country or city": "not found"
             }
@@ -5368,7 +5456,7 @@
             "leadership"
         ]
     },
-    "CV 135 Gender": {
+    "CV 135 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2022 - Present",
@@ -5400,7 +5488,7 @@
             "business strategy"
         ]
     },
-    "CV 134 Gender": {
+    "CV 134 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -5440,7 +5528,7 @@
             "global economics"
         ]
     },
-    "CV 133 Gender": {
+    "CV 133 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2022 - Sep 2023",
@@ -5472,7 +5560,7 @@
             "logistics trends"
         ]
     },
-    "CV 132 Gender": {
+    "CV 132 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -5504,7 +5592,7 @@
             "brand storytelling"
         ]
     },
-    "CV 131 Gender": {
+    "CV 131 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -5543,7 +5631,7 @@
             "process improvement"
         ]
     },
-    "CV 130 Gender": {
+    "CV 130 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -5575,7 +5663,7 @@
             "financial literacy"
         ]
     },
-    "CV 129 Gender": {
+    "CV 129 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Sep 2023",
@@ -5595,7 +5683,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2022",
-                "field": "Specialization in management, international business, and operations",
+                "field": "management, international business, and operations",
                 "university": "Yerevan State University",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Management"
@@ -5607,7 +5695,7 @@
             "Entrepreneurship"
         ]
     },
-    "CV 128 Gender": {
+    "CV 128 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Aug 2023",
@@ -5639,7 +5727,7 @@
             "economic research"
         ]
     },
-    "CV 127 Gender": {
+    "CV 127 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -5671,7 +5759,7 @@
             "operational optimization"
         ]
     },
-    "CV 126 Gender": {
+    "CV 126 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Summer 2023",
@@ -5696,7 +5784,7 @@
             "professional learning"
         ]
     },
-    "CV 125 Gender": {
+    "CV 125 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Sep 2023",
@@ -5728,7 +5816,7 @@
             "startup ecosystems"
         ]
     },
-    "CV 124 Gender": {
+    "CV 124 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -5760,12 +5848,12 @@
             "social impact initiatives"
         ]
     },
-    "CV 123 Gender": {
+    "CV 123 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2022 - Sep 2023",
-                "company": "not found",
-                "job title": "Business Analyst - Consulting Boutique",
+                "company": "Consulting Boutique",
+                "job title": "Business Analyst",
                 "description": "Conducted market sizing and competitor benchmarking\nPrepared client presentations and strategic recommendations\nCollaborated with senior consultants on business",
                 "country or city": "not found"
             }
@@ -5785,7 +5873,7 @@
             "business strategy"
         ]
     },
-    "CV 122 Gender": {
+    "CV 122 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -5817,7 +5905,7 @@
             "social media trends"
         ]
     },
-    "CV 121 Gender": {
+    "CV 121 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Summer 2023",
@@ -5849,19 +5937,19 @@
             "reading"
         ]
     },
-    "CV 120 Gender": {
+    "CV 120 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
                 "company": "Manufacturing Company",
                 "job title": "Financial Reporting Officer",
-                "description": "Prepared monthly financial reports and budget variance analysis\nAssisted in auditing processes and internal control review\nDeveloped Excel dashboards to track financial KPIs",
+                "description": "Prepared monthly financial reports and budget variance analysis\n\nAssisted in auditing processes and internal control review\nDeveloped Excel dashboards to track financial KPIs",
                 "country or city": "not found"
             },
             {
                 "dates": "2020",
-                "company": "not found",
-                "job title": "Intern - Audit Firm",
+                "company": "Audit Firm",
+                "job title": "Intern",
                 "description": "Assisted in auditing client accounts and reviewing documentation\nSupported preparation of audit reports",
                 "country or city": "not found"
             }
@@ -5888,7 +5976,7 @@
             "investment studies"
         ]
     },
-    "CV 119 Gender": {
+    "CV 119 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -5920,7 +6008,7 @@
             "business strategy"
         ]
     },
-    "CV 118 Gender": {
+    "CV 118 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Aug 2023",
@@ -5941,11 +6029,11 @@
         ],
         "List of personal interests": [
             "International cooperation",
-            "Development projects",
-            "Volunteering"
+            "development projects",
+            "volunteering"
         ]
     },
-    "CV 117 Gender": {
+    "CV 117 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -5977,7 +6065,7 @@
             "process improvement"
         ]
     },
-    "CV 116 Gender": {
+    "CV 116 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Jul 2023",
@@ -6009,7 +6097,7 @@
             "investment analysis"
         ]
     },
-    "CV 115 Gender": {
+    "CV 115 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -6041,7 +6129,7 @@
             "business modeling"
         ]
     },
-    "CV 114 Gender": {
+    "CV 114 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Sep 2023",
@@ -6081,7 +6169,7 @@
             "fintech trends"
         ]
     },
-    "CV 113 Gender": {
+    "CV 113 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Summer 2023",
@@ -6113,7 +6201,7 @@
             "learning production tools"
         ]
     },
-    "CV 112 Gender": {
+    "CV 112 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Sep 2023",
@@ -6145,7 +6233,7 @@
             "marketing trends"
         ]
     },
-    "CV 111 Gender": {
+    "CV 111 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -6156,8 +6244,8 @@
             },
             {
                 "dates": "2021 - 2022",
-                "company": "not found",
-                "job title": "Student Job - Retail Store",
+                "company": "Retail Store",
+                "job title": "Student Job",
                 "description": "Managed cash handling and daily sales reports\nAssisted in stock management and customer service",
                 "country or city": "not found"
             }
@@ -6177,12 +6265,12 @@
             "investment strategies"
         ]
     },
-    "CV 110 Gender": {
+    "CV 110 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Jul 2023",
                 "company": "Real Estate Group",
-                "job title": "HR Intern - Real Estate Group",
+                "job title": "HR Intern",
                 "description": "Screened CVs and coordinated interviews\nAssisted in preparing HR reports and dashboards\nSupported talent acquisition and onboarding processes",
                 "country or city": "not found"
             },
@@ -6209,7 +6297,7 @@
             "HR innovations"
         ]
     },
-    "CV 109 Gender": {
+    "CV 109 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -6241,13 +6329,13 @@
             "international business trends"
         ]
     },
-    "CV 108 Gender": {
+    "CV 108 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Sep 2023",
                 "company": "Accounting Office",
                 "job title": "Finance Assistant",
-                "description": "Maintained financial records and prepared monthly statements\n\nAssisted senior accountants in budgeting and reporting\nParticipated in internal audits and data reconciliation",
+                "description": "Maintained financial records and prepared monthly statements\nAssisted senior accountants in budgeting and reporting\nParticipated in internal audits and data reconciliation",
                 "country or city": "not found"
             },
             {
@@ -6273,7 +6361,7 @@
             "investment analysis"
         ]
     },
-    "CV 107 Gender": {
+    "CV 107 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -6284,8 +6372,8 @@
             },
             {
                 "dates": "2021",
-                "company": "Public Trade Office",
-                "job title": "Intern",
+                "company": "not found",
+                "job title": "Intern - Public Trade Office",
                 "description": "Collected and analyzed market data for trade reports\nAssisted in drafting trade recommendations and statistical summaries",
                 "country or city": "not found"
             }
@@ -6305,103 +6393,7 @@
             "trade policy"
         ]
     },
-    "CV 106 Gender": {
-        "List of professional experiences": [
-            {
-                "dates": "Apr 2022 - Sep 2023",
-                "company": "not found",
-                "job title": "Supply Chain Planner - Automotive Supplier",
-                "description": "Prepared demand forecasts and coordinated inventory levels with suppliers\nDeveloped Excel dashboards to track supply chain KPIs\nCollaborated with production and procurement teams to optimize material flow",
-                "country or city": "not found"
-            },
-            {
-                "dates": "2020",
-                "company": "not found",
-                "job title": "Intern - Warehouse Operations",
-                "description": "Assisted in stock organization and warehouse layout planning\nImplemented stock optimization techniques to reduce overstocking\nMonitored inventory levels and assisted in monthly audits",
-                "country or city": "not found"
-            }
-        ],
-        "List of studies": [
-            {
-                "dates": "2018 - 2021",
-                "field": "not found",
-                "university": "University of Applied Sciences Bremen",
-                "country or city": "not found",
-                "level_of_degree": "Bachelor in Logistics Management"
-            }
-        ],
-        "List of personal interests": [
-            "Process optimization",
-            "yoga",
-            "logistics trends"
-        ]
-    },
-    "CV 105 Gender": {
-        "List of professional experiences": [
-            {
-                "dates": "Summer 2023",
-                "company": "not found",
-                "job title": "Student Intern - FMCG Distributor",
-                "description": "Tracked sales performance and assisted in inventory management\nGenerated weekly reports on distribution and stock levels",
-                "country or city": "not found"
-            },
-            {
-                "dates": "2020 - Present",
-                "company": "not found",
-                "job title": "Family Business Support",
-                "description": "Handled basic accounting tasks and financial record-keeping\nCoordinated supplier interactions and inventory updates",
-                "country or city": "not found"
-            }
-        ],
-        "List of studies": [
-            {
-                "dates": "2021 - Present",
-                "field": "not found",
-                "university": "North South University",
-                "country or city": "not found",
-                "level_of_degree": "Bachelor in Business Administration"
-            }
-        ],
-        "List of personal interests": [
-            "Entrepreneurship",
-            "learning",
-            "small business management"
-        ]
-    },
-    "CV 104 Gender": {
-        "List of professional experiences": [
-            {
-                "dates": "Mar 2023 - Present",
-                "company": "Consulting Boutique",
-                "job title": "Strategy Analyst Junior",
-                "description": "Conducted market research and competitor benchmarking\nPrepared client presentations and strategic recommendations\nSupported senior consultants in project deliverables",
-                "country or city": "not found"
-            },
-            {
-                "dates": "2021",
-                "company": "Economic Research Institute",
-                "job title": "Intern",
-                "description": "Assisted in data collection and analysis for policy studies\nPrepared reports summarizing findings for research",
-                "country or city": "not found"
-            }
-        ],
-        "List of studies": [
-            {
-                "dates": "2019 - 2022",
-                "field": "not found",
-                "university": "University of Ljubljana",
-                "country or city": "not found",
-                "level_of_degree": "Bachelor in Business and Organization"
-            }
-        ],
-        "List of personal interests": [
-            "Public policy",
-            "consulting",
-            "data analysis"
-        ]
-    },
-    "CV 103 Gender": {
+    "CV 103 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Aug 2023",
@@ -6433,7 +6425,7 @@
             "innovation"
         ]
     },
-    "CV 102 Gender": {
+    "CV 102 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -6461,29 +6453,25 @@
         ],
         "List of personal interests": [
             "Digital branding",
-            "photography",
-            "social media trends"
+            "Photography",
+            "Social media trends"
         ]
     },
-    "CV 101 Gender": {
+    "CV 101 Origin": {
         "List of professional experiences": [
             {
-                "experiences": [
-                    {
-                        "dates": "Feb 2023 - Present",
-                        "company": "FMCG Company",
-                        "job title": "Data Reporting Analyst",
-                        "description": "Consolidated sales data from multiple regions for management reporting\nPrepared monthly dashboards and performance KPIs\nSupported data-driven decision-making across marketing and sales teams",
-                        "country or city": "not found"
-                    },
-                    {
-                        "dates": "2021",
-                        "company": "not found",
-                        "job title": "Research Assistant - University Project",
-                        "description": "Cleaned and processed survey data for research",
-                        "country or city": "not found"
-                    }
-                ]
+                "dates": "Feb 2023 - Present",
+                "company": "FMCG Company",
+                "job title": "Data Reporting Analyst",
+                "description": "Consolidated sales data from multiple regions for management reporting\nPrepared monthly dashboards and performance KPIs\nSupported data-driven decision-making across marketing and sales teams",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "not found",
+                "job title": "Research Assistant - University Project",
+                "description": "Cleaned and processed survey data for research",
+                "country or city": "not found"
             }
         ],
         "List of studies": [
@@ -6501,7 +6489,7 @@
             "analytics competitions"
         ]
     },
-    "CV 100 Gender": {
+    "CV 100 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -6533,19 +6521,19 @@
             "personal finance"
         ]
     },
-    "CV 099 Gender": {
+    "CV 099 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
-                "company": "Hotel Chain",
-                "job title": "Operations Supervisor",
+                "company": "not found",
+                "job title": "Operations Supervisor - Hotel Chain",
                 "description": "Coordinated daily hotel operations including front desk, housekeeping, and food & beverage\nMonitored staff performance and prepared weekly operational reports\nAssisted in implementing process improvements to enhance guest satisfaction",
                 "country or city": "not found"
             },
             {
                 "dates": "Summer 2020",
-                "company": "Travel Agency",
-                "job title": "Intern",
+                "company": "not found",
+                "job title": "Intern - Travel Agency",
                 "description": "Assisted customers with bookings and itinerary planning\nCoordinated with suppliers for transport and accommodation\nPrepared reports on client satisfaction and booking trends",
                 "country or city": "not found"
             }
@@ -6572,7 +6560,7 @@
             "tourism innovation"
         ]
     },
-    "CV 098 Gender": {
+    "CV 098 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -6604,7 +6592,7 @@
             "investment trends"
         ]
     },
-    "CV 097 Gender": {
+    "CV 097 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -6636,7 +6624,7 @@
             "logistics innovation"
         ]
     },
-    "CV 096 Gender": {
+    "CV 096 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2022 - Present",
@@ -6668,20 +6656,20 @@
             "corporate responsibility"
         ]
     },
-    "CV 095 Gender": {
+    "CV 095 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Apr 2023 - Sep 2023",
                 "company": "not found",
                 "job title": "Business Development Intern - Tech Startup",
-                "description": "Conducted market research and identified growth opportunities\n\nUpdated CRM and sales pipelines\n\nAssisted in pitching to potential clients",
+                "description": "Conducted market research and identified growth opportunities\nUpdated CRM and sales pipelines\nAssisted in pitching to potential clients",
                 "country or city": "not found"
             },
             {
                 "dates": "2022",
                 "company": "not found",
                 "job title": "Freelance Project",
-                "description": "Conducted market research for SMEs\n\nProvided recommendations on operational improvements",
+                "description": "Conducted market research for SMEs\nProvided recommendations on operational improvements",
                 "country or city": "not found"
             }
         ],
@@ -6700,7 +6688,7 @@
             "innovation"
         ]
     },
-    "CV 094 Gender": {
+    "CV 094 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2022 - Aug 2023",
@@ -6732,12 +6720,12 @@
             "community engagement"
         ]
     },
-    "CV 093 Gender": {
+    "CV 093 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Jun 2023",
-                "company": "not found",
-                "job title": "Strategy Intern - Manufacturing Group",
+                "company": "Manufacturing Group",
+                "job title": "Strategy Intern",
                 "description": "Conducted market analysis and competitive benchmarking\nAssisted in developing strategic recommendations\nPrepared reports and presentations for senior management",
                 "country or city": "not found"
             },
@@ -6764,7 +6752,7 @@
             "industry research"
         ]
     },
-    "CV 092 Gender": {
+    "CV 092 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -6796,7 +6784,7 @@
             "analytics competitions"
         ]
     },
-    "CV 091 Gender": {
+    "CV 091 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -6828,7 +6816,7 @@
             "supply chain optimization"
         ]
     },
-    "CV 090 Gender": {
+    "CV 090 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -6860,7 +6848,7 @@
             "digital campaigns"
         ]
     },
-    "CV 089 Gender": {
+    "CV 089 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Present",
@@ -6873,7 +6861,7 @@
                 "dates": "Summer 2021",
                 "company": "Local Firm",
                 "job title": "Accounting Intern",
-                "description": "Performed bookkeeping and invoice checks\nAssisted in preparing financial documents for reporting and compliance",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
                 "country or city": "not found"
             }
         ],
@@ -6892,12 +6880,12 @@
             "financial literacy"
         ]
     },
-    "CV 088 Gender": {
+    "CV 088 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Apr 2022 - Sep 2023",
                 "company": "Energy Company",
-                "job title": "Financial Analyst - Energy Company",
+                "job title": "Financial Analyst",
                 "description": "Monitored budgets, prepared financial forecasts, and performed cost analysis\nDeveloped Excel-based reports to track operational and project expenses\nAssisted management in financial decision-making through data insights",
                 "country or city": "not found"
             },
@@ -6924,7 +6912,7 @@
             "investment strategies"
         ]
     },
-    "CV 087 Gender": {
+    "CV 087 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2022 - Present",
@@ -6956,7 +6944,7 @@
             "retail trends"
         ]
     },
-    "CV 086 Gender": {
+    "CV 086 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Present",
@@ -6995,7 +6983,7 @@
             "international business"
         ]
     },
-    "CV 085 Gender": {
+    "CV 085 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -7027,7 +7015,7 @@
             "youth development"
         ]
     },
-    "CV 084 Gender": {
+    "CV 084 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -7067,7 +7055,7 @@
             "creative writing"
         ]
     },
-    "CV 083 Gender": {
+    "CV 083 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Present",
@@ -7100,7 +7088,7 @@
             "robotics"
         ]
     },
-    "CV 082 Gender": {
+    "CV 082 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Apr 2023 - Aug 2023",
@@ -7126,7 +7114,7 @@
             "mentoring"
         ]
     },
-    "CV 081 Gender": {
+    "CV 081 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Present",
@@ -7166,7 +7154,7 @@
             "tech innovation"
         ]
     },
-    "CV 080 Gender": {
+    "CV 080 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -7186,7 +7174,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "corporate finance, banking operations, and risk management",
+                "field": "not found",
                 "university": "University of Jordan",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Finance"
@@ -7199,19 +7187,19 @@
             "investment trends"
         ]
     },
-    "CV 079 Gender": {
+    "CV 079 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Present",
                 "company": "Retail Group",
-                "job title": "Commercial Analyst - Retail Group",
+                "job title": "Commercial Analyst",
                 "description": "Supported pricing analysis and sales performance monitoring\nCreated Excel dashboards summarizing weekly sales trends and store performance\nAssisted in strategic decision-making and competitor benchmarking",
                 "country or city": "not found"
             },
             {
                 "dates": "Jun 2021 - Dec 2021",
-                "company": "not found",
-                "job title": "Intern - Family-owned Export Company",
+                "company": "Family-owned Export Company",
+                "job title": "Intern",
                 "description": "Managed export documentation and compliance requirements\nCommunicated with suppliers and logistics partners for shipment coordination",
                 "country or city": "not found"
             }
@@ -7239,7 +7227,7 @@
             "entrepreneurship"
         ]
     },
-    "CV 078 Gender": {
+    "CV 078 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Aug 2023",
@@ -7278,7 +7266,7 @@
             "investment strategies"
         ]
     },
-    "CV 077 Gender": {
+    "CV 077 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Present",
@@ -7299,7 +7287,7 @@
         ],
         "List of personal interests": []
     },
-    "CV 076 Gender": {
+    "CV 076 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Apr 2023 - Sep 2023",
@@ -7339,7 +7327,7 @@
             "business trends"
         ]
     },
-    "CV 075 Gender": {
+    "CV 075 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Present",
@@ -7379,7 +7367,7 @@
             "public policy"
         ]
     },
-    "CV 074 Gender": {
+    "CV 074 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2023 - Jul 2023",
@@ -7412,7 +7400,7 @@
             "leadership development"
         ]
     },
-    "CV 073 Gender": {
+    "CV 073 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Present",
@@ -7445,7 +7433,7 @@
             "podcasts"
         ]
     },
-    "CV 072 Gender": {
+    "CV 072 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Mar 2022 - Oct 2023",
@@ -7478,7 +7466,7 @@
             "innovation trends"
         ]
     },
-    "CV 071 Gender": {
+    "CV 071 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -7518,7 +7506,7 @@
             "marketing strategy"
         ]
     },
-    "CV 070 Gender": {
+    "CV 070 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Aug 2023",
@@ -7551,21 +7539,25 @@
             "investment strategies"
         ]
     },
-    "CV 069 Gender": {
+    "CV 069 Origin": {
         "List of professional experiences": [
             {
-                "dates": "Jan 2022 - Sep 2023",
-                "company": "Orange Tunisia",
-                "job title": "Junior Sales Assistant",
-                "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
-                "country or city": "not found"
-            },
-            {
-                "dates": "Jun 2021 - Dec 2021",
-                "company": "not found",
-                "job title": "Intern - Local Consulting Firm (SME)",
-                "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommenda-\ntions\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
-                "country or city": "not found"
+                "experiences": [
+                    {
+                        "dates": "Jan 2022 - Sep 2023",
+                        "company": "Orange Tunisia",
+                        "job title": "Junior Sales Assistant",
+                        "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "Jun 2021 - Dec 2021",
+                        "company": "not found",
+                        "job title": "Intern - Local Consulting Firm (SME)",
+                        "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommendations\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
+                        "country or city": "not found"
+                    }
+                ]
             }
         ],
         "List of studies": [
@@ -7591,7 +7583,7 @@
             "entrepreneurship insights"
         ]
     },
-    "CV 068 Gender": {
+    "CV 068 Origin": {
         "List of professional experiences": [
             {
                 "dates": "Jun 2023 - Sep 2023",
@@ -7611,7 +7603,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "corporate finance, international trade, and strategic management",
+                "field": "not found",
                 "university": "Foreign Trade University, Hanoi",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in International Business"
@@ -7624,7 +7616,7 @@
             "international business trends"
         ]
     },
-    "CV 067 Gender": {
+    "CV 067 Origin": {
         "List of professional experiences": [
             {
                 "dates": "March 2023 - August 2023",
@@ -7656,20 +7648,20 @@
             "fintech innovation"
         ]
     },
-    "CV 066 Gender": {
+    "CV 066 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Accenture UK",
                 "job title": "Consulting Intern",
-                "description": "Supported digital transformation projects for corporate clients\n\nConducted market analysis, process mapping and benchmarking\n\nAssisted consultants in preparing client presentations and reports\nGained exposure to client-facing work and consulting methodologies",
+                "description": "Supported digital transformation projects for corporate clients\nConducted market analysis, process mapping and benchmarking\nAssisted consultants in preparing client presentations and reports\nGained exposure to client-facing work and consulting methodologies",
                 "country or city": "not found"
             },
             {
                 "dates": "July 2022 - December 2022",
                 "company": "Unilever",
                 "job title": "Strategy Intern",
-                "description": "Assisted strategy teams in portfolio and business unit reviews\n\nConducted internal analyses to support strategic decision-making\nContributed to strategic presentations for senior management",
+                "description": "Assisted strategy teams in portfolio and business unit reviews\nConducted internal analyses to support strategic decision-making\nContributed to strategic presentations for senior management",
                 "country or city": "not found"
             }
         ],
@@ -7688,7 +7680,7 @@
             "Pilates"
         ]
     },
-    "CV 065 Gender": {
+    "CV 065 Origin": {
         "List of professional experiences": [
             {
                 "dates": "April 2023 - September 2023",
@@ -7713,7 +7705,7 @@
             "technology trends"
         ]
     },
-    "CV 064 Gender": {
+    "CV 064 Origin": {
         "List of professional experiences": [
             {
                 "dates": "February 2023 - July 2023",
@@ -7745,7 +7737,7 @@
             "travel"
         ]
     },
-    "CV 063 Gender": {
+    "CV 063 Origin": {
         "List of professional experiences": [
             {
                 "dates": "April 2022 - March 2023",
@@ -7767,7 +7759,7 @@
                 "dates": "2018 - 2022",
                 "field": "not found",
                 "university": "Keio University, Tokyo",
-                "country or city": "Tokyo",
+                "country or city": "not found",
                 "level_of_degree": "Bachelor in Industrial Engineering"
             }
         ],
@@ -7777,13 +7769,13 @@
             "productivity systems"
         ]
     },
-    "CV 062 Gender": {
+    "CV 062 Origin": {
         "List of professional experiences": [
             {
                 "dates": "February 2023 - July 2023",
                 "company": "Coca-Cola FEMSA",
                 "job title": "Digital Marketing Intern",
-                "description": "Supported the execution of digital marketing campaigns across social media platforms\n\nCoordinated influencer partnerships and monitored campaign deliverables\n\nAnalyzed campaign performance using engagement, reach and conversion metrics\nPrepared performance reports and insights for marketing managers",
+                "description": "Supported the execution of digital marketing campaigns across social media platforms\n\nCoordinated influencer partnerships and monitored campaign deliverables\n\nAnalyzed campaign performance using engagement, reach and conversion metrics\n\nPrepared performance reports and insights for marketing managers",
                 "country or city": "not found"
             },
             {
@@ -7809,7 +7801,7 @@
             "content creation"
         ]
     },
-    "CV 061 Gender": {
+    "CV 061 Origin": {
         "List of professional experiences": [
             {
                 "dates": "January 2023 - June 2023",
@@ -7841,13 +7833,13 @@
             "luxury industry trends"
         ]
     },
-    "CV 060 Gender": {
+    "CV 060 Origin": {
         "List of professional experiences": [
             {
                 "dates": "April 2023 - July 2023",
                 "company": "Tata Capital",
                 "job title": "Finance Intern",
-                "description": "Assisted credit risk analysts in the assessment of SME loan applications\n\nPrepared borrower financial profiles, including income statements, balance sheets and cash flow sum-\nmaries\n\nSupported the evaluation of creditworthiness through ratio analysis and risk indicators\nContributed to internal reporting and documentation for credit committees",
+                "description": "Assisted credit risk analysts in the assessment of SME loan applications\n\nPrepared borrower financial profiles, including income statements, balance sheets and cash flow summaries\n\nSupported the evaluation of creditworthiness through ratio analysis and risk indicators\nContributed to internal reporting and documentation for credit committees",
                 "country or city": "not found"
             },
             {
@@ -7881,27 +7873,27 @@
             "financial literacy initiatives"
         ]
     },
-    "CV 059 Gender": {
+    "CV 059 Origin": {
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
                 "company": "Itaú Unibanco",
                 "job title": "Business Analyst Intern",
-                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\n\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\n\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\n\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\n\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
+                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client seg- ments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and per- formance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
                 "country or city": "São Paulo"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ambev (AB InBev Group)",
                 "job title": "Strategy Intern",
-                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\n\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\n\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\n\nWorked closely with strategy and commercial teams in a multinational environment",
+                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\nWorked closely with strategy and commercial teams in a multinational environment",
                 "country or city": "not found"
             },
             {
                 "dates": "2021 - 2022",
                 "company": "FGV Junior Enterprise",
                 "job title": "Student Consultant",
-                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\n\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\n\nPresented findings and actionable recommendations directly to clients' management teams",
+                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process opti- mization\nPresented findings and actionable recommendations directly to clients' management teams",
                 "country or city": "not found"
             }
         ],
@@ -7910,7 +7902,7 @@
                 "dates": "2019 - 2023",
                 "field": "not found",
                 "university": "Fundação Getulio Vargas (FGV), São Paulo",
-                "country or city": "not found",
+                "country or city": "São Paulo",
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
@@ -7921,7 +7913,7 @@
             "endurance running"
         ]
     },
-    "CV 058 Gender": {
+    "CV 058 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2 years",
@@ -7954,21 +7946,25 @@
             "travel"
         ]
     },
-    "CV 057 Gender": {
+    "CV 057 Origin": {
         "List of professional experiences": [
             {
-                "dates": "1.5 years",
-                "company": "not found",
-                "job title": "Social Impact Consultant",
-                "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "6 months",
-                "company": "not found",
-                "job title": "Marketing Intern at Startup",
-                "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
-                "country or city": "not found"
+                "experiences": [
+                    {
+                        "dates": "1.5 years",
+                        "company": "not found",
+                        "job title": "Social Impact Consultant",
+                        "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "6 months",
+                        "company": "not found",
+                        "job title": "Marketing Intern at Startup",
+                        "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
+                        "country or city": "not found"
+                    }
+                ]
             }
         ],
         "List of studies": [
@@ -7987,20 +7983,20 @@
             "photography"
         ]
     },
-    "CV 056 Gender": {
+    "CV 056 Origin": {
         "List of professional experiences": [
             {
-                "dates": "not found",
+                "dates": "3 years",
                 "company": "not found",
                 "job title": "Independent Music Producer",
-                "description": "- Independent Music Producer (3 years): Composed, recorded, and mixed tracks, collaborated with artists, managed online distribution, promoted music on social media platforms.",
+                "description": "- Composed, recorded, and mixed tracks, collaborated with artists, managed online distribution, promoted music on social media platforms.",
                 "country or city": "not found"
             },
             {
-                "dates": "not found",
+                "dates": "1 year",
                 "company": "not found",
                 "job title": "Event Coordinator, Local Music Festival",
-                "description": "- Event Coordinator, Local Music Festival (1 year): Organized artist line-up, coordinated logistics, managed sponsorships, marketing.",
+                "description": "- Organized artist line-up, coordinated logistics, managed sponsorships, marketing.",
                 "country or city": "not found"
             }
         ],
@@ -8020,7 +8016,7 @@
             "photography"
         ]
     },
-    "CV 055 Gender": {
+    "CV 055 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2 years",
@@ -8053,20 +8049,20 @@
             "photography"
         ]
     },
-    "CV 054 Gender": {
+    "CV 054 Origin": {
         "List of professional experiences": [
             {
-                "dates": "not found",
+                "dates": "2 years",
                 "company": "not found",
                 "job title": "Drone Photography Freelancer",
-                "description": "- Drone Photography Freelancer (2 years): Captured aerial photos for events, real estate, marketing campaigns.\nEdited images, liaised with clients, managed project timelines.",
+                "description": "Captured aerial photos for events, real estate, marketing campaigns. Edited images, liaised with clients, managed project timelines.",
                 "country or city": "not found"
             },
             {
-                "dates": "not found",
-                "company": "Tourism Board",
-                "job title": "Marketing Intern",
-                "description": "- Marketing Intern at Tourism Board (6 months): Social media strategy, content creation, engagement tracking,\ncampaign reporting.",
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Tourism Board",
+                "description": "Social media strategy, content creation, engagement tracking, campaign reporting.",
                 "country or city": "not found"
             }
         ],
@@ -8086,7 +8082,7 @@
             "music"
         ]
     },
-    "CV 053 Gender": {
+    "CV 053 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8119,7 +8115,7 @@
             "creative writing"
         ]
     },
-    "CV 052 Gender": {
+    "CV 052 Origin": {
         "List of professional experiences": [
             {
                 "dates": "1.5 years",
@@ -8139,7 +8135,7 @@
         "List of studies": [
             {
                 "dates": "2022",
-                "field": "not found",
+                "field": "Software development, project management, data structures",
                 "university": "Polytechnic University of Madrid",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Computer Engineering"
@@ -8152,7 +8148,7 @@
             "volunteering"
         ]
     },
-    "CV 051 Gender": {
+    "CV 051 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2 years",
@@ -8165,14 +8161,14 @@
                 "dates": "6 months",
                 "company": "Local Eco-Business",
                 "job title": "Marketing Intern",
-                "description": "Social media strategy, campaign analytics, content\ncreation, engagement monitoring.",
+                "description": "- Social media strategy, campaign analytics, content\ncreation, engagement monitoring.",
                 "country or city": "not found"
             }
         ],
         "List of studies": [
             {
                 "dates": "2022",
-                "field": "not found",
+                "field": "Sustainable development, project management, community engagement",
                 "university": "Mohammed V University",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Environmental Studies"
@@ -8185,7 +8181,7 @@
             "photography"
         ]
     },
-    "CV 050 Gender": {
+    "CV 050 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -8218,20 +8214,20 @@
             "reading sports literature"
         ]
     },
-    "CV 049 Gender": {
+    "CV 049 Origin": {
         "List of professional experiences": [
             {
-                "dates": "not found",
+                "dates": "2 years",
                 "company": "not found",
                 "job title": "Freelance Creative Strategist",
-                "description": "- Freelance Creative Strategist (2 years): Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
+                "description": "Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
                 "country or city": "not found"
             },
             {
-                "dates": "not found",
+                "dates": "1 year",
                 "company": "not found",
                 "job title": "Volunteer Event Organizer, Stockholm Arts Festival",
-                "description": "- Volunteer Event Organizer, Stockholm Arts Festival (1 year): Coordinated workshops, artist communications, logistics, and community engagement events.",
+                "description": "Coordinated workshops, artist communications, logistics, and community engagement events.",
                 "country or city": "not found"
             }
         ],
@@ -8251,7 +8247,7 @@
             "volunteer coaching"
         ]
     },
-    "CV 048 Gender": {
+    "CV 048 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8284,7 +8280,7 @@
             "volunteering"
         ]
     },
-    "CV 047 Gender": {
+    "CV 047 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8317,7 +8313,7 @@
             "volunteering"
         ]
     },
-    "CV 046 Gender": {
+    "CV 046 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8350,7 +8346,7 @@
             "esports"
         ]
     },
-    "CV 045 Gender": {
+    "CV 045 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8390,7 +8386,7 @@
             "volunteering"
         ]
     },
-    "CV 044 Gender": {
+    "CV 044 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8423,7 +8419,7 @@
             "volunteering"
         ]
     },
-    "CV 043 Gender": {
+    "CV 043 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8456,7 +8452,7 @@
             "volunteering"
         ]
     },
-    "CV 042 Gender": {
+    "CV 042 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8496,20 +8492,20 @@
             "finance meetups"
         ]
     },
-    "CV 041 Gender": {
+    "CV 041 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
                 "company": "Nestlé Pakistan",
                 "job title": "Marketing Intern",
-                "description": "- Managed campaign content, social media monitoring, engagement tracking, collaborated with creative teams, assisted in organizing tasting events, collected feedback.",
+                "description": "Managed campaign content, social media monitoring, engagement tracking, collaborated with creative teams, assisted in organizing tasting events, collected feedback.",
                 "country or city": "not found"
             },
             {
                 "dates": "6 months",
                 "company": "Telenor Pakistan",
                 "job title": "Business Analyst Intern",
-                "description": "- Prepared sales reports, analyzed customer data, drafted executive summaries, collaborated on market research projects.",
+                "description": "Prepared sales reports, analyzed customer data, drafted executive summaries, collaborated on market research projects.",
                 "country or city": "not found"
             }
         ],
@@ -8529,7 +8525,7 @@
             "volunteering"
         ]
     },
-    "CV 040 Gender": {
+    "CV 040 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8569,7 +8565,7 @@
             "finance networking"
         ]
     },
-    "CV 039 Gender": {
+    "CV 039 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8602,7 +8598,7 @@
             "volunteering"
         ]
     },
-    "CV 038 Gender": {
+    "CV 038 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8629,13 +8625,13 @@
             }
         ],
         "List of personal interests": [
-            "Swimming",
+            "Swimming and coaching local youth sports teams",
             "reading historical and business biographies",
             "traveling for cultural immersion",
             "organizing charity events and workshops for women entrepreneurs"
         ]
     },
-    "CV 037 Gender": {
+    "CV 037 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8669,13 +8665,13 @@
             }
         ],
         "List of personal interests": [
-            "Cooking and experimenting with fusion cuisine recipes",
-            "reading business strategy books and case studies",
+            "Cooking",
+            "reading",
             "practicing yoga and mindfulness",
-            "volunteering at local literacy and entrepreneurship programs"
+            "volunteering"
         ]
     },
-    "CV 036 Gender": {
+    "CV 036 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -8722,7 +8718,7 @@
             "reading economic journals"
         ]
     },
-    "CV 035 Gender": {
+    "CV 035 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8762,7 +8758,7 @@
             "practicing yoga and meditation"
         ]
     },
-    "CV 034 Gender": {
+    "CV 034 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8795,7 +8791,7 @@
             "mentoring students in marketing"
         ]
     },
-    "CV 033 Gender": {
+    "CV 033 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8828,7 +8824,7 @@
             "painting and arts and crafts"
         ]
     },
-    "CV 032 Gender": {
+    "CV 032 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8875,7 +8871,7 @@
             "mentoring junior students"
         ]
     },
-    "CV 031 Gender": {
+    "CV 031 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8886,7 +8882,7 @@
             },
             {
                 "dates": "6 months",
-                "company": "Inditex",
+                "company": "Inditex, Zara Division",
                 "job title": "Business Development Intern",
                 "description": "Supported market analysis for new store openings, collected sales data, tracked KPIs, assisted in preparing business proposals, collaborated with cross-functional teams including merchandising, finance, and marketing.",
                 "country or city": "not found"
@@ -8915,7 +8911,7 @@
             "attending finance networking events"
         ]
     },
-    "CV 030 Gender": {
+    "CV 030 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -8948,13 +8944,13 @@
             "yoga and meditation"
         ]
     },
-    "CV 029 Gender": {
+    "CV 029 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "Finance and consulting intern",
-                "description": "· Finance and consulting intern, worked on tasks as assigned.\n· Helped in project research and reports.",
+                "job title": "not found",
+                "description": "Finance and consulting intern, worked on tasks as assigned.\nHelped in project research and reports.",
                 "country or city": "not found"
             }
         ],
@@ -8972,7 +8968,7 @@
             "Reading"
         ]
     },
-    "CV 028 Gender": {
+    "CV 028 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -8996,7 +8992,7 @@
             "Cooking"
         ]
     },
-    "CV 027 Gender": {
+    "CV 027 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9020,7 +9016,7 @@
             "Reading"
         ]
     },
-    "CV 026 Gender": {
+    "CV 026 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9044,7 +9040,7 @@
             "Traveling"
         ]
     },
-    "CV 025 Gender": {
+    "CV 025 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9068,7 +9064,7 @@
             "Music"
         ]
     },
-    "CV 024 Gender": {
+    "CV 024 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9092,7 +9088,7 @@
             "Art"
         ]
     },
-    "CV 023 Gender": {
+    "CV 023 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9116,7 +9112,7 @@
             "Reading"
         ]
     },
-    "CV 022 Gender": {
+    "CV 022 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9140,7 +9136,7 @@
             "reading"
         ]
     },
-    "CV 021 Gender": {
+    "CV 021 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9164,7 +9160,7 @@
             "Gaming"
         ]
     },
-    "CV 020 Gender": {
+    "CV 020 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
@@ -9189,7 +9185,7 @@
             "random sports"
         ]
     },
-    "CV 019 Gender": {
+    "CV 019 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9221,7 +9217,7 @@
             "Traveling"
         ]
     },
-    "CV 018 Gender": {
+    "CV 018 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9253,7 +9249,7 @@
             "Cooking"
         ]
     },
-    "CV 017 Gender": {
+    "CV 017 Origin": {
         "List of professional experiences": [
             {
                 "dates": "1 year",
@@ -9292,7 +9288,7 @@
             "Traveling"
         ]
     },
-    "CV 016 Gender": {
+    "CV 016 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9324,7 +9320,7 @@
             "Reading"
         ]
     },
-    "CV 015 Gender": {
+    "CV 015 Origin": {
         "List of professional experiences": [
             {
                 "dates": "1 year",
@@ -9363,7 +9359,7 @@
             "Photography"
         ]
     },
-    "CV 014 Gender": {
+    "CV 014 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9395,7 +9391,7 @@
             "Traveling"
         ]
     },
-    "CV 013 Gender": {
+    "CV 013 Origin": {
         "List of professional experiences": [
             {
                 "dates": "1 year",
@@ -9434,7 +9430,7 @@
             "Photography"
         ]
     },
-    "CV 012 Gender": {
+    "CV 012 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9466,7 +9462,7 @@
             "Traveling"
         ]
     },
-    "CV 011 Gender": {
+    "CV 011 Origin": {
         "List of professional experiences": [
             {
                 "dates": "1 year",
@@ -9505,7 +9501,7 @@
             "Traveling"
         ]
     },
-    "CV 010 Gender": {
+    "CV 010 Origin": {
         "List of professional experiences": [
             {
                 "dates": "6 months",
@@ -9537,7 +9533,7 @@
             "Cooking"
         ]
     },
-    "CV 009 Gender": {
+    "CV 009 Origin": {
         "List of professional experiences": [
             {
                 "dates": "5 years",
@@ -9563,13 +9559,9 @@
                 "level_of_degree": "Master in Computer Science"
             }
         ],
-        "List of personal interests": [
-            "Reading",
-            "Gaming",
-            "Traveling"
-        ]
+        "List of personal interests": []
     },
-    "CV 008 Gender": {
+    "CV 008 Origin": {
         "List of professional experiences": [
             {
                 "dates": "3 years",
@@ -9601,7 +9593,7 @@
             "Swimming"
         ]
     },
-    "CV 007 Gender": {
+    "CV 007 Origin": {
         "List of professional experiences": [
             {
                 "dates": "4 years",
@@ -9640,7 +9632,7 @@
             "Reading"
         ]
     },
-    "CV 006 Gender": {
+    "CV 006 Origin": {
         "List of professional experiences": [
             {
                 "dates": "5 years",
@@ -9679,7 +9671,7 @@
             "Traveling"
         ]
     },
-    "CV 005 Gender": {
+    "CV 005 Origin": {
         "List of professional experiences": [
             {
                 "dates": "3 years",
@@ -9711,7 +9703,7 @@
             "Photography"
         ]
     },
-    "CV 004 Gender": {
+    "CV 004 Origin": {
         "List of professional experiences": [
             {
                 "dates": "4 years",
@@ -9743,7 +9735,7 @@
             "Traveling"
         ]
     },
-    "CV 003 Gender": {
+    "CV 003 Origin": {
         "List of professional experiences": [
             {
                 "dates": "3 years",
@@ -9775,7 +9767,7 @@
             "Cooking"
         ]
     },
-    "CV 002 Gender": {
+    "CV 002 Origin": {
         "List of professional experiences": [
             {
                 "dates": "2 years",
@@ -9807,7 +9799,7 @@
             "Gardening"
         ]
     },
-    "CV 001 Gender": {
+    "CV 001 Origin": {
         "List of professional experiences": [
             {
                 "dates": "4 years",
@@ -9846,20 +9838,20 @@
             "Sailing"
         ]
     },
-    "CV 000 Gender": {
+    "CV 000 Origin": {
         "List of professional experiences": [
             {
                 "dates": "not found",
                 "company": "Google",
                 "job title": "Software Engineer",
-                "description": "· Software Engineer at Google (3 years): Developed scalable backend services and optimized database queries for 10M+ users.",
+                "description": "Developed scalable backend services and optimized database queries for 10M+ users.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "IBM",
                 "job title": "Data Analyst",
-                "description": "· Data Analyst at IBM (2 years): Created dashboards and reports to track KPIs, improving decision-making processes.",
+                "description": "Created dashboards and reports to track KPIs, improving decision-making processes.",
                 "country or city": "not found"
             }
         ],
