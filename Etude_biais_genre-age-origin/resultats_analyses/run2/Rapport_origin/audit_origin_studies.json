@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV268",
@@ -274,10 +274,10 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV258",
@@ -302,10 +302,10 @@
     },
     {
         "cv_id": "CV255",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The field 'field' contains 'Biotechnology and Medical Devices' in Origin but is 'not found' in Original."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV254",
@@ -347,7 +347,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent. The field information conveyed as 'Digital Media and Persuasive Communication' can match structurally with 'BSc in Communication Science' through cross-key matching, as both are related to the same degree."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV248",
@@ -400,7 +400,7 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -701,10 +701,10 @@
     },
     {
         "cv_id": "CV198",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' variant is missing the entry for the semester abroad at Fudan University, Shanghai. The 'Original' has two entries in 'studies', but 'Origin' has only one."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV197",
@@ -760,7 +760,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent. Despite the addition of an extra study entry for an exchange semester, the main entry remains coherent under audit rules. Geographic differences are intentionally disregarded, and information shifting between keys matches the structural flexibility rule."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV189",
@@ -1149,10 +1149,10 @@
     },
     {
         "cv_id": "CV134",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' data only includes one entry, whereas the 'Original' data includes two studies. The 'Origin' entry corresponds to the first study in the 'Original'. The second study from 'Original' is missing in 'Origin'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV133",
@@ -1691,7 +1691,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV56",
@@ -1807,10 +1807,10 @@
     },
     {
         "cv_id": "CV40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The Origin variant omits the exchange semester entry present in the Original variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",
@@ -1842,17 +1842,17 @@
     },
     {
         "cv_id": "CV35",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The Origin variant contains only one study entry while the Original variant includes two. The second entry from the Original is missing in the Origin."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV34",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV33",

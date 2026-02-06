@@ -92,10 +92,10 @@
     },
     {
         "cv_id": "CV285",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "In the second entry, the 'company' field is 'TIFR' in the Original, but 'not found' in the Origin. The absence of 'TIFR' is a modification."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV284",
@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' variant omits descriptions that are present in the 'Original': 'VR EdTech startup ($50k seed)' for the 'Founder' role, 'Renewables' for the internship at 'TotalEnergies', 'Developed a blockchain-based loan verification system' for the internship at 'Nubank', 'Built a dashboard to track influencer ROI across 5 markets' for the internship at 'Adidas', and 'Focus on sustainable sourcing of raw materials' for the internship at 'Loewe'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV268",
@@ -767,7 +767,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The description in 'Origin' contains a typo in 'tar litigation cases' instead of 'tax litigation cases'."
+        "details": "There is a typographical error in the description field of the 'Origin' variant where 'tar litigation cases' should be 'tax litigation cases'."
     },
     {
         "cv_id": "CV188",
@@ -1402,694 +1402,694 @@
     {
         "cv_id": "CV98",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV97",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV96",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV95",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV94",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV93",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV92",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV91",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV90",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV89",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV88",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV87",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV86",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV85",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV84",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV83",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV82",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV81",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV80",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV79",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV78",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV77",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV76",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV75",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV74",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV73",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV72",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV71",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV70",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV69",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV68",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV67",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV66",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV65",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV64",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV63",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV62",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV61",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV60",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV59",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV58",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV57",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV56",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV55",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV54",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV53",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV52",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV51",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV50",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV49",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV48",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV47",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV46",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV45",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV44",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV43",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV42",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV41",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV40",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV38",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV37",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV36",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV35",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV34",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV33",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV32",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV31",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV30",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV29",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV28",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV27",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV26",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV25",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV24",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV23",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV22",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV21",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV20",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV19",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV18",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV17",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV16",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV15",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV14",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV13",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV12",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV11",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV10",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV9",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV8",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV7",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV6",
         "coherent": true,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV5",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV4",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV3",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty."
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV2",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV1",
-        "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "coherent": true,
+        "empty_list": false,
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV0",
         "coherent": false,
-        "empty_list": true,
-        "error_type": "Original empty",
-        "details": "Original is empty"
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "Dates are missing in the Origin variant."
     }
 ]
