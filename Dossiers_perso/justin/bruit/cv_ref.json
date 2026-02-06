@@ -1873,8 +1873,8 @@
         "List of professional experiences": [
             {
                 "dates": "Feb 2023 - Sep 2023",
-                "company": "not found",
-                "job title": "Business Analyst - SME",
+                "company": "SME",
+                "job title": "Business Analyst",
                 "description": "Conducted cost analysis and prepared monthly business reports\nAssisted management in operational decision-making\nSupported strategic initiatives to improve company efficiency",
                 "country or city": "not found"
             },
@@ -2176,8 +2176,8 @@
             },
             {
                 "dates": "2019",
-                "company": "not found",
-                "job title": "Intern - Advertising Agency",
+                "company": "Advertising Agency",
+                "job title": "Intern",
                 "description": "Assisted in content creation for clients\nSupported social media planning and digital campaign tracking",
                 "country or city": "not found"
             }
@@ -2528,7 +2528,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "corporate finance, international trade, and strategic management",
+                "field": "not found",
                 "university": "Foreign Trade University, Hanoi",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in International Business"
