@@ -92,10 +92,10 @@
     },
     {
         "cv_id": "CV285",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' variant is missing the company name 'TIFR' which appears in the 'Original' data."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV284",
@@ -683,7 +683,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent due to geographic rule and structural flexibility. All information in entries matches the meaning between Original and Origin."
     },
     {
         "cv_id": "CV200",
@@ -764,10 +764,10 @@
     },
     {
         "cv_id": "CV189",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "Consistent except for a typo in 'Origin': 'tar litigation' should be 'tax litigation'."
     },
     {
         "cv_id": "CV188",
@@ -1100,10 +1100,10 @@
     },
     {
         "cv_id": "CV141",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant has a modification where 'company' information is changed from 'Industrial SME' to 'not found' and 'job title' is combined with 'company'."
     },
     {
         "cv_id": "CV140",
@@ -1458,7 +1458,7 @@
     {
         "cv_id": "CV91",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1466,7 +1466,7 @@
     {
         "cv_id": "CV90",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1482,7 +1482,7 @@
     {
         "cv_id": "CV88",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1490,7 +1490,7 @@
     {
         "cv_id": "CV87",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1506,7 +1506,7 @@
     {
         "cv_id": "CV85",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1530,7 +1530,7 @@
     {
         "cv_id": "CV82",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1562,7 +1562,7 @@
     {
         "cv_id": "CV78",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1570,7 +1570,7 @@
     {
         "cv_id": "CV77",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1578,7 +1578,7 @@
     {
         "cv_id": "CV76",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1602,7 +1602,7 @@
     {
         "cv_id": "CV73",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1618,7 +1618,7 @@
     {
         "cv_id": "CV71",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1626,7 +1626,7 @@
     {
         "cv_id": "CV70",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1634,7 +1634,7 @@
     {
         "cv_id": "CV69",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1642,7 +1642,7 @@
     {
         "cv_id": "CV68",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1650,7 +1650,7 @@
     {
         "cv_id": "CV67",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1666,7 +1666,7 @@
     {
         "cv_id": "CV65",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1690,7 +1690,7 @@
     {
         "cv_id": "CV62",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1714,7 +1714,7 @@
     {
         "cv_id": "CV59",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1722,7 +1722,7 @@
     {
         "cv_id": "CV58",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1730,7 +1730,7 @@
     {
         "cv_id": "CV57",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1754,7 +1754,7 @@
     {
         "cv_id": "CV54",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1794,7 +1794,7 @@
     {
         "cv_id": "CV49",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1898,7 +1898,7 @@
     {
         "cv_id": "CV36",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1906,7 +1906,7 @@
     {
         "cv_id": "CV35",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1914,7 +1914,7 @@
     {
         "cv_id": "CV34",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1922,7 +1922,7 @@
     {
         "cv_id": "CV33",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1954,7 +1954,7 @@
     {
         "cv_id": "CV29",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1962,7 +1962,7 @@
     {
         "cv_id": "CV28",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1970,7 +1970,7 @@
     {
         "cv_id": "CV27",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1986,7 +1986,7 @@
     {
         "cv_id": "CV25",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2010,7 +2010,7 @@
     {
         "cv_id": "CV22",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2018,7 +2018,7 @@
     {
         "cv_id": "CV21",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2034,7 +2034,7 @@
     {
         "cv_id": "CV19",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2074,7 +2074,7 @@
     {
         "cv_id": "CV14",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2122,7 +2122,7 @@
     {
         "cv_id": "CV8",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -2130,7 +2130,7 @@
     {
         "cv_id": "CV7",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true

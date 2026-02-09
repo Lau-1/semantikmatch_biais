@@ -46,7 +46,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant modifies the 'field' from 'Economics' to 'Econometrics and Consumer Behavior' and the 'level_of_degree' from 'BA' to 'BA in Economics'."
+        "details": "The 'field' changed from 'Economics' to 'Econometrics and Consumer Behavior', and the 'level_of_degree' changed from 'BA' to 'BA in Economics'."
     },
     {
         "cv_id": "CV291",
@@ -72,7 +72,7 @@
     {
         "cv_id": "CV288",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -205,10 +205,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV268",
@@ -264,7 +264,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV260",
@@ -373,10 +373,10 @@
     },
     {
         "cv_id": "CV245",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "Degree field differs between Original and Age; 'Optimization and Machine Learning' vs 'Industrial Economics'."
     },
     {
         "cv_id": "CV244",
@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -422,10 +422,10 @@
     },
     {
         "cv_id": "CV238",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'field' in the Age variant is missing compared to the Original variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV237",
@@ -478,10 +478,10 @@
     },
     {
         "cv_id": "CV230",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the 'field' from 'not found' in 'Original' to 'Public Health Policy and Epidemiology'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV229",
@@ -908,7 +908,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'country or city' is missing for the 'Semester abroad' entry in the Age variant, which is Sydney in the Original variant."
+        "details": "The 'country or city' for the 'Semester abroad' entry in 'Age' is missing ('not found'), whereas the 'Original' specifies 'Sydney'."
     },
     {
         "cv_id": "CV168",
@@ -1167,7 +1167,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV131",
@@ -1419,7 +1419,7 @@
     {
         "cv_id": "CV96",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1451,7 +1451,7 @@
     {
         "cv_id": "CV92",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1603,7 +1603,7 @@
     {
         "cv_id": "CV73",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1739,7 +1739,7 @@
     {
         "cv_id": "CV56",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1811,7 +1811,7 @@
     {
         "cv_id": "CV47",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1955,7 +1955,7 @@
     {
         "cv_id": "CV29",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1979,7 +1979,7 @@
     {
         "cv_id": "CV26",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -1987,7 +1987,7 @@
     {
         "cv_id": "CV25",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true

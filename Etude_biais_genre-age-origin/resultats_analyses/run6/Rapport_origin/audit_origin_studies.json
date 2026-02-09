@@ -15,10 +15,10 @@
     },
     {
         "cv_id": "CV296",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The field in 'Origin' contains 'Social Entrepreneurship and Microfinance', which is a modification from 'not found' in 'Original'."
     },
     {
         "cv_id": "CV295",
@@ -262,8 +262,8 @@
         "cv_id": "CV261",
         "coherent": true,
         "empty_list": true,
-        "error_type": "Omission",
-        "details": "Original is empty."
+        "error_type": "Original empty",
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -274,7 +274,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -626,8 +626,8 @@
         "cv_id": "CV209",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' information is missing in the 'Origin' variant but present in the 'Original'. However, since the overall meaning related to the degree remains consistent, this is a structural flexibility case."
     },
     {
         "cv_id": "CV208",
@@ -1635,7 +1635,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV64",

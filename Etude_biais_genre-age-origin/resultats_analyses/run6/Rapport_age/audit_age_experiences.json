@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'description' for Nubank in the 'Age' variant does not match the 'Original'. It is modified from 'Founded an AgTech platform for small farmers.' to 'Strategy'."
+        "details": "The description for the Nubank entry in the 'Age' variant is modified. The 'Original' states 'Founded an AgTech platform for small farmers', whereas 'Age' states 'Strategy'."
     },
     {
         "cv_id": "CV240",
@@ -1117,8 +1117,8 @@
         "cv_id": "CV139",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Age' variant includes the company name in the job title, which is an intentional change. Despite this modification, the content remains consistent across both variants in terms of job experience details."
     },
     {
         "cv_id": "CV138",
@@ -1563,10 +1563,10 @@
     },
     {
         "cv_id": "CV75",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The Age variant omits '- Student Startup (failed)' from the job title, altering the meaning of the experience."
     },
     {
         "cv_id": "CV74",
@@ -1937,14 +1937,14 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV21",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant consolidates experiences into a single entry without maintaining separate job titles. The 'Interned in finance' and 'Consulting tasks observer' experiences are treated as one in the 'Age' variant, leading to missing job titles."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV20",
