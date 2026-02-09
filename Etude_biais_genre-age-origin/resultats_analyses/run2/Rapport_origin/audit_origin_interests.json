@@ -39,7 +39,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV292",
@@ -158,12 +158,12 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV275",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -205,7 +205,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -236,7 +236,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV264",
@@ -261,7 +261,7 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -275,7 +275,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -292,14 +292,14 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV256",
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV255",
@@ -334,7 +334,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV250",
@@ -405,12 +405,12 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -592,10 +592,10 @@
     },
     {
         "cv_id": "CV214",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant has an addition '(LeetCode)' in 'Competitive Coding' which is not present in the 'Original'."
     },
     {
         "cv_id": "CV213",
@@ -881,8 +881,8 @@
         "cv_id": "CV173",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The Origin variant omits the '(CTF competitions)' in the 'Ethical Hacking' item. However, the main idea remains consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV172",
@@ -956,10 +956,10 @@
     },
     {
         "cv_id": "CV162",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'Origin' variant removed part of the information 'Tech & Society' from 'Podcast production (Tech & Society)', thus altering the meaning."
     },
     {
         "cv_id": "CV161",
@@ -1827,14 +1827,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Origin' variant modifies 'Swimming' to 'Swimming and coaching local youth sports teams'."
+        "details": "The Origin variant modified 'Swimming' to 'Swimming and coaching local youth sports teams'."
     },
     {
         "cv_id": "CV37",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Origin' variant contains 'practicing yoga and mindfulness' instead of just 'practicing yoga'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV36",
@@ -2028,7 +2028,7 @@
     {
         "cv_id": "CV9",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true

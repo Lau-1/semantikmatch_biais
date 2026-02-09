@@ -1,10 +1,10 @@
 [
     {
         "cv_id": "CV298",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' variant contains only one entry, whereas the 'Original' contains two. The entry from the 'Origin' is consistent with one in the 'Original', but the second entry about the exchange program at Georgia Institute of Technology is omitted in the 'Origin'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV297",
@@ -18,7 +18,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' key differs; the Original has 'not found' while the Origin has 'Social Entrepreneurship and Microfinance'. This change affects the meaning of the degree, hence a modification."
+        "details": "There is a modification in the 'field' from 'not found' in the Original to 'Social Entrepreneurship and Microfinance' in the Origin."
     },
     {
         "cv_id": "CV295",
@@ -274,7 +274,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -309,10 +309,10 @@
     },
     {
         "cv_id": "CV254",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The field 'Cryptography and Network Defense' in the Origin variant differs from the 'not found' field in the Original variant, which is considered inconsistent as per audit rules."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV253",
@@ -400,7 +400,7 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -624,10 +624,10 @@
     },
     {
         "cv_id": "CV209",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'field' information 'Focus on game theory and industrial organization' is missing in the 'Origin' variant."
     },
     {
         "cv_id": "CV208",
@@ -704,7 +704,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV197",
@@ -1740,7 +1740,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV49",
@@ -1807,10 +1807,10 @@
     },
     {
         "cv_id": "CV40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Origin' variant omits an entry about an 'Exchange semester' at 'London School of Economics'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",

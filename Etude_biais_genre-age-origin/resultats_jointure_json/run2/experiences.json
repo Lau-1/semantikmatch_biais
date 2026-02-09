@@ -589,7 +589,7 @@
                 "dates": "June 2024 - Present",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed com-\npetitive benchmarking and regulatory analysis for 4 countries.",
+                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
                 "country or city": "Madrid"
             },
             {
@@ -921,10 +921,10 @@
         "Original": [
             {
                 "dates": "May 2024 - Aug 2024",
-                "company": "Goldman Sachs, Bangalore",
+                "company": "Goldman Sachs",
                 "job title": "Quant Intern",
-                "description": "Developed a pricing engine for path-dependent options using Monte Carlo simulations. Implemented a variance reduction technique that sped up computation by 20%.",
-                "country or city": "not found"
+                "description": "Developed a pricing engine for path-dependent options using Monte Carlo simulations.\nImplemented a variance reduction technique that sped up computation by 20%.",
+                "country or city": "Bangalore"
             },
             {
                 "dates": "2023",
@@ -1053,10 +1053,10 @@
         "Original": [
             {
                 "dates": "June 2024 - Dec 2024",
-                "company": "Grab, Singapore",
+                "company": "Grab",
                 "job title": "Data Science Intern",
                 "description": "Built a demand-forecasting model using XGBoost that improved driver allocation efficiency by 14% during peak hours.",
-                "country or city": "not found"
+                "country or city": "Singapore"
             },
             {
                 "dates": "2023",
@@ -1127,7 +1127,7 @@
             {
                 "dates": "2023",
                 "company": "Lazard",
-                "job title": "Summer Analyst - Lazard (M&A)",
+                "job title": "Summer Analyst",
                 "description": "Prepared valuation materials (DCF, LBO) for a €400M deal in the Renewables sector.",
                 "country or city": "not found"
             }
@@ -1319,14 +1319,14 @@
                 "dates": "June 2024 - Present",
                 "company": "Accenture",
                 "job title": "Digital Strategy Intern",
-                "description": "Assisting a Tier-1 retail bank in migrating its legacy mainframe to a cloud-native architecture.\nFacilitated 10+ stakeholder workshops to define user requirements.",
+                "description": "Assisting a Tier-1 retail bank in migrating its legacy mainframe to a cloud-native architecture. Facilitated 10+ stakeholder workshops to define user requirements.",
                 "country or city": "Dublin"
             },
             {
                 "dates": "2023",
                 "company": "PwC",
                 "job title": "IT Consultant Intern",
-                "description": "Conducted a cybersecurity maturity assessment for a fintech startup according to NIST framework stan-\ndards.",
+                "description": "Conducted a cybersecurity maturity assessment for a fintech startup according to NIST framework standards.",
                 "country or city": "not found"
             }
         ],
@@ -1451,7 +1451,7 @@
                 "dates": "July 2024 - Present",
                 "company": "Optiver",
                 "job title": "Quant Research Intern",
-                "description": "Developing automated market-making strategies for equity options.\n\nUtilizing C++ to optimize execution speed and Python for back-testing historical data.",
+                "description": "Developing automated market-making strategies for equity options. Utilizing C++ to optimize execution speed and Python for back-testing historical data.",
                 "country or city": "Amsterdam"
             },
             {
@@ -1847,7 +1847,7 @@
                 "dates": "June 2024 - Dec 2024",
                 "company": "Amundi",
                 "job title": "ESG Analyst Intern",
-                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings.\nDeveloped a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
                 "country or city": "Paris"
             },
             {
@@ -1985,7 +1985,7 @@
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "Founder",
+                "job title": "Founder of a VR EdTech startup",
                 "description": "not found",
                 "country or city": "not found"
             },
@@ -1993,35 +1993,35 @@
                 "dates": "not found",
                 "company": "TotalEnergies",
                 "job title": "Intern",
-                "description": "not found",
+                "description": "Research on Solar PV efficiency in West Africa.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Nubank",
                 "job title": "Intern",
-                "description": "not found",
+                "description": "Developed a blockchain-based loan verification system.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Adidas",
                 "job title": "Intern",
-                "description": "not found",
+                "description": "Built a dashboard to track influencer ROI across 5 markets.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Morgan Stanley",
                 "job title": "Intern",
-                "description": "not found",
+                "description": "Focus on Debt Capital Markets (DCM).",
                 "country or city": "Brussels"
             },
             {
                 "dates": "not found",
                 "company": "Loewe",
                 "job title": "Intern",
-                "description": "not found",
+                "description": "Focus on sustainable sourcing of raw materials.",
                 "country or city": "not found"
             }
         ],
@@ -2183,10 +2183,10 @@
         "Original": [
             {
                 "dates": "June 2024 - Present",
-                "company": "OECD, Paris",
+                "company": "OECD",
                 "job title": "Policy Intern",
                 "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Investment (FDI) report.",
-                "country or city": "not found"
+                "country or city": "Paris"
             },
             {
                 "dates": "2023",
@@ -2453,7 +2453,7 @@
                 "dates": "June 2024 - Sept 2024",
                 "company": "Goldman Sachs, Frankfurt",
                 "job title": "M&A Summer Analyst",
-                "description": "Assisted in the €2.5B cross-border acquisition of a renewable energy firm.\nBuilt comprehensive LBO and merger models.",
+                "description": "Assisted in the €2.5B cross-border acquisition of a renewable energy firm. Built comprehensive LBO and merger models.",
                 "country or city": "not found"
             },
             {
@@ -3238,7 +3238,7 @@
                 "dates": "July 2024 - Present",
                 "company": "CrowdStrike",
                 "job title": "Cybersecurity Intern",
-                "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples.\nConducted vulnerability scans using Nessus for corporate clients.",
+                "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples. Conducted vulnerability scans using Nessus for corporate clients.",
                 "country or city": "Sydney"
             },
             {
@@ -3370,7 +3370,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "Red Bull",
                 "job title": "Partnerships Intern",
-                "description": "Coordinated logistics and sponsorship activations for 3 international extreme sports events.\n\nManaged athlete relations and social media content schedules.",
+                "description": "Coordinated logistics and sponsorship activations for 3 international extreme sports events.\nManaged athlete relations and social media content schedules.",
                 "country or city": "Salzburg"
             },
             {
@@ -3435,7 +3435,7 @@
             {
                 "dates": "2022 - Present",
                 "company": "not found",
-                "job title": "Founder - \"Eco-Wrap\" (Sustainable packaging startup)",
+                "job title": "Founder - \"Eco-Wrap\"",
                 "description": "Developed a biodegradable alternative to plastic wrap; secured $15k in grants.",
                 "country or city": "not found"
             },
@@ -3700,7 +3700,7 @@
                 "dates": "June 2024 - Present",
                 "company": "Mckinsey & Company",
                 "job title": "Digital Strategy Intern",
-                "description": "Assisted in the digital transformation of a major Indian bank.\n\nConducted user journey mapping and identified 5 key friction points in the mobile app.",
+                "description": "Assisted in the digital transformation of a major Indian bank.\nConducted user journey mapping and identified 5 key friction points in the mobile app.",
                 "country or city": "Delhi"
             },
             {
@@ -5038,7 +5038,7 @@
                 "dates": "July 2024 - Present",
                 "company": "Pirelli",
                 "job title": "Digital Transformation Intern",
-                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets.\nAnalyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
+                "description": "Assisted in the rollout of a B2B e-commerce platform across 4 European markets. Analyzed user journey data to optimize the dealer portal interface, increasing login frequency by 20%.",
                 "country or city": "Milan"
             },
             {
@@ -5170,7 +5170,7 @@
                 "dates": "June 2024 - Present",
                 "company": "The Ritz-Carlton, Tokyo",
                 "job title": "Rooms Division Intern",
-                "description": "Rotated through Front Office and Concierge departments, managing VIP arrivals and personalized itinerary planning.\n\nReduced check-in wait times by 10% through a new digital pre-arrival process.",
+                "description": "Rotated through Front Office and Concierge departments, managing VIP arrivals and personalized itinerary planning. Reduced check-in wait times by 10% through a new digital pre-arrival process.",
                 "country or city": "not found"
             },
             {
@@ -5500,7 +5500,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "DHL Supply Chain",
                 "job title": "Logistics Intern",
-                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting optimization.\n\nImplemented a real-time tracking dashboard for last-mile deliveries.",
+                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting optimization. Implemented a real-time tracking dashboard for last-mile deliveries.",
                 "country or city": "Mumbai"
             },
             {
@@ -5564,10 +5564,10 @@
         "Original": [
             {
                 "dates": "June 2024 - Present",
-                "company": "Musée du Louvre, Paris",
+                "company": "Musée du Louvre",
                 "job title": "Communications Intern",
-                "description": "Coordinated the digital promotion of a major temporary exhibition, achieving 1M+ impressions on social media. Managed press relations with 30+ international journalists.",
-                "country or city": "not found"
+                "description": "Coordinated the digital promotion of a major temporary exhibition, achieving 1M+ impressions on social media.\nManaged press relations with 30+ international journalists.",
+                "country or city": "Paris"
             },
             {
                 "dates": "2023",
@@ -5695,14 +5695,14 @@
     "CV218": {
         "Original": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "PwC Nigeria",
                 "job title": "Strategy Intern",
                 "description": "Supported a market-entry study for a fintech client expanding into West Africa.\n\nDeveloped a financial feasibility model for a solar energy infrastructure project.",
                 "country or city": "not found"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Stanbic IBTC",
                 "job title": "Junior Analyst",
                 "description": "Analyzed customer transaction data to identify cross-selling opportunities for digital banking products.",
@@ -5959,14 +5959,14 @@
     "CV214": {
         "Original": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Tencent",
                 "job title": "Data Science Intern",
-                "description": "Built a recommendation engine prototype for the gaming division using Deep Learning (PyTorch). Improved user retention by 4% during a 3-week A/B testing phase.",
+                "description": "Built a recommendation engine prototype for the gaming division using Deep Learning (PyTorch).\nImproved user retention by 4% during a 3-week A/B testing phase.",
                 "country or city": "Shenzhen"
             },
             {
-                "dates": "January 2024 - May 2024",
+                "dates": "January 2024 - May 2024.",
                 "company": "Baidu",
                 "job title": "Business Analyst Intern",
                 "description": "Cleaned and structured 10TB+ of search data using SQL and Hadoop to identify emerging consumer trends.",
@@ -6028,7 +6028,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Supported a digital transformation project for a Tier-1 telco client. Conducted market sizing and competitive benchmarking for new IoT product launches. Prepared executive-level presentations for weekly steering committees.",
+                "description": "Supported a digital transformation project for a Tier-1 telco client.\nConducted market sizing and competitive benchmarking for new IoT product launches.\nPrepared executive-level presentations for weekly steering committees.",
                 "country or city": "London"
             },
             {
@@ -6094,7 +6094,7 @@
                 "dates": "June 2024 - December 2024",
                 "company": "KPMG, Paris",
                 "job title": "Audit Intern",
-                "description": "Participated in the statutory audit of 4 major retail clients.\nVerified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
+                "description": "Participated in the statutory audit of 4 major retail clients. Verified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
                 "country or city": "not found"
             },
             {
@@ -6160,7 +6160,7 @@
                 "dates": "July 2024 - December 2024",
                 "company": "ING Bank",
                 "job title": "M&A Intern",
-                "description": "Supported the TMT sector team in preparing 3 confidential information memorandums (CIM) and 5 industry teasers. Performed complex company valuations using Trading Multiples and Transaction Multiples.",
+                "description": "Supported the TMT sector team in preparing 3 confidential information memorandums (CIM) and 5 industry teasers.\n\nPerformed complex company valuations using Trading Multiples and Transaction Multiples.",
                 "country or city": "Amsterdam"
             },
             {
@@ -6556,14 +6556,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "Coupang",
                 "job title": "E-commerce Intern",
-                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow. Conducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in conversion. Analyzed competitor pricing and promotions using web scraping tools.",
+                "description": "Assisted the \"Rocket Delivery\" operations team in optimizing warehouse inventory flow.\nConducted UX/UI analysis of the checkout page, identifying friction points that led to a 5% improvement in conversion.\nAnalyzed competitor pricing and promotions using web scraping tools.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "June 2023 - December 2023",
                 "company": "Amorepacific",
                 "job title": "Digital Marketing Assistant",
-                "description": "Supported the global marketing team in launching a skincare brand on Amazon US. Managed PPC (Pay-Per-Click) campaigns and keyword optimization.",
+                "description": "Supported the global marketing team in launching a skincare brand on Amazon US.\nManaged PPC (Pay-Per-Click) campaigns and keyword optimization.",
                 "country or city": "not found"
             }
         ],
@@ -6886,14 +6886,14 @@
                 "dates": "July 2023 - January 2024",
                 "company": "Estée Lauder Companies",
                 "job title": "Marketing Intern",
-                "description": "Assisted the Clinique brand team in coordinating influencer marketing campaigns.\nManaged the localization of global marketing assets for the Russian and CIS markets.\nPrepared monthly reports on competitor promotional activities and pricing.",
+                "description": "Assisted the Clinique brand team in coordinating influencer marketing campaigns. Managed the localization of global marketing assets for the Russian and CIS markets. Prepared monthly reports on competitor promotional activities and pricing.",
                 "country or city": "Moscow"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ketchum (Agency)",
                 "job title": "Public Relations Intern",
-                "description": "Drafted press releases and media kits for FMCG and lifestyle clients.\nAssisted in the organization of press events and product launches.",
+                "description": "Drafted press releases and media kits for FMCG and lifestyle clients. Assisted in the organization of press events and product launches.",
                 "country or city": "not found"
             }
         ],
@@ -8008,14 +8008,14 @@
                 "dates": "July 2023 - Present",
                 "company": "SEWA (Self Employed Women's Association)",
                 "job title": "Project Lead",
-                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and e-commerce.\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\nNegotiated partnerships with national retail chains to create new distribution channels.",
+                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and e-commerce.\n\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\n\nNegotiated partnerships with national retail chains to create new distribution channels.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ashoka",
                 "job title": "Impact Analyst Intern",
-                "description": "Conducted due diligence on social entrepreneurs for the Ashoka Fellowship program.\nDeveloped a framework to measure the \"Social Return on Investment\" (SROI) for education-tech startups.\nOrganized a pan-India networking event for social impact investors and changemakers.",
+                "description": "Conducted due diligence on social entrepreneurs for the Ashoka Fellowship program.\n\nDeveloped a framework to measure the \"Social Return on Investment\" (SROI) for education-tech startups.\n\nOrganized a pan-India networking event for social impact investors and changemakers.",
                 "country or city": "not found"
             }
         ],
@@ -8342,14 +8342,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "AFL (Australian Football League)",
                 "job title": "Commercial Intern",
-                "description": "Supported the sponsorship team in managing relations with major corporate partners (Toyota, Telstra).\nAssisted in the activation of match-day fan engagement zones, increasing app downloads by 15% during\nthe finals.\n\nAnalyzed viewership and attendance data to prepare reports for the commercial director.",
+                "description": "Supported the sponsorship team in managing relations with major corporate partners (Toyota, Telstra). Assisted in the activation of match-day fan engagement zones, increasing app downloads by 15% during the finals. Analyzed viewership and attendance data to prepare reports for the commercial director.",
                 "country or city": "Melbourne"
             },
             {
                 "dates": "January 2024 - April 2024",
                 "company": "Fox Sports Australia",
                 "job title": "Marketing Assistant",
-                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions.\nAssisted in the production of television promos and digital ad campaigns.\n\nMonitored sports media trends and competitor broadcast rights acquisitions.",
+                "description": "Drafted social media content for the \"Rugby Championship\" coverage, achieving 1M+ impressions. Assisted in the production of television promos and digital ad campaigns. Monitored sports media trends and competitor broadcast rights acquisitions.",
                 "country or city": "not found"
             }
         ],
@@ -8672,14 +8672,14 @@
                 "dates": "June 2024 - September 2024",
                 "company": "Kaspersky Lab",
                 "job title": "Cybersecurity Analyst Intern",
-                "description": "Monitored security alerts and conducted initial triage of potential threats using SIEM tools (Splunk).\nAssisted in performing vulnerability assessments and penetration testing for corporate client networks.\nDrafted technical documentation for incident response protocols and security awareness training.",
+                "description": "Monitored security alerts and conducted initial triage of potential threats using SIEM tools (Splunk). Assisted in performing vulnerability assessments and penetration testing for corporate client networks. Drafted technical documentation for incident response protocols and security awareness training.",
                 "country or city": "Moscow"
             },
             {
                 "dates": "January 2024 - May 2024",
                 "company": "Deloitte",
                 "job title": "IT Auditor Intern",
-                "description": "Supported the audit of IT General Controls (ITGC) for banking and retail sector clients.\n\nVerified compliance with ISO 27001 standards and local data protection regulations.\n\nAnalyzed system logs and user access rights to identify potential security gaps in internal financial sys-\ntems.",
+                "description": "Supported the audit of IT General Controls (ITGC) for banking and retail sector clients. Verified compliance with ISO 27001 standards and local data protection regulations. Analyzed system logs and user access rights to identify potential security gaps in internal financial systems.",
                 "country or city": "Moscow"
             }
         ],
@@ -8736,16 +8736,16 @@
         "Original": [
             {
                 "dates": "July 2023 - Present",
-                "company": "TETO Brasil (NGO)",
+                "company": "TETO Brasil",
                 "job title": "Program Coordinator",
-                "description": "Lead a team of 40+ volunteers in the construction of emergency housing for marginalized communities.\nManage relationships with corporate sponsors, securing over R$100k in funding through impact reports.\nCoordinate data collection in informal settlements to assess community needs and evaluate project impact.",
+                "description": "Lead a team of 40+ volunteers in the construction of emergency housing for marginalized communities.\nManage relationships with corporate sponsors, securing over R$100k in funding through impact reports.\nCoordinate data collection in informal settlements to assess community needs and evaluate project im-\npact.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Natura &Co",
                 "job title": "CSR Intern",
-                "description": "Assisted in the preparation of the annual Sustainability Report according to GRI (Global Reporting Initiative) standards.\nSupported the \"Amazon Program\" by tracking social and economic indicators for local ingredient suppliers.\nManaged internal communication campaigns to promote employee volunteering programs.",
+                "description": "Assisted in the preparation of the annual Sustainability Report according to GRI (Global Reporting\nInitiative) standards.\nSupported the \"Amazon Program\" by tracking social and economic indicators for local ingredient sup-\npliers.\nManaged internal communication campaigns to promote employee volunteering programs.",
                 "country or city": "not found"
             }
         ],
@@ -8804,14 +8804,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "Shopify",
                 "job title": "Product Intern",
-                "description": "Conducted user research to identify pain points for small merchants using the Shopify POS system.\nDefined product requirements for a new inventory tracking feature, working closely with UX designers.\nMonitored product KPIs (Monthly Active Users, Feature Adoption) using Mixpanel and SQL.",
+                "description": "Conducted user research to identify pain points for small merchants using the Shopify POS system. Defined product requirements for a new inventory tracking feature, working closely with UX designers. Monitored product KPIs (Monthly Active Users, Feature Adoption) using Mixpanel and SQL.",
                 "country or city": "Toronto"
             },
             {
                 "dates": "June 2023 - August 2023",
                 "company": "Deloitte Digital",
                 "job title": "Business Analyst Intern",
-                "description": "Assisted in a CRM implementation project for a major retail client, streamlining their customer support workflow.\nMapped \"As-Is\" and \"To-Be\" business processes to identify automation opportunities.\nDrafted training materials and conducted user acceptance testing (UAT) for 200+ end-users.",
+                "description": "Assisted in a CRM implementation project for a major retail client, streamlining their customer support workflow. Mapped \"As-Is\" and \"To-Be\" business processes to identify automation opportunities. Drafted training materials and conducted user acceptance testing (UAT) for 200+ end-users.",
                 "country or city": "not found"
             }
         ],
@@ -9134,14 +9134,14 @@
                 "dates": "July 2023 - Present",
                 "company": "Allegro",
                 "job title": "Machine Learning Intern",
-                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
+                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
                 "country or city": "Warsaw"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Comarch",
                 "job title": "Junior Data Analyst",
-                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\nAssisted senior data scientists in building churn prediction models for B2B clients.",
+                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\n\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
                 "country or city": "not found"
             }
         ],
@@ -9204,14 +9204,14 @@
                 "dates": "January 2024 - June 2024",
                 "company": "Four Seasons Hotel George V, Paris",
                 "job title": "Guest Relations Intern",
-                "description": "Assisted the Front Office Manager in coordinating the arrival experience for VIP and UHNW (Ultra-High-Net-Worth) clients.\nManaged personalized guest requests, ensuring a 98% satisfaction rate according to internal quality audits.\nCollaborated with the marketing team to enhance the \"loyalty recognition\" program for frequent travelers.",
+                "description": "Assisted the Front Office Manager in coordinating the arrival experience for VIP and UHNW (Ultra-High-Net-Worth) clients.\n\nManaged personalized guest requests, ensuring a 98% satisfaction rate according to internal quality audits.\n\nCollaborated with the marketing team to enhance the \"loyalty recognition\" program for frequent travelers.",
                 "country or city": "not found"
             },
             {
                 "dates": "June 2022 - December 2022",
                 "company": "The Ritz-Carlton, Tokyo",
                 "job title": "Food & Beverage Intern",
-                "description": "Rotated through fine dining and banquet operations, learning the Japanese philosophy of Omotenashi (selfless hospitality).\nAssisted in inventory management and cost control for the beverage department, reducing waste by 10%.\nSupervised a team of 5 junior staff during high-capacity gala events.",
+                "description": "Rotated through fine dining and banquet operations, learning the Japanese philosophy of Omotenashi (selfless hospitality).\n\nAssisted in inventory management and cost control for the beverage department, reducing waste by 10%.\nSupervised a team of 5 junior staff during high-capacity gala events.",
                 "country or city": "not found"
             }
         ],
@@ -9600,14 +9600,14 @@
                 "dates": "July 2023 - Present",
                 "company": "L'Oréal (Luxe Division)",
                 "job title": "Marketing Assistant",
-                "description": "Coordinated the launch of a new skincare line, managing timelines between the global HQ and local retail teams.\nAnalyzed monthly sell-out data and market shares using Nielsen tools to optimize promotional budgets.\nDrafted creative briefs for social media agencies, resulting in a 25% increase in engagement on Instagram and TikTok.\nMonitored competitor activity in the Japanese \"J-Beauty\" market and produced monthly trend reports for the CMO.",
+                "description": "Coordinated the launch of a new skincare line, managing timelines between the global HQ and local retail teams.\n\nAnalyzed monthly sell-out data and market shares using Nielsen tools to optimize promotional budgets.\nDrafted creative briefs for social media agencies, resulting in a 25% increase in engagement on Instagram and TikTok.\n\nMonitored competitor activity in the Japanese \"J-Beauty\" market and produced monthly trend reports for the CMO.",
                 "country or city": "Tokyo"
             },
             {
                 "dates": "June 2022 - December 2022",
                 "company": "Rakuten",
                 "job title": "Digital Content Intern",
-                "description": "Optimized SEO copy for luxury fashion listings, improving organic search traffic by 10%.\nDesigned A/B tests for email marketing campaigns, focusing on click-through rates (CTR) and conversion.\nAssisted the E-commerce manager in updating homepage banners and promotional landing pages using HTML/CSS.",
+                "description": "Optimized SEO copy for luxury fashion listings, improving organic search traffic by 10%.\n\nDesigned A/B tests for email marketing campaigns, focusing on click-through rates (CTR) and conversion.\n\nAssisted the E-commerce manager in updating homepage banners and promotional landing pages using HTML/CSS.",
                 "country or city": "Tokyo"
             }
         ],
@@ -9666,14 +9666,14 @@
                 "dates": "June 2024 - September 2024",
                 "company": "UniCredit",
                 "job title": "Investment Banking Summer Analyst",
-                "description": "Supported the M&A team in the TMT sector, assisting in the preparation of pitch books and teaser documents.\nPerformed company valuations using Multiples and Discounted Cash Flow (DCF) methods.\nConducted industry research and benchmarking to identify potential acquisition targets for corporate clients.\nMaintained data rooms and coordinated the due diligence process for two mid-market transactions.",
+                "description": "Supported the M&A team in the TMT sector, assisting in the preparation of pitch books and teaser documents.\n\nPerformed company valuations using Multiples and Discounted Cash Flow (DCF) methods.\n\nConducted industry research and benchmarking to identify potential acquisition targets for corporate clients.\n\nMaintained data rooms and coordinated the due diligence process for two mid-market transactions.",
                 "country or city": "Milan"
             },
             {
                 "dates": "January 2024 - April 2024",
                 "company": "PwC",
                 "job title": "Audit Intern",
-                "description": "Assisted in the statutory audit of financial statements for industrial clients under IFRS and local GAAP.\nTested internal controls and performed substantive testing on balance sheet accounts (accounts receivable, inventory).\nUtilized Alteryx and Excel to automate the reconciliation of large datasets, reducing manual entry time by 15%.",
+                "description": "Assisted in the statutory audit of financial statements for industrial clients under IFRS and local GAAP.\nTested internal controls and performed substantive testing on balance sheet accounts (accounts receivable, inventory).\n\nUtilized Alteryx and Excel to automate the reconciliation of large datasets, reducing manual entry time by 15%.",
                 "country or city": "Rome"
             }
         ],
@@ -10135,7 +10135,7 @@
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Assistant",
-                "description": "Processed domestic and international sales orders\n\nAssisted in customer service and coordination with logistics teams",
+                "description": "Processed domestic and international sales orders\nAssisted in customer service and coordination with logistics teams",
                 "country or city": "not found"
             }
         ],
@@ -10258,8 +10258,8 @@
         "Original": [
             {
                 "dates": "Jan 2020 - Sep 2023",
-                "company": "Logistics SME",
-                "job title": "Operations Coordinator",
+                "company": "not found",
+                "job title": "Operations Coordinator - Logistics SME",
                 "description": "Managed daily operational workflows and monitored KPIs for warehouse and delivery teams\nImplemented process improvements to reduce delays by 12%\nPrepared weekly and monthly reports for senior management\nCoordinated with vendors, drivers, and internal teams to ensure smooth operations",
                 "country or city": "not found"
             },
@@ -10590,14 +10590,14 @@
                 "dates": "Jan 2016 - Sep 2023",
                 "company": "FMCG Group",
                 "job title": "Regional Sales Manager",
-                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\nCoordinated with marketing and logistics teams for product launches",
+                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\n\nCoordinated with marketing and logistics teams for product launches",
                 "country or city": "not found"
             },
             {
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Executive",
-                "description": "Prospected and acquired B2B clients\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
+                "description": "Prospected and acquired B2B clients\n\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
                 "country or city": "not found"
             }
         ],
@@ -10663,7 +10663,7 @@
                 "dates": "2016 - 2018",
                 "company": "not found",
                 "job title": "Data Analyst",
-                "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making accuracy.\nCollaborative",
+                "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making accuracy.",
                 "country or city": "not found"
             }
         ],
@@ -11650,7 +11650,7 @@
                 "dates": "Feb 2023 - Aug 2023",
                 "company": "Telecom Company",
                 "job title": "Business Intelligence Assistant",
-                "description": "Built KPI dashboards and monitored operational performance\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
+                "description": "Built KPI dashboards and monitored operational performance\n\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
                 "country or city": "not found"
             },
             {
@@ -13282,14 +13282,14 @@
                 "dates": "Jan 2022 - Sep 2023",
                 "company": "SME",
                 "job title": "Digital Marketing Officer",
-                "description": "- Managed social media channels and digital campaigns\n- Monitored campaign performance and engagement metrics\n- Created content calendars and marketing materials for brand promotion",
+                "description": "Managed social media channels and digital campaigns\nMonitored campaign performance and engagement metrics\nCreated content calendars and marketing materials for brand promotion",
                 "country or city": "not found"
             },
             {
                 "dates": "2019",
                 "company": "not found",
                 "job title": "Intern - Advertising Agency",
-                "description": "- Assisted in content creation for clients\n- Supported social media planning and digital campaign tracking",
+                "description": "Assisted in content creation for clients\nSupported social media planning and digital campaign tracking",
                 "country or city": "not found"
             }
         ],
@@ -13414,14 +13414,14 @@
                 "dates": "Jan 2023 - Jun 2023",
                 "company": "Microfinance Bank",
                 "job title": "Finance Intern",
-                "description": "Assisted in loan documentation and processing\nConducted financial assessments of clients and evaluated credit risk\nPrepared financial summaries and reports for management",
+                "description": "Assisted in loan documentation and processing\n\nConducted financial assessments of clients and evaluated credit risk\nPrepared financial summaries and reports for management",
                 "country or city": "not found"
             },
             {
                 "dates": "2021 - 2022",
                 "company": "not found",
                 "job title": "Sales Assistant (part-time)",
-                "description": "Managed cash handling and daily sales reports\nAssisted in inventory management and customer service",
+                "description": "Managed cash handling and daily sales reports\n\nAssisted in inventory management and customer service",
                 "country or city": "not found"
             }
         ],
@@ -13947,8 +13947,8 @@
             },
             {
                 "dates": "2022",
-                "company": "not found",
-                "job title": "Student Project - University Lab",
+                "company": "University Lab",
+                "job title": "Student Project",
                 "description": "Collected and analyzed market and survey data\nSupported faculty research and data interpretation",
                 "country or city": "not found"
             }
@@ -14777,8 +14777,8 @@
             },
             {
                 "dates": "Jun 2021 - Dec 2021",
-                "company": "not found",
-                "job title": "Intern - Family-owned Export Company",
+                "company": "Family-owned Export Company",
+                "job title": "Intern",
                 "description": "Managed export documentation and compliance requirements\nCommunicated with suppliers and logistics partners for shipment coordination",
                 "country or city": "not found"
             }
@@ -15544,14 +15544,14 @@
                 "dates": "March 2023 - August 2023",
                 "company": "Early-Stage Venture Capital Fund",
                 "job title": "Startup Analyst",
-                "description": "Evaluated startup business models, pitch decks and growth strategies\nConducted market and competitive analysis for early-stage ventures\nSupported investment screening and due diligence processes\nAssisted partners in preparing investment memos",
+                "description": "Evaluated startup business models, pitch decks and growth strategies\n\nConducted market and competitive analysis for early-stage ventures\n\nSupported investment screening and due diligence processes\n\nAssisted partners in preparing investment memos",
                 "country or city": "not found"
             },
             {
                 "dates": "July 2022 - February 2023",
                 "company": "Mercado Libre",
                 "job title": "Operations Intern",
-                "description": "Supported logistics and operations optimization initiatives\nAssisted in data analysis related to delivery performance and efficiency\nCollaborated with operations teams on process improvement",
+                "description": "Supported logistics and operations optimization initiatives\n\nAssisted in data analysis related to delivery performance and efficiency\nCollaborated with operations teams on process improvement",
                 "country or city": "not found"
             }
         ],
@@ -15714,7 +15714,7 @@
                 "dates": "February 2023 - July 2023",
                 "company": "OCP Group",
                 "job title": "Export Assistant",
-                "description": "Supported international sales and export operations for fertilizer products\nCoordinated logistics and export documentation with internal and external stakeholders\nAssisted in monitoring shipment schedules and compliance requirements\nContributed to communication with international clients and partners",
+                "description": "Supported international sales and export operations for fertilizer products\n\nCoordinated logistics and export documentation with internal and external stakeholders\n\nAssisted in monitoring shipment schedules and compliance requirements\nContributed to communication with international clients and partners",
                 "country or city": "not found"
             },
             {
@@ -15846,14 +15846,14 @@
                 "dates": "February 2023 - July 2023",
                 "company": "Coca-Cola FEMSA",
                 "job title": "Digital Marketing Intern",
-                "description": "Supported the execution of digital marketing campaigns across social media platforms\n\nCoordinated influencer partnerships and monitored campaign deliverables\n\nAnalyzed campaign performance using engagement, reach and conversion metrics\n\nPrepared performance reports and insights for marketing managers",
+                "description": "Supported the execution of digital marketing campaigns across social media platforms\nCoordinated influencer partnerships and monitored campaign deliverables\nAnalyzed campaign performance using engagement, reach and conversion metrics\nPrepared performance reports and insights for marketing managers",
                 "country or city": "not found"
             },
             {
                 "dates": "June 2022 - January 2023",
                 "company": "L'Oréal Mexico",
                 "job title": "Brand Assistant",
-                "description": "Assisted brand managers in product launches and promotional initiatives\nConducted market research and competitor analysis within the beauty sector\n\nSupported the preparation of presentations for brand strategy and planning meetings\nHelped coordinate communication between marketing, sales and external agencies",
+                "description": "Assisted brand managers in product launches and promotional initiatives\nConducted market research and competitor analysis within the beauty sector\nSupported the preparation of presentations for brand strategy and planning meetings\nHelped coordinate communication between marketing, sales and external agencies",
                 "country or city": "not found"
             }
         ],
@@ -16070,23 +16070,23 @@
         "Original": [
             {
                 "dates": "July 2023 - December 2023",
-                "company": "Itaú Unibanco",
+                "company": "Itaú Unibanco, São Paulo",
                 "job title": "Business Analyst Intern",
-                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\n\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\n\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\n\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\n\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
-                "country or city": "São Paulo"
+                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
+                "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ambev (AB InBev Group)",
                 "job title": "Strategy Intern",
-                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\n\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\n\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\n\nWorked closely with strategy and commercial teams in a multinational environment",
+                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\nWorked closely with strategy and commercial teams in a multinational environment",
                 "country or city": "not found"
             },
             {
                 "dates": "2021 - 2022",
                 "company": "FGV Junior Enterprise",
                 "job title": "Student Consultant",
-                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\n\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\n\nPresented findings and actionable recommendations directly to clients' management teams",
+                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\nPresented findings and actionable recommendations directly to clients' management teams",
                 "country or city": "not found"
             }
         ],
@@ -18088,7 +18088,14 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "Finance and consulting intern",
-                "description": "· Finance and consulting intern, worked on tasks as assigned.\n· Helped in project research and reports.",
+                "description": "worked on tasks as assigned.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped in project research and reports.",
                 "country or city": "not found"
             }
         ],
@@ -18164,14 +18171,7 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in finance and consulting roles, did some analysis.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "not found",
-                "company": "not found",
-                "job title": "not found",
-                "description": "Assisted teams with general tasks.",
+                "description": "Worked in finance and consulting roles, did some analysis.\nAssisted teams with general tasks.",
                 "country or city": "not found"
             }
         ],
@@ -18247,7 +18247,14 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in finance and marketing roles, various short-term tasks.\nSupported team with reports and meetings.",
+                "description": "Worked in finance and marketing roles, various short-term tasks.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Supported team with reports and meetings.",
                 "country or city": "not found"
             }
         ],
@@ -18284,15 +18291,15 @@
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "Intern",
-                "description": "Interned at different companies, helped with tasks and reports.",
+                "job title": "Interned at different companies",
+                "description": "helped with tasks and reports.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "Assistant",
-                "description": "Assisted with events and presentations.",
+                "job title": "Assisted with events and presentations",
+                "description": "not found",
                 "country or city": "not found"
             }
         ],
@@ -18375,7 +18382,14 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Business support in a small team, handled tasks as assigned.\nHelped with social media content and documentation.",
+                "description": "Business support in a small team, handled tasks as assigned.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped with social media content and documentation.",
                 "country or city": "not found"
             }
         ],
@@ -18458,14 +18472,7 @@
                 "dates": "not found",
                 "company": "not found",
                 "job title": "not found",
-                "description": "Worked in marketing and sales for various small projects in Paris.",
-                "country or city": "not found"
-            },
-            {
-                "dates": "not found",
-                "company": "not found",
-                "job title": "not found",
-                "description": "Assisted in some reporting and customer follow-up tasks at a local firm.",
+                "description": "Worked in marketing and sales for various small projects in Paris.\nAssisted in some reporting and customer follow-up tasks at a local firm.",
                 "country or city": "not found"
             }
         ],

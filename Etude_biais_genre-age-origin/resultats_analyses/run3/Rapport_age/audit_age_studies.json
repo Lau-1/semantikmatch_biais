@@ -1,10 +1,10 @@
 [
     {
         "cv_id": "CV298",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant is missing the study entry for the exchange program at Georgia Institute of Technology (USA)."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV297",
@@ -18,7 +18,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'field' is different. Original does not contain a field, while Age lists it as 'Social Entrepreneurship and Microfinance'."
+        "details": "The 'Age' variant introduces a specific field 'Social Entrepreneurship and Microfinance', which is not present in the 'Original', modifying the content."
     },
     {
         "cv_id": "CV295",
@@ -264,7 +264,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV260",
@@ -276,7 +276,7 @@
     {
         "cv_id": "CV259",
         "coherent": true,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
     },
@@ -401,7 +401,7 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty."
@@ -436,17 +436,17 @@
     },
     {
         "cv_id": "CV236",
+        "coherent": false,
+        "empty_list": false,
+        "error_type": "Omission",
+        "details": "The 'Age' variant is missing the 'field' data which mentioned specialization in Lean Manufacturing and Life Cycle Assessment, making it an omission."
+    },
+    {
+        "cv_id": "CV235",
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
         "details": "Consistent"
-    },
-    {
-        "cv_id": "CV235",
-        "coherent": false,
-        "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'field' has been changed from 'Computer Science' to 'Software Engineering and Product Development'."
     },
     {
         "cv_id": "CV234",
@@ -464,10 +464,10 @@
     },
     {
         "cv_id": "CV232",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'country or city' information 'Tokyo' is missing in the 'Age' variant."
     },
     {
         "cv_id": "CV231",
@@ -478,10 +478,10 @@
     },
     {
         "cv_id": "CV230",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "Inconsistency in the 'field': Original has 'not found', while Age lists 'Public Health Policy and Epidemiology'."
     },
     {
         "cv_id": "CV229",
@@ -711,8 +711,8 @@
         "cv_id": "CV197",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant is missing the 'field' information ('Econometrics and Public Policy'), which is present in the 'Original'. However, the rest of the information is consistent, so the omission is recognized."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV196",
@@ -907,8 +907,8 @@
         "cv_id": "CV169",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Hallucination",
-        "details": "The 'Age' variant includes an additional entry for a semester abroad at UNSW (Sydney) that is not present in the 'Original'."
+        "error_type": "Modification",
+        "details": "Country or city is consistent in the Original for 'Semester abroad' entry as 'Sydney', but is 'not found' in the Age variant."
     },
     {
         "cv_id": "CV168",
@@ -1808,10 +1808,10 @@
     },
     {
         "cv_id": "CV40",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The original contains two study entries while the age variant only contains one."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV39",
@@ -1864,10 +1864,10 @@
     },
     {
         "cv_id": "CV32",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "The 'Age' variant is missing the Bachelor in Economics from University of Paris and the exchange program at University College London."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV31",
@@ -1923,7 +1923,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "The 'Age' variant has shifted 'Management program' from 'level_of_degree' to 'field', which is structurally flexible and coherent as per the rules. Consistent."
     },
     {
         "cv_id": "CV23",

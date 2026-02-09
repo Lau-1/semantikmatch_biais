@@ -39,7 +39,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV292",
@@ -137,7 +137,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant includes additional content 'Tech & History' in 'Podcasts', which changes the meaning."
+        "details": "The 'Podcasts' entry in the 'Gender' variant includes additional context '(Tech & History)', which is not present in the 'Original'. This modifies the meaning slightly."
     },
     {
         "cv_id": "CV278",
@@ -158,7 +158,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV275",
@@ -204,9 +204,9 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
-        "error_type": "Omission",
+        "error_type": "Original empty",
         "details": "Original is empty"
     },
     {
@@ -232,10 +232,10 @@
     },
     {
         "cv_id": "CV265",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV264",
@@ -274,7 +274,7 @@
     },
     {
         "cv_id": "CV259",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -330,10 +330,10 @@
     },
     {
         "cv_id": "CV251",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV250",
@@ -354,7 +354,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV247",
@@ -394,7 +394,7 @@
     {
         "cv_id": "CV242",
         "coherent": false,
-        "empty_list": false,
+        "empty_list": true,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -878,10 +878,10 @@
     },
     {
         "cv_id": "CV173",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant omitted '(CTF competitions)' from 'Ethical Hacking', altering the content."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV172",
@@ -955,10 +955,10 @@
     },
     {
         "cv_id": "CV162",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant includes a modification in the 'Podcast production' entry by adding '(Tech & Society)', which is not present in the 'Original'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV161",
@@ -1210,7 +1210,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV125",
@@ -1553,7 +1553,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV76",
@@ -1833,14 +1833,14 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant adds specific details to each interest or activity (e.g., 'experimenting with fusion cuisine recipes' for cooking) that are not present in the 'Original'."
+        "details": "The 'Gender' variant includes additional details and specificities, such as 'experimenting with fusion cuisine recipes' in 'Cooking' and 'reading business strategy books and case studies' in 'reading', and specifies volunteering activities as 'volunteering at local literacy and entrepreneurship programs'."
     },
     {
         "cv_id": "CV36",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Gender variant adds specific details to photography and charity events that are not present in the Original variant."
+        "details": "The 'Gender' variant modifies 'photography' to include specifics on 'urban architecture and landscapes' and 'organizing local charity events' to specify 'for underprivileged youth'. These changes alter the original meaning."
     },
     {
         "cv_id": "CV35",

@@ -15,10 +15,10 @@
     },
     {
         "cv_id": "CV296",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The field in 'Origin' ('Social Entrepreneurship and Microfinance') does not match the 'Original' ('not found')."
     },
     {
         "cv_id": "CV295",
@@ -207,7 +207,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV268",
@@ -403,7 +403,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",

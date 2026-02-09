@@ -26,7 +26,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Operations Research and Lean Manufacturing",
                 "university": "INSA Lyon",
                 "country or city": "not found",
                 "level_of_degree": "BEng in Industrial Engineering & Management"
@@ -87,14 +87,14 @@
     "CV 296 Original": {
         "List of professional experiences": [
             {
-                "dates": "2022 - Present",
-                "company": "VerdePay",
+                "dates": "2022 - Present.",
+                "company": "\"VerdePay\"",
                 "job title": "Co-founder",
                 "description": "Developed a micro-loan platform for small-scale sustainable farmers in Brazil; secured $50k in seed funding and scaled to 500 active users.",
                 "country or city": "not found"
             },
             {
-                "dates": "2023",
+                "dates": "2023.",
                 "company": "Natura & Co",
                 "job title": "Impact Intern",
                 "description": "Analyzed the social ROI (SROI) of the brand's Amazonian bio-diversity preservation programs.",
@@ -120,10 +120,10 @@
         "List of professional experiences": [
             {
                 "dates": "Jan 2024 - July 2024",
-                "company": "International Energy Agency (IEA), Paris",
+                "company": "International Energy Agency (IEA)",
                 "job title": "Energy Analyst Intern",
                 "description": "Compiled data for the 2025 \"World Energy Outlook\" report; focused on the transition from coal to natural gas in Southeast Asia.",
-                "country or city": "not found"
+                "country or city": "Paris"
             },
             {
                 "dates": "2023",
@@ -275,14 +275,14 @@
     "CV 290 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed com-\npetitive benchmarking and regulatory analysis for 4 countries.",
+                "description": "Working on a market-entry strategy for a European Neobank expanding into LATAM; performed competitive benchmarking and regulatory analysis for 4 countries.",
                 "country or city": "Madrid"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Spanish Ministry of Foreign Affairs",
                 "job title": "Summer Intern",
                 "description": "Drafted briefing notes for the EU Presidency meetings.",
@@ -443,10 +443,10 @@
         "List of professional experiences": [
             {
                 "dates": "May 2024 - Aug 2024",
-                "company": "Goldman Sachs, Bangalore",
+                "company": "Goldman Sachs",
                 "job title": "Quant Intern",
                 "description": "Developed a pricing engine for path-dependent options using Monte Carlo simulations.\nImplemented a variance reduction technique that sped up computation by 20%.",
-                "country or city": "not found"
+                "country or city": "Bangalore"
             },
             {
                 "dates": "2023",
@@ -507,10 +507,10 @@
         "List of professional experiences": [
             {
                 "dates": "June 2024 - Dec 2024",
-                "company": "Grab, Singapore",
+                "company": "Grab",
                 "job title": "Data Science Intern",
                 "description": "Built a demand-forecasting model using XGBoost that improved driver allocation efficiency by 14% during peak hours.",
-                "country or city": "not found"
+                "country or city": "Singapore"
             },
             {
                 "dates": "2023",
@@ -555,10 +555,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Philosophy & Economics",
+                "field": "not found",
                 "university": "King's College London",
                 "country or city": "not found",
-                "level_of_degree": "BSc"
+                "level_of_degree": "BSc in Philosophy & Economics"
             }
         ],
         "List of personal interests": [
@@ -651,16 +651,16 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "not found",
+                "field": "Computer Science & Business",
                 "university": "Trinity College Dublin",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Computer Science & Business"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
             "Rugby",
             "Blockchain Research",
-            "Podcasts"
+            "Podcasts (Tech & History)"
         ]
     },
     "CV 278 Original": {
@@ -701,7 +701,7 @@
                 "dates": "July 2024 - Present",
                 "company": "Optiver",
                 "job title": "Quant Research Intern",
-                "description": "Developing automated market-making strategies for equity options.\n\nUtilizing C++ to optimize execution speed and Python for back-testing historical data.",
+                "description": "Developing automated market-making strategies for equity options. Utilizing C++ to optimize execution speed and Python for back-testing historical data.",
                 "country or city": "Amsterdam"
             },
             {
@@ -775,10 +775,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Organizational Psychology",
+                "field": "Psychology",
                 "university": "Lomonosov Moscow State University",
                 "country or city": "not found",
-                "level_of_degree": "BA in Psychology"
+                "level_of_degree": "BA"
             }
         ],
         "List of personal interests": [
@@ -807,7 +807,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Consumer Behavior and Data Mining",
                 "university": "FGV São Paulo",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Business Administration"
@@ -878,7 +878,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "Distributed Systems and Cloud Architecture",
                 "university": "University of Tokyo",
                 "country or city": "not found",
                 "level_of_degree": "BEng in Information Science"
@@ -896,7 +896,7 @@
                 "dates": "June 2024 - Dec 2024",
                 "company": "Amundi",
                 "job title": "ESG Analyst Intern",
-                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings. Developed a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
+                "description": "Conducted extra-financial analysis on 40+ European industrial stocks using MSCI ESG ratings.\nDeveloped a proprietary scoring tool for carbon footprint tracking in Scope 3 emissions.",
                 "country or city": "Paris"
             },
             {
@@ -966,43 +966,43 @@
             {
                 "dates": "not found",
                 "company": "not found",
-                "job title": "Founder",
-                "description": "VR EdTech startup ($50k seed)",
+                "job title": "Founder of a VR EdTech startup",
+                "description": "not found",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "TotalEnergies",
                 "job title": "Intern",
-                "description": "Renewables",
+                "description": "Research on Solar PV efficiency in West Africa.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Nubank",
                 "job title": "Intern",
-                "description": "Developed a blockchain-based loan verification system",
+                "description": "Developed a blockchain-based loan verification system.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Adidas",
                 "job title": "Intern",
-                "description": "Built a dashboard to track influencer ROI across 5 markets",
+                "description": "Built a dashboard to track influencer ROI across 5 markets.",
                 "country or city": "not found"
             },
             {
                 "dates": "not found",
                 "company": "Morgan Stanley",
                 "job title": "Intern",
-                "description": "Focus on Debt Capital Markets (DCM)",
+                "description": "Focus on Debt Capital Markets (DCM).",
                 "country or city": "Brussels"
             },
             {
                 "dates": "not found",
                 "company": "Loewe",
                 "job title": "Intern",
-                "description": "Focus on sustainable sourcing of raw materials",
+                "description": "Focus on sustainable sourcing of raw materials.",
                 "country or city": "not found"
             }
         ],
@@ -1012,14 +1012,14 @@
     "CV 268 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "OECD",
                 "job title": "Policy Intern",
                 "description": "Assisting the Directorate for Financial and Enterprise Affairs in drafting the 2025 Foreign Direct Investment (FDI) report.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Italian Ministry of Foreign Affairs",
                 "job title": "Summer Intern",
                 "description": "Supported the G7 summit coordination team in Rome.",
@@ -1139,7 +1139,7 @@
                 "dates": "June 2024 - Sept 2024",
                 "company": "Goldman Sachs, Frankfurt",
                 "job title": "M&A Summer Analyst",
-                "description": "Assisted in the €2.5B cross-border acquisition of a renewable energy firm.\nBuilt comprehensive LBO and merger models.",
+                "description": "Assisted in the €2.5B cross-border acquisition of a renewable energy firm. Built comprehensive LBO and merger models.",
                 "country or city": "not found"
             },
             {
@@ -1192,10 +1192,10 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "not found",
+                "field": "Statistics & Computer Science",
                 "university": "Seoul National University",
                 "country or city": "not found",
-                "level_of_degree": "BSc in Statistics & Computer Science"
+                "level_of_degree": "BSc"
             }
         ],
         "List of personal interests": [
@@ -1434,14 +1434,14 @@
     "CV 255 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present.",
+                "dates": "June 2024 - Present",
                 "company": "Sanofi",
                 "job title": "Innovation Intern",
                 "description": "Supported the digital health team in launching a patient-monitoring app for diabetes.\nConducted market research on telemedicine regulations in the EU.",
                 "country or city": "Paris"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "Institut Pasteur",
                 "job title": "Lab Assistant",
                 "description": "Assisted in data entry and preliminary analysis for a clinical trial on mRNA vaccines.",
@@ -1466,14 +1466,14 @@
     "CV 254 Original": {
         "List of professional experiences": [
             {
-                "dates": "July 2024 - Present.",
+                "dates": "July 2024 - Present",
                 "company": "CrowdStrike",
                 "job title": "Cybersecurity Intern",
-                "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples.\nConducted vulnerability scans using Nessus for corporate clients.",
+                "description": "Assisted the Threat Intelligence team in analyzing 15+ malware samples. Conducted vulnerability scans using Nessus for corporate clients.",
                 "country or city": "Sydney"
             },
             {
-                "dates": "2023.",
+                "dates": "2023",
                 "company": "PwC",
                 "job title": "IT Audit Intern",
                 "description": "Verified ISO 27001 compliance for a regional bank, identifying 3 critical security gaps.",
@@ -1483,7 +1483,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Cryptography and Network Defense",
                 "university": "Australian National University (ANU)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Computer Science"
@@ -1533,7 +1533,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "Red Bull",
                 "job title": "Partnerships Intern",
-                "description": "Coordinated logistics and sponsorship activations for 3 international extreme sports events.\n\nManaged athlete relations and social media content schedules.",
+                "description": "Coordinated logistics and sponsorship activations for 3 international extreme sports events.\nManaged athlete relations and social media content schedules.",
                 "country or city": "Salzburg"
             },
             {
@@ -1731,7 +1731,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Competitive Strategy",
+                "field": "Specialized in Competitive Strategy",
                 "university": "Bocconi University",
                 "country or city": "not found",
                 "level_of_degree": "BSc in International Management"
@@ -1795,7 +1795,7 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Corporate Finance and Asset Pricing",
                 "university": "London School of Economics (LSE)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Economics"
@@ -2060,7 +2060,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "Lean Manufacturing and Life Cycle Assessment",
+                "field": "Specialized in Lean Manufacturing and Life Cycle Assessment",
                 "university": "Technical University of Denmark (DTU)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in General Engineering"
@@ -2092,10 +2092,10 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "Computer Science",
+                "field": "not found",
                 "university": "IIT Madras",
                 "country or city": "not found",
-                "level_of_degree": "B.Tech"
+                "level_of_degree": "B.Tech in Computer Science"
             }
         ],
         "List of personal interests": [
@@ -2124,10 +2124,10 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "not found",
+                "field": "Political Science and Economics",
                 "university": "Sciences Po Paris",
                 "country or city": "not found",
-                "level_of_degree": "BA in Political Science and Economics"
+                "level_of_degree": "BA"
             },
             {
                 "dates": "not found",
@@ -2483,7 +2483,7 @@
         "List of studies": [
             {
                 "dates": "2018 - 2022",
-                "field": "Game Theory and Venture Capital",
+                "field": "Focus on Game Theory and Venture Capital",
                 "university": "Waseda University",
                 "country or city": "not found",
                 "level_of_degree": "BA in Economics"
@@ -2533,7 +2533,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "DHL Supply Chain",
                 "job title": "Logistics Intern",
-                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting optimization.\nImplemented a real-time tracking dashboard for last-mile deliveries.",
+                "description": "Optimized warehouse layout for a major FMCG client, reducing picking time by 12% through slotting optimization. Implemented a real-time tracking dashboard for last-mile deliveries.",
                 "country or city": "Mumbai"
             },
             {
@@ -2547,10 +2547,10 @@
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "Production Planning and Control",
+                "field": "Mechanical Engineering",
                 "university": "IIT Kharagpur",
                 "country or city": "not found",
-                "level_of_degree": "B.Tech in Mechanical Engineering"
+                "level_of_degree": "B.Tech"
             }
         ],
         "List of personal interests": [
@@ -2754,14 +2754,14 @@
     "CV 214 Original": {
         "List of professional experiences": [
             {
-                "dates": "June 2024 - Present",
+                "dates": "June 2024 - Present.",
                 "company": "Tencent",
                 "job title": "Data Science Intern",
-                "description": "Built a recommendation engine prototype for the gaming division using Deep Learning (PyTorch). Improved user retention by 4% during a 3-week A/B testing phase.",
+                "description": "Built a recommendation engine prototype for the gaming division using Deep Learning (PyTorch).\nImproved user retention by 4% during a 3-week A/B testing phase.",
                 "country or city": "Shenzhen"
             },
             {
-                "dates": "January 2024 - May 2024",
+                "dates": "January 2024 - May 2024.",
                 "company": "Baidu",
                 "job title": "Business Analyst Intern",
                 "description": "Cleaned and structured 10TB+ of search data using SQL and Hadoop to identify emerging consumer trends.",
@@ -2789,7 +2789,7 @@
                 "dates": "July 2023 - Jan 2024",
                 "company": "Boston Consulting Group (BCG)",
                 "job title": "Strategy Intern",
-                "description": "Supported a digital transformation project for a Tier-1 telco client. Conducted market sizing and competitive benchmarking for new IoT product launches. Prepared executive-level presentations for weekly steering committees.",
+                "description": "Supported a digital transformation project for a Tier-1 telco client.\nConducted market sizing and competitive benchmarking for new IoT product launches.\nPrepared executive-level presentations for weekly steering committees.",
                 "country or city": "London"
             },
             {
@@ -2821,7 +2821,7 @@
                 "dates": "June 2024 - December 2024",
                 "company": "KPMG, Paris",
                 "job title": "Audit Intern",
-                "description": "Participated in the statutory audit of 4 major retail clients.\n\nVerified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
+                "description": "Participated in the statutory audit of 4 major retail clients. Verified internal control systems and performed substantive testing on revenue recognition and accounts payable.",
                 "country or city": "not found"
             },
             {
@@ -2853,7 +2853,7 @@
                 "dates": "July 2024 - December 2024",
                 "company": "ING Bank",
                 "job title": "M&A Intern",
-                "description": "Supported the TMT sector team in preparing 3 confidential information memorandums (CIM) and 5 industry teasers. Performed complex company valuations using Trading Multiples and Transaction Multiples.",
+                "description": "Supported the TMT sector team in preparing 3 confidential information memorandums (CIM) and 5 industry teasers.\n\nPerformed complex company valuations using Trading Multiples and Transaction Multiples.",
                 "country or city": "Amsterdam"
             },
             {
@@ -2931,7 +2931,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2023",
-                "field": "not found",
+                "field": "Focus on game theory and industrial organization",
                 "university": "Universidad Carlos III de Madrid",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Economics"
@@ -3091,9 +3091,9 @@
         "List of studies": [
             {
                 "dates": "2021 - 2024",
-                "field": "Specialized in Corporate Reputation and Crisis Management.",
+                "field": "Specialized in Corporate Reputation and Crisis Management",
                 "university": "IE University, Madrid",
-                "country or city": "not found",
+                "country or city": "Madrid",
                 "level_of_degree": "Bachelor in Communications"
             }
         ],
@@ -3205,14 +3205,14 @@
                 "dates": "July 2023 - January 2024",
                 "company": "Estée Lauder Companies",
                 "job title": "Marketing Intern",
-                "description": "Assisted the Clinique brand team in coordinating influencer marketing campaigns.\nManaged the localization of global marketing assets for the Russian and CIS markets.\nPrepared monthly reports on competitor promotional activities and pricing.",
+                "description": "Assisted the Clinique brand team in coordinating influencer marketing campaigns. Managed the localization of global marketing assets for the Russian and CIS markets. Prepared monthly reports on competitor promotional activities and pricing.",
                 "country or city": "Moscow"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ketchum (Agency)",
                 "job title": "Public Relations Intern",
-                "description": "Drafted press releases and media kits for FMCG and lifestyle clients.\nAssisted in the organization of press events and product launches.",
+                "description": "Drafted press releases and media kits for FMCG and lifestyle clients. Assisted in the organization of press events and product launches.",
                 "country or city": "not found"
             }
         ],
@@ -3221,7 +3221,7 @@
                 "dates": "2020 - 2024",
                 "field": "not found",
                 "university": "MGIMO University, Moscow",
-                "country or city": "not found",
+                "country or city": "Moscow",
                 "level_of_degree": "BA in International Relations"
             }
         ],
@@ -3283,7 +3283,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Luxury Brand Marketing",
+                "field": "Specialized in Luxury Brand Marketing",
                 "university": "EDHEC Business School, Nice/Lille",
                 "country or city": "not found",
                 "level_of_degree": "BBA in International Management"
@@ -3308,14 +3308,14 @@
                 "dates": "July 2023 - January 2024",
                 "company": "Central Bank of Egypt",
                 "job title": "Research Intern",
-                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends. Prepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector. Utilized Stata to perform regression analysis on household expenditure surveys.",
+                "description": "Assisted the Monetary Policy department in analyzing inflation data and forecasting CPI trends.\nPrepared briefing notes on the impact of foreign exchange fluctuations on the manufacturing sector.\nUtilized Stata to perform regression analysis on household expenditure surveys.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "UNDP (United Nations Development Programme), Cairo",
                 "job title": "Policy Intern",
-                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt. Conducted field visits to rural communities to assess the impact of microfinance programs.",
+                "description": "Supported the \"Sustainable Development Goals\" (SDG) tracking project for Egypt.\nConducted field visits to rural communities to assess the impact of microfinance programs.",
                 "country or city": "not found"
             }
         ],
@@ -3490,8 +3490,8 @@
             {
                 "dates": "2021 - 2024",
                 "field": "not found",
-                "university": "Bocconi University, Milan",
-                "country or city": "not found",
+                "university": "Bocconi University",
+                "country or city": "Milan",
                 "level_of_degree": "BSc in Economics and Management"
             }
         ],
@@ -3521,7 +3521,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Specialized in Alternative Investments and Portfolio Management.",
+                "field": "Alternative Investments and Portfolio Management",
                 "university": "American University of Sharjah (AUS)",
                 "country or city": "not found",
                 "level_of_degree": "BSc in Finance"
@@ -3642,21 +3642,21 @@
                 "dates": "August 2023 - Present",
                 "company": "Ministry of Finance (SHCP)",
                 "job title": "Policy Analyst",
-                "description": "Analyze federal budget allocations for social programs, focusing on poverty alleviation metrics.\nDrafted technical reports on the economic impact of tax policy changes for senior government officials.\nCollaborated with the World Bank on a joint study regarding infrastructure financing in Latin America.",
+                "description": "Analyze federal budget allocations for social programs, focusing on poverty alleviation metrics.\n\nDrafted technical reports on the economic impact of tax policy changes for senior government officials.\nCollaborated with the World Bank on a joint study regarding infrastructure financing in Latin America.",
                 "country or city": "Mexico City"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Brookings Institution",
                 "job title": "Research Intern",
-                "description": "Conducted literature reviews and data analysis for a research project on urban governance in emerging markets.\nAssisted in the organization of policy forums with international experts and policymakers.\nUtilized STATA to analyze large-scale household survey data from the OECD.",
+                "description": "Conducted literature reviews and data analysis for a research project on urban governance in emerging markets.\n\nAssisted in the organization of policy forums with international experts and policymakers.\nUtilized STATA to analyze large-scale household survey data from the OECD.",
                 "country or city": "Washington D.C."
             }
         ],
         "List of studies": [
             {
                 "dates": "2019 - 2023",
-                "field": "not found",
+                "field": "Public Economics and Policy Evaluation",
                 "university": "ITAM, Mexico City",
                 "country or city": "Mexico City",
                 "level_of_degree": "BA in Political Science & International Relations"
@@ -3770,14 +3770,14 @@
                 "dates": "July 2023 - Present",
                 "company": "SEWA (Self Employed Women's Association)",
                 "job title": "Project Lead",
-                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and e-commerce.\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\nNegotiated partnerships with national retail chains to create new distribution channels.",
+                "description": "Led a vocational training initiative for 200+ women in rural Gujarat, focusing on digital literacy and e-commerce.\n\nManaged the end-to-end supply chain for a local handicraft brand, increasing artisan income by 40%.\n\nNegotiated partnerships with national retail chains to create new distribution channels.",
                 "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Ashoka",
                 "job title": "Impact Analyst Intern",
-                "description": "Conducted due diligence on social entrepreneurs for the Ashoka Fellowship program.\nDeveloped a framework to measure the \"Social Return on Investment\" (SROI) for education-tech startups.\nOrganized a pan-India networking event for social impact investors and changemakers.",
+                "description": "Conducted due diligence on social entrepreneurs for the Ashoka Fellowship program.\n\nDeveloped a framework to measure the \"Social Return on Investment\" (SROI) for education-tech startups.\n\nOrganized a pan-India networking event for social impact investors and changemakers.",
                 "country or city": "not found"
             }
         ],
@@ -3962,14 +3962,14 @@
                 "dates": "September 2023 - Present",
                 "company": "Barilla Group",
                 "job title": "Junior Product Manager",
-                "description": "Support the \"Sustainable Pasta\" line development, focusing on supply chain transparency.\nCoordinate with the R&D and packaging teams to launch eco-friendly product formats.\nAnalyze sales data and consumer trends in the Mediterranean market to adjust pricing strategies.",
+                "description": "Support the \"Sustainable Pasta\" line development, focusing on supply chain transparency. Coordinate with the R&D and packaging teams to launch eco-friendly product formats. Analyze sales data and consumer trends in the Mediterranean market to adjust pricing strategies.",
                 "country or city": "Parma"
             },
             {
                 "dates": "June 2022 - August 2023",
                 "company": "Lavazza",
                 "job title": "Supply Chain Intern",
-                "description": "Assisted in the procurement of green coffee beans from East African cooperatives.\nManaged logistics tracking for international shipments, ensuring adherence to \"Just-in-Time\" inventory principles.\nParticipated in a CSR project aimed at improving water access for coffee farmers.",
+                "description": "Assisted in the procurement of green coffee beans from East African cooperatives. Managed logistics tracking for international shipments, ensuring adherence to \"Just-in-Time\" inventory principles. Participated in a CSR project aimed at improving water access for coffee farmers.",
                 "country or city": "Turin"
             }
         ],
@@ -4008,7 +4008,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Specialization in Corporate Law, Taxation, and Contract Law.",
+                "field": "Corporate Law, Taxation, and Contract Law",
                 "university": "Université Paris-Panthéon-Assas (Paris II)",
                 "country or city": "not found",
                 "level_of_degree": "Master 1 in Business Law"
@@ -4058,14 +4058,14 @@
                 "dates": "July 2023 - Present",
                 "company": "Samsung C&T (Fashion Division)",
                 "job title": "Merchandising Intern",
-                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates. Managed sample coordination between global suppliers and local showrooms for the SS24 collection. Assisted in price architecture analysis, comparing local luxury market positioning with international benchmarks.",
+                "description": "Support the buying team for international contemporary brands, analyzing seasonal sell-through rates.\nManaged sample coordination between global suppliers and local showrooms for the SS24 collection.\nAssisted in price architecture analysis, comparing local luxury market positioning with international benchmarks.",
                 "country or city": "Seoul"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Dior (LVMH Korea)",
                 "job title": "Public Relations Intern",
-                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots. Assisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and press kits. Monitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
+                "description": "Coordinated with fashion editors and influencers for celebrity dressing and editorial shoots.\nAssisted in the organization of a high-profile pop-up store launch in Gangnam, managing guest lists and press kits.\nMonitored media coverage and prepared weekly reports on brand visibility in the APAC region.",
                 "country or city": "not found"
             }
         ],
@@ -4111,7 +4111,7 @@
             }
         ],
         "List of personal interests": [
-            "Ethical Hacking (CTF competitions)",
+            "Ethical Hacking",
             "Weightlifting",
             "Classical History"
         ]
@@ -4120,7 +4120,7 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
-                "company": "TETO Brasil (NGO)",
+                "company": "TETO Brasil",
                 "job title": "Program Coordinator",
                 "description": "Lead a team of 40+ volunteers in the construction of emergency housing for marginalized communities.\nManage relationships with corporate sponsors, securing over R$100k in funding through impact reports.\nCoordinate data collection in informal settlements to assess community needs and evaluate project im-\npact.",
                 "country or city": "not found"
@@ -4154,14 +4154,14 @@
                 "dates": "May 2024 - August 2024",
                 "company": "Shopify",
                 "job title": "Product Intern",
-                "description": "Conducted user research to identify pain points for small merchants using the Shopify POS system.\nDefined product requirements for a new inventory tracking feature, working closely with UX designers.\nMonitored product KPIs (Monthly Active Users, Feature Adoption) using Mixpanel and SQL.",
+                "description": "Conducted user research to identify pain points for small merchants using the Shopify POS system. Defined product requirements for a new inventory tracking feature, working closely with UX designers. Monitored product KPIs (Monthly Active Users, Feature Adoption) using Mixpanel and SQL.",
                 "country or city": "Toronto"
             },
             {
                 "dates": "June 2023 - August 2023",
                 "company": "Deloitte Digital",
                 "job title": "Business Analyst Intern",
-                "description": "Assisted in a CRM implementation project for a major retail client, streamlining their customer support workflow.\nMapped \"As-Is\" and \"To-Be\" business processes to identify automation opportunities.\nDrafted training materials and conducted user acceptance testing (UAT) for 200+ end-users.",
+                "description": "Assisted in a CRM implementation project for a major retail client, streamlining their customer support workflow. Mapped \"As-Is\" and \"To-Be\" business processes to identify automation opportunities. Drafted training materials and conducted user acceptance testing (UAT) for 200+ end-users.",
                 "country or city": "not found"
             }
         ],
@@ -4201,8 +4201,8 @@
             {
                 "dates": "2020 - 2024",
                 "field": "Industrial-Organizational (I-O) Psychology and Behavioral Economics",
-                "university": "IE University, Madrid",
-                "country or city": "not found",
+                "university": "IE University",
+                "country or city": "Madrid",
                 "level_of_degree": "Bachelor in Psychology"
             }
         ],
@@ -4289,14 +4289,14 @@
                 "dates": "August 2023 - Present",
                 "company": "Sanofi",
                 "job title": "Regulatory Affairs Intern",
-                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare professionals.",
+                "description": "Support the registration of new pharmaceutical products with the National Pharmaceutical Regulatory Agency.\n\nReview and update product labeling and packaging artwork to ensure compliance with local regulations.\nAssist in monitoring pharmacovigilance reports and coordinating communication with healthcare professionals.",
                 "country or city": "Dakar"
             },
             {
                 "dates": "2022 - 2023 (Part-time)",
                 "company": "Pharmacie de la Nation",
                 "job title": "Pharmacy Manager Assistant",
-                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expiration dates.\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
+                "description": "Managed inventory levels for over 2,000 SKUs, utilizing pharmacy management software to track expiration dates.\n\nAdvised patients on medication usage and health prevention (vaccination, nutrition).\n\nOptimized the digital ordering system, reducing stock-outs of critical antibiotics by 15%.",
                 "country or city": "not found"
             }
         ],
@@ -4319,16 +4319,16 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - Present",
-                "company": "Allegro (E-commerce)",
+                "company": "Allegro",
                 "job title": "Machine Learning Intern",
-                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
+                "description": "Developed and deployed a recommendation engine prototype using Python and Scikit-learn to improve cross-selling.\n\nCleaned and pre-processed datasets of 1M+ transactions using SQL and Spark.\n\nPerformed A/B testing on search algorithms, contributing to a 3% increase in click-through rates (CTR).",
                 "country or city": "Warsaw"
             },
             {
                 "dates": "January 2023 - June 2023",
                 "company": "Comarch",
                 "job title": "Junior Data Analyst",
-                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\nAssisted senior data scientists in building churn prediction models for B2B clients.",
+                "description": "Automated monthly reporting for the telecommunications business unit using Python and Power BI.\n\nIdentified data quality issues in the CRM and implemented a validation script that reduced data entry errors by 40%.\n\nAssisted senior data scientists in building churn prediction models for B2B clients.",
                 "country or city": "not found"
             }
         ],
@@ -4470,7 +4470,7 @@
         "List of studies": [
             {
                 "dates": "2020 - 2024",
-                "field": "Innovation and Digital Business",
+                "field": "Specialization in Innovation and Digital Business.",
                 "university": "Trinity College Dublin",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor of Business Studies (BBS)"
@@ -4486,10 +4486,10 @@
         "List of professional experiences": [
             {
                 "dates": "July 2023 - December 2023",
-                "company": "Boston Consulting Group (BCG)",
+                "company": "Boston Consulting Group (BCG), Casablanca",
                 "job title": "Sustainability Consultant Intern",
                 "description": "Supported a decarbonization roadmap for a major African mining company, focusing on Scope 1 and 2 emissions.\nConducted benchmarks on green hydrogen technologies and their financial feasibility in the MENA region.\nAssisted in the design of a circular economy framework for a consumer goods client, aiming to reduce plastic waste by 30%.\nPrepared executive-level slides for weekly steering committees and stakeholder engagement workshops.",
-                "country or city": "Casablanca"
+                "country or city": "not found"
             },
             {
                 "dates": "January 2023 - June 2023",
@@ -4552,14 +4552,14 @@
                 "dates": "July 2023 - Present",
                 "company": "L'Oréal (Luxe Division)",
                 "job title": "Marketing Assistant",
-                "description": "Coordinated the launch of a new skincare line, managing timelines between the global HQ and local retail teams.\nAnalyzed monthly sell-out data and market shares using Nielsen tools to optimize promotional budgets.\nDrafted creative briefs for social media agencies, resulting in a 25% increase in engagement on Instagram and TikTok.\nMonitored competitor activity in the Japanese \"J-Beauty\" market and produced monthly trend reports for the CMO.",
+                "description": "Coordinated the launch of a new skincare line, managing timelines between the global HQ and local retail teams.\n\nAnalyzed monthly sell-out data and market shares using Nielsen tools to optimize promotional budgets.\nDrafted creative briefs for social media agencies, resulting in a 25% increase in engagement on Instagram and TikTok.\n\nMonitored competitor activity in the Japanese \"J-Beauty\" market and produced monthly trend reports for the CMO.",
                 "country or city": "Tokyo"
             },
             {
                 "dates": "June 2022 - December 2022",
                 "company": "Rakuten",
                 "job title": "Digital Content Intern",
-                "description": "Optimized SEO copy for luxury fashion listings, improving organic search traffic by 10%.\nDesigned A/B tests for email marketing campaigns, focusing on click-through rates (CTR) and conversion.\nAssisted the E-commerce manager in updating homepage banners and promotional landing pages using HTML/CSS.",
+                "description": "Optimized SEO copy for luxury fashion listings, improving organic search traffic by 10%.\n\nDesigned A/B tests for email marketing campaigns, focusing on click-through rates (CTR) and conversion.\n\nAssisted the E-commerce manager in updating homepage banners and promotional landing pages using HTML/CSS.",
                 "country or city": "Tokyo"
             }
         ],
@@ -4863,8 +4863,8 @@
             {
                 "dates": "2018 - 2020",
                 "field": "not found",
-                "university": "Lycée Voltaire, Paris",
-                "country or city": "not found",
+                "university": "Lycée Voltaire",
+                "country or city": "Paris",
                 "level_of_degree": "BTS Communication"
             }
         ],
@@ -4879,8 +4879,8 @@
         "List of professional experiences": [
             {
                 "dates": "Jan 2020 - Sep 2023",
-                "company": "Logistics SME",
-                "job title": "Operations Coordinator",
+                "company": "not found",
+                "job title": "Operations Coordinator - Logistics SME",
                 "description": "Managed daily operational workflows and monitored KPIs for warehouse and delivery teams\nImplemented process improvements to reduce delays by 12%\nPrepared weekly and monthly reports for senior management\nCoordinated with vendors, drivers, and internal teams to ensure smooth operations",
                 "country or city": "not found"
             },
@@ -4927,10 +4927,10 @@
         "List of studies": [
             {
                 "dates": "2016 - 2019",
-                "field": "not found",
+                "field": "Logistics",
                 "university": "University of Zilina",
                 "country or city": "not found",
-                "level_of_degree": "Bachelor in Logistics"
+                "level_of_degree": "Bachelor"
             }
         ],
         "List of personal interests": [
@@ -4993,7 +4993,7 @@
         "List of studies": [
             {
                 "dates": "2016 - 2019",
-                "field": "not found",
+                "field": "corporate finance, accounting, and management control",
                 "university": "KU Leuven",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Business Economics"
@@ -5043,14 +5043,14 @@
                 "dates": "Jan 2016 - Sep 2023",
                 "company": "FMCG Group",
                 "job title": "Regional Sales Manager",
-                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\nCoordinated with marketing and logistics teams for product launches",
+                "description": "Developed and implemented regional sales strategies across Greece and the Balkans\nManaged a team of 15 sales representatives, including performance tracking and coaching\nConducted sales forecasting and KPI analysis to achieve quarterly targets\n\nCoordinated with marketing and logistics teams for product launches",
                 "country or city": "not found"
             },
             {
                 "dates": "2014 - 2016",
                 "company": "not found",
                 "job title": "Sales Executive",
-                "description": "Prospected and acquired B2B clients\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
+                "description": "Prospected and acquired B2B clients\n\nManaged client contracts and maintained long-term relationships\nPrepared sales reports and conducted performance analysis",
                 "country or city": "not found"
             }
         ],
@@ -5082,7 +5082,7 @@
                 "dates": "2016 - 2018",
                 "company": "not found",
                 "job title": "Data Analyst",
-                "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making accuracy.\nCollaborative",
+                "description": "Data Engineering: Cleaned and structured large-scale datasets to ensure data integrity.\nStatistical Modeling: Developed statistical models to refine business logic and improve decision-making accuracy.",
                 "country or city": "not found"
             }
         ],
@@ -5186,7 +5186,7 @@
                 "dates": "Mar 2021 - Aug 2023",
                 "company": "SME",
                 "job title": "Accounting Officer",
-                "description": "Managed monthly closing processes and tracked budgets\n\nPrepared financial statements and reconciliations\nAssisted management with financial reporting and compliance",
+                "description": "Managed monthly closing processes and tracked budgets\nPrepared financial statements and reconciliations\nAssisted management with financial reporting and compliance",
                 "country or city": "not found"
             },
             {
@@ -5583,7 +5583,7 @@
         "List of studies": [
             {
                 "dates": "2019 - 2022",
-                "field": "management, international business, and operations",
+                "field": "Specialization in management, international business, and operations",
                 "university": "Yerevan State University",
                 "country or city": "not found",
                 "level_of_degree": "Bachelor in Management"
@@ -5601,7 +5601,7 @@
                 "dates": "Feb 2023 - Aug 2023",
                 "company": "Telecom Company",
                 "job title": "Business Intelligence Assistant",
-                "description": "Built KPI dashboards and monitored operational performance\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
+                "description": "Built KPI dashboards and monitored operational performance\n\nValidated data from multiple sources for accuracy\nSupported business decision-making with actionable insights",
                 "country or city": "not found"
             },
             {
@@ -6449,8 +6449,8 @@
         ],
         "List of personal interests": [
             "Digital branding",
-            "photography",
-            "social media trends"
+            "Photography",
+            "Social media trends"
         ]
     },
     "CV 101 Original": {
@@ -6557,7 +6557,22 @@
         ]
     },
     "CV 098 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Aug 2023",
+                "company": "Industrial Group",
+                "job title": "Financial Controller Assistant",
+                "description": "Tracked budgets and prepared cost reports\n\nSupported financial decision-making with Excel analysis\n\nAssisted in monthly reporting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "not found",
+                "job title": "Intern - Accounting Department",
+                "description": "Entered financial data and assisted with account reconciliations\n\nSupported senior accountants in financial documentation",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6567,10 +6582,29 @@
                 "level_of_degree": "Bachelor in Business Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Corporate finance",
+            "learning languages",
+            "investment trends"
+        ]
     },
     "CV 097 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2022 - Sep 2023",
+                "company": "Distribution Company",
+                "job title": "Logistics Planner",
+                "description": "Planned delivery schedules and optimized routes for efficiency\nMonitored costs and proposed process improvements\nPrepared operational reports for management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Intern - Warehouse Operations",
+                "description": "Conducted inventory control and stock audits\nAssisted in warehouse organization and process documentation",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2021",
@@ -6580,10 +6614,29 @@
                 "level_of_degree": "Bachelor in Logistics and Transport"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Operations efficiency",
+            "fitness",
+            "logistics innovation"
+        ]
     },
     "CV 096 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2022 - Present",
+                "company": "Retail Company",
+                "job title": "Student Worker",
+                "description": "Monitored sales and stock performance\nAssisted in operational reporting and inventory tracking",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2023",
+                "company": "Sustainability Office",
+                "job title": "Intern",
+                "description": "Collected ESG data and prepared sustainability reports\nAssisted in analyzing corporate social responsibility metrics",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2021 - Present",
@@ -6593,10 +6646,29 @@
                 "level_of_degree": "Bachelor in Business and Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Sustainability",
+            "yoga",
+            "corporate responsibility"
+        ]
     },
     "CV 095 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Apr 2023 - Sep 2023",
+                "company": "Tech Startup",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research and identified growth opportunities\nUpdated CRM and sales pipelines\nAssisted in pitching to potential clients",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2022",
+                "company": "not found",
+                "job title": "Freelance Project",
+                "description": "Conducted market research for SMEs\nProvided recommendations on operational improvements",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6606,10 +6678,29 @@
                 "level_of_degree": "Bachelor in Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Startups",
+            "networking",
+            "innovation"
+        ]
     },
     "CV 094 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2022 - Aug 2023",
+                "company": "NGO",
+                "job title": "Operations Officer",
+                "description": "Coordinated projects and monitored budgets\nPrepared progress reports and assisted in operational planning",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Administrative Intern",
+                "description": "Provided general office support, including documentation and scheduling\nAssisted in data entry and project tracking",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018 - 2021",
@@ -6619,10 +6710,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Social impact",
+            "project management",
+            "community engagement"
+        ]
     },
     "CV 093 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Manufacturing Group",
+                "job title": "Strategy Intern",
+                "description": "Conducted market analysis and competitive benchmarking\nAssisted in developing strategic recommendations\nPrepared reports and presentations for senior management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "Corporate Office",
+                "job title": "Working Student",
+                "description": "Provided reporting support and administrative assistance\nAssisted in internal business analysis",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6632,10 +6742,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Business strategy",
+            "hiking",
+            "industry research"
+        ]
     },
     "CV 092 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2023 - Aug 2023",
+                "company": "Telecom Company",
+                "job title": "Data Intern",
+                "description": "Built KPI dashboards and monitored operational metrics\nEnsured data quality and performed cleansing tasks\nAssisted in reporting insights to management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2022",
+                "company": "University Lab",
+                "job title": "Student Project",
+                "description": "Collected and analyzed market and survey data\nSupported faculty research and data interpretation",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6645,10 +6774,29 @@
                 "level_of_degree": "Bachelor in Business and Data"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data visualization",
+            "running",
+            "analytics competitions"
+        ]
     },
     "CV 091 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2022 - Sep 2023",
+                "company": "Trading Company",
+                "job title": "Business Coordinator",
+                "description": "Coordinated supplier relations and monitored supply chain activities\nPrepared sales and performance reports for management\nSupported business development initiatives and operational planning",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "not found",
+                "job title": "Intern - Logistics Department",
+                "description": "Assisted with shipment tracking and documentation\nCoordinated inventory and logistics support tasks",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2021",
@@ -6658,10 +6806,29 @@
                 "level_of_degree": "Bachelor in Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "International trade",
+            "travel",
+            "supply chain optimization"
+        ]
     },
     "CV 090 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2023 - Jul 2023",
+                "company": "E-commerce Startup",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns and measured engagement metrics\nTracked campaign performance and prepared reporting dashboards\nAssisted in content creation and marketing strategy meetings",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "University Events",
+                "job title": "Student Assistant",
+                "description": "Coordinated campus events, promotions, and student activities\nAssisted in logistics, registration, and post-event analysis",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6671,10 +6838,29 @@
                 "level_of_degree": "Bachelor in Marketing"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Content creation",
+            "branding",
+            "digital campaigns"
+        ]
     },
     "CV 089 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6684,10 +6870,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Personal finance",
+            "cycling",
+            "financial literacy"
+        ]
     },
     "CV 088 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Apr 2022 - Sep 2023",
+                "company": "Energy Company",
+                "job title": "Financial Analyst",
+                "description": "Monitored budgets, prepared financial forecasts, and performed cost analysis\nDeveloped Excel-based reports to track operational and project expenses\nAssisted management in financial decision-making through data insights",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "Investment Advisory Firm",
+                "job title": "Intern",
+                "description": "Supported creation of financial models for client investment portfolios\nConducted industry research and competitor analysis\nAssisted in preparing reports for client presentations",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2021",
@@ -6697,10 +6902,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Corporate finance",
+            "sustainability",
+            "investment strategies"
+        ]
     },
     "CV 087 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2022 - Present",
+                "company": "Retail Chain",
+                "job title": "Working Student",
+                "description": "Monitored store performance metrics and prepared sales reports\nAnalyzed stock levels and inventory turnover to improve supply efficiency\nAssisted store managers in operational planning and daily reporting",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2023",
+                "company": "Small Consulting Firm",
+                "job title": "Intern",
+                "description": "Collected and analyzed client data for strategic",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2021 - Present",
@@ -6710,10 +6934,29 @@
                 "level_of_degree": "Bachelor in Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Business strategy",
+            "fitness",
+            "retail trends"
+        ]
     },
     "CV 086 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "Import Export Company",
+                "job title": "Trade Assistant",
+                "description": "Coordinated with international suppliers for timely shipping and quality compliance\nManaged shipping documentation and customs paperwork\nAssisted in evaluating supplier performance and cost efficiency",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Chamber of Commerce",
+                "job title": "Intern",
+                "description": "Conducted market research and prepared business reports\nAnalyzed trade statistics and generated summaries for export opportunities",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6730,10 +6973,29 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Geopolitics",
+            "languages",
+            "international business"
+        ]
     },
     "CV 085 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2023 - Jul 2023",
+                "company": "Logistics Startup",
+                "job title": "Business Assistant",
+                "description": "Conducted market research to identify business opportunities and competitor analysis\nMonitored operational costs and assisted in budgeting\nPrepared weekly reports on performance metrics for the management team",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "Youth Employment Program",
+                "job title": "NGO Volunteer",
+                "description": "Coordinated training sessions for young entrepreneurs\nDeveloped instructional materials and schedules\nSupported program evaluation through data collection and reporting",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6743,10 +7005,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Startups",
+            "social impact",
+            "youth development"
+        ]
     },
     "CV 084 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2022 - Sep 2023",
+                "company": "Tourism Company",
+                "job title": "Marketing Coordinator",
+                "description": "Managed social media campaigns, increasing engagement by 25%\nMonitored performance metrics and prepared monthly reports for management\nCoordinated events and promotions to increase brand visibility",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019",
+                "company": "Advertising Agency",
+                "job title": "Intern",
+                "description": "Assisted creative teams in content creation and campaign execution\nConducted market research for client campaigns",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2020",
@@ -6763,10 +7044,30 @@
                 "level_of_degree": "Master in Digital Marketing"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Photography",
+            "travel branding",
+            "social media trends",
+            "creative writing"
+        ]
     },
     "CV 083 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "Manufacturing SME",
+                "job title": "Operations Supervisor",
+                "description": "Supervised daily production planning and monitored performance metrics\nEnsured production targets were met while maintaining quality standards\nUsed Excel to track output, resource utilization, and downtime",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "not found",
+                "job title": "Intern - Supply Chain Department",
+                "description": "Assisted in inventory tracking and stock audits\nPrepared reports to analyze operational efficiency",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6776,10 +7077,23 @@
                 "level_of_degree": "Bachelor in Industrial Engineering"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Process improvement",
+            "sports",
+            "industrial innovation",
+            "robotics"
+        ]
     },
     "CV 082 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Apr 2023 - Aug 2023",
+                "company": "Local Advisory Firm",
+                "job title": "Consulting Intern",
+                "description": "Conducted market research and competitor analysis for clients\nPrepared client slide decks and presentations for strategic",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6789,10 +7103,30 @@
                 "level_of_degree": "Bachelor in Business Studies"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Case competitions",
+            "debating",
+            "strategy analysis",
+            "mentoring"
+        ]
     },
     "CV 081 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "E-commerce Company",
+                "job title": "Junior Data Analyst",
+                "description": "Analyzed customer and sales data to identify trends and improvement areas\nBuilt dashboards in Power BI to track KPIs and performance metrics\nAssisted marketing and operations teams in data-driven decision-making",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020 - 2021",
+                "company": "not found",
+                "job title": "IT Support Intern",
+                "description": "Cleaned and managed internal data systems\nProvided technical support to end-users",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018 - 2021",
@@ -6809,10 +7143,30 @@
                 "level_of_degree": "Master in Applied Data Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data projects",
+            "automation",
+            "business intelligence",
+            "tech innovation"
+        ]
     },
     "CV 080 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Microfinance Institution",
+                "job title": "Finance Intern",
+                "description": "Assisted in preparing client financial files and assessing repayment capacity\nCalculated risk indicators and monitored loan performance\nPrepared reports for senior managers to inform lending decisions",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Accounting Assistant (part-time)",
+                "description": "Processed invoices, performed reconciliations, and maintained accounting records\nAssisted in preparing monthly financial summaries",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6822,10 +7176,30 @@
                 "level_of_degree": "Bachelor in Finance"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Women entrepreneurship",
+            "financial literacy",
+            "reading",
+            "investment trends"
+        ]
     },
     "CV 079 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2023 - Present",
+                "company": "Retail Group",
+                "job title": "Commercial Analyst",
+                "description": "Supported pricing analysis and sales performance monitoring\nCreated Excel dashboards summarizing weekly sales trends and store performance\nAssisted in strategic decision-making and competitor benchmarking",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jun 2021 - Dec 2021",
+                "company": "Family-owned Export Company",
+                "job title": "Intern",
+                "description": "Managed export documentation and compliance requirements\nCommunicated with suppliers and logistics partners for shipment coordination",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6842,10 +7216,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Travel",
+            "economics podcasts",
+            "international trade",
+            "entrepreneurship"
+        ]
     },
     "CV 078 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2022 - Aug 2023",
+                "company": "Local Commercial Bank",
+                "job title": "Credit Analyst",
+                "description": "Analyzed loan applications and assessed credit risk using financial ratios\nPrepared reports on loan performance and assisted in decision-making processes\nMaintained Excel-based tracking systems for client credit profiles",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "Accounting Firm",
+                "job title": "Intern",
+                "description": "Supported bookkeeping and financial documentation\nReconciled client accounts and assisted auditors with data verification",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2021",
@@ -6862,10 +7256,22 @@
                 "level_of_degree": "Master in Banking & Finance"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Professional growth",
+            "finance books",
+            "investment strategies"
+        ]
     },
     "CV 077 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Graduate Trainee",
+                "description": "Conducted market research and competitive analysis for client",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6878,7 +7284,22 @@
         "List of personal interests": []
     },
     "CV 076 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Apr 2023 - Sep 2023",
+                "company": "Retail Company",
+                "job title": "Data Assistant",
+                "description": "Cleaned and structured sales data for analysis\nUpdated and maintained dashboards to monitor product performance and sales trends\nAssisted the analytics team in creating reports for management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Student Job - University Admin",
+                "description": "Provided administrative support and coordinated student records\nCollected and organized data for research and reporting",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6895,10 +7316,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data visualization",
+            "hiking",
+            "analytics competitions",
+            "business trends"
+        ]
     },
     "CV 075 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "Public Innovation Agency",
+                "job title": "Project Officer",
+                "description": "Coordinated startup programs and incubator initiatives\nMonitored KPIs and produced monthly reports on program effectiveness\nAssisted startups in market validation and business model refinement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020 - 2021",
+                "company": "not found",
+                "job title": "Co-founder - Student Startup (failed)",
+                "description": "Developed business plan and financial projections\nPrepared pitch decks and investor presentations\nGained hands-on experience in fundraising and team management",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018 - 2021",
@@ -6915,10 +7356,30 @@
                 "level_of_degree": "Master in Innovation & Entrepreneurship"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Entrepreneurship",
+            "mentoring",
+            "innovation trends",
+            "public policy"
+        ]
     },
     "CV 074 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2023 - Jul 2023",
+                "company": "Multinational Manufacturing Company",
+                "job title": "HR Intern",
+                "description": "Conducted CV screening and initial candidate interviews for junior positions\nCoordinated interview schedules and communicated with candidates professionally\nAssisted in preparing HR reports and presentations for management meetings",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Sales Assistant (part-time)",
+                "description": "Provided customer support and managed daily sales administration\nTracked customer requests and reported performance metrics",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6928,10 +7389,30 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Psychology",
+            "volunteering",
+            "reading",
+            "leadership development"
+        ]
     },
     "CV 073 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "not found",
+                "job title": "Operations Coordinator - Logistics SME",
+                "description": "Monitored daily operations and ensured smooth warehouse and delivery processes\nMaintained Excel-based inventory tracking and KPI dashboards to optimize stock levels\nCoordinated with vendors and internal teams to improve operational efficiency",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Hyundai Mobis",
+                "job title": "Intern - Hyundai Mobis",
+                "description": "Assisted in production data monitoring and reporting\nAnalyzed assembly line efficiency and suggested minor improvements to reduce waste",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6941,10 +7422,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Running",
+            "process optimization",
+            "logistics innovation",
+            "podcasts"
+        ]
     },
     "CV 072 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Mar 2022 - Oct 2023",
+                "company": "Fintech Startup",
+                "job title": "Business Development Executive",
+                "description": "Conducted market expansion research for new fintech products in Egypt and the MENA region\nIdentified and established partnerships with potential clients and B2B partners\nPrepared weekly and monthly reports tracking KPIs, sales pipeline, and growth metrics",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "PwC Egypt",
+                "job title": "Intern",
+                "description": "Assisted in audit support tasks and documentation review\nReviewed internal financial reports and prepared supporting spreadsheets",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017 - 2021",
@@ -6954,10 +7455,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Startups",
+            "networking events",
+            "yoga",
+            "innovation trends"
+        ]
     },
     "CV 071 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Rappi",
+                "job title": "Marketing Intern",
+                "description": "Coordinated digital marketing campaigns, including influencer partnerships and email marketing\nMonitored campaign performance metrics using Google Analytics and Excel dashboards\nConducted competitor research and presented recommendations for improving engagement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Student Assistant - Marketing Department",
+                "description": "Assisted in surveys, focus groups, and market research",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -6974,10 +7495,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Content creation",
+            "photography",
+            "social media trends",
+            "marketing strategy"
+        ]
     },
     "CV 070 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Feb 2023 - Aug 2023",
+                "company": "Deloitte Poland",
+                "job title": "Accounting Assistant",
+                "description": "Supported audit missions for corporate clients, including reviewing financial statements and verifying compliance with accounting standards\nConducted detailed data checks, reconciled accounts, and assisted in preparing audit reports\nCollaborated with teams to ensure timely delivery of audit findings and client presentations",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jul 2021 - Dec 2021",
+                "company": "PKO Bank Polski",
+                "job title": "Finance Intern",
+                "description": "Assisted in credit risk assessment for retail and SME clients\nDeveloped Excel reports summarizing financial metrics and loan performance\nParticipated in client meetings to present financial analysis and credit recommendations",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -6987,10 +7528,30 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Personal finance",
+            "pilates",
+            "budgeting",
+            "investment strategies"
+        ]
     },
     "CV 069 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jan 2022 - Sep 2023",
+                "company": "Orange Tunisia",
+                "job title": "Junior Sales Assistant",
+                "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jun 2021 - Dec 2021",
+                "company": "not found",
+                "job title": "Intern - Local Consulting Firm (SME)",
+                "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommenda-\ntions\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018 - 2021",
@@ -7007,10 +7568,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Travel",
+            "football",
+            "online courses",
+            "entrepreneurship insights"
+        ]
     },
     "CV 068 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "Jun 2023 - Sep 2023",
+                "company": "PwC Vietnam",
+                "job title": "Finance Intern",
+                "description": "Assisted in audit and financial review engagements for corporate clients, including examining balance sheets, income statements, and cash flow statements\nConducted variance analysis to identify discrepancies in accounting records\nPrepared summary reports for senior auditors and contributed to client presentation decks",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jan 2023 - May 2023",
+                "company": "VinGroup",
+                "job title": "Business Analyst Intern",
+                "description": "Supported internal reporting by collecting and analyzing sales, revenue, and operational data\nDeveloped Excel dashboards to monitor KPIs such as revenue growth, customer acquisition, and product performance\nConducted market studies to benchmark competitor performance and inform strategic decisions",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2021 - 2024",
@@ -7020,10 +7601,30 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Professional development",
+            "public speaking",
+            "mentoring",
+            "international business trends"
+        ]
     },
     "CV 067 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "March 2023 - August 2023",
+                "company": "Early-Stage Venture Capital Fund",
+                "job title": "Startup Analyst",
+                "description": "Evaluated startup business models, pitch decks and growth strategies\n\nConducted market and competitive analysis for early-stage ventures\n\nSupported investment screening and due diligence processes\n\nAssisted partners in preparing investment memos",
+                "country or city": "not found"
+            },
+            {
+                "dates": "July 2022 - February 2023",
+                "company": "Mercado Libre",
+                "job title": "Operations Intern",
+                "description": "Supported logistics and operations optimization initiatives\n\nAssisted in data analysis related to delivery performance and efficiency\nCollaborated with operations teams on process improvement",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -7033,10 +7634,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Entrepreneurship",
+            "podcasts",
+            "fintech innovation"
+        ]
     },
     "CV 066 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Accenture UK",
+                "job title": "Consulting Intern",
+                "description": "Supported digital transformation projects for corporate clients\nConducted market analysis, process mapping and benchmarking\nAssisted consultants in preparing client presentations and reports\nGained exposure to client-facing work and consulting methodologies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "July 2022 - December 2022",
+                "company": "Unilever",
+                "job title": "Strategy Intern",
+                "description": "Assisted strategy teams in portfolio and business unit reviews\nConducted internal analyses to support strategic decision-making\nContributed to strategic presentations for senior management",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -7046,10 +7666,22 @@
                 "level_of_degree": "Bachelor in Business Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Case competitions",
+            "sustainability strategy",
+            "Pilates"
+        ]
     },
     "CV 065 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "April 2023 - September 2023",
+                "company": "SAP",
+                "job title": "Data Analyst Intern",
+                "description": "Built dashboards for internal performance monitoring and reporting\nSupported data cleaning, validation and reporting automation processes\nWorked with large datasets to extract insights for internal stakeholders\nCollaborated with analysts and IT teams on analytics",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -7059,10 +7691,29 @@
                 "level_of_degree": "Bachelor in Business Informatics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Data science competitions",
+            "cycling",
+            "technology trends"
+        ]
     },
     "CV 064 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "February 2023 - July 2023",
+                "company": "OCP Group",
+                "job title": "Export Assistant",
+                "description": "Supported international sales and export operations for fertilizer products\n\nCoordinated logistics and export documentation with internal and external stakeholders\n\nAssisted in monitoring shipment schedules and compliance requirements\nContributed to communication with international clients and partners",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - January 2023",
+                "company": "Attijariwafa Bank",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research on North African and regional markets\nSupported business development initiatives and market entry analysis\nAssisted in preparing internal reports and strategic presentations",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -7072,10 +7723,29 @@
                 "level_of_degree": "Bachelor in Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "International relations",
+            "volunteering",
+            "travel"
+        ]
     },
     "CV 063 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "April 2022 - March 2023",
+                "company": "Toyota Motor Corporation",
+                "job title": "Operations Planning Analyst",
+                "description": "Supported production planning and demand forecasting activities\n\nAssisted in capacity planning and coordination between production units\nContributed to lean manufacturing and continuous improvement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "August 2021 - February 2022",
+                "company": "Mitsui & Co.",
+                "job title": "Logistics Intern",
+                "description": "Analyzed international shipping routes and logistics cost structures\nSupported coordination with logistics partners and internal teams\n\nContributed to reporting on transportation efficiency and cost optimization",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018 - 2022",
@@ -7085,10 +7755,29 @@
                 "level_of_degree": "Bachelor in Industrial Engineering"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Martial arts",
+            "process optimization",
+            "productivity systems"
+        ]
     },
     "CV 062 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "February 2023 - July 2023",
+                "company": "Coca-Cola FEMSA",
+                "job title": "Digital Marketing Intern",
+                "description": "Supported the execution of digital marketing campaigns across social media platforms\nCoordinated influencer partnerships and monitored campaign deliverables\nAnalyzed campaign performance using engagement, reach and conversion metrics\nPrepared performance reports and insights for marketing managers",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - January 2023",
+                "company": "L'Oréal Mexico",
+                "job title": "Brand Assistant",
+                "description": "Assisted brand managers in product launches and promotional initiatives\nConducted market research and competitor analysis within the beauty sector\nSupported the preparation of presentations for brand strategy and planning meetings\nHelped coordinate communication between marketing, sales and external agencies",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -7098,10 +7787,29 @@
                 "level_of_degree": "Bachelor in Marketing"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Photography",
+            "fashion marketing",
+            "content creation"
+        ]
     },
     "CV 061 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Luxottica",
+                "job title": "Operations Analyst Intern",
+                "description": "Analyzed supply chain and operational KPIs for the EMEA region\n\nSupported initiatives aimed at improving inventory turnover and delivery performance\nCoordinated with logistics providers and internal stakeholders to improve data reporting\nContributed to operational reviews and continuous improvement initiatives",
+                "country or city": "not found"
+            },
+            {
+                "dates": "September 2022 - December 2022",
+                "company": "Salesforce Italy",
+                "job title": "Sales Operations Intern",
+                "description": "Supported sales pipeline analysis and revenue forecasting activities\n\nBuilt reports and dashboards for regional sales teams using CRM data\nAssisted sales managers with performance tracking and opportunity analysis\nGained exposure to enterprise sales processes in a multinational tech environment",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2022",
@@ -7111,10 +7819,36 @@
                 "level_of_degree": "Bachelor in Economics and Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cycling",
+            "geopolitics",
+            "luxury industry trends"
+        ]
     },
     "CV 060 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "April 2023 - July 2023",
+                "company": "Tata Capital",
+                "job title": "Finance Intern",
+                "description": "Assisted credit risk analysts in the assessment of SME loan applications\nPrepared borrower financial profiles, including income statements, balance sheets and cash flow summaries\nSupported the evaluation of creditworthiness through ratio analysis and risk indicators\nContributed to internal reporting and documentation for credit committees",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - August 2022",
+                "company": "Motilal Oswal",
+                "job title": "Equity Research Intern",
+                "description": "Conducted financial and qualitative analysis of publicly listed Indian companies\nBuilt valuation models using discounted cash flow (DCF) and comparable multiples approaches\nAnalyzed industry trends, company fundamentals and earnings drivers\nAssisted in the preparation of equity research notes and investment summaries",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2023",
+                "company": "not found",
+                "job title": "Treasurer - Student Finance Club",
+                "description": "Managed the annual budget of the student organization and monitored expenses\nCoordinated sponsorship negotiations with external partners and institutions\nOversaw financial planning for academic events and workshops on financial literacy",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020 - 2023",
@@ -7124,23 +7858,70 @@
                 "level_of_degree": "Bachelor of Commerce"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Stock markets",
+            "yoga",
+            "public speaking",
+            "financial literacy initiatives"
+        ]
     },
     "CV 059 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "July 2023 - December 2023",
+                "company": "Itaú Unibanco, São Paulo",
+                "job title": "Business Analyst Intern",
+                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client segments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and performance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
+                "country or city": "not found"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Ambev (AB InBev Group)",
+                "job title": "Strategy Intern",
+                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\nWorked closely with strategy and commercial teams in a multinational environment",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "FGV Junior Enterprise",
+                "job title": "Student Consultant",
+                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process optimization\nPresented findings and actionable recommendations directly to clients' management teams",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019 - 2023",
                 "field": "not found",
                 "university": "Fundação Getulio Vargas (FGV), São Paulo",
-                "country or city": "São Paulo",
+                "country or city": "not found",
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "macroeconomics",
+            "entrepreneurship",
+            "endurance running"
+        ]
     },
     "CV 058 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Freelance Game Designer",
+                "description": "Conceptualized, developed, and tested indie games. Collaborated with artists and programmers, managed deadlines, playtesting sessions, user feedback integration.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Gaming Startup",
+                "description": "Campaign planning, social media content, engagement tracking, analytics reporting.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7150,10 +7931,30 @@
                 "level_of_degree": "Bachelor in Digital Arts & Game Design"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Gaming",
+            "coding",
+            "anime",
+            "travel"
+        ]
     },
     "CV 057 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1.5 years",
+                "company": "not found",
+                "job title": "Social Impact Consultant",
+                "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Startup",
+                "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7163,10 +7964,30 @@
                 "level_of_degree": "Bachelor in Social Entrepreneurship"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "volunteering",
+            "blogging",
+            "photography"
+        ]
     },
     "CV 056 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "3 years",
+                "company": "not found",
+                "job title": "Independent Music Producer",
+                "description": "Composed, recorded, and mixed tracks, collaborated with artists, managed online distribution, promoted music on social media platforms.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Event Coordinator, Local Music Festival",
+                "description": "Organized artist line-up, coordinated logistics, managed sponsorships, marketing.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7176,10 +7997,30 @@
                 "level_of_degree": "Bachelor in Music Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Music production",
+            "DJing",
+            "travel",
+            "photography"
+        ]
     },
     "CV 055 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "E-Sports Team Manager",
+                "description": "Coordinated team schedules, organized tournaments, negotiated sponsorships, managed social media presence.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Tech Startup",
+                "description": "Campaign analytics, content creation, data reporting, cross-team collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7189,10 +8030,30 @@
                 "level_of_degree": "Bachelor in Media & Entertainment Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Gaming",
+            "streaming",
+            "content creation",
+            "photography"
+        ]
     },
     "CV 054 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Drone Photography Freelancer",
+                "description": "Captured aerial photos for events, real estate, marketing campaigns. Edited images, liaised with clients, managed project timelines.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Tourism Board",
+                "job title": "Marketing Intern",
+                "description": "Social media strategy, content creation, engagement tracking, campaign reporting.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7202,10 +8063,30 @@
                 "level_of_degree": "Bachelor in Media & Communication"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "drone flying",
+            "video editing",
+            "music"
+        ]
     },
     "CV 053 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Max Planck Institute",
+                "job title": "Research Intern",
+                "description": "Conducted behavioral economics experiments, data collection, statistical analysis, co-authored research report.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Freelance Marketing Consultant",
+                "description": "Designed campaigns for small businesses, analyzed engagement metrics, social media content planning.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7215,10 +8096,30 @@
                 "level_of_degree": "Bachelor in Psychology"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading psychology books",
+            "chess",
+            "travel",
+            "creative writing"
+        ]
     },
     "CV 052 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1.5 years",
+                "company": "not found",
+                "job title": "Freelance Tech Consultant",
+                "description": "Provided IT solutions for small businesses, website optimization, data analytics dashboards, CRM setup, client training.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Startup Mentor, Local Incubator",
+                "description": "Advised early-stage entrepreneurs on business strategy, market research, and growth metrics.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7228,10 +8129,30 @@
                 "level_of_degree": "Bachelor in Computer Engineering"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Gaming",
+            "travel",
+            "coding side projects",
+            "volunteering"
+        ]
     },
     "CV 051 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "GreenHands NGO",
+                "job title": "Social Entrepreneur, Founder",
+                "description": "Managed environmental awareness campaigns, led community workshops, organized fundraisers, collaborated with local government and schools, created project reports and digital content.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Local Eco-Business",
+                "job title": "Marketing Intern",
+                "description": "Social media strategy, campaign analytics, content creation, engagement monitoring.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7241,10 +8162,30 @@
                 "level_of_degree": "Bachelor in Environmental Studies"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "sustainable cooking",
+            "hiking",
+            "photography"
+        ]
     },
     "CV 050 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "4 years",
+                "company": "SÃo Paulo FC",
+                "job title": "Professional Football Player",
+                "description": "Team leadership, international travel, sponsorship promotion, media appearances, training program planning.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Local Sports Tech Startup",
+                "job title": "Sports Analytics Intern",
+                "description": "Collected performance data, analyzed team statistics, prepared dashboards for coaches, suggested data-driven strategies for training.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2021",
@@ -7254,10 +8195,30 @@
                 "level_of_degree": "Bachelor in Sports Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "coaching",
+            "music",
+            "reading sports literature"
+        ]
     },
     "CV 049 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Freelance Creative Strategist",
+                "description": "Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Volunteer Event Organizer, Stockholm Arts Festival",
+                "description": "Coordinated workshops, artist communications, logistics, and community engagement events.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7267,10 +8228,30 @@
                 "level_of_degree": "Bachelor in Arts Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Painting",
+            "photography",
+            "hiking",
+            "volunteer coaching"
+        ]
     },
     "CV 048 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Gazprom",
+                "job title": "Finance Analyst Intern",
+                "description": "Portfolio evaluation, financial modeling, reporting, client support.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Yandex",
+                "job title": "Business Development Intern",
+                "description": "Market research, KPI tracking, sales proposals, collaboration with multiple teams.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7280,10 +8261,30 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "chess",
+            "volunteering"
+        ]
     },
     "CV 047 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Attijariwafa Bank",
+                "job title": "Finance Intern",
+                "description": "Financial reporting, portfolio analysis, risk assessment, client meetings.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Maroc Telecom",
+                "job title": "Marketing Intern",
+                "description": "Coordinated campaigns, tracked KPIs, social media content, analytics reports.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7293,10 +8294,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "travel",
+            "reading",
+            "volunteering"
+        ]
     },
     "CV 046 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Alibaba Group",
+                "job title": "Business Development Intern",
+                "description": "Market research, competitor analysis, KPI tracking, preparing reports for management.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Tencent",
+                "job title": "Marketing Analyst Intern",
+                "description": "Social media campaigns, engagement tracking, data visualization, weekly reports, cross-team collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7306,10 +8327,30 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "cooking",
+            "photography",
+            "esports"
+        ]
     },
     "CV 045 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Banco Santander",
+                "job title": "Finance Intern",
+                "description": "Risk analysis, portfolio evaluation, financial modeling, reporting, client support.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Jerónimo Martins",
+                "job title": "Business Analyst Intern",
+                "description": "Market research, KPI dashboards, sales proposal preparation, cross-functional collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7326,10 +8367,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "photography",
+            "football",
+            "volunteering"
+        ]
     },
     "CV 044 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Emirates NBD",
+                "job title": "Finance Intern",
+                "description": "Assisted in investment research, financial reporting, KPI dashboards, client presentations.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Du Telecom",
+                "job title": "Business Development Intern",
+                "description": "Supported market research, product launch planning, sales reporting, team coordination.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7339,10 +8400,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "sports",
+            "reading",
+            "volunteering"
+        ]
     },
     "CV 043 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Sberbank",
+                "job title": "Finance Analyst Intern",
+                "description": "Assisted in financial modeling, reporting, client communication, portfolio evaluation.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Yandex",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns, analyzed engagement metrics, prepared weekly analytics reports.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7352,10 +8433,30 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "chess",
+            "volunteering"
+        ]
     },
     "CV 042 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7372,10 +8473,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "photography",
+            "cooking",
+            "finance meetups"
+        ]
     },
     "CV 041 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Nestlé Pakistan",
+                "job title": "Marketing Intern",
+                "description": "Managed campaign content, social media monitoring, engagement tracking, collaborated with creative teams, assisted in organizing tasting events, collected feedback.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Telenor Pakistan",
+                "job title": "Business Analyst Intern",
+                "description": "Prepared sales reports, analyzed customer data, drafted executive summaries, collaborated on market research projects.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7385,10 +8506,30 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "reading strategy books",
+            "yoga",
+            "volunteering"
+        ]
     },
     "CV 040 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio risk assessment, created financial models, attended client meetings, prepared reports for investment teams.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Luxottica",
+                "job title": "Business Development Intern",
+                "description": "Conducted market analysis for new store openings, tracked KPIs, supported sales proposals, collaborated with merchandising and marketing teams.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7405,10 +8546,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "photography",
+            "cooking",
+            "finance networking"
+        ]
     },
     "CV 039 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "LVMH",
+                "job title": "Marketing Intern",
+                "description": "Coordinated social media campaigns for luxury brands, developed content calendars, tracked engagement, collaborated with photographers, drafted weekly performance summaries for managers.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "AXA",
+                "job title": "Business Analyst Intern",
+                "description": "Supported market research, prepared Excel dashboards, participated in cross-functional workshops, created financial summaries for internal reporting.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7418,10 +8579,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Travel",
+            "cooking",
+            "photography",
+            "volunteering"
+        ]
     },
     "CV 038 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Bain & Company",
+                "job title": "Consulting Intern",
+                "description": "Assisted in strategy research for consumer goods clients, prepared slides and data summaries for client meetings, collaborated with a team of 6 consultants, participated in client workshops, contributed to brainstorming sessions for marketing strategies, conducted competitor analysis and trend reports.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Carrefour Middle East",
+                "job title": "Business Analyst Intern",
+                "description": "Supported the business development team in analyzing sales trends, preparing weekly dashboards, assisting with operational recommendations, and drafting presentations for management. Participated in cross-functional team meetings with supply chain, finance, and marketing departments.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7431,10 +8612,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Swimming",
+            "reading historical and business biographies",
+            "traveling for cultural immersion",
+            "organizing charity events and workshops for women entrepreneurs"
+        ]
     },
     "CV 037 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Danone Vietnam",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research for new product launches, analyzed sales data, collaborated with marketing and sales teams, prepared reports for management. Assisted in creating promotional materials, organized tasting events, evaluated customer feedback, and suggested improvements to marketing strategy.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "VinGroup",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated online campaigns, managed content creation for social media channels, tracked engagement metrics, and prepared weekly analytics reports. Collaborated with cross-functional teams including designers, copywriters, and event coordinators.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7451,10 +8652,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "reading",
+            "practicing yoga",
+            "volunteering"
+        ]
     },
     "CV 036 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1 year",
+                "company": "Deloitte Belgium",
+                "job title": "Junior Analyst",
+                "description": "Prepared detailed financial reports, conducted market and industry analysis, collaborated in client workshops, assisted in audit preparations, maintained databases of client information, conducted competitor benchmarking. Participated in weekly strategy meetings with senior consultants. Used Excel to develop models for cost optimization, presented findings in client presentations. Supported cross-functional teams with ad hoc research tasks.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "PwC",
+                "job title": "Business Consultant Intern",
+                "description": "Contributed to process improvement projects for a multinational client. Drafted documentation, mapped workflows, identified inefficiencies, suggested practical solutions. Assisted in developing presentation decks, participated in client calls, summarized discussions for internal use. Worked on data visualization projects using Tableau to present findings to non-technical stakeholders.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7478,10 +8699,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Competitive cycling",
+            "photography",
+            "organizing local charity events",
+            "reading economic journals"
+        ]
     },
     "CV 035 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "L'Oréal France",
+                "job title": "Marketing Intern",
+                "description": "Managed multiple social media accounts including Instagram, Facebook, and TikTok. Developed content calendars, coordinated with graphic designers and photographers, tracked engagement metrics using Google Analytics and Hootsuite. Drafted weekly performance reports for senior managers, presented insights during team meetings, contributed to brainstorming sessions for new product campaigns. Assisted in influencer outreach programs, monitored ROI, and suggested optimizations for campaigns leading to a 18% engagement increase.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "BNP Paribas",
+                "job title": "Junior Project Assistant",
+                "description": "Supported corporate finance team in creating client pitch decks and financial reports. Collected and analyzed market data, benchmarked competitors, and prepared summaries for senior analysts. Collaborated with a cross-functional team of 5 to research potential investment opportunities. Developed Excel models to track key performance indicators of client portfolios. Assisted in internal training workshops for junior interns.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7498,10 +8739,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling to explore local markets and cultural events",
+            "food blogging and photography",
+            "volunteering at community workshops teaching digital literacy and entrepreneurship",
+            "practicing yoga and meditation"
+        ]
     },
     "CV 034 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Samsung",
+                "job title": "Marketing Analyst Intern",
+                "description": "Conducted market research, analyzed campaign data, prepared reports for senior managers, collaborated with creative teams, assisted in project planning, monitored KPIs, drafted insights for product launches, coordinated with regional offices for data collection.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "6 months",
+                "company": "Hyundai Motors",
+                "job title": "Business Development Intern",
+                "description": "Supported strategic planning for product launches, conducted competitor analysis, prepared presentations for management, assisted in sales forecasting, participated in project meetings, tracked KPIs for new market entries.",
+                "country or city": "Seoul"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7511,10 +8772,30 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling to understand international markets",
+            "cooking and food photography",
+            "reading business and strategy literature",
+            "mentoring students in marketing"
+        ]
     },
     "CV 033 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Orange Senegal",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns across multiple platforms, created content calendars, analyzed engagement using analytics tools, drafted weekly summaries, coordinated with creative and design teams, tracked ROI and engagement, suggested optimizations.",
+                "country or city": "Dakar"
+            },
+            {
+                "dates": "6 months",
+                "company": "Ecobank",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research, prepared sales proposals, analyzed customer data, assisted in product launch planning, collaborated with regional sales teams, developed dashboards to track KPIs, participated in meetings with senior managers.",
+                "country or city": "Dakar"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7524,10 +8805,30 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling and blogging about local culture",
+            "cooking and experimenting with new recipes",
+            "volunteering in educational initiatives",
+            "painting and arts and crafts"
+        ]
     },
     "CV 032 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Roland Berger",
+                "job title": "Strategy Consulting Intern",
+                "description": "Conducted market research, analyzed competitor data, contributed to client presentations, supported workshops on retail strategy, collaborated with a team of 5 consultants, assisted in drafting internal reports and project deliverables, presented findings to senior managers.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "6 months",
+                "company": "Danone",
+                "job title": "Business Analyst Intern",
+                "description": "Assisted in sales analysis, drafted performance dashboards, coordinated with marketing and finance teams, participated in product launch meetings, performed consumer trend analysis using survey data, summarized insights for management.",
+                "country or city": "Paris"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7551,10 +8852,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Basketball",
+            "photography of cityscapes",
+            "traveling for cultural experiences",
+            "mentoring junior students"
+        ]
     },
     "CV 031 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "BBVA",
+                "job title": "Finance Intern",
+                "description": "Assisted portfolio managers in risk assessment, prepared weekly performance dashboards, analyzed investment opportunities, participated in client meetings, helped with financial modeling and forecasting, presented findings to team leads.",
+                "country or city": "Madrid"
+            },
+            {
+                "dates": "6 months",
+                "company": "Inditex, Zara Division",
+                "job title": "Business Development Intern",
+                "description": "Supported market analysis for new store openings, collected sales data, tracked KPIs, assisted in preparing business proposals, collaborated with cross-functional teams including merchandising, finance, and marketing.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7571,10 +8892,30 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "photography and photo editing",
+            "cooking traditional Spanish recipes",
+            "attending finance networking events"
+        ]
     },
     "CV 030 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Corporate Strategy Intern",
+                "description": "Conducted market analysis for banking services, prepared client-facing reports, benchmarked competitors, assisted senior consultants in strategy workshops, created detailed PowerPoint presentations, contributed to risk assessment meetings, collaborated with teams across finance, marketing, and operations.",
+                "country or city": "Milan"
+            },
+            {
+                "dates": "6 months",
+                "company": "Luxottica",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated social media campaigns, developed content calendars, analyzed engagement metrics using Google Analytics, liaised with design and photography teams, prepared weekly campaign summaries for management, monitored influencer collaborations, suggested optimization for brand awareness campaigns.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7584,10 +8925,30 @@
                 "level_of_degree": "Bachelor in Economics and Management"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "photography",
+            "volunteering",
+            "yoga and meditation"
+        ]
     },
     "CV 029 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Finance and consulting intern",
+                "description": "worked on tasks as assigned.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped in project research and reports.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7597,10 +8958,21 @@
                 "level_of_degree": "Bachelor in Finance"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Skiing",
+            "Reading"
+        ]
     },
     "CV 028 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped in marketing and business operations.\nContributed to projects when asked.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7610,10 +8982,21 @@
                 "level_of_degree": "Business bachelor degree"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Cooking"
+        ]
     },
     "CV 027 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Worked in finance and consulting roles, did some analysis.\nAssisted teams with general tasks.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7623,10 +9006,21 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Skiing",
+            "Reading"
+        ]
     },
     "CV 026 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Assisted in marketing and business development tasks.\nHelped prepare documents and campaigns.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7636,10 +9030,28 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 025 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Worked in finance and marketing roles, various short-term tasks.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Supported team with reports and meetings.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7649,10 +9061,28 @@
                 "level_of_degree": "Business bachelor"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "Music"
+        ]
     },
     "CV 024 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Interned at different companies",
+                "description": "helped with tasks and reports.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Assisted with events and presentations",
+                "description": "not found",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "finished 2021",
@@ -7662,10 +9092,28 @@
                 "level_of_degree": "Management program"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Art"
+        ]
     },
     "CV 023 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Participated in finance-related work, some analysis and reporting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Worked on a few marketing presentations for clients.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7675,10 +9123,28 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Tennis",
+            "Reading"
+        ]
     },
     "CV 022 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Business support in a small team, handled tasks as assigned.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Helped with social media content and documentation.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7688,10 +9154,28 @@
                 "level_of_degree": "Bachelor in Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "reading"
+        ]
     },
     "CV 021 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Interned in finance",
+                "description": "Interned in finance for a few months, helped prepare reports.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "Consulting tasks observer",
+                "description": "Observed consulting tasks, contributed occasionally.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "not found",
@@ -7701,10 +9185,21 @@
                 "level_of_degree": "not found"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Gaming"
+        ]
     },
     "CV 020 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Worked in marketing and sales for various small projects in Paris.\nAssisted in some reporting and customer follow-up tasks at a local firm.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "finished 2021",
@@ -7714,10 +9209,29 @@
                 "level_of_degree": "Business studies"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading",
+            "walking",
+            "random sports"
+        ]
     },
     "CV 019 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Credit Suisse",
+                "job title": "Finance Intern",
+                "description": "Assisted in investment analysis and reporting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Mckinsey Switzerland",
+                "job title": "Consulting Intern",
+                "description": "Supported strategy projects for healthcare clients.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7727,10 +9241,29 @@
                 "level_of_degree": "Bachelor in Finance"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Skiing",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 018 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Samsung",
+                "job title": "Marketing Analyst Intern",
+                "description": "Conducted market research and campaign analysis.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Hyundai",
+                "job title": "Business Development Intern",
+                "description": "Supported strategic planning and sales analysis.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7740,10 +9273,29 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading",
+            "Traveling",
+            "Cooking"
+        ]
     },
     "CV 017 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1 year",
+                "company": "Deloitte Belgium",
+                "job title": "Business Analyst Intern",
+                "description": "Conducted financial and market analysis for corporate clients.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "PwC",
+                "job title": "Consulting Intern",
+                "description": "Assisted in process improvement projects.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7760,10 +9312,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cycling",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 016 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Orange Senegal",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns and analyzed customer feedback.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Ecobank",
+                "job title": "Business Development Intern",
+                "description": "Assisted in market research and sales strategy.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7773,10 +9344,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ]
     },
     "CV 015 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7793,10 +9383,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Football",
+            "Traveling",
+            "Photography"
+        ]
     },
     "CV 014 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Bain & Company",
+                "job title": "Consulting Intern",
+                "description": "Supported strategy projects for consumer goods clients.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Carrefour Middle East",
+                "job title": "Business Analyst Intern",
+                "description": "Analyzed sales data and suggested operational improvements.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7806,10 +9415,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Swimming",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 013 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1 year",
+                "company": "Société Générale",
+                "job title": "Junior Analyst",
+                "description": "Conducted financial analysis, reporting, and data visualization.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "LVMH",
+                "job title": "Marketing Intern",
+                "description": "Assisted in luxury brand campaigns and client engagement.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7826,10 +9454,29 @@
                 "level_of_degree": "Bachelor in Finance"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Tennis",
+            "Traveling",
+            "Photography"
+        ]
     },
     "CV 012 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "Danone Vietnam",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research and sales analysis for new product launches.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "VinGroup",
+                "job title": "Marketing Assistant",
+                "description": "Supported social media campaigns and event planning.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7839,10 +9486,29 @@
                 "level_of_degree": "Bachelor in International Business"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 011 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "1 year",
+                "company": "BNP Paribas",
+                "job title": "Financial Analyst Intern",
+                "description": "Performed financial modeling and portfolio analysis.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Roland Berger",
+                "job title": "Consulting Intern",
+                "description": "Assisted in market research and strategy development for retail clients.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2025 (expected)",
@@ -7859,10 +9525,29 @@
                 "level_of_degree": "Bachelor in Economics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Basketball",
+            "Reading",
+            "Traveling"
+        ]
     },
     "CV 010 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "6 months",
+                "company": "L'Oréal France",
+                "job title": "Marketing Intern",
+                "description": "Assisted in digital campaigns, social media management, and market research.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Junior Analyst",
+                "description": "Supported financial reporting and investment analysis.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2022",
@@ -7872,10 +9557,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Blogging",
+            "Cooking"
+        ]
     },
     "CV 009 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "5 years",
+                "company": "Sony",
+                "job title": "Software Engineer",
+                "description": "Developed embedded systems for consumer electronics.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Toshiba",
+                "job title": "AI Researcher",
+                "description": "Built AI models for image recognition applications.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2013",
@@ -7885,10 +9589,29 @@
                 "level_of_degree": "Master in Computer Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading",
+            "Gaming",
+            "Traveling"
+        ]
     },
     "CV 008 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "3 years",
+                "company": "Odebrecht",
+                "job title": "Civil Engineer",
+                "description": "Managed infrastructure projects including bridges and roads.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Petrobras",
+                "job title": "Project Manager",
+                "description": "Oversaw construction projects with budgets over $10M.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017",
@@ -7898,10 +9621,29 @@
                 "level_of_degree": "Bachelor in Civil Engineering"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Hiking",
+            "Music",
+            "Swimming"
+        ]
     },
     "CV 007 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "4 years",
+                "company": "Cairo University Hospital",
+                "job title": "Doctor",
+                "description": "Specialized in cardiology, performed over 300 successful surgeries.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "Medical Center",
+                "job title": "Research Fellow",
+                "description": "Published research on heart disease prevention.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2019",
@@ -7918,10 +9660,29 @@
                 "level_of_degree": "Bachelor in Medicine"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Chess",
+            "Reading"
+        ]
     },
     "CV 006 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "5 years",
+                "company": "Toronto High School",
+                "job title": "Teacher",
+                "description": "Taught Mathematics and Computer Science to grades 10-12.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Pearson",
+                "job title": "Curriculum Developer",
+                "description": "Designed online learning modules for STEM subjects.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2014",
@@ -7938,10 +9699,29 @@
                 "level_of_degree": "Bachelor in Mathematics"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Reading",
+            "Swimming",
+            "Traveling"
+        ]
     },
     "CV 005 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "3 years",
+                "company": "SAP",
+                "job title": "Data Scientist",
+                "description": "Built predictive models for supply chain optimization.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "BMW",
+                "job title": "Software Engineer",
+                "description": "Developed software for automotive telemetry systems.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2017",
@@ -7951,10 +9731,29 @@
                 "level_of_degree": "Master in Computer Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Hiking",
+            "Chess",
+            "Photography"
+        ]
     },
     "CV 004 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "4 years",
+                "company": "Adobe",
+                "job title": "Graphic Designer",
+                "description": "Designed UI/UX for mobile apps and web platforms.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Telefónica",
+                "job title": "UI/UX Designer",
+                "description": "Improved usability and accessibility for client applications.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2016",
@@ -7964,10 +9763,29 @@
                 "level_of_degree": "Bachelor in Arts"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Painting",
+            "Photography",
+            "Traveling"
+        ]
     },
     "CV 003 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "3 years",
+                "company": "Globo",
+                "job title": "Marketing Specialist",
+                "description": "Developed campaigns increasing brand engagement by 25%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Banco do Brasil",
+                "job title": "Business Analyst",
+                "description": "Analyzed financial reports and optimized investment strategies.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2014",
@@ -7977,10 +9795,29 @@
                 "level_of_degree": "Bachelor in Business Administration"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Music",
+            "Running",
+            "Cooking"
+        ]
     },
     "CV 002 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "2 years",
+                "company": "National Research Lab",
+                "job title": "Biologist",
+                "description": "Conducted genetic research on plant resistance to drought.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "University of Delhi",
+                "job title": "Research Assistant",
+                "description": "Assisted in publishing research papers in molecular biology.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2020",
@@ -7990,10 +9827,29 @@
                 "level_of_degree": "Bachelor in Biology"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Traveling",
+            "Reading",
+            "Gardening"
+        ]
     },
     "CV 001 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2015",
@@ -8010,10 +9866,29 @@
                 "level_of_degree": "Bachelor in Mechanical Engineering"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Cooking",
+            "Chess",
+            "Sailing"
+        ]
     },
     "CV 000 Original": {
-        "List of professional experiences": [],
+        "List of professional experiences": [
+            {
+                "dates": "3 years",
+                "company": "Google",
+                "job title": "Software Engineer",
+                "description": "Developed scalable backend services and optimized database queries for 10M+ users.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "IBM",
+                "job title": "Data Analyst",
+                "description": "Created dashboards and reports to track KPIs, improving decision-making processes.",
+                "country or city": "not found"
+            }
+        ],
         "List of studies": [
             {
                 "dates": "2018",
@@ -8030,6 +9905,10 @@
                 "level_of_degree": "Bachelor in Computer Science"
             }
         ],
-        "List of personal interests": []
+        "List of personal interests": [
+            "Hiking",
+            "Photography",
+            "Painting"
+        ]
     }
 }

@@ -1,0 +1,37 @@
+{
+    "run0": {
+        "total_cv": 6,
+        "incorrect_cv": 6,
+        "error_rate": 1.0
+    },
+    "run1": {
+        "total_cv": 67,
+        "incorrect_cv": 5,
+        "error_rate": 0.0746
+    },
+    "run2": {
+        "total_cv": 67,
+        "incorrect_cv": 23,
+        "error_rate": 0.3433
+    },
+    "run3": {
+        "total_cv": 67,
+        "incorrect_cv": 67,
+        "error_rate": 1.0
+    },
+    "run4": {
+        "total_cv": 67,
+        "incorrect_cv": 57,
+        "error_rate": 0.8507
+    },
+    "run5": {
+        "total_cv": 67,
+        "incorrect_cv": 67,
+        "error_rate": 1.0
+    },
+    "run6": {
+        "total_cv": 67,
+        "incorrect_cv": 23,
+        "error_rate": 0.3433
+    }
+}

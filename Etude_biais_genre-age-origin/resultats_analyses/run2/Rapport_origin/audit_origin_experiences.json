@@ -204,10 +204,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'description' fields in several entries in the 'Origin' are missing compared to the 'Original'. Specifically, the descriptions for the roles at 'TotalEnergies', 'Nubank', 'Adidas', and 'Loewe' are omitted."
     },
     {
         "cv_id": "CV268",
@@ -767,7 +767,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "There is a typographical error in the description field of the 'Origin' variant where 'tar litigation cases' should be 'tax litigation cases'."
+        "details": "There is a typo in the 'Origin' variant within the description for KPMG India: 'tar litigation cases' should be 'tax litigation cases'."
     },
     {
         "cv_id": "CV188",
@@ -2087,9 +2087,9 @@
     },
     {
         "cv_id": "CV0",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "Dates are missing in the Origin variant."
+        "error_type": "None",
+        "details": "Consistent"
     }
 ]

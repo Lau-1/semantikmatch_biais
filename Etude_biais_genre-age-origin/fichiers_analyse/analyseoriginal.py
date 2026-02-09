@@ -1,6 +1,6 @@
 from analyse import Analyse
 import json
-import os
+
 
 class AnalyseReferenceCV(Analyse):
 
