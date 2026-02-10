@@ -4,7 +4,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV297",
@@ -109,7 +109,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV282",
@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The description for the Nubank entry in the 'Age' variant is modified. The 'Original' states 'Founded an AgTech platform for small farmers', whereas 'Age' states 'Strategy'."
+        "details": "The description for the Nubank entry in the Age variant is modified from 'Founded an AgTech platform for small farmers.' to 'Strategy'."
     },
     {
         "cv_id": "CV240",
@@ -1117,8 +1117,8 @@
         "cv_id": "CV139",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant includes the company name in the job title, which is an intentional change. Despite this modification, the content remains consistent across both variants in terms of job experience details."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV138",
@@ -1566,7 +1566,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Age variant omits '- Student Startup (failed)' from the job title, altering the meaning of the experience."
+        "details": "The 'Age' variant modifies the company name from 'not found' to 'Student Startup' and changes the job title from 'Co-founder - Student Startup (failed)' to 'Co-founder'."
     },
     {
         "cv_id": "CV74",
@@ -1937,7 +1937,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV21",

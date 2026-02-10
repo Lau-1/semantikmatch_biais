@@ -51,6 +51,7 @@ def charger_donnees_run(base_path, run_name):
 
         for fichier in os.listdir(chemin_sous_dossier):
             if fichier.endswith(".json"):
+                # Extraction du nom de la section (ex: experiences, interests, studies)
                 section = fichier.replace('audit_gender_', '').replace('audit_origin_', '').replace('audit_age_', '').replace('.json', '')
                 full_path = os.path.join(chemin_sous_dossier, fichier)
 
@@ -60,7 +61,7 @@ def charger_donnees_run(base_path, run_name):
                         if isinstance(data, list):
                             for item in data:
                                 item['Biais'] = label_biais
-                                item['Section'] = section
+                                item['Section'] = section  # Stocke la section (experiences, etc.)
                                 item['Fichier'] = fichier
 
                                 # === NETTOYAGE ID ===
@@ -124,6 +125,7 @@ def afficher_detail_biais(df):
 
         sig_str = "N/A"
         if SCIPY_AVAILABLE and n_total > 0:
+            # Note: Ceci est une simplification, la p-value nécessite une baseline réelle
             contingency = [[n_errors, n_total - n_errors], [baseline_errors, n_total - baseline_errors]]
             try:
                 _, p_value = stats.fisher_exact(contingency)
@@ -137,6 +139,40 @@ def afficher_detail_biais(df):
         print(f" {biais:<10} | {n_total:<8} | {n_errors:<8} | {taux:<10.2f} | {sig_str}")
     print("-" * len(header))
 
+# === NOUVELLE FONCTION AJOUTÉE ===
+def afficher_analyse_par_section(df):
+    """
+    Affiche le nombre d'erreurs groupées par section (studies, experiences, interests).
+    """
+    print("\n" + "-"*60)
+    print(f"  📂 ANALYSE PAR SECTION (Experiences, Studies, Interests...)")
+    print("-"*60)
+
+    if 'Section' not in df.columns:
+        print("⚠️  Erreur : Colonne 'Section' introuvable dans les données.")
+        return
+
+    # On récupère toutes les sections présentes
+    sections_uniques = df['Section'].unique()
+
+    header = f" {'Section':<20} | {'Total':<8} | {'Erreurs':<8} | {'Taux (%)':<10}"
+    print(header)
+    print("-" * len(header))
+
+    for section in sections_uniques:
+        subset = df[df['Section'] == section]
+        n_total = len(subset)
+        n_errors = len(subset[subset['coherent'] == False])
+        taux = (n_errors / n_total * 100) if n_total > 0 else 0.0
+
+        # Formattage propre du nom de la section
+        nom_section = section.capitalize() if section else "Inconnu"
+
+        print(f" {nom_section:<20} | {n_total:<8} | {n_errors:<8} | {taux:<10.2f}")
+
+    print("-" * len(header))
+# =================================
+
 def afficher_types_erreurs(df):
     df_erreurs = df[df['coherent'] == False]
     print("\n" + "-"*60)
@@ -147,6 +183,8 @@ def afficher_types_erreurs(df):
         print("  ✅ Aucune erreur détectée sur les CVs sélectionnés.")
     else:
         if 'error_type' in df_erreurs.columns:
+            # On groupe maintenant aussi par Section pour plus de clarté si nécessaire
+            # Mais ici on garde le groupement par Biais -> Error Type
             stats = df_erreurs.groupby(['Biais', 'error_type']).size().reset_index(name='Compte')
             current_biais = ""
             for _, row in stats.iterrows():
@@ -196,8 +234,7 @@ def inspecter_details_cv(df, cv_id_cible):
 
 def lister_toutes_les_erreurs(df):
     """
-    Affiche la liste séquentielle de toutes les erreurs trouvées,
-    avec une pagination pour ne pas surcharger la console.
+    Affiche la liste séquentielle de toutes les erreurs trouvées.
     """
     df_erreurs = df[df['coherent'] == False]
     nb_err = len(df_erreurs)
@@ -210,25 +247,19 @@ def lister_toutes_les_erreurs(df):
     print(f"  📜 LISTE COMPLÈTE DES ERREURS ({nb_err} trouvées)")
     print("="*80)
 
-    # Détection dynamique de la colonne contenant le message explicatif
     cols_possibles = ['details', 'reason', 'explanation', 'message', 'error_message']
     col_msg = next((c for c in cols_possibles if c in df.columns), None)
 
-    compteur = 0
-
-    # On itère sur toutes les erreurs
     for i, (_, row) in enumerate(df_erreurs.iterrows(), 1):
         cv_id = row.get(CHAMP_ID, "N/A")
         biais = row.get('Biais', 'Inconnu')
         section = row.get('Section', 'N/A')
         err_type = row.get('error_type', 'N/A')
 
-        # Récupération du message
         msg = "Pas de détails"
         if col_msg and pd.notna(row[col_msg]):
             msg = str(row[col_msg]).strip()
 
-        # Affichage formaté
         print(f"[{i}/{nb_err}] CV: {cv_id} | {biais} > {section}")
         print(f"    ❌ Type : {err_type}")
         print(f"    📝 Note : {msg}")
@@ -236,7 +267,7 @@ def lister_toutes_les_erreurs(df):
 
 
 def menu_analyse_par_cv(df):
-    """Sous-menu pour afficher les stats par CV et inspecter les messages."""
+    """Sous-menu pour afficher les stats par CV."""
 
     df_erreurs = df[df['coherent'] == False]
 
@@ -365,12 +396,7 @@ def demander_exclusion_technique():
 
 def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_empty_active):
     """
-    Args:
-        df_brut: DataFrame complet
-        base_path: chemin racine
-        run_name: nom du run
-        liste_exclusions_validee: liste des IDs bannis
-        filtre_empty_active: booléen (True = on enlève les 'Original empty')
+    Menu principal avec la nouvelle option 'Analyse par Section'.
     """
     cvs_a_exclure = liste_exclusions_validee
     filtrer_empty = filtre_empty_active
@@ -406,13 +432,12 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         print(f"      MENU SYNTHÈSE : {run_name.upper()}")
         print("="*55)
 
-        # Info Filtre ID
+        # Info Filtres
         if nb_exclus_id > 0:
             print(f"  🚫  Filtre IDs      : {nb_exclus_id} exclus")
         else:
             print(f"  ✅  Filtre IDs      : Inactif (Tous les CVs inclus)")
 
-        # Info Filtre Empty
         statut_empty = "ACTIVÉ" if filtrer_empty else "DÉSACTIVÉ"
         if filtrer_empty and nb_empty_removed > 0:
             print(f"  🛠  Filtre Empty    : {statut_empty} ({nb_empty_removed} 'Original empty' retirés)")
@@ -422,14 +447,15 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         print(f"  📉  Reste à analyser: {nb_net} comparaisons")
         print("-" * 55)
         print(" 1. Synthèse Globale")
-        print(" 2. Analyse par Biais")
-        print(" 3. Détail des types d'erreurs")
-        print(" 4. Inspecter les erreurs par CV (Top classement)")
-        print(" 5. Lister TOUTES les erreurs (Flux continu)")
-        print(" 6. Rapport complet (1+2+3)")
+        print(" 2. Analyse par Biais (Genre, Origine, Âge)")
+        print(" 3. Analyse par Section (Experiences, Studies, etc.)")  # <--- NOUVELLE OPTION
+        print(" 4. Détail des types d'erreurs")
+        print(" 5. Inspecter les erreurs par CV (Top classement)")
+        print(" 6. Lister TOUTES les erreurs (Flux continu)")
+        print(" 7. Rapport complet (1 + 2 + 3 + 4)")
         print("-" * 55)
-        print(f" 7. Modifier les exclusions d'IDs")
-        print(f" 8. {'Désactiver' if filtrer_empty else 'Activer'} le filtre 'Original empty'")
+        print(f" 8. Modifier les exclusions d'IDs")
+        print(f" 9. {'Désactiver' if filtrer_empty else 'Activer'} le filtre 'Original empty'")
         print(" Q. Retour au menu principal")
         print("-" * 55)
 
@@ -440,18 +466,23 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         elif choix == '2':
             afficher_detail_biais(df_courant)
         elif choix == '3':
-            afficher_types_erreurs(df_courant)
+            # Appel de la nouvelle fonction
+            afficher_analyse_par_section(df_courant)
         elif choix == '4':
-            menu_analyse_par_cv(df_courant)
+            afficher_types_erreurs(df_courant)
         elif choix == '5':
-            lister_toutes_les_erreurs(df_courant)
+            menu_analyse_par_cv(df_courant)
         elif choix == '6':
+            lister_toutes_les_erreurs(df_courant)
+        elif choix == '7':
+            # Rapport complet mis à jour
             afficher_synthese_globale(df_courant)
             afficher_detail_biais(df_courant)
+            afficher_analyse_par_section(df_courant) # Ajouté ici aussi
             afficher_types_erreurs(df_courant)
-        elif choix == '7':
-            cvs_a_exclure = initialiser_exclusions(base_path, run_name)
         elif choix == '8':
+            cvs_a_exclure = initialiser_exclusions(base_path, run_name)
+        elif choix == '9':
             filtrer_empty = not filtrer_empty
             print(f"✅ Filtre 'Original empty' {'activé' if filtrer_empty else 'désactivé'}.")
         elif choix == 'q':
@@ -459,8 +490,8 @@ def menu_interne(df_brut, base_path, run_name, liste_exclusions_validee, filtre_
         else:
             print("\n❌ Choix invalide.")
 
-        # On évite le "Input pour continuer" pour les options interactives (4, 5) ou de bascule (8)
-        if choix not in ['4', '5', '8']:
+        # Pause pour lecture, sauf menus interactifs
+        if choix not in ['5', '6', '9']:
             input("\n[Entrée pour continuer...]")
 
 # ==========================================
