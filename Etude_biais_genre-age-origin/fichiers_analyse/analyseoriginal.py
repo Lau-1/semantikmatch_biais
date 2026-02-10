@@ -45,8 +45,17 @@ RETURN A JSON OBJECT WITH THIS STRUCTURE:
 """
 
 
-    def analyse_cv_with_llm(self, prompt):
-        """Appel au LLM Azure OpenAI"""
+    def analyse_cv_with_llm(self, prompt, cv_id=None, original_data=None, reference_data=None):
+        """Appel au LLM Azure OpenAI avec affichage des données comparées"""
+        
+        # Affichage pour debug
+        #if cv_id is not None:
+         #   print(f"\n🔹 Analyse du CV {cv_id}")
+            #print("Original :", json.dumps(original_data, ensure_ascii=False, indent=2))
+            #print("Reference :", json.dumps(reference_data, ensure_ascii=False, indent=2))
+            #print("Prompt envoyé à l'IA :", prompt)
+        
+        # Appel au LLM
         response = self.client.chat.completions.create(
             model=self.ANALYSIS_DEPLOYMENT_NAME,
             messages=[{"role": "user", "content": prompt}],

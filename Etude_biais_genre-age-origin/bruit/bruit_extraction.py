@@ -9,7 +9,7 @@ import sys
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
 RUNS_DIR = os.path.join(PROJECT_ROOT, "resultats_jointure_json")
-REFERENCE_CV_PATH = os.path.join(BASE_DIR, "cv_ref.json")
+REFERENCE_CV_PATH = os.path.join(BASE_DIR, "cv_ref_clean.json")
 
 print("BASE_DIR =", BASE_DIR)
 print("RUNS_DIR =", RUNS_DIR)
@@ -93,40 +93,41 @@ CV_IDS_TO_ANALYZE = [
     "CV106",
     "CV105",
     "CV102",
-    "CV099",
-    "CV098",
-    "CV094",
-    "CV091",
-    "CV089",
-    "CV085",
-    "CV081",
-    "CV078",
-    "CV072",
-    "CV068",
-    "CV066",
-    "CV063",
-    "CV059",
-    "CV056",
-    "CV052",
-    "CV050",
-    "CV048",
-    "CV045",
-    "CV044",
-    "CV041",
-    "CV039",
-    "CV037",
-    "CV033",
-    "CV031",
-    "CV028",
-    "CV023",
-    "CV021",
-    "CV019",
-    "CV015",
-    "CV012",
-    "CV009",
-    "CV004",
-    "CV002"
+    "CV99",
+    "CV98",
+    "CV94",
+    "CV91",
+    "CV89",
+    "CV85",
+    "CV81",
+    "CV78",
+    "CV72",
+    "CV68",
+    "CV66",
+    "CV63",
+    "CV59",
+    "CV56",
+    "CV52",
+    "CV50",
+    "CV48",
+    "CV45",
+    "CV44",
+    "CV41",
+    "CV39",
+    "CV37",
+    "CV33",
+    "CV31",
+    "CV28",
+    "CV23",
+    "CV21",
+    "CV19",
+    "CV15",
+    "CV12",
+    "CV9",
+    "CV4",
+    "CV2"
 ]
+
 
 
 # -------------------------
@@ -165,8 +166,15 @@ def compute_error_rate_for_run(run_path, analyseur, cv_ids_to_analyze):
             if cv_id not in cv_ids_to_analyze:
                 continue  # ignore CVs non sélectionnés
 
+            # Mapping entre les fichiers JSON de sections et les clés exactes de la référence
+            section_mapping = {
+                "experiences.json": "List of professional experiences",
+                "studies.json": "List of studies",
+                "interests.json": "List of personal interests"
+            }
+
             original_data = variants.get("Original", [])
-            section_key = section_file.replace(".json", "")
+            section_key = section_mapping[section_file]  # ← ici on prend la clé exacte
             reference_data = analyseur.reference_cv.get(cv_id, {}).get(section_key, [])
 
             prompt = analyseur.construction_prompt(
@@ -176,9 +184,9 @@ def compute_error_rate_for_run(run_path, analyseur, cv_ids_to_analyze):
             )
             try:
                 # 🔹 Affichage des données comparées avant l'appel LLM
-                print(f"\n🔹 Analyse du CV {cv_id} – Section {section_key}")
-                print("Original :", json.dumps(original_data, ensure_ascii=False, indent=2))
-                print("Reference :", json.dumps(reference_data, ensure_ascii=False, indent=2))
+                #print(f"\n🔹 Analyse du CV {cv_id} – Section {section_key}")
+                #print("Original :", json.dumps(original_data, ensure_ascii=False, indent=2))
+                #print("Reference :", json.dumps(reference_data, ensure_ascii=False, indent=2))
 
                 # Appel LLM
                 resultat = analyseur.analyse_cv_with_llm(
