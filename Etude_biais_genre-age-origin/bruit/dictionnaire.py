@@ -1,0 +1,22 @@
+bruit_analyse = {
+    "002": False, "004": False, "009": False, "012": False, "015": False,
+    "019": False, "021": False, "023": False, "028": False, "031": False,
+    "033": False, "037": False, "039": False, "041": False, "044": False,
+    "045": False, "048": False, "050": False, "052": False, "056": False,
+    "059": False, "063": False, "066": False, "068": False, "072": False,
+    "078": False, "081": False, "085": False, "089": False, "091": False,
+    "094": False, "098": False, "099": False, "102": False, "105": False,
+    "106": False, "109": False, "111": False, "114": False, "117": False,
+    "119": False, "121": False, "125": False, "128": False, "131": False,
+    "134": False, "139": False, "142": False, "145": False, "147": False,
+    "150": False, "153": False, "155": False, "158": False, "161": False,
+    "165": False, "166": False, "169": False, "173": False, "176": False,
+    "179": False, "182": False, "185": False, "189": False, "193": False,
+    "195": False, "198": False, "202": False, "204": False, "209": False,
+    "211": False, "215": False, "217": False, "220": False, "223": False,
+    "226": False, "229": False, "231": False, "233": False, "235": False,
+    "238": False, "243": False, "244": False, "246": False, "249": False,
+    "250": False, "253": False, "254": False, "258": False, "262": False,
+    "266": False, "268": False, "272": False, "279": False, "282": False,
+    "288": False, "289": False, "291": False, "295": False, "297": False
+}
