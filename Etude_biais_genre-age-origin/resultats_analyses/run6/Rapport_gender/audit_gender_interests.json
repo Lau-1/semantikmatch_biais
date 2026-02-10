@@ -38,7 +38,7 @@
         "cv_id": "CV293",
         "coherent": true,
         "empty_list": true,
-        "error_type": "Omission",
+        "error_type": "Original empty",
         "details": "Original is empty"
     },
     {
@@ -137,7 +137,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The entry in 'Gender' for 'Podcasts' includes an additional descriptor '(Tech & History)' which modifies the meaning compared to 'Original'."
+        "details": "The 'Gender' variant contains an additional descriptor '(Tech & History)' for 'Podcasts', which is not present in the 'Original' variant."
     },
     {
         "cv_id": "CV278",
@@ -204,7 +204,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -260,7 +260,7 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -277,7 +277,7 @@
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV258",
@@ -295,10 +295,10 @@
     },
     {
         "cv_id": "CV256",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV255",
@@ -401,15 +401,15 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -881,7 +881,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant is missing '(CTF competitions)' in the 'Ethical Hacking' entry, affecting the information provided."
+        "details": "The term '(CTF competitions)' is missing in the 'Gender' variant for 'Ethical Hacking'."
     },
     {
         "cv_id": "CV172",
@@ -1035,7 +1035,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV150",
@@ -1553,7 +1553,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV76",
@@ -1833,7 +1833,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant adds extra details to each hobby: 'experimenting with fusion cuisine recipes' to cooking, 'business strategy books and case studies' to reading, 'and mindfulness' to yoga, and specifies the volunteering programs. These modifications extend the meaning beyond the original hobbies."
+        "details": "The 'Gender' variant provides more detailed descriptions for each hobby compared to the 'Original'."
     },
     {
         "cv_id": "CV36",
@@ -1882,7 +1882,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Gender' variant provides more specific details for each interest compared to the 'Original': 'Traveling' is expanded to 'Traveling to explore local food and culture', 'photography' to 'photography of architecture and urban landscapes', 'volunteering' to 'volunteering for educational projects', while 'yoga and meditation' remains consistent."
+        "details": "The 'Gender' variant provides additional details for each interest, such as 'explore local food and culture', 'architecture and urban landscapes', and 'educational projects', which modify the original meanings."
     },
     {
         "cv_id": "CV29",

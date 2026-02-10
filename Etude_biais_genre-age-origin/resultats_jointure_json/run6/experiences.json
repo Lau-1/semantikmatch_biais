@@ -13593,7 +13593,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Aug 2023",
+                "company": "Industrial Group",
+                "job title": "Financial Controller Assistant",
+                "description": "Tracked budgets and prepared cost reports\n\nSupported financial decision-making with Excel analysis\n\nAssisted in monthly reporting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "not found",
+                "job title": "Intern - Accounting Department",
+                "description": "Entered financial data and assisted with account reconciliations\n\nSupported senior accountants in financial documentation",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Aug 2023",
@@ -13644,7 +13659,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2022 - Sep 2023",
+                "company": "Distribution Company",
+                "job title": "Logistics Planner",
+                "description": "Planned delivery schedules and optimized routes for efficiency\nMonitored costs and proposed process improvements\nPrepared operational reports for management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Intern - Warehouse Operations",
+                "description": "Conducted inventory control and stock audits\nAssisted in warehouse organization and process documentation",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -13695,7 +13725,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2022 - Present",
+                "company": "Retail Company",
+                "job title": "Student Worker",
+                "description": "Monitored sales and stock performance\nAssisted in operational reporting and inventory tracking",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2023",
+                "company": "Sustainability Office",
+                "job title": "Intern",
+                "description": "Collected ESG data and prepared sustainability reports\nAssisted in analyzing corporate social responsibility metrics",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2022 - Present",
@@ -13746,7 +13791,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Apr 2023 - Sep 2023",
+                "company": "not found",
+                "job title": "Business Development Intern - Tech Startup",
+                "description": "Conducted market research and identified growth opportunities\nUpdated CRM and sales pipelines\nAssisted in pitching to potential clients",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2022",
+                "company": "not found",
+                "job title": "Freelance Project",
+                "description": "Conducted market research for SMEs\nProvided recommendations on operational improvements",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Apr 2023 - Sep 2023",
@@ -13797,7 +13857,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2022 - Aug 2023",
+                "company": "NGO",
+                "job title": "Operations Officer",
+                "description": "Coordinated projects and monitored budgets\nPrepared progress reports and assisted in operational planning",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Administrative Intern",
+                "description": "Provided general office support, including documentation and scheduling\nAssisted in data entry and project tracking",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2022 - Aug 2023",
@@ -13848,7 +13923,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Manufacturing Group",
+                "job title": "Strategy Intern",
+                "description": "Conducted market analysis and competitive benchmarking\nAssisted in developing strategic recommendations\nPrepared reports and presentations for senior management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Working Student - Corporate Office",
+                "description": "Provided reporting support and administrative assistance\nAssisted in internal business analysis",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -13899,7 +13989,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Aug 2023",
+                "company": "Telecom Company",
+                "job title": "Data Intern",
+                "description": "Built KPI dashboards and monitored operational metrics\nEnsured data quality and performed cleansing tasks\nAssisted in reporting insights to management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2022",
+                "company": "not found",
+                "job title": "Student Project - University Lab",
+                "description": "Collected and analyzed market and survey data\nSupported faculty research and data interpretation",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2023 - Aug 2023",
@@ -13950,7 +14055,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2022 - Sep 2023",
+                "company": "Trading Company",
+                "job title": "Business Coordinator",
+                "description": "Coordinated supplier relations and monitored supply chain activities\nPrepared sales and performance reports for management\nSupported business development initiatives and operational planning",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "not found",
+                "job title": "Intern - Logistics Department",
+                "description": "Assisted with shipment tracking and documentation\nCoordinated inventory and logistics support tasks",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -14001,7 +14121,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Jul 2023",
+                "company": "not found",
+                "job title": "Marketing Intern - E-commerce Startup",
+                "description": "Managed social media campaigns and measured engagement metrics\nTracked campaign performance and prepared reporting dashboards\nAssisted in content creation and marketing strategy meetings",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Student Assistant - University Events",
+                "description": "Coordinated campus events, promotions, and student activities\nAssisted in logistics, registration, and post-event analysis",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -14052,7 +14187,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "Insurance Company",
+                "job title": "Finance Assistant",
+                "description": "Monitored company budget and assisted in monthly financial reporting\n\nPrepared financial statements and supported internal audits\nAssisted in forecasting and variance analysis",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Local Firm",
+                "job title": "Accounting Intern",
+                "description": "Performed bookkeeping and invoice checks\n\nAssisted in preparing financial documents for reporting and compliance",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2023 - Present",
@@ -14103,7 +14253,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Apr 2022 - Sep 2023",
+                "company": "Energy Company",
+                "job title": "Financial Analyst",
+                "description": "Monitored budgets, prepared financial forecasts, and performed cost analysis\nDeveloped Excel-based reports to track operational and project expenses\nAssisted management in financial decision-making through data insights",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020",
+                "company": "not found",
+                "job title": "Intern - Investment Advisory Firm",
+                "description": "Supported creation of financial models for client investment portfolios\nConducted industry research and competitor analysis\nAssisted in preparing reports for client presentations",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Apr 2022 - Sep 2023",
@@ -14154,7 +14319,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2022 - Present",
+                "company": "not found",
+                "job title": "Working Student - Retail Chain",
+                "description": "Monitored store performance metrics and prepared sales reports\nAnalyzed stock levels and inventory turnover to improve supply efficiency\nAssisted store managers in operational planning and daily reporting",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2023",
+                "company": "not found",
+                "job title": "Intern - Small Consulting Firm",
+                "description": "Collected and analyzed client data for strategic",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2022 - Present",
@@ -14205,7 +14385,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "Import Export Company",
+                "job title": "Trade Assistant",
+                "description": "Coordinated with international suppliers for timely shipping and quality compliance\nManaged shipping documentation and customs paperwork\nAssisted in evaluating supplier performance and cost efficiency",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021",
+                "company": "Chamber of Commerce",
+                "job title": "Intern",
+                "description": "Conducted market research and prepared business reports\nAnalyzed trade statistics and generated summaries for export opportunities",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Present",
@@ -14256,7 +14451,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Jul 2023",
+                "company": "not found",
+                "job title": "Business Assistant - Logistics Startup",
+                "description": "Conducted market research to identify business opportunities and competitor analysis\nMonitored operational costs and assisted in budgeting\nPrepared weekly reports on performance metrics for the management team",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "NGO Volunteer - Youth Employment Program",
+                "description": "Coordinated training sessions for young entrepreneurs\nDeveloped instructional materials and schedules\nSupported program evaluation through data collection and reporting",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2023 - Jul 2023",
@@ -14307,7 +14517,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2022 - Sep 2023",
+                "company": "Tourism Company",
+                "job title": "Marketing Coordinator",
+                "description": "Managed social media campaigns, increasing engagement by 25%\nMonitored performance metrics and prepared monthly reports for management\nCoordinated events and promotions to increase brand visibility",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2019",
+                "company": "not found",
+                "job title": "Intern - Advertising Agency",
+                "description": "Assisted creative teams in content creation and campaign execution\nConducted market research for client campaigns",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2022 - Sep 2023",
@@ -14358,7 +14583,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "not found",
+                "job title": "Operations Supervisor - Manufacturing SME",
+                "description": "Supervised daily production planning and monitored performance metrics\nEnsured production targets were met while maintaining quality standards\nUsed Excel to track output, resource utilization, and downtime",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "not found",
+                "job title": "Intern - Supply Chain Department",
+                "description": "Assisted in inventory tracking and stock audits\nPrepared reports to analyze operational efficiency",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Present",
@@ -14395,7 +14635,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Apr 2023 - Aug 2023",
+                "company": "Local Advisory Firm",
+                "job title": "Consulting Intern",
+                "description": "Conducted market research and competitor analysis for clients\nPrepared client slide decks and presentations for strategic",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Apr 2023 - Aug 2023",
@@ -14439,7 +14687,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Present",
+                "company": "not found",
+                "job title": "Junior Data Analyst - E-commerce Company",
+                "description": "Analyzed customer and sales data to identify trends and improvement areas\nBuilt dashboards in Power BI to track KPIs and performance metrics\nAssisted marketing and operations teams in data-driven decision-making",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020 - 2021",
+                "company": "not found",
+                "job title": "IT Support Intern",
+                "description": "Cleaned and managed internal data systems\nProvided technical support to end-users",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2023 - Present",
@@ -14490,7 +14753,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Microfinance Institution",
+                "job title": "Finance Intern",
+                "description": "Assisted in preparing client financial files and assessing repayment capacity\nCalculated risk indicators and monitored loan performance\nPrepared reports for senior managers to inform lending decisions",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Accounting Assistant (part-time)",
+                "description": "Processed invoices, performed reconciliations, and maintained accounting records\nAssisted in preparing monthly financial summaries",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -14541,7 +14819,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Present",
+                "company": "Retail Group",
+                "job title": "Commercial Analyst",
+                "description": "Supported pricing analysis and sales performance monitoring\nCreated Excel dashboards summarizing weekly sales trends and store performance\nAssisted in strategic decision-making and competitor benchmarking",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jun 2021 - Dec 2021",
+                "company": "Family-owned Export Company",
+                "job title": "Intern",
+                "description": "Managed export documentation and compliance requirements\nCommunicated with suppliers and logistics partners for shipment coordination",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2023 - Present",
@@ -14592,7 +14885,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2022 - Aug 2023",
+                "company": "Local Commercial Bank",
+                "job title": "Credit Analyst",
+                "description": "Analyzed loan applications and assessed credit risk using financial ratios\nPrepared reports on loan performance and assisted in decision-making processes\nMaintained Excel-based tracking systems for client credit profiles",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "not found",
+                "job title": "Intern - Accounting Firm",
+                "description": "Supported bookkeeping and financial documentation\nReconciled client accounts and assisted auditors with data verification",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2022 - Aug 2023",
@@ -14629,7 +14937,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Present",
+                "company": "Consulting Boutique",
+                "job title": "Graduate Trainee",
+                "description": "Conducted market research and competitive analysis for client",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2023 - Present",
@@ -14673,7 +14989,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Apr 2023 - Sep 2023",
+                "company": "Retail Company",
+                "job title": "Data Assistant",
+                "description": "Cleaned and structured sales data for analysis\nUpdated and maintained dashboards to monitor product performance and sales trends\nAssisted the analytics team in creating reports for management",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Student Job - University Admin",
+                "description": "Provided administrative support and coordinated student records\nCollected and organized data for research and reporting",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Apr 2023 - Sep 2023",
@@ -14724,7 +15055,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "Public Innovation Agency",
+                "job title": "Project Officer",
+                "description": "Coordinated startup programs and incubator initiatives\nMonitored KPIs and produced monthly reports on program effectiveness\nAssisted startups in market validation and business model refinement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2020 - 2021",
+                "company": "not found",
+                "job title": "Co-founder - Student Startup (failed)",
+                "description": "Developed business plan and financial projections\nPrepared pitch decks and investor presentations\nGained hands-on experience in fundraising and team management",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Present",
@@ -14775,7 +15121,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2023 - Jul 2023",
+                "company": "Multinational Manufacturing Company",
+                "job title": "HR Intern",
+                "description": "Conducted CV screening and initial candidate interviews for junior positions\nCoordinated interview schedules and communicated with candidates professionally\nAssisted in preparing HR reports and presentations for management meetings",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Sales Assistant (part-time)",
+                "description": "Provided customer support and managed daily sales administration\nTracked customer requests and reported performance metrics",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2023 - Jul 2023",
@@ -14826,7 +15187,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Present",
+                "company": "not found",
+                "job title": "Operations Coordinator - Logistics SME",
+                "description": "Monitored daily operations and ensured smooth warehouse and delivery processes\nMaintained Excel-based inventory tracking and KPI dashboards to optimize stock levels\nCoordinated with vendors and internal teams to improve operational efficiency",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2021",
+                "company": "Hyundai Mobis",
+                "job title": "Intern - Hyundai Mobis",
+                "description": "Assisted in production data monitoring and reporting\nAnalyzed assembly line efficiency and suggested minor improvements to reduce waste",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Present",
@@ -14877,7 +15253,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Mar 2022 - Oct 2023",
+                "company": "Fintech Startup",
+                "job title": "Business Development Executive",
+                "description": "Conducted market expansion research for new fintech products in Egypt and the MENA region\nIdentified and established partnerships with potential clients and B2B partners\nPrepared weekly and monthly reports tracking KPIs, sales pipeline, and growth metrics",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Summer 2020",
+                "company": "PwC Egypt",
+                "job title": "Intern",
+                "description": "Assisted in audit support tasks and documentation review\nReviewed internal financial reports and prepared supporting spreadsheets",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Mar 2022 - Oct 2023",
@@ -14928,7 +15319,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jan 2023 - Jun 2023",
+                "company": "Rappi",
+                "job title": "Marketing Intern",
+                "description": "Coordinated digital marketing campaigns, including influencer partnerships and email marketing\nMonitored campaign performance metrics using Google Analytics and Excel dashboards\nConducted competitor research and presented recommendations for improving engagement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "not found",
+                "job title": "Student Assistant - Marketing Department",
+                "description": "Assisted in surveys, focus groups, and market research",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2023 - Jun 2023",
@@ -14979,7 +15385,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Feb 2023 - Aug 2023",
+                "company": "Deloitte Poland",
+                "job title": "Accounting Assistant",
+                "description": "Supported audit missions for corporate clients, including reviewing financial statements and verifying\ncompliance with accounting standards\n\nConducted detailed data checks, reconciled accounts, and assisted in preparing audit reports\nCollaborated with teams to ensure timely delivery of audit findings and client presentations",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jul 2021 - Dec 2021",
+                "company": "PKO Bank Polski",
+                "job title": "Finance Intern",
+                "description": "Assisted in credit risk assessment for retail and SME clients\n\nDeveloped Excel reports summarizing financial metrics and loan performance\nParticipated in client meetings to present financial analysis and credit recommendations",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Feb 2023 - Aug 2023",
@@ -15030,7 +15451,26 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "experiences": [
+                    {
+                        "dates": "Jan 2022 - Sep 2023",
+                        "company": "Orange Tunisia",
+                        "job title": "Junior Sales Assistant",
+                        "description": "Managed B2B client accounts, ensuring timely delivery of products and services\nPrepared detailed commercial offers and proposals tailored to client needs\nCreated Excel dashboards to track sales activity, KPIs, and monthly performance metrics\nAssisted the sales manager in developing sales strategies based on data insights",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "Jun 2021 - Dec 2021",
+                        "company": "not found",
+                        "job title": "Intern - Local Consulting Firm (SME)",
+                        "description": "Conducted market studies and competitive benchmarking for small companies\nCollected, cleaned, and analyzed data from surveys and interviews to support consulting recommendations\nPresented findings in PowerPoint reports, highlighting growth opportunities for clients",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Age": [
             {
                 "dates": "Jan 2022 - Sep 2023",
@@ -15081,7 +15521,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "Jun 2023 - Sep 2023",
+                "company": "PwC Vietnam",
+                "job title": "Finance Intern",
+                "description": "Assisted in audit and financial review engagements for corporate clients, including examining balance sheets, income statements, and cash flow statements\nConducted variance analysis to identify discrepancies in accounting records\nPrepared summary reports for senior auditors and contributed to client presentation decks",
+                "country or city": "not found"
+            },
+            {
+                "dates": "Jan 2023 - May 2023",
+                "company": "VinGroup",
+                "job title": "Business Analyst Intern",
+                "description": "Supported internal reporting by collecting and analyzing sales, revenue, and operational data\nDeveloped Excel dashboards to monitor KPIs such as revenue growth, customer acquisition, and product performance\nConducted market studies to benchmark competitor performance and inform strategic decisions",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "Jun 2023 - Sep 2023",
@@ -15132,7 +15587,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "March 2023 - August 2023",
+                "company": "Early-Stage Venture Capital Fund",
+                "job title": "Startup Analyst",
+                "description": "Evaluated startup business models, pitch decks and growth strategies\nConducted market and competitive analysis for early-stage ventures\nSupported investment screening and due diligence processes\nAssisted partners in preparing investment memos",
+                "country or city": "not found"
+            },
+            {
+                "dates": "July 2022 - February 2023",
+                "company": "Mercado Libre",
+                "job title": "Operations Intern",
+                "description": "Supported logistics and operations optimization initiatives\nAssisted in data analysis related to delivery performance and efficiency\nCollaborated with operations teams on process improvement",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "March 2023 - August 2023",
@@ -15183,7 +15653,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Accenture UK",
+                "job title": "Consulting Intern",
+                "description": "Supported digital transformation projects for corporate clients\nConducted market analysis, process mapping and benchmarking\nAssisted consultants in preparing client presentations and reports\nGained exposure to client-facing work and consulting methodologies",
+                "country or city": "not found"
+            },
+            {
+                "dates": "July 2022 - December 2022",
+                "company": "Unilever",
+                "job title": "Strategy Intern",
+                "description": "Assisted strategy teams in portfolio and business unit reviews\nConducted internal analyses to support strategic decision-making\nContributed to strategic presentations for senior management",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "January 2023 - June 2023",
@@ -15220,7 +15705,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "April 2023 - September 2023",
+                "company": "SAP",
+                "job title": "Data Analyst Intern",
+                "description": "Built dashboards for internal performance monitoring and reporting\nSupported data cleaning, validation and reporting automation processes\nWorked with large datasets to extract insights for internal stakeholders\nCollaborated with analysts and IT teams on analytics",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "April 2023 - September 2023",
@@ -15264,7 +15757,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "February 2023 - July 2023",
+                "company": "OCP Group",
+                "job title": "Export Assistant",
+                "description": "Supported international sales and export operations for fertilizer products\n\nCoordinated logistics and export documentation with internal and external stakeholders\n\nAssisted in monitoring shipment schedules and compliance requirements\nContributed to communication with international clients and partners",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - January 2023",
+                "company": "Attijariwafa Bank",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research on North African and regional markets\nSupported business development initiatives and market entry analysis\nAssisted in preparing internal reports and strategic presentations",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "February 2023 - July 2023",
@@ -15315,7 +15823,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "April 2022 - March 2023",
+                "company": "Toyota Motor Corporation",
+                "job title": "Operations Planning Analyst",
+                "description": "Supported production planning and demand forecasting activities\n\nAssisted in capacity planning and coordination between production units\nContributed to lean manufacturing and continuous improvement",
+                "country or city": "not found"
+            },
+            {
+                "dates": "August 2021 - February 2022",
+                "company": "Mitsui & Co.",
+                "job title": "Logistics Intern",
+                "description": "Analyzed international shipping routes and logistics cost structures\nSupported coordination with logistics partners and internal teams\n\nContributed to reporting on transportation efficiency and cost optimization",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "April 2022 - March 2023",
@@ -15366,7 +15889,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "February 2023 - July 2023",
+                "company": "Coca-Cola FEMSA",
+                "job title": "Digital Marketing Intern",
+                "description": "Supported the execution of digital marketing campaigns across social media platforms\n\nCoordinated influencer partnerships and monitored campaign deliverables\n\nAnalyzed campaign performance using engagement, reach and conversion metrics\n\nPrepared performance reports and insights for marketing managers",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - January 2023",
+                "company": "L'Oréal Mexico",
+                "job title": "Brand Assistant",
+                "description": "Assisted brand managers in product launches and promotional initiatives\nConducted market research and competitor analysis within the beauty sector\n\nSupported the preparation of presentations for brand strategy and planning meetings\nHelped coordinate communication between marketing, sales and external agencies",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "February 2023 - July 2023",
@@ -15417,7 +15955,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Luxottica",
+                "job title": "Operations Analyst Intern",
+                "description": "Analyzed supply chain and operational KPIs for the EMEA region\n\nSupported initiatives aimed at improving inventory turnover and delivery performance\nCoordinated with logistics providers and internal stakeholders to improve data reporting\nContributed to operational reviews and continuous improvement initiatives",
+                "country or city": "not found"
+            },
+            {
+                "dates": "September 2022 - December 2022",
+                "company": "Salesforce Italy",
+                "job title": "Sales Operations Intern",
+                "description": "Supported sales pipeline analysis and revenue forecasting activities\n\nBuilt reports and dashboards for regional sales teams using CRM data\nAssisted sales managers with performance tracking and opportunity analysis\nGained exposure to enterprise sales processes in a multinational tech environment",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "January 2023 - June 2023",
@@ -15482,7 +16035,29 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "April 2023 - July 2023",
+                "company": "Tata Capital",
+                "job title": "Finance Intern",
+                "description": "Assisted credit risk analysts in the assessment of SME loan applications\n\nPrepared borrower financial profiles, including income statements, balance sheets and cash flow summaries\n\nSupported the evaluation of creditworthiness through ratio analysis and risk indicators\nContributed to internal reporting and documentation for credit committees",
+                "country or city": "not found"
+            },
+            {
+                "dates": "June 2022 - August 2022",
+                "company": "Motilal Oswal",
+                "job title": "Equity Research Intern",
+                "description": "Conducted financial and qualitative analysis of publicly listed Indian companies\n\nBuilt valuation models using discounted cash flow (DCF) and comparable multiples approaches\n\nAnalyzed industry trends, company fundamentals and earnings drivers\n\nAssisted in the preparation of equity research notes and investment summaries",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2023",
+                "company": "not found",
+                "job title": "Treasurer - Student Finance Club",
+                "description": "Managed the annual budget of the student organization and monitored expenses\nCoordinated sponsorship negotiations with external partners and institutions\n\nOversaw financial planning for academic events and workshops on financial literacy",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "April 2023 - July 2023",
@@ -15554,7 +16129,29 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "July 2023 - December 2023",
+                "company": "Itaú Unibanco",
+                "job title": "Business Analyst Intern",
+                "description": "Conducted market, financial and customer data analyses to support decision-making for retail banking products\nAnalyzed product profitability, customer acquisition costs and revenue drivers across different client seg- ments\nDesigned and maintained Excel dashboards to track key performance indicators (KPIs) such as customer acquisition, retention and cross-selling\nCollaborated with senior analysts and product managers to prepare management presentations and per- formance reports\nContributed to data-driven recommendations aimed at improving product positioning and operational efficiency",
+                "country or city": "São Paulo"
+            },
+            {
+                "dates": "January 2023 - June 2023",
+                "company": "Ambev (AB InBev Group)",
+                "job title": "Strategy Intern",
+                "description": "Supported pricing and commercial strategy for FMCG products across multiple brands and distribution channels\nConducted competitor benchmarking, analyzing price positioning, promotions and market shares\nPerformed market sizing and demand analysis to assess growth opportunities in selected regions\nAssisted in building financial scenarios to evaluate the impact of pricing and volume changes on revenue and margins\nWorked closely with strategy and commercial teams in a multinational environment",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2021 - 2022",
+                "company": "FGV Junior Enterprise",
+                "job title": "Student Consultant",
+                "description": "Participated in consulting projects for small and medium-sized enterprises (SMEs) in retail and logistics sectors\nConducted diagnostic analyses of clients' business models, cost structures and operational processes\nDeveloped market studies and strategic recommendations focused on growth, pricing and process opti- mization\nPresented findings and actionable recommendations directly to clients' management teams",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "July 2023 - December 2023",
@@ -15612,7 +16209,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Freelance Game Designer",
+                "description": "Conceptualized, developed, and tested indie games. Collaborated with artists and programmers, managed deadlines, playtesting sessions, user feedback integration.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Gaming Startup",
+                "description": "Campaign planning, social media content, engagement tracking, analytics reporting.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -15663,7 +16275,26 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "experiences": [
+                    {
+                        "dates": "1.5 years",
+                        "company": "not found",
+                        "job title": "Social Impact Consultant",
+                        "description": "Assisted NGOs in strategic planning, fundraising campaigns, program monitoring, community engagement reporting.",
+                        "country or city": "not found"
+                    },
+                    {
+                        "dates": "6 months",
+                        "company": "not found",
+                        "job title": "Marketing Intern at Startup",
+                        "description": "Content creation, engagement analysis, social media campaigns, report preparation.",
+                        "country or city": "not found"
+                    }
+                ]
+            }
+        ],
         "Age": [
             {
                 "dates": "1.5 years",
@@ -15714,7 +16345,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "3 years",
+                "company": "not found",
+                "job title": "Independent Music Producer",
+                "description": "- Composed, recorded, and mixed tracks, collaborated with artists, managed online distribution, promoted music on social media platforms.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Event Coordinator, Local Music Festival",
+                "description": "- Organized artist line-up, coordinated logistics, managed sponsorships, marketing.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "3 years",
@@ -15765,7 +16411,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "E-Sports Team Manager",
+                "description": "- Coordinated team schedules, organized tournaments, negotiated sponsorships, managed social media presence.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Tech Startup",
+                "description": "- Campaign analytics, content creation, data reporting, cross-team collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -15816,7 +16477,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Drone Photography Freelancer",
+                "description": "Captured aerial photos for events, real estate, marketing campaigns. Edited images, liaised with clients, managed project timelines.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Marketing Intern at Tourism Board",
+                "description": "Social media strategy, content creation, engagement tracking, campaign reporting.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -15867,7 +16543,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Max Planck Institute",
+                "job title": "Research Intern",
+                "description": "- Conducted behavioral economics experiments, data collection, statistical analysis, co-authored research report.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Freelance Marketing Consultant",
+                "description": "- Designed campaigns for small businesses, analyzed engagement metrics, social media content planning.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -15918,7 +16609,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "1.5 years",
+                "company": "not found",
+                "job title": "Freelance Tech Consultant",
+                "description": "Provided IT solutions for small businesses, website optimization, data analytics dashboards, CRM setup, client training.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "not found",
+                "job title": "Startup Mentor, Local Incubator",
+                "description": "Advised early-stage entrepreneurs on business strategy, market research, and growth metrics.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "1.5 years",
@@ -15969,7 +16675,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "GreenHands NGO",
+                "job title": "Social Entrepreneur, Founder",
+                "description": "- Managed environmental awareness campaigns,\nled community workshops, organized fundraisers, collaborated with local government and schools, created project\nreports and digital content.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Local Eco-Business",
+                "job title": "Marketing Intern",
+                "description": "- Social media strategy, campaign analytics, content\ncreation, engagement monitoring.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -16020,7 +16741,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "SÃo Paulo FC",
+                "job title": "Professional Football Player",
+                "description": "- Professional Football Player, SÃo Paulo FC (4 years): Team leadership, international travel, sponsorship promotion, media appearances, training program planning.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "Local Sports Tech Startup",
+                "job title": "Sports Analytics Intern",
+                "description": "- Sports Analytics Intern, Local Sports Tech Startup (6 months): Collected performance data, analyzed team statistics, prepared dashboards for coaches, suggested data-driven strategies for training.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "4 years",
@@ -16071,7 +16807,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "not found",
+                "job title": "Freelance Creative Strategist",
+                "description": "Developed branding strategies for small businesses and cultural startups. Designed campaigns, coordinated visual identity, created digital content, advised clients on social media growth. Managed timelines, budgets, and client presentations.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "not found",
+                "job title": "Volunteer Event Organizer, Stockholm Arts Festival",
+                "description": "Coordinated workshops, artist communications, logistics, and community engagement events.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -16122,7 +16873,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Gazprom",
+                "job title": "Finance Analyst Intern",
+                "description": "Portfolio evaluation, financial modeling, reporting, client support.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Yandex",
+                "job title": "Business Development Intern",
+                "description": "Market research, KPI tracking, sales proposals, collaboration with multiple teams.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16173,7 +16939,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Attijariwafa Bank",
+                "job title": "Finance Intern",
+                "description": "Financial reporting, portfolio analysis, risk assessment, client meetings.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Maroc Telecom",
+                "job title": "Marketing Intern",
+                "description": "Coordinated campaigns, tracked KPIs, social media content, analytics reports.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16224,7 +17005,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Alibaba Group",
+                "job title": "Business Development Intern",
+                "description": "Market research, competitor analysis, KPI tracking, preparing reports for management.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Tencent",
+                "job title": "Marketing Analyst Intern",
+                "description": "Social media campaigns, engagement tracking, data visualization, weekly reports, cross-team collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16275,7 +17071,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Banco Santander",
+                "job title": "Finance Intern",
+                "description": "Risk analysis, portfolio evaluation, financial modeling, reporting, client support.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Jerónimo Martins",
+                "job title": "Business Analyst Intern",
+                "description": "Market research, KPI dashboards, sales proposal preparation, cross-functional collaboration.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16326,7 +17137,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Emirates NBD",
+                "job title": "Finance Intern",
+                "description": "Assisted in investment research, financial reporting, KPI dashboards, client presentations.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Du Telecom",
+                "job title": "Business Development Intern",
+                "description": "Supported market research, product launch planning, sales reporting, team coordination.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16377,7 +17203,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Sberbank",
+                "job title": "Finance Analyst Intern",
+                "description": "Assisted in financial modeling, reporting, client communication, portfolio evaluation.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Yandex",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns, analyzed engagement metrics, prepared weekly analytics reports.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16428,7 +17269,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "BBVA Mexico",
+                "job title": "Finance Intern",
+                "description": "Portfolio evaluation, risk modeling, reporting, client meetings, financial analysis, forecasting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Grupo Bimbo",
+                "job title": "Business Development Intern",
+                "description": "Market research for new product lines, sales analysis, KPI tracking, preparing business proposals.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16479,7 +17335,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Nestlé Pakistan",
+                "job title": "Marketing Intern",
+                "description": "Managed campaign content, social media monitoring, engagement tracking, collaborated with creative teams, assisted in organizing tasting events, collected feedback.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Telenor Pakistan",
+                "job title": "Business Analyst Intern",
+                "description": "Prepared sales reports, analyzed customer data, drafted executive summaries, collaborated on market research projects.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16530,7 +17401,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio risk assessment, created financial models, attended client meetings, prepared reports for investment teams.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Luxottica",
+                "job title": "Business Development Intern",
+                "description": "Conducted market analysis for new store openings, tracked KPIs, supported sales proposals, collaborated with merchandising and marketing teams.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16581,7 +17467,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "LVMH",
+                "job title": "Marketing Intern",
+                "description": "Coordinated social media campaigns for luxury brands, developed content calendars, tracked engagement, collaborated with photographers, drafted weekly performance summaries for managers.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "AXA",
+                "job title": "Business Analyst Intern",
+                "description": "Supported market research, prepared Excel dashboards, participated in cross-functional workshops, created financial summaries for internal reporting.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16632,7 +17533,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Bain & Company",
+                "job title": "Consulting Intern",
+                "description": "Assisted in strategy research for consumer goods clients, prepared slides and data summaries for client meetings, collaborated with a team of 6 consultants, participated in client workshops, contributed to brainstorming sessions for marketing strategies, conducted competitor analysis and trend reports.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Carrefour Middle East",
+                "job title": "Business Analyst Intern",
+                "description": "Supported the business development team in analyzing sales trends, preparing weekly dashboards, assisting with operational recommendations, and drafting presentations for management. Participated in cross-functional team meetings with supply chain, finance, and marketing departments.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16683,7 +17599,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Danone Vietnam",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research for new product launches, analyzed sales data, collaborated with marketing and sales teams, prepared reports for management. Assisted in creating promotional materials, organized tasting events, evaluated customer feedback, and suggested improvements to marketing strategy.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "VinGroup",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated online campaigns, managed content creation for social media channels, tracked engagement metrics, and prepared weekly analytics reports. Collaborated with cross-functional teams including designers, copywriters, and event coordinators.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16734,7 +17665,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "Deloitte Belgium",
+                "job title": "Junior Analyst",
+                "description": ". Junior Analyst at Deloitte Belgium (1 year): Prepared detailed financial reports, conducted market and industry analysis, collaborated in client workshops, assisted in audit preparations, maintained databases of client information, conducted competitor benchmarking. Participated in weekly strategy meetings with senior consultants. Used Excel to develop models for cost optimization, presented findings in client presentations. Supported cross-functional teams with ad hoc research tasks.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "PwC",
+                "job title": "Business Consultant Intern",
+                "description": "· Business Consultant Intern at PwC (6 months): Contributed to process improvement projects for a multinational client. Drafted documentation, mapped workflows, identified inefficiencies, suggested practical solutions. Assisted in developing presentation decks, participated in client calls, summarized discussions for internal use. Worked on data visualization projects using Tableau to present findings to non-technical stakeholders.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -16785,7 +17731,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "L'Oréal France",
+                "job title": "Marketing Intern",
+                "description": "Managed multiple social media accounts including Instagram, Facebook, and TikTok. Developed content calendars, coordinated with graphic designers and photographers, tracked engagement metrics using Google Analytics and Hootsuite. Drafted weekly performance reports for senior managers, presented insights during team meetings, contributed to brainstorming sessions for new product campaigns. Assisted in influencer outreach programs, monitored ROI, and suggested optimizations for campaigns leading to a 18% engagement increase.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "BNP Paribas",
+                "job title": "Junior Project Assistant",
+                "description": "Supported corporate finance team in creating client pitch decks and financial reports. Collected and analyzed market data, benchmarked competitors, and prepared summaries for senior analysts. Collaborated with a cross-functional team of 5 to research potential investment opportunities. Developed Excel models to track key performance indicators of client portfolios. Assisted in internal training workshops for junior interns.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16836,7 +17797,22 @@
                 "country or city": "Seoul"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Samsung",
+                "job title": "Marketing Analyst Intern",
+                "description": "Conducted market research, analyzed campaign data, prepared reports for senior managers, collaborated with creative teams, assisted in project planning, monitored KPIs, drafted insights for product launches, coordinated with regional offices for data collection.",
+                "country or city": "Seoul"
+            },
+            {
+                "dates": "6 months",
+                "company": "Hyundai Motors",
+                "job title": "Business Development Intern",
+                "description": "Supported strategic planning for product launches, conducted competitor analysis, prepared presentations for management, assisted in sales forecasting, participated in project meetings, tracked KPIs for new market entries.",
+                "country or city": "Seoul"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16887,7 +17863,22 @@
                 "country or city": "Dakar"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Orange Senegal",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns across multiple platforms, created content calendars, analyzed engagement using analytics tools, drafted weekly summaries, coordinated with creative and design teams, tracked ROI and engagement, suggested optimizations.",
+                "country or city": "Dakar"
+            },
+            {
+                "dates": "6 months",
+                "company": "Ecobank",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research, prepared sales proposals, analyzed customer data, assisted in product launch planning, collaborated with regional sales teams, developed dashboards to track KPIs, participated in meetings with senior managers.",
+                "country or city": "Dakar"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16938,7 +17929,22 @@
                 "country or city": "Paris"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Roland Berger",
+                "job title": "Strategy Consulting Intern",
+                "description": "Conducted market research, analyzed competitor data, contributed to client presentations, supported workshops on retail strategy, collaborated with a team of 5 consultants, assisted in drafting internal reports and project deliverables, presented findings to senior managers.",
+                "country or city": "Paris"
+            },
+            {
+                "dates": "6 months",
+                "company": "Danone",
+                "job title": "Business Analyst Intern",
+                "description": "Assisted in sales analysis, drafted performance dashboards, coordinated with marketing and finance teams, participated in product launch meetings, performed consumer trend analysis using survey data, summarized insights for management.",
+                "country or city": "Paris"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -16989,7 +17995,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "BBVA",
+                "job title": "Finance Intern",
+                "description": "Assisted portfolio managers in risk assessment, prepared weekly performance dashboards, analyzed investment opportunities, participated in client meetings, helped with financial modeling and forecasting, presented findings to team leads.",
+                "country or city": "Madrid"
+            },
+            {
+                "dates": "6 months",
+                "company": "Inditex, Zara Division",
+                "job title": "Business Development Intern",
+                "description": "Supported market analysis for new store openings, collected sales data, tracked KPIs, assisted in preparing business proposals, collaborated with cross-functional teams including merchandising, finance, and marketing.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17040,7 +18061,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Corporate Strategy Intern",
+                "description": "Conducted market analysis for banking services, prepared client-facing reports, benchmarked competitors, assisted senior consultants in strategy workshops, created detailed PowerPoint presentations, contributed to risk assessment meetings, collaborated with teams across finance, marketing, and operations.",
+                "country or city": "Milan"
+            },
+            {
+                "dates": "6 months",
+                "company": "Luxottica",
+                "job title": "Marketing Assistant",
+                "description": "Coordinated social media campaigns, developed content calendars, analyzed engagement metrics using Google Analytics, liaised with design and photography teams, prepared weekly campaign summaries for management, monitored influencer collaborations, suggested optimization for brand awareness campaigns.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17077,7 +18113,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "Finance and consulting intern, worked on tasks as assigned.\nHelped in project research and reports.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17107,7 +18151,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Helped in marketing and business operations.\n\n· Contributed to projects when asked.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17137,7 +18189,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Worked in finance and consulting roles, did some analysis.\n\n· Assisted teams with general tasks.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17167,7 +18227,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Assisted in marketing and business development tasks.\n\n· Helped prepare documents and campaigns.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17197,7 +18265,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Worked in finance and marketing roles, various short-term tasks.\n\n· Supported team with reports and meetings.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17234,7 +18310,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": ". Interned at different companies, helped with tasks and reports.\n\n· Assisted with events and presentations.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17271,7 +18355,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Participated in finance-related work, some analysis and reporting.\n\n· Worked on a few marketing presentations for clients.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17308,7 +18400,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Business support in a small team, handled tasks as assigned.\n\n· Helped with social media content and documentation.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17345,7 +18445,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": ". Interned in finance for a few months, helped prepare reports.\n\n· Observed consulting tasks, contributed occasionally.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17382,7 +18490,15 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "not found",
+                "job title": "not found",
+                "description": "· Worked in marketing and sales for various small projects in Paris.\n\n· Assisted in some reporting and customer follow-up tasks at a local firm.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",
@@ -17426,7 +18542,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Credit Suisse",
+                "job title": "Finance Intern",
+                "description": "Assisted in investment analysis and reporting.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Mckinsey Switzerland",
+                "job title": "Consulting Intern",
+                "description": "Supported strategy projects for healthcare clients.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17477,7 +18608,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Samsung",
+                "job title": "Marketing Analyst Intern",
+                "description": "Conducted market research and campaign analysis.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Hyundai",
+                "job title": "Business Development Intern",
+                "description": "Supported strategic planning and sales analysis.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17528,7 +18674,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "1 year",
+                "company": "Deloitte Belgium",
+                "job title": "Business Analyst Intern",
+                "description": "Conducted financial and market analysis for corporate clients.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "PwC",
+                "job title": "Consulting Intern",
+                "description": "Assisted in process improvement projects.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "1 year",
@@ -17579,7 +18740,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Orange Senegal",
+                "job title": "Marketing Intern",
+                "description": "Managed social media campaigns and analyzed customer feedback.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Ecobank",
+                "job title": "Business Development Intern",
+                "description": "Assisted in market research and sales strategy.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17630,7 +18806,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "1 year",
+                "company": "Santander",
+                "job title": "Finance Intern",
+                "description": "Assisted in portfolio management and risk assessment.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Zara",
+                "job title": "Marketing Intern",
+                "description": "Supported brand campaigns and social media analysis.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "1 year",
@@ -17681,7 +18872,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Bain & Company",
+                "job title": "Consulting Intern",
+                "description": "Supported strategy projects for consumer goods clients.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Carrefour Middle East",
+                "job title": "Business Analyst Intern",
+                "description": "Analyzed sales data and suggested operational improvements.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17732,7 +18938,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "1 year",
+                "company": "Société Générale",
+                "job title": "Junior Analyst",
+                "description": "Conducted financial analysis, reporting, and data visualization.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "LVMH",
+                "job title": "Marketing Intern",
+                "description": "Assisted in luxury brand campaigns and client engagement.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "1 year",
@@ -17783,7 +19004,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "Danone Vietnam",
+                "job title": "Business Development Intern",
+                "description": "Conducted market research and sales analysis for new product launches.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "VinGroup",
+                "job title": "Marketing Assistant",
+                "description": "Supported social media campaigns and event planning.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17834,7 +19070,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "1 year",
+                "company": "BNP Paribas",
+                "job title": "Financial Analyst Intern",
+                "description": "Performed financial modeling and portfolio analysis.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "Roland Berger",
+                "job title": "Consulting Intern",
+                "description": "Assisted in market research and strategy development for retail clients.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "1 year",
@@ -17885,7 +19136,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "6 months",
+                "company": "L'Oréal France",
+                "job title": "Marketing Intern",
+                "description": "Assisted in digital campaigns, social media management, and market research.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "6 months",
+                "company": "UniCredit",
+                "job title": "Junior Analyst",
+                "description": "Supported financial reporting and investment analysis.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "6 months",
@@ -17936,7 +19202,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "5 years",
+                "company": "Sony",
+                "job title": "Software Engineer",
+                "description": "Developed embedded systems for consumer electronics.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Toshiba",
+                "job title": "AI Researcher",
+                "description": "Built AI models for image recognition applications.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "5 years",
@@ -17987,7 +19268,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "3 years",
+                "company": "Odebrecht",
+                "job title": "Civil Engineer",
+                "description": "Managed infrastructure projects including bridges and roads.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Petrobras",
+                "job title": "Project Manager",
+                "description": "Oversaw construction projects with budgets over $10M.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "3 years",
@@ -18038,7 +19334,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "4 years",
+                "company": "Cairo University Hospital",
+                "job title": "Doctor",
+                "description": "Specialized in cardiology, performed over 300 successful surgeries.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "Medical Center",
+                "job title": "Research Fellow",
+                "description": "Published research on heart disease prevention.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "4 years",
@@ -18089,7 +19400,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "5 years",
+                "company": "Toronto High School",
+                "job title": "Teacher",
+                "description": "Taught Mathematics and Computer Science to grades 10-12.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Pearson",
+                "job title": "Curriculum Developer",
+                "description": "Designed online learning modules for STEM subjects.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "5 years",
@@ -18140,7 +19466,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "3 years",
+                "company": "SAP",
+                "job title": "Data Scientist",
+                "description": "Built predictive models for supply chain optimization.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "BMW",
+                "job title": "Software Engineer",
+                "description": "Developed software for automotive telemetry systems.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "3 years",
@@ -18191,7 +19532,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "4 years",
+                "company": "Adobe",
+                "job title": "Graphic Designer",
+                "description": "Designed UI/UX for mobile apps and web platforms.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Telefónica",
+                "job title": "UI/UX Designer",
+                "description": "Improved usability and accessibility for client applications.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "4 years",
@@ -18242,7 +19598,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "3 years",
+                "company": "Globo",
+                "job title": "Marketing Specialist",
+                "description": "Developed campaigns increasing brand engagement by 25%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "2 years",
+                "company": "Banco do Brasil",
+                "job title": "Business Analyst",
+                "description": "Analyzed financial reports and optimized investment strategies.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "3 years",
@@ -18293,7 +19664,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "2 years",
+                "company": "National Research Lab",
+                "job title": "Biologist",
+                "description": "Conducted genetic research on plant resistance to drought.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "1 year",
+                "company": "University of Delhi",
+                "job title": "Research Assistant",
+                "description": "Assisted in publishing research papers in molecular biology.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "2 years",
@@ -18344,7 +19730,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "4 years",
+                "company": "Renault",
+                "job title": "Mechanical Engineer",
+                "description": "Designed automotive components, improving fuel efficiency by 12%.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "3 years",
+                "company": "Total",
+                "job title": "Project Manager",
+                "description": "Managed cross-functional teams of 15 engineers for renewable energy projects.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "4 years",
@@ -18395,7 +19796,22 @@
                 "country or city": "not found"
             }
         ],
-        "Origin": [],
+        "Origin": [
+            {
+                "dates": "not found",
+                "company": "Google",
+                "job title": "Software Engineer",
+                "description": "Developed scalable backend services and optimized database queries for 10M+ users.",
+                "country or city": "not found"
+            },
+            {
+                "dates": "not found",
+                "company": "IBM",
+                "job title": "Data Analyst",
+                "description": "Created dashboards and reports to track KPIs, improving decision-making processes.",
+                "country or city": "not found"
+            }
+        ],
         "Age": [
             {
                 "dates": "not found",

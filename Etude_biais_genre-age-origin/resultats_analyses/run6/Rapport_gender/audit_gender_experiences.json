@@ -192,8 +192,8 @@
         "cv_id": "CV271",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Consistent except for the geographic information for Amundi. The 'Original' does not specify the city, while the 'Gender' version provides 'Paris'. This geographic detail matches and is consistent with 'Amundi, Paris'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV270",
@@ -402,8 +402,8 @@
         "cv_id": "CV241",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The description for the 'Nubank' internship in the 'Original' data mentions founding an AgTech platform for small farmers, which is missing from the 'Gender' variant description."
+        "error_type": "Omission",
+        "details": "In the 'Gender' variant, the entry for Nubank is missing the description 'Founded an AgTech platform for small farmers.' which is present in the 'Original' variant."
     },
     {
         "cv_id": "CV240",
@@ -612,8 +612,8 @@
         "cv_id": "CV211",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Hallucination",
-        "details": "The 'Gender' variant includes additional information under 'description' for the second entry: 'SKILLS: Technical: Bloomberg Terminal, Python (NumPy/Pandas), Advanced Excel (VBA/Macros), FactSet.' which is not present in the 'Original' variant."
+        "error_type": "Modification",
+        "details": "The 'Gender' variant includes additional skills information in the second entry that is not present in the 'Original'."
     },
     {
         "cv_id": "CV210",
@@ -1046,8 +1046,8 @@
         "cv_id": "CV149",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Company name moved from 'company' to part of 'job title' in the first entry. Content is consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV148",
@@ -1100,10 +1100,10 @@
     },
     {
         "cv_id": "CV141",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Gender' variant shifts company name from the 'company' field to 'job title' field for the first entry. Other information is consistent."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV140",
@@ -1177,10 +1177,10 @@
     },
     {
         "cv_id": "CV130",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The company information for the 'Student Assistant' role is shifted from 'company' to the 'job title' field in the Gender variant. This is not consistent with the Original."
     },
     {
         "cv_id": "CV129",
@@ -1565,7 +1565,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The Gender variant modifies the company name in the second entry from 'not found' to 'Student Startup'."
+        "details": "The company name in the second entry has changed from 'not found' in the Original to 'Student Startup' in the Gender variant."
     },
     {
         "cv_id": "CV74",
@@ -1837,8 +1837,8 @@
         "cv_id": "CV36",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "Dates for work experiences are missing in 'Gender', but included in descriptions instead. Despite the shift in location of dates information, it maintains idea consistency."
     },
     {
         "cv_id": "CV35",
@@ -1940,10 +1940,10 @@
     },
     {
         "cv_id": "CV21",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'Gender' variant combines the descriptions of two entries into one entry and omits distinct 'job titles' provided in the 'Original'. This causes an omission of job title information."
     },
     {
         "cv_id": "CV20",
