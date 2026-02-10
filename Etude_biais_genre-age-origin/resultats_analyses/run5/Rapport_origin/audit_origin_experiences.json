@@ -764,10 +764,10 @@
     },
     {
         "cv_id": "CV189",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "There is a minor modification in the description field where 'tax litigation' is mistakenly written as 'tar litigation' in Origins. The rest of the content, including geographic information, remains consistent."
     },
     {
         "cv_id": "CV188",
@@ -1340,8 +1340,8 @@
         "cv_id": "CV107",
         "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The geographic differences are ignored, as per the Origin variant rule. The only difference is structural flexibility: the 'company' detail in the second entry is incorporated into 'job title' in the Origin variant, which fits the structural flexibility rule. Therefore, the data is consistent with overlooking the formatting change; otherwise, coherent on content."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV106",

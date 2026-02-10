@@ -15,10 +15,10 @@
     },
     {
         "cv_id": "CV296",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "Field of study differs; Original has 'field': 'not found', Age has 'field': 'Social Entrepreneurship and Microfinance'."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV295",
@@ -208,7 +208,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV268",
@@ -261,7 +261,7 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -905,10 +905,10 @@
     },
     {
         "cv_id": "CV169",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The 'country or city' information for the semester abroad in 'Age' variant is 'not found', whereas in 'Original' it is specified as 'Sydney'."
     },
     {
         "cv_id": "CV168",
@@ -1276,10 +1276,10 @@
     },
     {
         "cv_id": "CV116",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Omission",
-        "details": "Field 'finance, corporate strategy, and accounting' is missing in 'Age' variant."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV115",

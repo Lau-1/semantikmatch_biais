@@ -204,7 +204,7 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -260,10 +260,10 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV260",
@@ -277,7 +277,7 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV258",
@@ -526,10 +526,10 @@
     },
     {
         "cv_id": "CV223",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Modification",
+        "details": "The 'field' information is missing in the 'Origin' variant, while it is present in the 'Original' variant."
     },
     {
         "cv_id": "CV222",
@@ -974,10 +974,10 @@
     },
     {
         "cv_id": "CV159",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'country or city' key in the first entry differs between the Original ('Tokyo') and the Origin ('not found'), which does not align with the geographic rule allowing intentional changes in geographic origins."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV158",

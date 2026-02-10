@@ -36,10 +36,10 @@
     },
     {
         "cv_id": "CV293",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV292",
@@ -93,7 +93,7 @@
     {
         "cv_id": "CV285",
         "coherent": false,
-        "empty_list": true,
+        "empty_list": false,
         "error_type": "Omission",
         "details": "Variant list is empty while Original is not.",
         "empty_extraction": true
@@ -138,7 +138,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "In the 'Age' variant, the 'Podcasts' entry has an additional detail '(Tech & History)' which is not present in the 'Original' variant."
+        "details": "The 'Age' variant added '(Tech & History)' to 'Podcasts', changing the content."
     },
     {
         "cv_id": "CV278",
@@ -205,10 +205,10 @@
     },
     {
         "cv_id": "CV269",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV268",
@@ -261,7 +261,7 @@
     },
     {
         "cv_id": "CV261",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
         "details": "Original is empty"
@@ -292,14 +292,14 @@
         "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV256",
         "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV255",
@@ -352,10 +352,10 @@
     },
     {
         "cv_id": "CV248",
-        "coherent": true,
+        "coherent": false,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty."
+        "details": "Original is empty"
     },
     {
         "cv_id": "CV247",
@@ -401,10 +401,10 @@
     },
     {
         "cv_id": "CV241",
-        "coherent": false,
+        "coherent": true,
         "empty_list": true,
         "error_type": "Original empty",
-        "details": "Original is empty"
+        "details": "Original is empty."
     },
     {
         "cv_id": "CV240",
@@ -880,8 +880,8 @@
         "cv_id": "CV173",
         "coherent": true,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "The Age variant omits some detail from 'Ethical Hacking (CTF competitions)', but the core meaning is consistent."
     },
     {
         "cv_id": "CV172",
@@ -1294,7 +1294,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent."
+        "details": "Consistent"
     },
     {
         "cv_id": "CV113",
@@ -1469,7 +1469,7 @@
         "coherent": true,
         "empty_list": false,
         "error_type": "None",
-        "details": "Consistent"
+        "details": "Consistent."
     },
     {
         "cv_id": "CV88",
@@ -1823,17 +1823,17 @@
     },
     {
         "cv_id": "CV38",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant modifies the original by adding 'coaching local youth sports teams' to 'Swimming', changing the activity details."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV37",
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The 'Age' variant adds specific subjects to 'reading' by including 'business strategy books and case studies', and expands 'practicing yoga' to 'practicing yoga and mindfulness'. Additionally, 'volunteering' is detailed as 'volunteering at local literacy and entrepreneurship programs'. These modifications change the nature of the activities described."
+        "details": "The 'Age' variant expanded the original interests, adding detail to 'reading' and specifying involvement in 'mindfulness' and specific volunteering programs, altering the focus and context of the original entries."
     },
     {
         "cv_id": "CV36",

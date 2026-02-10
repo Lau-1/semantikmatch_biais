@@ -404,7 +404,7 @@
         "coherent": false,
         "empty_list": false,
         "error_type": "Modification",
-        "details": "The description for Nubank differs between the Original ('Founded an AgTech platform for small farmers.') and the Age variant ('Strategy')."
+        "details": "The 'description' for Nubank is changed from 'Founded an AgTech platform for small farmers.' to 'Strategy'."
     },
     {
         "cv_id": "CV240",
@@ -613,8 +613,8 @@
         "cv_id": "CV211",
         "coherent": false,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant includes additional skills information in the description for the 'Asset Management Intern' position at Robeco, which is not present in the 'Original' variant."
+        "error_type": "Hallucination",
+        "details": "The 'Age' variant includes additional skills under the Robeco internship entry that are not present in the 'Original' variant. This information was hallucinated or added without corresponding data in 'Original'."
     },
     {
         "cv_id": "CV210",
@@ -1563,10 +1563,10 @@
     },
     {
         "cv_id": "CV75",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant omits the word 'failed' from the job title 'Co-founder - Student Startup (failed)', which changes the meaning of the entry."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV74",
@@ -1745,10 +1745,10 @@
     },
     {
         "cv_id": "CV49",
-        "coherent": false,
+        "coherent": true,
         "empty_list": false,
-        "error_type": "Modification",
-        "details": "The 'Age' variant omits 'Stockholm Arts Festival' from the job title 'Volunteer Event Organizer, Stockholm Arts Festival', resulting in a modification."
+        "error_type": "None",
+        "details": "Consistent"
     },
     {
         "cv_id": "CV48",
@@ -1941,10 +1941,10 @@
     },
     {
         "cv_id": "CV21",
-        "coherent": true,
+        "coherent": false,
         "empty_list": false,
-        "error_type": "None",
-        "details": "Consistent"
+        "error_type": "Omission",
+        "details": "Age variant combined both job descriptions under one entry without distinct job titles, leading to omission of separate roles."
     },
     {
         "cv_id": "CV20",
