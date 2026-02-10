@@ -1,0 +1,476 @@
+{
+    "total_cv": 67,
+    "incorrect_cv": 67,
+    "error_rate": 1.0,
+    "details": {
+        "CV297": {
+            "cv_id": "CV297",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but the original contains entries not present in the reference."
+        },
+        "CV295": {
+            "cv_id": "CV295",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV291": {
+            "cv_id": "CV291",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Omission",
+            "details": "Reference is empty"
+        },
+        "CV289": {
+            "cv_id": "CV289",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV288": {
+            "cv_id": "CV288",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV282": {
+            "cv_id": "CV282",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains entries that are not present in the Reference. The Reference is empty."
+        },
+        "CV279": {
+            "cv_id": "CV279",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but Original contains items: 'Rugby', 'Blockchain Research', 'Podcasts'."
+        },
+        "CV272": {
+            "cv_id": "CV272",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant lists 'Robotics', 'Kendo', and 'Tech Podcasts', which are not present in the Reference. Reference is empty."
+        },
+        "CV268": {
+            "cv_id": "CV268",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains entries ['Model United Nations', 'Contemporary History', 'Fencing'] that are not present in the 'Reference', which is empty. This suggests the 'Original' has additional information not included in the 'Reference'."
+        },
+        "CV266": {
+            "cv_id": "CV266",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV262": {
+            "cv_id": "CV262",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV258": {
+            "cv_id": "CV258",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains items ['Circular Design', 'Windsurfing', 'Gastronomy'] which are not present in the Reference. Reference is empty."
+        },
+        "CV254": {
+            "cv_id": "CV254",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV253": {
+            "cv_id": "CV253",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV250": {
+            "cv_id": "CV250",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains topics that are not present in the 'Reference', which is empty. Reference is empty."
+        },
+        "CV249": {
+            "cv_id": "CV249",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains elements that do not appear in the empty Reference list. Reference is empty."
+        },
+        "CV246": {
+            "cv_id": "CV246",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV244": {
+            "cv_id": "CV244",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but Original contains items not present in the Reference."
+        },
+        "CV243": {
+            "cv_id": "CV243",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant contains entries that are not present in the Reference, which is empty. This means the entries in the Original are hallucinated."
+        },
+        "CV238": {
+            "cv_id": "CV238",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Omission",
+            "details": "Reference is empty"
+        },
+        "CV235": {
+            "cv_id": "CV235",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant lists interests that are not present in the Reference, which is empty. This indicates that the Original contains additional information not supported by the Reference."
+        },
+        "CV233": {
+            "cv_id": "CV233",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV231": {
+            "cv_id": "CV231",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant lists items that do not appear in the Reference variant, which is empty."
+        },
+        "CV229": {
+            "cv_id": "CV229",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but the Original contains elements that have no corresponding entries in the Reference."
+        },
+        "CV226": {
+            "cv_id": "CV226",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant lists items that do not appear in the 'Reference'. The 'Reference' is empty, so the presence of items in the 'Original' implies fabricated content."
+        },
+        "CV223": {
+            "cv_id": "CV223",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains content that is not present in the Reference. Reference is empty."
+        },
+        "CV220": {
+            "cv_id": "CV220",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but the Original contains 'Art Curation', 'Contemporary Cinema', and 'Cooking'."
+        },
+        "CV217": {
+            "cv_id": "CV217",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant lists items while the 'Reference' variant is empty, indicating that the items in the 'Original' are not supported by the reference."
+        },
+        "CV215": {
+            "cv_id": "CV215",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains content that is not present in the 'Reference', which is empty."
+        },
+        "CV211": {
+            "cv_id": "CV211",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains entries that do not exist in the 'Reference' variant. Reference is empty."
+        },
+        "CV209": {
+            "cv_id": "CV209",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty. The Original list contains topics that are not present in the Reference."
+        },
+        "CV204": {
+            "cv_id": "CV204",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains entries ('Tennis', 'Modern Literature', 'Political Podcasts') that do not exist in the 'Reference'. The 'Reference' is empty."
+        },
+        "CV202": {
+            "cv_id": "CV202",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV198": {
+            "cv_id": "CV198",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV195": {
+            "cv_id": "CV195",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains elements not present in the 'Reference'. The 'Reference' is empty, but the 'Original' lists 'Blockchain development', 'Rugby', and 'Podcast production'."
+        },
+        "CV193": {
+            "cv_id": "CV193",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but the Original contains entries that are not present in the Reference."
+        },
+        "CV189": {
+            "cv_id": "CV189",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV185": {
+            "cv_id": "CV185",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains entries that are not present in the 'Reference', which is empty. This indicates hallucinated content."
+        },
+        "CV182": {
+            "cv_id": "CV182",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' list contains items that do not appear in the 'Reference', which is empty."
+        },
+        "CV179": {
+            "cv_id": "CV179",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant contains entries that do not appear in the Reference, which is empty."
+        },
+        "CV176": {
+            "cv_id": "CV176",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains activities that are not present in the 'Reference', which is empty."
+        },
+        "CV173": {
+            "cv_id": "CV173",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains items ('Ethical Hacking (CTF competitions)', 'Weightlifting', 'Classical History') that are not present in the empty Reference list."
+        },
+        "CV169": {
+            "cv_id": "CV169",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty, but the Original contains items that are not present in the Reference. This indicates that the Original includes information not supported by the Reference."
+        },
+        "CV166": {
+            "cv_id": "CV166",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains items not present in the Reference, which is empty."
+        },
+        "CV165": {
+            "cv_id": "CV165",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original contains 'Gastronomy', 'Skiing', and 'Architecture', which are not present in the Reference. The Reference is empty, indicating hallucinated content in the Original."
+        },
+        "CV161": {
+            "cv_id": "CV161",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The original contains information ('Professional Squash player', 'Mediterranean History', 'Scuba Diving') that is not present in the empty reference list. Reference is empty."
+        },
+        "CV158": {
+            "cv_id": "CV158",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV155": {
+            "cv_id": "CV155",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV153": {
+            "cv_id": "CV153",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV150": {
+            "cv_id": "CV150",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV147": {
+            "cv_id": "CV147",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains elements that are not present in the 'Reference', which is empty. Therefore, the content in the 'Original' does not align with an empty 'Reference'."
+        },
+        "CV145": {
+            "cv_id": "CV145",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV142": {
+            "cv_id": "CV142",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV139": {
+            "cv_id": "CV139",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV134": {
+            "cv_id": "CV134",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV131": {
+            "cv_id": "CV131",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV128": {
+            "cv_id": "CV128",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV125": {
+            "cv_id": "CV125",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty."
+        },
+        "CV121": {
+            "cv_id": "CV121",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains entries that do not appear in the 'Reference'. Reference is empty."
+        },
+        "CV119": {
+            "cv_id": "CV119",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The Original variant contains entries ('International trade', 'learning languages', 'business strategy') that are not present in the Reference. The Reference is empty."
+        },
+        "CV117": {
+            "cv_id": "CV117",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV114": {
+            "cv_id": "CV114",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV111": {
+            "cv_id": "CV111",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains topics ('Financial markets', 'fitness', 'investment strategies') that are not present in the 'Reference' variant. 'Reference is empty'."
+        },
+        "CV109": {
+            "cv_id": "CV109",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' variant contains terms 'Cross-border trade', 'travel', and 'international business trends', but the 'Reference' is empty."
+        },
+        "CV106": {
+            "cv_id": "CV106",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        },
+        "CV105": {
+            "cv_id": "CV105",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "The 'Original' contains content, but the 'Reference' is empty, indicating that there is information in the 'Original' that does not align with the 'Reference'."
+        },
+        "CV102": {
+            "cv_id": "CV102",
+            "coherent": false,
+            "empty_list": true,
+            "error_type": "Hallucination",
+            "details": "Reference is empty"
+        }
+    }
+}
